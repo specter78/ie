@@ -5,6 +5,6 @@ raise if response.code != 200
 File.write('explained.xml', response.body)
 
 
-response = HTTParty.get 'https://indianexpress.com/section/opinion/editorials/feed'
+response = HTTParty.get 'https://indianexpress.com/section/opinion/feed/'
 raise if response.code != 200
-File.write('editorial.xml', response.body)
+File.write('opinion.xml', response.body)
