@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 24 Dec 2024 09:06:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Dec 2024 12:03:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,45 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>In Shirish Patel&#8217;s death, architecture has lost its polestar</title>
+		<title>Venkaiah Naidu writes: Atal Bihari Vajpayee, my guide, my teacher</title>
+		<link>https://indianexpress.com/article/opinion/columns/venkaiah-naidu-writes-atal-bihari-vajpayee-my-guide-my-teacher-9742498/</link>
+		
+		<dc:creator><![CDATA[M Venkaiah Naidu]]></dc:creator>
+		<pubDate>Tue, 24 Dec 2024 11:54:22 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9742498</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9742498</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2024/12/atal.jpg" />
+		<media:content url="https://images.indianexpress.com/2024/12/atal.jpg" medium="image">
+			<media:title type="html">jayanti</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Syria and the resilience of the Weak: How do underdogs win the wars?</title>
+		<link>https://indianexpress.com/article/opinion/columns/syria-and-the-resilience-of-the-weak-how-do-underdogs-win-the-wars-9742388/</link>
+		
+		<dc:creator><![CDATA[Sajid Farid Shapoo]]></dc:creator>
+		<pubDate>Tue, 24 Dec 2024 11:13:17 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9742388</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9742388</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2024/12/Syria_44bac3.jpg" />
+		<media:content url="https://images.indianexpress.com/2024/12/Syria_44bac3.jpg" medium="image">
+			<media:title type="html">Syria_44bac3</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>In Shirish Patel’s death, structural engineering has lost its polestar</title>
 		<link>https://indianexpress.com/article/opinion/columns/in-shirish-patel-death-architecture-has-lost-its-polestar-9742166/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -3815,44 +3853,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/fire-opinion.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/fire-opinion.jpg" medium="image">
 			<media:title type="html">fire opinion</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Hindi imposition on Kolkata Metro: Linguistic domination and its discontents</title>
-		<link>https://indianexpress.com/article/opinion/columns/hindi-imposition-kolkata-metro-linguistic-domination-its-discontents-9710081/</link>
-		
-		<dc:creator><![CDATA[P John J Kennedy]]></dc:creator>
-		<pubDate>Fri, 06 Dec 2024 09:59:13 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9710081</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9710081</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/uddhav-5.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/uddhav-5.jpg" medium="image">
-			<media:title type="html">Kolkata metro Hindi</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>At its heart, Imphal is a small, unfortunate city with a bit of everything</title>
-		<link>https://indianexpress.com/article/opinion/columns/imphal-manipur-violence-9710016/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 06 Dec 2024 09:20:44 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9710016</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9710016</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/imphal.jpeg" />
-		<media:content url="https://images.indianexpress.com/2024/12/imphal.jpeg" medium="image">
-			<media:title type="html">imphal</media:title>
 		</media:content>
 	</item>
 	</channel>
