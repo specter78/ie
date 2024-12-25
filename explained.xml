@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The curious case of December: Why the 12th month is the roman words for 10</title>
+		<link>https://indianexpress.com/article/explained/explained-culture/december-12-month-roman-word-10-9742901/</link>
+		
+		<dc:creator><![CDATA[Aishwarya Khosla]]></dc:creator>
+		<pubDate>Wed, 25 Dec 2024 03:02:13 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9742901</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9742901</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2024/12/december.jpg" />
+		<media:content url="https://images.indianexpress.com/2024/12/december.jpg" medium="image">
+			<media:title type="html">Heavy winter snowfall in Belgrade</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Looking at 2025, Climate: Bleak forecast, adaptation way forward</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/looking-at-2025-climate-bleak-forecast-adaptation-way-forward-9743101/</link>
 		
@@ -3986,25 +4005,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/bangladesh-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/bangladesh-1600.jpg" medium="image">
 			<media:title type="html">Hefazat-e-Islam supporters stage a protest</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How China’s Huawei is taking aim at Apple with its latest Mate 70 smartphone</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/china-huawei-mate70-phone-apple-9700097/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sun, 01 Dec 2024 07:36:53 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9700097</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9700097</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/HUAWEI-PHONE-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/HUAWEI-PHONE-1.jpg" medium="image">
-			<media:title type="html">Customers at a store for Apple competitor Huawei, which had a 64% surge in smartphone sales during the first six weeks of this year, in Shanghai, March 15, 2024. (Qilai Shen/The New York Times)</media:title>
 		</media:content>
 	</item>
 	</channel>
