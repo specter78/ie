@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 25 Dec 2024 08:42:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Dec 2024 10:03:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Explained: Why protesting farmers demand implementation of the Land Acquisition Act 2013</title>
+		<link>https://indianexpress.com/article/explained/explained-politics/explained-why-protesting-farmers-demand-land-acquisition-act-2013-9743800/</link>
+		
+		<dc:creator><![CDATA[Anju Agnihotri Chaba]]></dc:creator>
+		<pubDate>Wed, 25 Dec 2024 10:03:10 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9743800</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9743800</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2024/12/farmers-protest-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2024/12/farmers-protest-1600.jpg" medium="image">
+			<media:title type="html">farmers protest 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>With recent militant activity in Punjab, a look at key accused and their link to pro-Khalistan groups</title>
 		<link>https://indianexpress.com/article/explained/militant-activity-punjab-key-accused-khalistan-groups-9743705/</link>
 		
@@ -3990,25 +4009,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/CHINA-COMMUNIST-SECURITY-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/CHINA-COMMUNIST-SECURITY-1.jpg" medium="image">
 			<media:title type="html">Images of Xi Jinping on display at the military museum under the slogan: ÒInspiring the Three Armed Forces to Forge Ahead,Ó in Beijing, Sept. 2, 2022 (Gilles Sabri/The New York Times)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Kash Patel: 5 things to know about Trump’s Indian-origin pick for FBI chief</title>
-		<link>https://indianexpress.com/article/explained/explained-global/five-things-kash-patel-fbi-9700345/</link>
-		
-		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
-		<pubDate>Sun, 01 Dec 2024 10:28:07 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9700345</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9700345</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/kash-patel-nyt.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/kash-patel-nyt.jpg" medium="image">
-			<media:title type="html">kash patel nyt</media:title>
 		</media:content>
 	</item>
 	</channel>
