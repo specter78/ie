@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 26 Dec 2024 09:50:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Dec 2024 10:15:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,10 +32,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>In a year of non-stop elections in Punjab, AAP stumbles, Congress gains and SAD faces its biggest crisis</title>
+		<link>https://indianexpress.com/article/opinion/columns/year-non-stop-elections-punjab-aap-stumbles-congress-gains-sad-faces-biggest-crisis-9745302/</link>
+		
+		<dc:creator><![CDATA[Manraj Grewal Sharma]]></dc:creator>
+		<pubDate>Thu, 26 Dec 2024 10:11:33 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9745302</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9745302</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2024/12/punjab-opinion.jpg" />
+		<media:content url="https://images.indianexpress.com/2024/12/punjab-opinion.jpg" medium="image">
+			<media:title type="html">punjab opinion</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>In the Pegasus case, a stark difference in the efficiency of law enforcement in India and the US</title>
 		<link>https://indianexpress.com/article/opinion/columns/pegasus-case-difference-in-efficiency-of-law-enforcement-india-us-9745263/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[Anirudh Nigam]]></dc:creator>
 		<pubDate>Thu, 26 Dec 2024 09:50:27 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9745263</guid>
 
@@ -3842,25 +3861,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/Jasleen.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/Jasleen.jpg" medium="image">
 			<media:title type="html">Jasleen</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What the Syrian crisis means for the Middle East</title>
-		<link>https://indianexpress.com/article/opinion/columns/what-the-syrian-crisis-means-for-the-middle-east-9714801/</link>
-		
-		<dc:creator><![CDATA[Syed Ata Hasnain]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 08:10:53 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9714801</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9714801</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/Opinion3_16th-Dec.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/Opinion3_16th-Dec.jpg" medium="image">
-			<media:title type="html">Opinion3_16th-Dec</media:title>
 		</media:content>
 	</item>
 	</channel>
