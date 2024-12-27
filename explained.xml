@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 27 Dec 2024 10:06:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Dec 2024 10:13:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Bombay HC asked DGCA to examine safety mechanism in Air India’s leased Boeing aircraft</title>
+		<link>https://indianexpress.com/article/explained/explained-law/why-bombay-hc-asked-dgca-to-examine-safety-mechanism-in-air-india-boeing-aircraft-9747234/</link>
+		
+		<dc:creator><![CDATA[Omkar Gokhale]]></dc:creator>
+		<pubDate>Fri, 27 Dec 2024 10:13:49 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9747234</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9747234</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2024/12/Boeing-777-Air-India.jpg" />
+		<media:content url="https://images.indianexpress.com/2024/12/Boeing-777-Air-India.jpg" medium="image">
+			<media:title type="html">Boeing-777 Air India</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Goa’s Serendipity Arts Festival features ‘interactive art’ exhibitions: Everything you need to know about the genre</title>
 		<link>https://indianexpress.com/article/explained/explained-culture/goas-serendipity-arts-festival-features-interactive-art-exhibitions-everything-you-need-to-know-about-the-genre-9747228/</link>
 		
@@ -3966,25 +3985,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/climate-protest.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/climate-protest.jpg" medium="image">
 			<media:title type="html">climate protest</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What is the case against Uttam Nagar AAP MLA Naresh Balyan?</title>
-		<link>https://indianexpress.com/article/explained/explained-politics/what-is-the-case-against-uttam-nagar-aap-mla-naresh-balyan-9704013/</link>
-		
-		<dc:creator><![CDATA[Upasika Singhal, Nirbhay Thakur]]></dc:creator>
-		<pubDate>Tue, 03 Dec 2024 09:51:10 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9704013</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9704013</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/Naresh-Balyan-Exp.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/Naresh-Balyan-Exp.jpg" medium="image">
-			<media:title type="html">Naresh Balyan Exp</media:title>
 		</media:content>
 	</item>
 	</channel>
