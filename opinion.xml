@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 27 Dec 2024 04:49:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Dec 2024 05:28:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Manmohan Singh’s lasting contribution was to tell the world India welcomes, not fears foreign investment</title>
+		<title>Why Manmohan Singh as FM will be remembered more than Manmohan Singh as PM</title>
 		<link>https://indianexpress.com/article/opinion/columns/manmohan-singh-contribution-foreign-investment-9746680/</link>
 		
 		<dc:creator><![CDATA[Harish Damodaran]]></dc:creator>
@@ -50,7 +50,7 @@
 			<media:title type="html">Manmohan Economy 3</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2024/12/Manmohan-Economy-2.jpg" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2024/12/Manmohan-Economy-2.jpg?resize=689,405" medium="image">
 			<media:title type="html">Manmohan Singh</media:title>
 		</media:content>
 	</item>
@@ -169,7 +169,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Express view on Vasudevan Nair: His work showcased all facets of Kerala’s history</title>
+		<title>Express view on M T Vasudevan Nair: His work showcased all facets of Kerala’s history</title>
 		<link>https://indianexpress.com/article/opinion/editorials/express-view-on-vasudevan-nair-his-work-showcased-all-facets-of-keralas-history-9746022/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
