@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 29 Dec 2024 12:53:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Dec 2024 14:07:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Trump says he has &#8216;always liked&#8217; H-1B visas: How the programme did under his last term</title>
+		<link>https://indianexpress.com/article/explained/explained-global/trump-h-1b-visas-how-programme-did-under-his-last-term-9750378/</link>
+		
+		<dc:creator><![CDATA[Damini Nath]]></dc:creator>
+		<pubDate>Sun, 29 Dec 2024 13:56:27 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9750378</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9750378</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2024/12/donald-trump-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2024/12/donald-trump-1600.jpg" medium="image">
+			<media:title type="html">donald trump 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What made Shyam Benegal’s films stand out?</title>
 		<link>https://indianexpress.com/article/explained/explained-culture/shyam-benegal-films-themes-realism-9750315/</link>
 		
@@ -3962,25 +3981,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/sebi_059206.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/sebi_059206.jpg" medium="image">
 			<media:title type="html">SEBI</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why China has banned export of some rare minerals to the US</title>
-		<link>https://indianexpress.com/article/explained/explained-global/china-rare-minerals-us-9706436/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 04 Dec 2024 13:01:11 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9706436</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9706436</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/Trump-and-Xi.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/Trump-and-Xi.jpg" medium="image">
-			<media:title type="html">Trump meets Xi at the G20 leaders summit in Osaka, Japan</media:title>
 		</media:content>
 	</item>
 	</channel>
