@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 02 Jan 2025 10:02:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jan 2025 12:02:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Random piece positions, 960 possible starts: What is freestyle chess, which led to Magnus Carlsen clashing with FIDE?</title>
+		<link>https://indianexpress.com/article/explained/explained-sports/freestyle-chess-magnus-carlsen-fide-9756632/</link>
+		
+		<dc:creator><![CDATA[Amit Kamath]]></dc:creator>
+		<pubDate>Thu, 02 Jan 2025 12:02:34 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sports]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9756632</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9756632</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/MagnusHikaru.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/MagnusHikaru.jpg" medium="image">
+			<media:title type="html">MagnusHikaru</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What is Canada&#8217;s RCIC scheme, how it can help Indians with expiring work permits</title>
 		<link>https://indianexpress.com/article/explained/explained-global/canadas-rcic-scheme-for-indians-expiring-work-permits-9756371/</link>
 		
@@ -3934,25 +3953,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/bidens-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/bidens-1600.jpg" medium="image">
 			<media:title type="html">47th Kennedy Center Honors</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How lone bidder Saudi Arabia secured hosting rights for 2034 football World Cup</title>
-		<link>https://indianexpress.com/article/explained/explained-sports/saudi-arabia-football-fifa-world-cup-bid-9714823/</link>
-		
-		<dc:creator><![CDATA[Mihir Vasavda]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 08:41:59 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sports]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9714823</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9714823</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/2024-12-06T194113Z_1513123026_UP1EKC61C69MG_RTRMADP_5_SOCCER-SAUDI-ITH-NSR-REPORT.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/2024-12-06T194113Z_1513123026_UP1EKC61C69MG_RTRMADP_5_SOCCER-SAUDI-ITH-NSR-REPORT.jpg" medium="image">
-			<media:title type="html">Saudi Pro League - Al Ittihad v Al Nassr</media:title>
 		</media:content>
 	</item>
 	</channel>
