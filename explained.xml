@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 02 Jan 2025 14:49:41 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jan 2025 15:46:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Is it a crime to offer a bribe even if it is refused? The question before Supreme Court</title>
+		<link>https://indianexpress.com/article/explained/explained-law/crime-bribe-offer-not-accepted-sc-9756962/</link>
+		
+		<dc:creator><![CDATA[Ajoy Sinha Karpuram]]></dc:creator>
+		<pubDate>Thu, 02 Jan 2025 15:46:27 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9756962</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9756962</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/ch1807138.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/ch1807138.jpg" medium="image">
+			<media:title type="html">ch1807138</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>30 arrested: Why govt school teachers with B.Ed degrees are protesting in Chhattisgarh</title>
 		<link>https://indianexpress.com/article/explained/protesting-teachers-arrested-in-chhattisgarh-what-is-the-issue-9756839/</link>
 		
@@ -3934,25 +3953,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/Explained-Nomura.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/Explained-Nomura.jpg" medium="image">
 			<media:title type="html">Explained Nomura</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Protests against normalisation in Bihar: What is the issue, why political parties are involved</title>
-		<link>https://indianexpress.com/article/explained/protests-against-normalisation-in-bihar-9715250/</link>
-		
-		<dc:creator><![CDATA[Santosh Singh]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 11:49:05 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9715250</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9715250</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/patna-protest-1600.jpeg" />
-		<media:content url="https://images.indianexpress.com/2024/12/patna-protest-1600.jpeg" medium="image">
-			<media:title type="html">patna protest 1600</media:title>
 		</media:content>
 	</item>
 	</channel>
