@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 03 Jan 2025 07:45:45 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jan 2025 09:02:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Explained: India’s emissions inventory &#038; efforts at mitigation</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/india-emissions-inventory-mitigation-bur-4-9758077/</link>
+		
+		<dc:creator><![CDATA[Nikhil Ghanekar]]></dc:creator>
+		<pubDate>Fri, 03 Jan 2025 08:32:34 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9758077</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9758077</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/ch1216236.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/ch1216236.jpg" medium="image">
+			<media:title type="html">Emissions</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>With Air India set to offer Wi-Fi connectivity, a look at how in-flight Internet works</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/air-india-announces-wi-fi-services-how-in-flight-internet-works-9757378/</link>
 		
@@ -3938,25 +3957,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/Explained-nallah.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/Explained-nallah.jpg" medium="image">
 			<media:title type="html">Explained nallah</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>14 days that changed Syria: A timeline of how Assad’s government fell</title>
-		<link>https://indianexpress.com/article/explained/everyday-explainers/timeline-syria-govt-assad-fall-9715307/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 13:11:48 +0000</pubDate>
-		<category><![CDATA[Everyday Explainers]]></category><category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9715307</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9715307</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/2024-12-09T085117Z_567581918_RC2HLBADFUZ4_RTRMADP_5_SYRIA-SECURITY.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/2024-12-09T085117Z_567581918_RC2HLBADFUZ4_RTRMADP_5_SYRIA-SECURITY.jpg" medium="image">
-			<media:title type="html">Rebel fighters stand on a tank,, in Damascus</media:title>
 		</media:content>
 	</item>
 	</channel>
