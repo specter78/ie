@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 03 Jan 2025 09:56:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Jan 2025 10:22:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Savitribai Phule’s 194th birth anniversary: A look at the life of India’s first woman teacher</title>
+		<link>https://indianexpress.com/article/explained/explained-culture/savitribai-phule-birth-anniversary-9758276/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 03 Jan 2025 10:22:01 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9758276</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9758276</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2023/01/savitribai_incopy.jpg" />
+		<media:content url="https://images.indianexpress.com/2023/01/savitribai_incopy.jpg" medium="image">
+			<media:title type="html">savitribai phule stamp</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: India’s emissions inventory &#038; efforts at mitigation</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/india-emissions-inventory-mitigation-bur-4-9758077/</link>
 		
@@ -3938,25 +3957,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2024/12/Turkish_delight-1600.jpg?resize=600,401" medium="image">
 			<media:title type="html">Turkish Delight food</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>&#8216;Protests will escalate&#8217;: Why farmers in Rajasthan, Punjab are protesting against toxic Buddha Nullah</title>
-		<link>https://indianexpress.com/article/explained/toxic-buddha-nullah-farmers-protests-9715382/</link>
-		
-		<dc:creator><![CDATA[Parul Kulshrestha, Divya Goyal]]></dc:creator>
-		<pubDate>Mon, 09 Dec 2024 13:24:59 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9715382</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9715382</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/Explained-nallah.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/Explained-nallah.jpg" medium="image">
-			<media:title type="html">Explained nallah</media:title>
 		</media:content>
 	</item>
 	</channel>
