@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 05 Jan 2025 10:57:21 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Jan 2025 13:00:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Farmers refuse to meet Supreme Court panel: Why, what the panel&#8217;s mandate is</title>
+		<link>https://indianexpress.com/article/explained/farmers-refuse-to-meet-sc-appointed-panel-mandate-9761319/</link>
+		
+		<dc:creator><![CDATA[Kanchan Vasdev]]></dc:creator>
+		<pubDate>Sun, 05 Jan 2025 12:15:57 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9761319</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9761319</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/khannauri-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/khannauri-1600.jpg" medium="image">
+			<media:title type="html">khannauri 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why blue is associated with Ambedkar, Dalit resistance</title>
 		<link>https://indianexpress.com/article/explained/explained-politics/why-blue-is-associated-with-ambedkar-dalit-resistance-9761179/</link>
 		
@@ -3922,25 +3941,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/quick-commerce.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/quick-commerce.jpg" medium="image">
 			<media:title type="html">FILE PHOTO: A man inspects trucks before they enter an Amazon storage facility on the outskirts of Mumbai, India, October 1, 2021</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Ghost gun: what is the weapon found with UnitedHealth CEO&#8217;s murder suspect Luigi Mangione</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/ghost-gun-luigi-mangione-unitedhealthcare-ceo-9718555/</link>
-		
-		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
-		<pubDate>Wed, 11 Dec 2024 07:13:02 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9718555</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9718555</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/luigi-boy-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/luigi-boy-1600.jpg" medium="image">
-			<media:title type="html">Luigi Mangione poses shortly after being discovered by police at a McDonald&#039;s restaurant in Altoona</media:title>
 		</media:content>
 	</item>
 	</channel>
