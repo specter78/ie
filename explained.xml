@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 07 Jan 2025 13:00:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Jan 2025 14:50:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Third Coast Guard chopper crash in less than 2 years: why are there repeated concerns over HAL’s indigenous military helicopter?</title>
+		<link>https://indianexpress.com/article/explained/concerns-hal-indigenous-military-helicopter-9765403/</link>
+		
+		<dc:creator><![CDATA[Man Aman Singh Chhina]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2025 13:38:42 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9765403</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9765403</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/ALH-explained.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/ALH-explained.jpg" medium="image">
+			<media:title type="html">ALH explained</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Amit Shah launches Bharatpol: how this portal aims to help probe transnational crimes</title>
+		<link>https://indianexpress.com/article/explained/what-is-bharatpol-amit-shah-launched-9765386/</link>
+		
+		<dc:creator><![CDATA[Mahender Singh Manral]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2025 13:23:20 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9765386</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9765386</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/bharatpol-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/bharatpol-1600.jpg" medium="image">
+			<media:title type="html">Amit Shah launches &#039;BHARATPOL&#039; portal</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Tibet earthquake leaves 95 dead: Why is the Himalayan zone seismically active?</title>
 		<link>https://indianexpress.com/article/explained/everyday-explainers/tibet-earthquake-himalaya-frequency-reason-9765322/</link>
 		
@@ -3911,44 +3949,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/PTI12_13_2024_000194B.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/PTI12_13_2024_000194B.jpg" medium="image">
 			<media:title type="html">Allu Arjun arrested in Hyderabad</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Where is La Niña? And why did global models err in their predictions?</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/la-nina-global-models-err-in-predictions-9723141/</link>
-		
-		<dc:creator><![CDATA[Anjali Marar]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 10:25:06 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9723141</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9723141</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/ch1866925.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/ch1866925.jpg" medium="image">
-			<media:title type="html">La Nina</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Railways Amendment Bill 2024 was introduced, how MPs reacted to it</title>
-		<link>https://indianexpress.com/article/explained/explained-law/railways-amendment-bill-2024-9722994/</link>
-		
-		<dc:creator><![CDATA[Dheeraj Mishra]]></dc:creator>
-		<pubDate>Fri, 13 Dec 2024 09:05:06 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9722994</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9722994</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/ch1853321.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/ch1853321.jpg" medium="image">
-			<media:title type="html">Railways</media:title>
 		</media:content>
 	</item>
 	</channel>

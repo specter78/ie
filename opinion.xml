@@ -13,10 +13,10 @@
 
 <channel>
 	<title>Opinion | The Indian Express</title>
-	<atom:link href="https://indianexpress.com/section/opinion/feed/?service=rss" rel="self" type="application/rss+xml" />
+	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 07 Jan 2025 11:39:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Jan 2025 15:06:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -92,7 +92,7 @@
 		<title>My grandaunt, M S Subbulakshmi, would want her dignity defended against offensive remarks</title>
 		<link>https://indianexpress.com/article/opinion/columns/grandaunt-m-s-subbulakshmi-dignity-defended-offensive-remarks-9764261/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[R Parthasarathy]]></dc:creator>
 		<pubDate>Tue, 07 Jan 2025 06:17:20 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9764261</guid>
 
@@ -279,7 +279,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>The pain of a generation explains why Manmohan Singh didn’t go to Pakistan</title>
+		<title>The pain of a generation explains why Manmohan Singh didn&#8217;t go back to his village in Pakistan</title>
 		<link>https://indianexpress.com/article/opinion/columns/the-pain-of-a-generation-explains-why-manmohan-singh-didnt-go-to-pakistan-9763299/</link>
 		
 		<dc:creator><![CDATA[Divya Goyal]]></dc:creator>
