@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 08 Jan 2025 08:48:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Jan 2025 09:54:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The Guru and the Politician: The broken spirit behind the spiritualism industry</title>
+		<link>https://indianexpress.com/article/opinion/columns/the-guru-and-the-politician-the-broken-spirit-behind-the-spiritualism-industry-9766857/</link>
+		
+		<dc:creator><![CDATA[Avijit Pathak]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 09:54:15 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9766857</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9766857</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2024/10/Sadhguru01-4col.jpg" />
+		<media:content url="https://images.indianexpress.com/2024/10/Sadhguru01-4col.jpg" medium="image">
+			<media:title type="html">Sadhguru</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>GDP data: Growth is likely to pick up in second half of the year</title>
 		<link>https://indianexpress.com/article/opinion/gdp-data-growth-is-likely-to-pick-up-in-second-half-of-the-year-9766730/</link>
 		
@@ -3846,25 +3865,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/Why-pleas-to-have-more-kids-ring-hollow-copy-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/Why-pleas-to-have-more-kids-ring-hollow-copy-1.jpg" medium="image">
 			<media:title type="html">Why pleas to have more kids ring hollow copy (1)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Lessons from the past: Why a wealth tax may not be a rich idea</title>
-		<link>https://indianexpress.com/article/opinion/columns/lessons-from-the-past-why-a-wealth-tax-may-not-be-a-rich-idea-9738170/</link>
-		
-		<dc:creator><![CDATA[Ishan Bakshi]]></dc:creator>
-		<pubDate>Sun, 22 Dec 2024 01:30:57 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9738170</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9738170</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/Why-a-wealth-tax-may-not-be-a-rich-idea_Premium-01.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/Why-a-wealth-tax-may-not-be-a-rich-idea_Premium-01.jpg" medium="image">
-			<media:title type="html">Why a wealth tax may not be a rich idea_Premium-01</media:title>
 		</media:content>
 	</item>
 	</channel>
