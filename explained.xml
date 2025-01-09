@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 09 Jan 2025 10:33:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jan 2025 11:48:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Tirupati stampede: what is the Vaikuntha Ekadasi festival, what went wrong</title>
+		<link>https://indianexpress.com/article/explained/tirupati-stampede-what-is-vaikuntha-ekadasi-what-went-wrong-9769292/</link>
+		
+		<dc:creator><![CDATA[Sreenivas Janyala]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 11:45:43 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9769292</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9769292</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/tirupati-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/tirupati-1600.jpg" medium="image">
+			<media:title type="html">Stampede in Tirupati</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Southern California wildfires 2025 explained: Why the blaze in winter, why it is so bad</title>
 		<link>https://indianexpress.com/article/explained/explained-global/southern-california-wildfires-2025-explained-3-reasons-santa-ana-9769045/</link>
 		
@@ -3946,25 +3965,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2024/12/govt.jpg" medium="image">
 			<media:title type="html">Why wheat and edible oil are the real inflation worries now</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>PM Modi recalls 1948 debate on Uniform Civil Code: What Ambedkar, KM Munshi said</title>
-		<link>https://indianexpress.com/article/explained/everyday-explainers/uniform-civil-code-ucc-debate-ambedkar-munshi-9726598/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Sun, 15 Dec 2024 15:30:36 +0000</pubDate>
-		<category><![CDATA[Everyday Explainers]]></category><category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9726598</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9726598</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/Untitled-design-102.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/Untitled-design-102.jpg" medium="image">
-			<media:title type="html">Ambedkar and KM Munshi</media:title>
 		</media:content>
 	</item>
 	</channel>
