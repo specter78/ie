@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why rural landowners in Delhi want repeal of Sections 33 and 81 of Delhi Land Reforms Act</title>
+		<link>https://indianexpress.com/article/explained/delhi-repeal-sections-land-reforms-act-9767598/</link>
+		
+		<dc:creator><![CDATA[Devansh Mittal]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 02:50:57 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9767598</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9767598</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/delhi-farms.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/delhi-farms.jpg" medium="image">
+			<media:title type="html">delhi farms</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>India-Taliban talks: Region in flux and 5 reasons behind Delhi’s decision to engage Kabul</title>
 		<link>https://indianexpress.com/article/explained/india-taliban-talks-region-in-flux-and-5-reasons-behind-delhis-decision-to-engage-kabul-9767919/</link>
 		
@@ -3950,25 +3969,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/breakfast-1663295_1920.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/breakfast-1663295_1920.jpg" medium="image">
 			<media:title type="html">Intermittent fasting representational</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Supreme Court, govt have attempted to define importance of religion in SC &#038; OBC reservations</title>
-		<link>https://indianexpress.com/article/explained/explained-law/sc-govt-religion-obc-reservations-conversions-9725992/</link>
-		
-		<dc:creator><![CDATA[Ajoy Sinha Karpuram]]></dc:creator>
-		<pubDate>Sun, 15 Dec 2024 09:43:34 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9725992</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9725992</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/ch1807138.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/ch1807138.jpg" medium="image">
-			<media:title type="html">ch1807138</media:title>
 		</media:content>
 	</item>
 	</channel>
