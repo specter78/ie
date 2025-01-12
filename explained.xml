@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What is pink fire retardant, being used to curb California wildfires — and what are the environmental concerns?</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/pink-fire-retardant-california-wildfires-9773560/</link>
+		
+		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 02:56:11 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9773560</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9773560</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/WILDFIRE-RETARDANT-DANGERS.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/WILDFIRE-RETARDANT-DANGERS.jpg" medium="image">
+			<media:title type="html">A plane drops fire retardant in an effort to fight a wildfire near Las Vegas, N.M., on Tuesday, May 3, 2022. (Adria Malcolm/The New York Times)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Story of Lal Bahadur Shastri’s untimely demise — and why some refuse to believe the official version</title>
 		<link>https://indianexpress.com/article/explained/explained-history/story-of-lal-bahadur-shastri-untimely-demise-9773540/</link>
 		
@@ -3962,25 +3981,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/powell-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/powell-1600.jpg" medium="image">
 			<media:title type="html">FILE PHOTO: U.S. Fed Chair Powell delivers remarks in Dallas, Texas</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What is Jetson Orin Nano Super, Nvidia’s affordable tiny supercomputer?</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/jetson-orin-nano-super-nvidia-affordable-tiny-supercomputer-9732222/</link>
-		
-		<dc:creator><![CDATA[Bijin Jose]]></dc:creator>
-		<pubDate>Wed, 18 Dec 2024 11:53:41 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9732222</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9732222</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/Jetson-Orin-Nano.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/Jetson-Orin-Nano.jpg" medium="image">
-			<media:title type="html">Jetson Orin Nano</media:title>
 		</media:content>
 	</item>
 	</channel>
