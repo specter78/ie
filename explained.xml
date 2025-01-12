@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 12 Jan 2025 07:05:35 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Jan 2025 07:44:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -249,7 +249,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>What breaching 1.5°C means</title>
+		<title>What breaching 1.5°C warming threshold means for the Earth, in 2025 and beyond</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/what-breaching-1-5c-means-9772281/</link>
 		
 		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
@@ -267,8 +267,8 @@
 			<media:title type="html">Hot Summer Day</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/Screenshot-2025-01-11-050708.jpg?resize=474,600" medium="image">
-			<media:title type="html">Screenshot </media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/Screenshot-2025-01-11-050708.jpg" medium="image">
+			<media:title type="html">Monthly global temperature rise.</media:title>
 		</media:content>
 	</item>
 		<item>
