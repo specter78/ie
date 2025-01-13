@@ -13,10 +13,10 @@
 
 <channel>
 	<title>Opinion | The Indian Express</title>
-	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://indianexpress.com/section/opinion/feed/?service=rss" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 13 Jan 2025 13:10:09 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Jan 2025 13:56:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>BPSC agitation and Prashant Kishor factor: Politics, polls and the paper leaks</title>
+		<link>https://indianexpress.com/article/opinion/columns/bpsc-agitation-prashant-kishor-factor-politics-polls-and-the-paper-leaks-9776790/</link>
+		
+		<dc:creator><![CDATA[Mohamed Sajjad]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2025 13:41:29 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9776790</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9776790</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/prashant-kishor-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/prashant-kishor-2.jpg" medium="image">
+			<media:title type="html">Prashant Kishor</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>A lesson for 21st-century CEOs from 19th-century factories – working longer hours doesn&#8217;t mean more productivity</title>
 		<link>https://indianexpress.com/article/opinion/columns/21st-century-ceo-long-work-hours-productivity-9776793/</link>
 		
@@ -3858,25 +3877,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/express-archive-9.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/express-archive-9.jpg" medium="image">
 			<media:title type="html">express archive</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express view on M T Vasudevan Nair: His work showcased all facets of Kerala’s history</title>
-		<link>https://indianexpress.com/article/opinion/editorials/express-view-on-vasudevan-nair-his-work-showcased-all-facets-of-keralas-history-9746022/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 27 Dec 2024 01:40:02 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9746022</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9746022</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/express-view-48.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/express-view-48.jpg" medium="image">
-			<media:title type="html">express view</media:title>
 		</media:content>
 	</item>
 	</channel>
