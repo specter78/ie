@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 15 Jan 2025 02:51:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jan 2025 04:45:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -203,7 +203,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Amartya Sen on Dr Singh: I wish his vision will remain an indispensable part of the understanding of what we are</title>
+		<title>Amartya Sen on Dr Manmohan Singh: I wish his vision will remain an indispensable part of the understanding of what we are</title>
 		<link>https://indianexpress.com/article/opinion/columns/amartya-sen-on-manmohan-singh-vision-9778263/</link>
 		
 		<dc:creator><![CDATA[Amartya Sen]]></dc:creator>
@@ -218,6 +218,10 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">9778263</post-id>
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/manmohan-singh.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/manmohan-singh.jpg" medium="image">
+			<media:title type="html">manmohan singh</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/manmohan-singh-4.jpg" medium="image">
 			<media:title type="html">manmohan singh</media:title>
 		</media:content>
 	</item>
