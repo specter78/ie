@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 15 Jan 2025 13:51:41 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jan 2025 14:59:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Mohan Bhagwat&#8217;s statement on tribals being &#8216;anti-national&#8217;: &#8216;Ghar wapasi&#8217; and the false binary</title>
+		<link>https://indianexpress.com/article/opinion/columns/mohan-bhagwat-tribals-anti-national-ghar-wapasi-false-binary-9780732/</link>
+		
+		<dc:creator><![CDATA[Santosh K Kiro]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 14:31:54 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9780732</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9780732</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/Sankhadeep-banerjee.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/Sankhadeep-banerjee.jpg" medium="image">
+			<media:title type="html">Sankhadeep banerjee</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Its not your BMI, stupid</title>
 		<link>https://indianexpress.com/article/opinion/columns/its-not-your-bmi-stupid-9780710/</link>
 		
@@ -3842,25 +3861,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/The-man-who-changed-India-copy.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/The-man-who-changed-India-copy.jpg" medium="image">
 			<media:title type="html">The man who changed India copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Minimum training, maximum fun</title>
-		<link>https://indianexpress.com/article/opinion/columns/minimum-training-maximum-fun-9749275/</link>
-		
-		<dc:creator><![CDATA[Leher Kala]]></dc:creator>
-		<pubDate>Sun, 29 Dec 2024 01:30:11 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9749275</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9749275</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/Minimum-training-maximum-fun-copy.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/Minimum-training-maximum-fun-copy.jpg" medium="image">
-			<media:title type="html">Minimum training, maximum fun copy</media:title>
 		</media:content>
 	</item>
 	</channel>
