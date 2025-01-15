@@ -13,10 +13,10 @@
 
 <channel>
 	<title>Opinion | The Indian Express</title>
-	<atom:link href="https://indianexpress.com/section/opinion/feed/?service=rss" rel="self" type="application/rss+xml" />
+	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 15 Jan 2025 05:48:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Jan 2025 06:54:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The Kumbh Mela is more about ‘shakti’ than ‘moksha’</title>
+		<link>https://indianexpress.com/article/opinion/columns/kumbh-mela-hindu-9779695/</link>
+		
+		<dc:creator><![CDATA[Devdutt Pattanaik]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2025 06:13:07 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9779695</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9779695</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/kumbh-mela-2-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/kumbh-mela-2-1.jpg" medium="image">
+			<media:title type="html">kumbh mela (2)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>From Gen Z to Gen Beta: Cynicism, activism and a whole lot of hope</title>
 		<link>https://indianexpress.com/article/opinion/columns/from-gen-z-to-gen-beta-cynicism-activism-and-a-whole-lot-of-hope-9779593/</link>
 		
@@ -3842,25 +3861,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/SNAKES-LADDERS-copy.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/SNAKES-LADDERS-copy.jpg" medium="image">
 			<media:title type="html">SNAKES &#38; LADDERS copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Manmohan Singh: A man who could agree to disagree</title>
-		<link>https://indianexpress.com/article/opinion/columns/manmohan-singh-man-could-agree-disagree-9749049/</link>
-		
-		<dc:creator><![CDATA[Rajat Kathuria]]></dc:creator>
-		<pubDate>Sat, 28 Dec 2024 13:49:50 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9749049</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9749049</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/mohan-bhagwant.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/mohan-bhagwant.jpg" medium="image">
-			<media:title type="html">mohan bhagwant</media:title>
 		</media:content>
 	</item>
 	</channel>
