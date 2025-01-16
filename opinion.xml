@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 15 Jan 2025 23:43:28 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Jan 2025 01:48:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,82 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Express view on Mohan Bhagwat’s &#8216;ghar wapasi&#8217; comment</title>
+		<link>https://indianexpress.com/article/opinion/editorials/express-view-on-mohan-bhagwats-ghar-wapasi-comment-9781091/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2025 01:50:03 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9781091</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9781091</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/express-view-30.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/express-view-30.jpg" medium="image">
+			<media:title type="html">express view</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Express view on California fires: Failure to extinguish</title>
+		<link>https://indianexpress.com/article/opinion/editorials/express-view-on-california-fires-failure-to-extinguish-9781090/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2025 01:43:48 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9781090</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9781090</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/express-view-29.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/express-view-29.jpg" medium="image">
+			<media:title type="html">express view</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Criticism of draft UGC regulations ignore their potential</title>
+		<link>https://indianexpress.com/article/opinion/columns/criticism-of-draft-ugc-regulations-ignore-their-potential-9781089/</link>
+		
+		<dc:creator><![CDATA[Vandana Mishra]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2025 01:35:37 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9781089</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9781089</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/ugc_9fa48b.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/ugc_9fa48b.jpg" medium="image">
+			<media:title type="html">ugc_9fa48b</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How India can become the world’s leading startup ecosystem</title>
+		<link>https://indianexpress.com/article/opinion/columns/how-india-can-become-the-worlds-leading-startup-ecosystem-9781088/</link>
+		
+		<dc:creator><![CDATA[Amitabh Kant]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2025 01:33:06 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9781088</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9781088</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/startup-sulture.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/startup-sulture.jpg" medium="image">
+			<media:title type="html">startup sulture</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Pritam Banerjee writes: Focus on jobs in digitally delivered services, incentivise mid-sized firms, rationalise tariffs for GVC integration</title>
 		<link>https://indianexpress.com/article/opinion/columns/pritam-banerjee-writes-focus-on-jobs-in-digitally-delivered-services-incentivise-mid-sized-firms-rationalise-tariffs-for-gvc-integration-9781067/</link>
 		
@@ -3785,82 +3861,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/express-view-51.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/express-view-51.jpg" medium="image">
 			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Manmohan Singh balanced growth with equity</title>
-		<link>https://indianexpress.com/article/opinion/columns/how-manmohan-singh-balanced-growth-with-equity-9750600/</link>
-		
-		<dc:creator><![CDATA[C Rangarajan]]></dc:creator>
-		<pubDate>Mon, 30 Dec 2024 01:45:11 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9750600</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9750600</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/Opinion3_30th-Dec.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/Opinion3_30th-Dec.jpg" medium="image">
-			<media:title type="html">Opinion3_30th-Dec</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>In Our Opinion &#124; 2024’s biggest takeaway: The country needs a system that cares</title>
-		<link>https://indianexpress.com/article/opinion/columns/2024-biggest-takeaway-india-system-cares-9750239/</link>
-		
-		<dc:creator><![CDATA[Kaushik Das Gupta]]></dc:creator>
-		<pubDate>Sun, 29 Dec 2024 12:04:25 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9750239</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9750239</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/2024-biggest-takeaway-column.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/2024-biggest-takeaway-column.jpg" medium="image">
-			<media:title type="html">2024 biggest takeaway column</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Bhima the tragic hero: Reading and rereading M T Vasudevan Nair’s ‘Randamoozham’</title>
-		<link>https://indianexpress.com/article/opinion/columns/bhima-m-t-vasudevan-nair-randamoozham-9749934/</link>
-		
-		<dc:creator><![CDATA[Akhil PJ]]></dc:creator>
-		<pubDate>Sun, 29 Dec 2024 08:43:15 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9749934</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9749934</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/Vasudevan-Nair.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/Vasudevan-Nair.jpg" medium="image">
-			<media:title type="html">Vasudevan Nair</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>100 years ago in Belgaum: When Mahatma Gandhi chaired a Congress session</title>
-		<link>https://indianexpress.com/article/opinion/columns/belgaum-mahatman-gandhi-congress-9749248/</link>
-		
-		<dc:creator><![CDATA[Shyamlal Yadav]]></dc:creator>
-		<pubDate>Sun, 29 Dec 2024 01:40:44 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9749248</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9749248</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/Belgaum-in-1924-When-Gandhi-chaired-party-meet_Premium-01.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/Belgaum-in-1924-When-Gandhi-chaired-party-meet_Premium-01.jpg" medium="image">
-			<media:title type="html">Belgaum in 1924 When Gandhi chaired party meet_Premium-01</media:title>
 		</media:content>
 	</item>
 	</channel>
