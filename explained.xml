@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 16 Jan 2025 01:56:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Jan 2025 02:50:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -69,7 +69,7 @@
 			<media:title type="html">Three vessels, INS Surat, INS Nilgiri, and INS Vaghsheer, were commissioned by the Prime Minister into the Indian Navy on Wednesday. Amit Chakravarty 1</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/naval-ship.jpg?resize=600,338" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/naval-ship.jpg" medium="image">
 			<media:title type="html">naval ship</media:title>
 		</media:content>
 
