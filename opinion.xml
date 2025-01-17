@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 17 Jan 2025 06:07:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Jan 2025 07:06:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>It was in Netanyahu&#8217;s interest to wait for Trump before agreeing to a ceasefire</title>
+		<link>https://indianexpress.com/article/opinion/netanyahu-trump-ceasefire-agreement-israel-hamas-9783817/</link>
+		
+		<dc:creator><![CDATA[Sumit Ganguly]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2025 07:06:07 +0000</pubDate>
+		<category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9783817</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9783817</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/trump-netanyahu.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/trump-netanyahu.jpg" medium="image">
+			<media:title type="html">trump netanyahu</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Ranchi hosting first Women’s Hockey League is a nod to the Adivasis’ love for the game</title>
 		<link>https://indianexpress.com/article/opinion/columns/hockey-women-league-ranchi-adivasis-game-9783713/</link>
 		
@@ -3842,25 +3861,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/Trump-1-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/Trump-1-1.jpg" medium="image">
 			<media:title type="html">Trump</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Kejriwal’s fight to stay relevant, a deadlocked administration and an upcoming election: What happens to Delhi’s voter this February?</title>
-		<link>https://indianexpress.com/article/opinion/columns/kejriwals-fight-to-stay-relevant-deadlocked-administration-upcoming-election-what-happens-to-delhis-voter-this-february-9753442/</link>
-		
-		<dc:creator><![CDATA[Shailaja Chandra]]></dc:creator>
-		<pubDate>Tue, 31 Dec 2024 12:06:36 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9753442</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9753442</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/manmohan-singh-31.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/manmohan-singh-31.jpg" medium="image">
-			<media:title type="html">kejriwal delhi polls</media:title>
 		</media:content>
 	</item>
 	</channel>
