@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 20 Jan 2025 01:58:40 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Jan 2025 02:51:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -50,15 +50,15 @@
 			<media:title type="html">potatos 1600</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/haresh-1600.jpg?resize=450,600" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/haresh-1600.jpg" medium="image">
 			<media:title type="html">french fries export, potato farming</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/alpesh-1600.jpg?resize=600,425" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/alpesh-1600.jpg" medium="image">
 			<media:title type="html">french fries export, potato farming</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/oblong-potato-1600.jpg?resize=600,563" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/oblong-potato-1600.jpg" medium="image">
 			<media:title type="html">potato exports</media:title>
 		</media:content>
 	</item>
@@ -139,7 +139,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>All you need to know about Donald Trump’s inauguration ceremony tomorrow</title>
+		<title>All you need to know about Donald Trump’s inauguration ceremony today</title>
 		<link>https://indianexpress.com/article/explained/explained-global/trump-president-inauguration-guests-schedule-significance-9787027/</link>
 		
 		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
