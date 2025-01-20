@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 19 Jan 2025 23:58:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Jan 2025 02:03:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,82 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Express View on President Biden’s exit: Triumph and tragedy</title>
+		<link>https://indianexpress.com/article/opinion/editorials/express-view-on-president-bidens-exit-triumph-and-tragedy-9787708/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2025 02:04:56 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9787708</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9787708</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/express-view-35.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/express-view-35.jpg" medium="image">
+			<media:title type="html">express view</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>For a Viksit Bharat, focus on health</title>
+		<link>https://indianexpress.com/article/opinion/columns/viksit-bharat-health-9787679/</link>
+		
+		<dc:creator><![CDATA[K Srinath Reddy]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2025 01:59:41 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9787679</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9787679</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/health-system.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/health-system.jpg" medium="image">
+			<media:title type="html">health system</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How quality of higher education is tied to primary education</title>
+		<link>https://indianexpress.com/article/opinion/columns/higher-education-quality-schools-9787680/</link>
+		
+		<dc:creator><![CDATA[J.S. RAJPUT]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2025 01:57:45 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9787680</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9787680</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/higher-education-illustration.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/higher-education-illustration.jpg" medium="image">
+			<media:title type="html">higher education illustration</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Ashok Gulati writes: The reform and welfare India needs</title>
+		<link>https://indianexpress.com/article/opinion/columns/ashok-gulati-writes-the-reform-and-welfare-india-needs-9787765/</link>
+		
+		<dc:creator><![CDATA[Ashok Gulati]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2025 01:52:01 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9787765</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9787765</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/oped-illustration-10.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/oped-illustration-10.jpg" medium="image">
+			<media:title type="html">oped illustration</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Carnage to Good Morning: How to get ready for Trump&#8217;s shock &#038; awe</title>
 		<link>https://indianexpress.com/article/opinion/columns/carnage-good-morning-trumps-shock-awe-9787448/</link>
 		
@@ -3789,82 +3865,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/Rahul-Gandhi-3.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/Rahul-Gandhi-3.jpg" medium="image">
 			<media:title type="html">Rahul Gandhi (3)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Everybody is harmed, no one acts: The problem framing climate change and air pollution issues</title>
-		<link>https://indianexpress.com/article/opinion/columns/problem-framing-climate-change-air-pollution-issues-9756380/</link>
-		
-		<dc:creator><![CDATA[Anand Krishnan]]></dc:creator>
-		<pubDate>Thu, 02 Jan 2025 09:58:58 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9756380</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9756380</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/delhi-air-pollution.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/delhi-air-pollution.jpg" medium="image">
-			<media:title type="html">delhi air pollution</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The Third Edit: Gautam Gambhir and the Melbourne meltdown</title>
-		<link>https://indianexpress.com/article/opinion/editorials/the-third-edit-gautam-gambhir-and-the-melbourne-meltdown-9755312/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 02 Jan 2025 01:56:25 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9755312</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9755312</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/express-view-5.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/express-view-5.jpg" medium="image">
-			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express View on Indian banking system: In good health</title>
-		<link>https://indianexpress.com/article/opinion/editorials/express-view-on-indian-banking-system-in-good-health-9755311/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 02 Jan 2025 01:56:22 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9755311</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9755311</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/express-view-4.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/express-view-4.jpg" medium="image">
-			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>January 2, 1985, Forty Years Ago: Karnataka Poll</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/january-2-1985-forty-years-ago-karnataka-poll-9755328/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 02 Jan 2025 01:56:01 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9755328</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9755328</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/express-archice.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/express-archice.jpg" medium="image">
-			<media:title type="html">express archice</media:title>
 		</media:content>
 	</item>
 	</channel>
