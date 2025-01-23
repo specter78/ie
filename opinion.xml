@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 23 Jan 2025 12:07:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Jan 2025 12:56:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Malayalam film Marco puts violence at centre, story suffers. It follows a pan-Indian trend</title>
+		<link>https://indianexpress.com/article/opinion/columns/malayalam-film-marco-violence-india-trend-9795364/</link>
+		
+		<dc:creator><![CDATA[Akhil PJ]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 12:49:46 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9795364</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9795364</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/macro.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/macro.jpg" medium="image">
+			<media:title type="html">macro</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>UGC draft regulation stands against principle of federalism. Governors shouldn’t be given unbridled power to select VCs</title>
 		<link>https://indianexpress.com/article/opinion/columns/ugc-draft-regulation-stands-against-principle-federalism-governors-9795293/</link>
 		
@@ -73,7 +92,7 @@
 		<title>The President is female, the Supreme Court is female, we are all female</title>
 		<link>https://indianexpress.com/article/opinion/columns/president-supreme-court-we-female-9794867/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[Sharon Ammel]]></dc:creator>
 		<pubDate>Thu, 23 Jan 2025 09:16:51 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9794867</guid>
 
@@ -3854,25 +3873,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/Opinion1_7th-Jan.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/Opinion1_7th-Jan.jpg" medium="image">
 			<media:title type="html">Opinion1_7th-Jan</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express view on market fall: Investors need more clarity</title>
-		<link>https://indianexpress.com/article/opinion/editorials/express-view-on-market-fall-investors-need-more-clarity-9763666/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 07 Jan 2025 01:34:58 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9763666</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9763666</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/express-view-12.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/express-view-12.jpg" medium="image">
-			<media:title type="html">express view</media:title>
 		</media:content>
 	</item>
 	</channel>
