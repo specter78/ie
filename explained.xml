@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 23 Jan 2025 08:37:19 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 23 Jan 2025 10:06:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Supreme Court suggested appointing retired High Court judges on ‘ad hoc’ basis</title>
+		<link>https://indianexpress.com/article/explained/explained-law/supreme-court-ad-ho-judge-appointment-need/</link>
+		
+		<dc:creator><![CDATA[Ajoy Sinha Karpuram]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2025 10:06:49 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9795039</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9795039</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/ch1847278.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/ch1847278.jpg" medium="image">
+			<media:title type="html">Supreme court ad hoc judges</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>AI gains in US, China put India’s goal under scanner: Should the country build an LLM?</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/ai-gains-in-us-china-put-indias-goal-under-scanner-9794871/</link>
 		
@@ -4014,25 +4033,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/Untitled-design-1-29.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/Untitled-design-1-29.jpg" medium="image">
 			<media:title type="html">PSLV C60/ SpaDeX</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Looking at 2025, Tech: Rising above the AI line</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/looking-at-2025-tech-rising-above-the-ai-line-9750694/</link>
-		
-		<dc:creator><![CDATA[Nandagopal Rajan]]></dc:creator>
-		<pubDate>Mon, 30 Dec 2024 01:45:56 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9750694</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9750694</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/12/ai-2025-explainer.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/12/ai-2025-explainer.jpg" medium="image">
-			<media:title type="html">ai 2025 explainer</media:title>
 		</media:content>
 	</item>
 	</channel>
