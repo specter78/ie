@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 25 Jan 2025 12:54:19 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Jan 2025 14:03:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Explained: Story of modest Kerala king who is Republic Day guest in Delhi</title>
+		<link>https://indianexpress.com/article/explained/mannan-kerala-king-republic-day-guest-9799038/</link>
+		
+		<dc:creator><![CDATA[Shaju Philip]]></dc:creator>
+		<pubDate>Sat, 25 Jan 2025 13:23:24 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9799038</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9799038</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/the-king-placing-his-crown759.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/the-king-placing-his-crown759.jpg" medium="image">
+			<media:title type="html">the-king-placing-his-crown759</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Geo-tagging and aadhar-like codes: How the J&#038;K govt is trying to conserve the region&#8217;s chinar trees</title>
 		<link>https://indianexpress.com/article/explained/jk-govt-conserve-chinar-trees-9798999/</link>
 		
@@ -51,7 +70,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Kerala woman sentenced to death: what is paraquat, toxic chemical used as poison?</title>
+		<title>What is paraquat poisoning, by which Greeshma killed her boyfriend Sharon Raj?</title>
 		<link>https://indianexpress.com/article/explained/explained-health/kerala-woman-death-sentence-paraquat-poison-9798873/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -184,7 +203,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>What Trump 2.0 means for US-Iran relations</title>
+		<title>Why Trump may not target Iran in second term: here’s how Middle East has changed since 2017-18</title>
 		<link>https://indianexpress.com/article/explained/what-us-iran-relations-may-look-like-under-trump-2-0-9797908/</link>
 		
 		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
@@ -4006,25 +4025,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/students-freepik.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/students-freepik.jpg" medium="image">
 			<media:title type="html">students freepik</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Swiss ‘burqa ban’ comes into effect: Why did the country ban face coverings</title>
-		<link>https://indianexpress.com/article/explained/explained-global/swiss-burqa-ban-9755000/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 01 Jan 2025 13:28:05 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9755000</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9755000</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/burqa.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/burqa.jpg" medium="image">
-			<media:title type="html">FILE PHOTO: A poster of the initiative committee against wearing the burqa is seen in Zurich</media:title>
 		</media:content>
 	</item>
 	</channel>
