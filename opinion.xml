@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 27 Jan 2025 10:51:19 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Jan 2025 12:54:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>With speculation of Nitish Kumar’s son joining politics, what is the future of regional parties in India?</title>
+		<link>https://indianexpress.com/article/opinion/columns/nitish-kumar-son-nishant-politics-speculation-regional-parties-future-9802202/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 27 Jan 2025 12:42:18 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9802202</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9802202</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/nitish-kumar-son.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/01/nitish-kumar-son.jpeg" medium="image">
+			<media:title type="html">nitish kumar son</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>I saw Coldplay in Mumbai: And they were all green</title>
 		<link>https://indianexpress.com/article/opinion/columns/coldplay-mumbai-concert-carbon-footprint-sustainibility-9801948/</link>
 		
@@ -3878,25 +3897,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/A-more-empathetic-justice-copy.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/A-more-empathetic-justice-copy.jpg" medium="image">
 			<media:title type="html">A more empathetic justice copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The Third Edit: Demi Moore’s Golden Globe win and ageism’s loss</title>
-		<link>https://indianexpress.com/article/opinion/editorials/the-third-edit-demi-moores-golden-globe-win-and-ageisms-loss-9770590/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 10 Jan 2025 02:00:30 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9770590</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9770590</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/express-view-22.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/express-view-22.jpg" medium="image">
-			<media:title type="html">express view</media:title>
 		</media:content>
 	</item>
 	</channel>
