@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 28 Jan 2025 10:48:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Jan 2025 11:34:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>DeepSeek: How open-source AI is disrupting big tech’s monopoly</title>
+		<title>Deepseek: How open-source AI is disrupting big tech’s monopoly</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/deepseek-open-source-ai-big-tech-9803764/</link>
 		
 		<dc:creator><![CDATA[Bijin Jose]]></dc:creator>
