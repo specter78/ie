@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 29 Jan 2025 01:53:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Jan 2025 06:12:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -121,9 +121,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9804591</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/DeepSeek-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/DeepSeek-1.jpg" medium="image">
-			<media:title type="html">DeepSeek (1)</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/deepseek-chinese-ai.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/deepseek-chinese-ai.jpg" medium="image">
+			<media:title type="html">deepseek-chinese ai</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -140,9 +140,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9804564</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/gender-equality.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/gender-equality.jpg" medium="image">
-			<media:title type="html">gender equality</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/gender-battleground.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/gender-battleground.jpg" medium="image">
+			<media:title type="html">gender battleground</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -178,8 +178,8 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9804552</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/make-europe-great-again.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/make-europe-great-again.jpg" medium="image">
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/make-europe-great-again-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/make-europe-great-again-1.jpg" medium="image">
 			<media:title type="html">make europe great again</media:title>
 		</media:content>
 	</item>
@@ -197,9 +197,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9804596</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/09/TGT-.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/09/TGT-.jpg" medium="image">
-			<media:title type="html">schools</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/school-ASER-report-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/school-ASER-report-2.jpg" medium="image">
+			<media:title type="html">school-ASER report (2)</media:title>
 		</media:content>
 	</item>
 		<item>
