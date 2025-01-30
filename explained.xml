@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 30 Jan 2025 06:27:31 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Jan 2025 08:10:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,64 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>After a decade, Teesta bridge gets Bengal nod: The project, its security significance</title>
+		<link>https://indianexpress.com/article/explained/teesta-bridge-gets-bengal-nod-security-significance-9807450/</link>
+		
+		<dc:creator><![CDATA[Atri Mitra]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 07:49:07 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9807450</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9807450</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/coronation-bridge-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/coronation-bridge-1600.jpg" medium="image">
+			<media:title type="html">coronation bridge 1600</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>ExplainSpeaking: Are Indians being over-taxed? Here are 5 charts on where India stands globally</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/indians-over-taxed-union-budget-9807329/</link>
+		
+		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
+		<pubDate>Thu, 30 Jan 2025 07:47:19 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9807329</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9807329</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/Indians-tax.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/Indians-tax.jpg" medium="image">
+			<media:title type="html">Union Budget: Indians tax</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/CHART-1-share-of-central-government-expenditures-funded-by-taxes.jpg" medium="image">
+			<media:title type="html">CHART 1 on share of central government expenditures funded by taxes.</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/CHART-2-tax-revenues-as-a-share-of-gdp-unu-wider.jpg" medium="image">
+			<media:title type="html">CHART 2 tax revenues as a share of gdp.</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/CHART-3-tax-revenues-vs-gdp-per-capita.jpg" medium="image">
+			<media:title type="html">CHART 3 tax revenues vs gdp per capita</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/CHART-4-taxes-on-income-vs-taxes-on-goods-and-services.jpg" medium="image">
+			<media:title type="html">CHART 4 taxes on income vs taxes on goods and services.</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/CHART-5-tax-revenues-vs-electoral-democracy-index.jpg" medium="image">
+			<media:title type="html">CHART 5 tax revenues vs electoral democracy index</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Did DeepSeek copy OpenAI’s AI technology?</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/deepseek-openai-technology-9807132/</link>
 		
@@ -3999,44 +4057,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/122.jpg?resize=600,550" medium="image">
 			<media:title type="html">Why is it so difficult to decipher the Harappan writing system?</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Several workers stuck in a coal mine in Assam: What is ‘rat-hole’ mining?</title>
-		<link>https://indianexpress.com/article/explained/workers-coal-mine-assam-rat-hole-mining-9763544/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 06 Jan 2025 16:19:39 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9763544</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9763544</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/rat-hole-mining.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/rat-hole-mining.jpg" medium="image">
-			<media:title type="html">rat-hole mining</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The Brutalist wins at the Globes – here’s what brutalist architecture constitutes</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/the-brutalist-architecture-9763414/</link>
-		
-		<dc:creator><![CDATA[Shiny Varghese]]></dc:creator>
-		<pubDate>Mon, 06 Jan 2025 14:52:58 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9763414</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9763414</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/brutalist.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/brutalist.jpg" medium="image">
-			<media:title type="html">brutalist</media:title>
 		</media:content>
 	</item>
 	</channel>
