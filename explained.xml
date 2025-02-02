@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 02 Feb 2025 11:01:48 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 02 Feb 2025 13:03:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>2006 Mumbai train blast: Why Bombay HC took over 9 years to conclude hearings on death sentence confirmations, appeals</title>
+		<link>https://indianexpress.com/article/explained/explained-law/2006-mumbai-blast-hc-hearing-death-sentence-9813627/</link>
+		
+		<dc:creator><![CDATA[Omkar Gokhale]]></dc:creator>
+		<pubDate>Sun, 02 Feb 2025 12:57:43 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9813627</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9813627</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Mumbai-2006-blasts.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Mumbai-2006-blasts.jpg" medium="image">
+			<media:title type="html">Mumbai 2006 blasts</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>FIDE and freestyle chess organisers may end their feud soon: What was the dispute?</title>
 		<link>https://indianexpress.com/article/explained/explained-sports/fide-freestyle-chess-feud-carlsen-dispute-resolution-9813343/</link>
 		
@@ -1595,7 +1614,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Trump delivers fresh tariff threats against China over fentanyl crisis in the US: Everything you need to know</title>
+		<title>Trump imposed 25% tariffs on China, Mexico, Canada over fentanyl. Here is why</title>
 		<link>https://indianexpress.com/article/explained/explained-global/trump-tariff-china-fentanyl-9798825/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -4038,29 +4057,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/Jim-Corbett.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/Jim-Corbett.jpg" medium="image">
 			<media:title type="html">Jim Corbett</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What breaching 1.5°C warming threshold means for the Earth, in 2025 and beyond</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/what-breaching-1-5c-means-9772281/</link>
-		
-		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
-		<pubDate>Sat, 11 Jan 2025 01:30:43 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9772281</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9772281</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/heat-4cole.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/heat-4cole.jpg" medium="image">
-			<media:title type="html">Hot Summer Day</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/Screenshot-2025-01-11-050708.jpg" medium="image">
-			<media:title type="html">Monthly global temperature rise.</media:title>
 		</media:content>
 	</item>
 	</channel>
