@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 03 Feb 2025 08:00:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Feb 2025 08:21:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>ASER reveals gender gap in digital literacy. We must ensure that no girl is left behind</title>
+		<link>https://indianexpress.com/article/opinion/columns/aser-gender-gap-digital-literacy-girl-education-9814730/</link>
+		
+		<dc:creator><![CDATA[Mansoor Ali Khan]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2025 08:21:46 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9814730</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9814730</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/digital-literacy.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/digital-literacy.jpg" medium="image">
+			<media:title type="html">digital literacy</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Public transport to education &#038; health, AAP govt has transformed Delhi residents&#8217; quality of life</title>
 		<link>https://indianexpress.com/article/opinion/columns/delhi-aap-public-transport-education-health-quality-life-9814666/</link>
 		
@@ -3850,25 +3869,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/congress-4.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/congress-4.jpg" medium="image">
 			<media:title type="html">congress (4)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Church Road to Kotla Road, Allahabad to Delhi, a 125-year journey of Congress&#8217;s party offices</title>
-		<link>https://indianexpress.com/article/opinion/columns/church-road-to-kotla-road-allahabad-to-delhi-a-125-year-journey-of-congresss-party-offices-9786226/</link>
-		
-		<dc:creator><![CDATA[Asad Rehman]]></dc:creator>
-		<pubDate>Sun, 19 Jan 2025 01:35:22 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9786226</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9786226</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/congress-5.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/congress-5.jpg" medium="image">
-			<media:title type="html">congress (5)</media:title>
 		</media:content>
 	</item>
 	</channel>
