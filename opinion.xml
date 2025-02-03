@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 03 Feb 2025 07:02:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Feb 2025 08:00:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Public transport to education &#038; health, AAP govt has transformed Delhi residents&#8217; quality of life</title>
+		<link>https://indianexpress.com/article/opinion/columns/delhi-aap-public-transport-education-health-quality-life-9814666/</link>
+		
+		<dc:creator><![CDATA[Jasmine Shah]]></dc:creator>
+		<pubDate>Mon, 03 Feb 2025 08:00:22 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9814666</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9814666</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/delhi-govt-aap.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/delhi-govt-aap.jpg" medium="image">
+			<media:title type="html">delhi govt aap</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Our increasingly calamity-prone world needs to study Disaster History</title>
 		<link>https://indianexpress.com/article/opinion/columns/our-increasingly-calamity-prone-world-needs-to-study-disaster-history-9814608/</link>
 		
@@ -54,7 +73,7 @@
 		<title>Uttarakhand is regulating live-in relationships. But it doesn&#8217;t even understand them</title>
 		<link>https://indianexpress.com/article/opinion/columns/uttarakhand-regulating-live-in-relationships-doesnt-understand-9814525/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[Anuja Agrawal]]></dc:creator>
 		<pubDate>Mon, 03 Feb 2025 06:32:18 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9814525</guid>
 
@@ -92,7 +111,7 @@
 		<title>Only a few in the middle class will benefit from government’s income tax bonanza</title>
 		<link>https://indianexpress.com/article/opinion/columns/only-a-few-in-the-middle-class-will-benefit-from-governments-income-tax-bonanza-9814522/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[Subhash Chandra Garg]]></dc:creator>
 		<pubDate>Mon, 03 Feb 2025 06:26:42 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9814522</guid>
 
@@ -3850,25 +3869,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/congress-5.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/congress-5.jpg" medium="image">
 			<media:title type="html">congress (5)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>In Pakistan&#8217;s corridors of power, a question: To engage or not with Kabul?</title>
-		<link>https://indianexpress.com/article/opinion/columns/pakistan-kabul-taliban-engagement-question-9785858/</link>
-		
-		<dc:creator><![CDATA[Adya Goyal]]></dc:creator>
-		<pubDate>Sat, 18 Jan 2025 12:21:17 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9785858</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9785858</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/taliban-engagement-pakistan.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/taliban-engagement-pakistan.jpg" medium="image">
-			<media:title type="html">taliban engagement pakistan</media:title>
 		</media:content>
 	</item>
 	</channel>
