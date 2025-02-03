@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 02 Feb 2025 23:30:03 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Feb 2025 02:56:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -54,8 +54,8 @@
 			<media:title type="html">budget, pulses</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/02/Table-pulses-1600.jpeg?resize=477,600" medium="image">
-			<media:title type="html">pulses, budget</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/02/imports-table.jpg?resize=600,383" medium="image">
+			<media:title type="html">Between 2013-14 and 2016-17, India’s pulses imports rose both in value (from $1.83 billion to $4.24 billion) and quantity (from 31.78 lakh tonnes or lt to 66.09 lt) terms.</media:title>
 		</media:content>
 	</item>
 		<item>
