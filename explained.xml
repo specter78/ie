@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 05 Feb 2025 06:36:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Feb 2025 07:54:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,63 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Karnataka govt vs Wadiyar heirs: All about the dispute over Bengaluru’s Palace Grounds</title>
+		<link>https://indianexpress.com/article/explained/karnataka-govt-vs-wadiyar-heirs-bengaluru-palace-grounds-9818620/</link>
+		
+		<dc:creator><![CDATA[Akram M]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 07:54:18 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9818620</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9818620</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Bengaluru-Palace.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Bengaluru-Palace.jpg" medium="image">
+			<media:title type="html">Bengaluru Palace</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>NAAC bribery case: What is NAAC, why have there been proposals to change accreditation process</title>
+		<link>https://indianexpress.com/article/explained/naac-bribery-case-accreditation-9818530/</link>
+		
+		<dc:creator><![CDATA[Abhinaya Harigovind]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 07:30:02 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9818530</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9818530</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/NAAC.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/NAAC.jpg" medium="image">
+			<media:title type="html">NAAC Logo</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Organisation of PLGA: guerrilla army of the Maoists, and their dangerous Battalion No. 1</title>
+		<link>https://indianexpress.com/article/explained/plga-guerrilla-army-maoists-battalion-9818515/</link>
+		
+		<dc:creator><![CDATA[Jayprakash S Naidu]]></dc:creator>
+		<pubDate>Wed, 05 Feb 2025 07:10:50 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9818515</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9818515</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/PLGA-Maoist-Explained.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/PLGA-Maoist-Explained.jpg" medium="image">
+			<media:title type="html">PLGA Maoist Explained</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Gujarat Board news you can use: Class 10 and 12 exams, and the ‘best of 2’ option for students</title>
 		<link>https://indianexpress.com/article/explained/everyday-explainers/gujarat-board-class-10-12-exams-9817547/</link>
 		
@@ -3988,67 +4045,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/russia-oil-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/russia-oil-1600.jpg" medium="image">
 			<media:title type="html">FILE PHOTO: A crude oil tanker sails in Nakhodka Bay</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Tracing the journey of India’s engagement with the Taliban, from 2021 to present</title>
-		<link>https://indianexpress.com/article/explained/explained-global/engaging-taliban-9778887/</link>
-		
-		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 14:25:24 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9778887</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9778887</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/India-Taliban-explained.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/India-Taliban-explained.jpg" medium="image">
-			<media:title type="html">India Taliban explained</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What&#8217;s in the draft Israel-Hamas ceasefire deal?</title>
-		<link>https://indianexpress.com/article/explained/everyday-explainers/draft-israel-hamas-ceasefire-deal-9778802/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 13:44:06 +0000</pubDate>
-		<category><![CDATA[Everyday Explainers]]></category><category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9778802</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9778802</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/2025-01-13T205445Z_666073941_RC269CAIVLHY_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-CEASEFIRE-PROTEST.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/01/2025-01-13T205445Z_666073941_RC269CAIVLHY_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-CEASEFIRE-PROTEST.jpeg" medium="image">
-			<media:title type="html">Supporters of Israeli hostages, kidnapped during the deadly October 7 2023 attack by Hamas, demand a deal as they protest amid ongoing negotiations for a ceasefire in Gaza, in Tel Aviv</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Mahakumbh First Amrit Snan explained: What is it, why is it held on Makar Sankranti</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/mahakumbh-amrit-snan-what-is-it-why-makar-sankranti-9778550/</link>
-		
-		<dc:creator><![CDATA[Yashee]]></dc:creator>
-		<pubDate>Tue, 14 Jan 2025 11:42:37 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9778550</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9778550</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/shahi-snan-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/shahi-snan-1600.jpg" medium="image">
-			<media:title type="html">shahi snan 1600</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/women-sadhus.jpg?resize=600,365" medium="image">
-			<media:title type="html">Mahakumbh shahi snan</media:title>
 		</media:content>
 	</item>
 	</channel>
