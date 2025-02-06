@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 06 Feb 2025 11:43:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Feb 2025 13:51:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why are we proud of our mother-tongue inferiority complex?</title>
+		<link>https://indianexpress.com/article/opinion/columns/mother-tongue-inferiority-complex-international-mother-language-day-9821418/</link>
+		
+		<dc:creator><![CDATA[Shraddha Upadhyay]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2025 13:49:29 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9821418</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9821418</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/world-mother-language-day.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/world-mother-language-day.jpg" medium="image">
+			<media:title type="html">world mother language day</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>In Aga Khan IV passing, the loss of a guiding light</title>
+		<link>https://indianexpress.com/article/opinion/columns/aga-khan-iv-passing-loss-guiding-light-9821305/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2025 13:21:52 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9821305</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9821305</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/aga-khan-6.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/aga-khan-6.jpg" medium="image">
+			<media:title type="html">aga khan</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>More funds for Ayushman Bharat won’t help those who need the scheme the most</title>
 		<link>https://indianexpress.com/article/opinion/columns/funds-ayushman-bharat-scheme-budget-allocation-9821126/</link>
 		
@@ -3827,44 +3865,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/express-view-41.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/express-view-41.jpg" medium="image">
 			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express View on Trump&#8217;s anti-immigration agenda: There will be costs for both India and the US</title>
-		<link>https://indianexpress.com/article/opinion/editorials/donald-trump-anti-immigration-birthright-9794066/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 01:42:59 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9794066</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9794066</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/express-view-40.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/express-view-40.jpg" medium="image">
-			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Suhas Palshikar writes: We live in the midst of two state systems</title>
-		<link>https://indianexpress.com/article/opinion/columns/suhas-palshikar-rss-ayodhya-ram-temple-9794064/</link>
-		
-		<dc:creator><![CDATA[Suhas Palshikar]]></dc:creator>
-		<pubDate>Thu, 23 Jan 2025 01:29:52 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9794064</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9794064</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/rss.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/rss.jpg" medium="image">
-			<media:title type="html">rss</media:title>
 		</media:content>
 	</item>
 	</channel>
