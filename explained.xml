@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 06 Feb 2025 08:21:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Feb 2025 11:02:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Trump, Rubio attack South Africa’s land acquisition law: How do India &#038; US compare?</title>
+		<link>https://indianexpress.com/article/explained/explained-law/trump-rubio-south-africa-land-acquisition-law-history-property-9821028/</link>
+		
+		<dc:creator><![CDATA[Ajoy Sinha Karpuram]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2025 11:02:50 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9821028</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9821028</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/land-acquisition-explained.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/land-acquisition-explained.jpg" medium="image">
+			<media:title type="html">View of fields from the drone, Donduseni, Moldova</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How the proposed new scoring system would change badminton’s landscape</title>
 		<link>https://indianexpress.com/article/explained/explained-sports/how-new-scoring-system-would-change-badmintons-landscape-9820560/</link>
 		
@@ -239,9 +258,13 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9818620</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Bengaluru-Palace.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Bengaluru-Palace.jpg" medium="image">
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Bengaluru-Palace.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Bengaluru-Palace.jpeg" medium="image">
 			<media:title type="html">Bengaluru Palace</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/02/Bengaluru-Palace-old.jpg?resize=651,405" medium="image">
+			<media:title type="html">The Bengaluru Palace.</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4022,25 +4045,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/Lobia-seeds-germinate-in-space-in-ISROs-CROPS-module.-ISRO-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/Lobia-seeds-germinate-in-space-in-ISROs-CROPS-module.-ISRO-1.jpg" medium="image">
 			<media:title type="html">Lobia seeds germinate in space in ISRO’s CROPS module. ISRO 1</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Bail under PMLA: interpretation by SC, HCs of the law on the exception for women</title>
-		<link>https://indianexpress.com/article/explained/explained-law/shine-group-case-pmla-bail-exception-9780855/</link>
-		
-		<dc:creator><![CDATA[Apurva Vishwanath, Ajoy Sinha Karpuram]]></dc:creator>
-		<pubDate>Thu, 16 Jan 2025 01:30:45 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9780855</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9780855</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/SC-Explained.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/SC-Explained.jpg" medium="image">
-			<media:title type="html">SC Explained</media:title>
 		</media:content>
 	</item>
 	</channel>
