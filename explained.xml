@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 06 Feb 2025 12:44:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Feb 2025 22:31:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How India has signalled a shift in the way it views climate crisis</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/how-india-has-signalled-a-shift-in-the-way-it-views-climate-crisis-9821960/</link>
+		
+		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
+		<pubDate>Thu, 06 Feb 2025 22:34:39 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9821960</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9821960</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/India-needs-to-scale-up-its-manufacturing-and-technology-capabilities-related-to-clean-energy.-This-would-help-it-become-less-dependent-on-foreign-supply-chains.-Express.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/India-needs-to-scale-up-its-manufacturing-and-technology-capabilities-related-to-clean-energy.-This-would-help-it-become-less-dependent-on-foreign-supply-chains.-Express.jpg" medium="image">
+			<media:title type="html">India needs to scale up its manufacturing and technology capabilities related to clean energy. This would help it become less dependent on foreign supply chains. Express</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How the climate crisis has intensified marine heatwaves across the world</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/climate-crisis-marine-heatwaves-9821129/</link>
 		
@@ -4022,25 +4041,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/isro-explained.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/isro-explained.jpg" medium="image">
 			<media:title type="html">isro explained</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Hindenburg Research, firm behind Adani Group allegations, is disbanding</title>
-		<link>https://indianexpress.com/article/explained/hindenburg-research-firm-disbanding-reason-revealed-adani-9781894/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 16 Jan 2025 08:27:05 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9781894</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9781894</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/hindenburg.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/01/hindenburg.jpeg" medium="image">
-			<media:title type="html">hindenburg</media:title>
 		</media:content>
 	</item>
 	</channel>
