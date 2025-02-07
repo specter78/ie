@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 07 Feb 2025 13:21:58 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Feb 2025 10:58:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,25 +32,6 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>China reaction to US tariffs: Why Beijing is playing the long game over a zero-sum game</title>
-		<link>https://indianexpress.com/article/explained/explained-global/china-reaction-to-us-tariffs-explained-9823450/</link>
-		
-		<dc:creator><![CDATA[Hemant Adlakha]]></dc:creator>
-		<pubDate>Fri, 07 Feb 2025 13:19:54 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9823450</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9823450</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/trump-xi-1600.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/02/trump-xi-1600.jpeg" medium="image">
-			<media:title type="html">trump xi 1600</media:title>
-		</media:content>
-	</item>
-		<item>
 		<title>Why facial recognition system has been installed in Mumbai’s Mantralaya</title>
 		<link>https://indianexpress.com/article/explained/everyday-explainers/mumbai-mantralaya-entry-facial-recognition-9823157/</link>
 		
@@ -4053,6 +4034,25 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/IMD_883442.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/IMD_883442.jpg" medium="image">
 			<media:title type="html">IMD_883442</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>What to expect from the new US consulate in Bengaluru</title>
+		<link>https://indianexpress.com/article/explained/everyday-explainers/new-us-consulate-bengaluru-visa-9782384/</link>
+		
+		<dc:creator><![CDATA[Sanath Prasad]]></dc:creator>
+		<pubDate>Thu, 16 Jan 2025 11:57:08 +0000</pubDate>
+		<category><![CDATA[Everyday Explainers]]></category><category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9782384</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9782384</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/us-consulate-mumbai.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/us-consulate-mumbai.jpg" medium="image">
+			<media:title type="html">us consulate mumbai</media:title>
 		</media:content>
 	</item>
 	</channel>
