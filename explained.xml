@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 07 Feb 2025 08:46:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Feb 2025 10:03:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Jumping fences, crossing jungles: How migrants use ‘dunki routes’ to reach US</title>
+		<link>https://indianexpress.com/article/explained/indians-deported-us-route-dunki-migrants-9822897/</link>
+		
+		<dc:creator><![CDATA[Kamaldeep Singh Brar]]></dc:creator>
+		<pubDate>Fri, 07 Feb 2025 10:03:24 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9822897</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9822897</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Dunki-Mexico-explainer.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Dunki-Mexico-explainer.jpg" medium="image">
+			<media:title type="html">Migrants cross a river in the Darién Gap in Colombia, Aug. 2, 2023. (Federico Rios/The New York Times)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What Trump’s ‘Keeping men out of women’s sports’ order means for transgender sportspeople</title>
 		<link>https://indianexpress.com/article/explained/explained-sports/trump-women-sports-transgender-olympics-order-9822693/</link>
 		
@@ -4034,25 +4053,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/Farmer-protest-Jan-2025.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/Farmer-protest-Jan-2025.jpg" medium="image">
 			<media:title type="html">Farmer protest Jan 2025</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What is Xiaohongshu or RedNote, the Chinese social media platform that US TikTok ‘refugees’ are flocking to?</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/xiaohongshu-chinese-social-media-tiktok-9782119/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 16 Jan 2025 11:04:31 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9782119</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9782119</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/2025-01-16T052706Z_2091395677_RC2DACAWF6PJ_RTRMADP_5_USA-CHINA-TIKTOK-REDNOTE.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/2025-01-16T052706Z_2091395677_RC2DACAWF6PJ_RTRMADP_5_USA-CHINA-TIKTOK-REDNOTE.jpg" medium="image">
-			<media:title type="html">Xiaohongshu RedNote TikTok</media:title>
 		</media:content>
 	</item>
 	</channel>
