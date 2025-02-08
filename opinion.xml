@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 08 Feb 2025 11:30:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 08 Feb 2025 13:03:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Not in our name, Aam Aadmi sends message loud and clear</title>
+		<link>https://indianexpress.com/article/opinion/editorials/delhi-election-results-aam-aadmi-message-9825163/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 08 Feb 2025 13:03:14 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9825163</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9825163</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/express-view-new-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/express-view-new-1.jpg" medium="image">
+			<media:title type="html">express view new</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why Delhi rejected AAP and Kejriwal: People don&#8217;t want anarchy</title>
 		<link>https://indianexpress.com/article/opinion/columns/why-delhi-rejected-aap-kejriwal-anarchy-9824982/</link>
 		
@@ -3838,25 +3857,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/indonesia-president-2.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/indonesia-president-2.jpg" medium="image">
 			<media:title type="html">indonesia president (2)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>S Ravindra Bhat writes: At this 75th anniversary of our republic, there is much to celebrate, much to reflect on</title>
-		<link>https://indianexpress.com/article/opinion/columns/republic-day-constitution-9797878/</link>
-		
-		<dc:creator><![CDATA[S Ravindra Bhat]]></dc:creator>
-		<pubDate>Sat, 25 Jan 2025 01:50:15 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9797878</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9797878</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/republic-day-2.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/republic-day-2.jpg" medium="image">
-			<media:title type="html">republic day (2)</media:title>
 		</media:content>
 	</item>
 	</channel>
