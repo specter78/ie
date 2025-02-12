@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 12 Feb 2025 10:38:27 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Feb 2025 12:07:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,63 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Scientists discover &#8220;Einstein ring&#8221; around near-by galaxy: What it is — and its significance</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/einstein-ring-9832360/</link>
+		
+		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 12:07:59 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9832360</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9832360</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/einsteinring.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/einsteinring.jpg" medium="image">
+			<media:title type="html">einstein ring</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>What SC has told Election Commission on EVM data</title>
+		<link>https://indianexpress.com/article/explained/what-sc-has-told-election-commission-on-evm-data-9832228/</link>
+		
+		<dc:creator><![CDATA[Damini Nath]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 11:22:44 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9832228</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9832228</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/EVM-vvpat-1600.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/02/EVM-vvpat-1600.jpeg" medium="image">
+			<media:title type="html">EVM vvpat 1600</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>PM Modi visits war cemetery in France: What role did Indian soldiers play in World Wars?</title>
+		<link>https://indianexpress.com/article/explained/explained-history/pm-modi-war-cemetery-france-world-war-indian-soldiers-9832158/</link>
+		
+		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 11:16:17 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9832158</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9832158</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Modi-Macron-Cemetary-Marseille.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Modi-Macron-Cemetary-Marseille.jpg" medium="image">
+			<media:title type="html">Modi-Macron-Cemetary-Marseille</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Hexaware launches Rs 8,750 crore public offer, largest from tech sector: What’s in it for investors?</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/hexaware-launches-public-offer-whats-for-investors-9831568/</link>
 		
@@ -3964,75 +4021,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/Chris-Martin-Global-Citizen-Fest-Mumbai-2016.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/Chris-Martin-Global-Citizen-Fest-Mumbai-2016.jpg" medium="image">
 			<media:title type="html">Chris Martin Global Citizen Fest Mumbai 2016</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Are BRICS and India trying to replace the dollar as the main global trade currency?</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/trump-brics-india-replace-the-dollar-9790622/</link>
-		
-		<dc:creator><![CDATA[Ravi Dutta Mishra]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 06:37:13 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9790622</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9790622</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/BRICS.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/BRICS.jpg" medium="image">
-			<media:title type="html">BRICS</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Mitigating circumstances: Why RG Kar rape case convict was not given death penalty</title>
-		<link>https://indianexpress.com/article/explained/explained-law/mitigating-circumstances-why-rg-kar-rape-case-convict-was-not-given-death-penalty-9789977/</link>
-		
-		<dc:creator><![CDATA[Ajoy Sinha Karpuram]]></dc:creator>
-		<pubDate>Tue, 21 Jan 2025 02:13:36 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9789977</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9789977</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/law-gavel-expl-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/law-gavel-expl-1.jpg" medium="image">
-			<media:title type="html">law gavel expl</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: With Donald Trump in office, the challenges for New Delhi</title>
-		<link>https://indianexpress.com/article/explained/delhis-challenge-donald-trump-will-play-hardball-change-rules-of-the-game-9789890/</link>
-		
-		<dc:creator><![CDATA[C. Raja Mohan]]></dc:creator>
-		<pubDate>Mon, 20 Jan 2025 22:50:04 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9789890</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9789890</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/Donald-J-Trump-speaks-after-being-sworn-as-the-47th-US-President-in-the-US-Capitol-Rotunda-in-Washington-DC-Monday.-Reuters-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/Donald-J-Trump-speaks-after-being-sworn-as-the-47th-US-President-in-the-US-Capitol-Rotunda-in-Washington-DC-Monday.-Reuters-1.jpg" medium="image">
-			<media:title type="html">Donald J Trump speaks after being sworn as the 47th US President in the US Capitol Rotunda in Washington, DC, Monday. Reuters 1</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/Trump-inaugural-speech-1.jpg" medium="image">
-			<media:title type="html">Trump inaugural speech</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/Trump-inaugural-speech.jpg" medium="image">
-			<media:title type="html">Trump inaugural speech</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/Trump-Climate.jpg" medium="image">
-			<media:title type="html">President Donald Trump speaks as Vice President JD Vance watches at Emancipation Hall after the 60th Presidential Inauguration.</media:title>
 		</media:content>
 	</item>
 	</channel>
