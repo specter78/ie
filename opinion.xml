@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 12 Feb 2025 08:37:10 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Feb 2025 09:40:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Sant Ravidas’s birth anniversary: Imagination of Begumpura still relevant in our caste-ridden society</title>
+		<link>https://indianexpress.com/article/opinion/columns/sant-ravidas-birth-anniversary-imagination-begumpura-relevant-caste-ridden-society-9831900/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 12 Feb 2025 09:35:52 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9831900</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9831900</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/sant-ravidas.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/sant-ravidas.jpg" medium="image">
+			<media:title type="html">sant ravidas</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>English Vinglish and Elon Musk: The quest for a whitewashed London that never existed</title>
 		<link>https://indianexpress.com/article/opinion/columns/english-british-london-uk-migration-9831698/</link>
 		
@@ -3822,25 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/Yarlung-Zangbo.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/Yarlung-Zangbo.jpg" medium="image">
 			<media:title type="html">Yarlung Zangbo</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Trump rattled Colombia on tariffs. He will have a tougher time with others</title>
-		<link>https://indianexpress.com/article/opinion/columns/trump-rattled-colombia-tariffs-tougher-time-9805179/</link>
-		
-		<dc:creator><![CDATA[Sumit Ganguly]]></dc:creator>
-		<pubDate>Wed, 29 Jan 2025 06:26:38 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9805179</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9805179</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/trump-tariff-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/trump-tariff-1.jpg" medium="image">
-			<media:title type="html">Donald Trump</media:title>
 		</media:content>
 	</item>
 	</channel>
