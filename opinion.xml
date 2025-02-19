@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 19 Feb 2025 11:24:08 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Feb 2025 12:32:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How a photograph of Gandhi&#8217;s kin, taken at a Congress meet in 1948, helped solve a riddle</title>
+		<link>https://indianexpress.com/article/opinion/columns/photograph-gandhi-kin-congress-meet-1948-solve-riddle-9844634/</link>
+		
+		<dc:creator><![CDATA[Gulu Ezekiel]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 12:31:17 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9844634</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9844634</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/gandhi.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/gandhi.jpg" medium="image">
+			<media:title type="html">gandhi</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Beyond mangoes and motorcycles: Can India Gain from the US COMPACT?</title>
+		<link>https://indianexpress.com/article/opinion/columns/mangoes-motorcycles-india-gain-us-compact-9844598/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2025 12:19:04 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9844598</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9844598</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/modi-trump-tariffs.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/modi-trump-tariffs.jpg" medium="image">
+			<media:title type="html">modi-trump tariffs</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>After Delhi election, lesson for all parties: Listen to the ground</title>
 		<link>https://indianexpress.com/article/opinion/columns/after-delhi-election-lesson-all-parties-listen-to-ground-9844496/</link>
 		
@@ -3803,44 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/express-view-45_20250130190954_20250130191002_20250202172255_20250203193241_20250203193248_20250204192030.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/express-view-45_20250130190954_20250130191002_20250202172255_20250203193241_20250203193248_20250204192030.jpg" medium="image">
 			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express View: Seize the lull in Manipur</title>
-		<link>https://indianexpress.com/article/opinion/editorials/express-view-seize-the-lull-in-manipur-9817707/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 05 Feb 2025 01:30:18 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9817707</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9817707</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/express-view-45_20250130190954_20250130191002_20250202172255_20250203193241_20250203193248_20250204192036.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/express-view-45_20250130190954_20250130191002_20250202172255_20250203193241_20250203193248_20250204192036.jpg" medium="image">
-			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>C Raja Mohan writes: The story of India’s atomic slide – and an opportunity to bounce back</title>
-		<link>https://indianexpress.com/article/opinion/columns/c-raja-mohan-writes-the-story-of-indias-atomic-slide-and-an-opportunity-to-bounce-back-9817764/</link>
-		
-		<dc:creator><![CDATA[C. Raja Mohan]]></dc:creator>
-		<pubDate>Wed, 05 Feb 2025 01:21:28 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9817764</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9817764</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Opinion3_5th-Feb.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Opinion3_5th-Feb.jpg" medium="image">
-			<media:title type="html">Opinion3_5th-Feb</media:title>
 		</media:content>
 	</item>
 	</channel>
