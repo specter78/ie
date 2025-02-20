@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 20 Feb 2025 09:35:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Feb 2025 12:39:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Kerala&#8217;s move to allow private universities will open up global opportunities for youth</title>
+		<link>https://indianexpress.com/article/opinion/columns/cs-move-allow-private-universities-will-open-up-global-opportunities-youth-9846740/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 12:35:10 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9846740</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9846740</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/BOOKF-FAIR_20250220121732.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/BOOKF-FAIR_20250220121732.jpg" medium="image">
+			<media:title type="html">BOOKF-FAIR_20250220121732.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>SC on Ranveer Allahbadia: When protector turns prosecutor, citizens should be afraid</title>
 		<link>https://indianexpress.com/article/opinion/columns/sc-on-ranveer-allahbadia-when-protector-turns-prosecutor-citizens-should-be-afraid-9846375/</link>
 		
@@ -3822,25 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/oped-illustration-3.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/oped-illustration-3.jpg" medium="image">
 			<media:title type="html">oped illustration</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Trump, tariffs and a trade war with China</title>
-		<link>https://indianexpress.com/article/opinion/columns/trump-tariffs-and-a-trade-war-with-china-9819939/</link>
-		
-		<dc:creator><![CDATA[Amartya Lahiri]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2025 01:25:25 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9819939</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9819939</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/donald-trump-1600_20250204191317_20250205204732.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/donald-trump-1600_20250204191317_20250205204732.jpg" medium="image">
-			<media:title type="html">donald trump</media:title>
 		</media:content>
 	</item>
 	</channel>
