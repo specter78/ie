@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 20 Feb 2025 04:03:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Feb 2025 07:09:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How India’s rich philosophical traditions can help it lead the way in AI</title>
+		<link>https://indianexpress.com/article/opinion/columns/how-indias-rich-philosophical-traditions-can-help-it-lead-the-way-in-ai-9846038/</link>
+		
+		<dc:creator><![CDATA[Tara Das]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 07:07:47 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9846038</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9846038</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/artificial-intelligence-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/artificial-intelligence-1.jpg" medium="image">
+			<media:title type="html">artificial intelligence</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>It’s not surprising that Rekha Gupta is BJP’s choice for Delhi Chief Minister</title>
+		<link>https://indianexpress.com/article/opinion/columns/rekha-gupta-bjp-choice-delhi-chief-minister-9845979/</link>
+		
+		<dc:creator><![CDATA[Satish K Jha]]></dc:creator>
+		<pubDate>Thu, 20 Feb 2025 06:37:08 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9845979</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9845979</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Rekha-Gupta-Interview.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Rekha-Gupta-Interview.jpeg" medium="image">
+			<media:title type="html">Rekha Gupta Interview</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>February 20, 1985, Forty Years Ago: Pakistan Constitution</title>
 		<link>https://indianexpress.com/article/opinion/40-years-ago/february-20-1985-forty-years-ago-pak-constitution-9845310/</link>
 		
@@ -3803,44 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/delhi-elections.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/delhi-elections.jpg" medium="image">
 			<media:title type="html">delhi elections</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>After caste survey, Telangana will face hurdles in tweaking quotas</title>
-		<link>https://indianexpress.com/article/opinion/columns/telangana-caste-survey-data-some-surprises-many-challenges-9819007/</link>
-		
-		<dc:creator><![CDATA[Kancha Ilaiah Shepherd]]></dc:creator>
-		<pubDate>Wed, 05 Feb 2025 11:12:00 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9819007</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9819007</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/telangana-caste-survey-2.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/telangana-caste-survey-2.jpg" medium="image">
-			<media:title type="html">telangana caste survey</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>When worship becomes algorithmic: In Rishikesh, I can no longer find a quiet place to meditate</title>
-		<link>https://indianexpress.com/article/opinion/columns/worship-rishikesh-quiet-place-meditate-9818922/</link>
-		
-		<dc:creator><![CDATA[Rahul Pandita]]></dc:creator>
-		<pubDate>Wed, 05 Feb 2025 10:22:21 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9818922</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9818922</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Rishikesh.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Rishikesh.jpg" medium="image">
-			<media:title type="html">Rishikesh</media:title>
 		</media:content>
 	</item>
 	</channel>
