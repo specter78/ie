@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 21 Feb 2025 11:31:47 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Feb 2025 13:10:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Iraq is (slowly) sinking into Earth</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/iraq-slowly-sinking-into-earth-9848939/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2025 13:10:35 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9848939</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9848939</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Zagros-Mountains.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Zagros-Mountains.jpg" medium="image">
+			<media:title type="html">Zagros Mountains</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>New Delhi Railway Station stampede: Can government make ex-gratia payments to next of kin in cash?</title>
+		<link>https://indianexpress.com/article/explained/new-delhi-railway-station-stampede-ex-gratia-cash-9848839/</link>
+		
+		<dc:creator><![CDATA[Explained Desk]]></dc:creator>
+		<pubDate>Fri, 21 Feb 2025 12:27:23 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9848839</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9848839</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Stampede-NDLS.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Stampede-NDLS.jpg" medium="image">
+			<media:title type="html">Stampede NDLS</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>ExplainSpeaking: How India improved the quality of its govt expenditure — and why that matters</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/explainspeaking-india-qualityof-govt-expenditure-rbi-9848686/</link>
 		
@@ -3983,44 +4021,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/01/ch1230482.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/01/ch1230482.jpg" medium="image">
 			<media:title type="html">ASER anganwadi</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>DeepSeek’s Sputnik moment: 5 ways in which US-China AI race plays out for India</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/deepseeks-sputnik-moment-five-ways-in-which-us-china-ai-race-plays-out-for-india-9804672/</link>
-		
-		<dc:creator><![CDATA[C. Raja Mohan]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 23:01:37 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9804672</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9804672</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/Deepseek-4col1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/Deepseek-4col1.jpg" medium="image">
-			<media:title type="html">Illustration picture of DeepSeek</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The halal certification ban in Uttar Pradesh, and the case in SC so far</title>
-		<link>https://indianexpress.com/article/explained/explained-law/halal-ban-uttar-pradesh-case-in-sc-so-far-9804075/</link>
-		
-		<dc:creator><![CDATA[Ajoy Sinha Karpuram, Arjun Sengupta]]></dc:creator>
-		<pubDate>Tue, 28 Jan 2025 12:21:17 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9804075</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9804075</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/01/halal-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/01/halal-1600.jpg" medium="image">
-			<media:title type="html">halal 1600</media:title>
 		</media:content>
 	</item>
 	</channel>
