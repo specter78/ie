@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Germany’s next Chancellor, Friedrich Merz: 5 things to know</title>
+		<link>https://indianexpress.com/article/explained/explained-global/germany-chancellor-friedrich-merz-5-things-9854237/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 25 Feb 2025 02:58:40 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9854237</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9854237</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Friedrich-Merz-5-things.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Friedrich-Merz-5-things.jpg" medium="image">
+			<media:title type="html">Friedrich Merz 5 things</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What is black plastic — and should you get rid of it?</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/black-plastic-9854309/</link>
 		
@@ -3945,25 +3964,6 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">9811771</post-id>
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/budget.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/budget.jpg" medium="image">
-			<media:title type="html">Budget session of Parliament</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>New Income Tax Slabs Explained: What does the Rs 12 lakh I-T rebate mean? What will you pay if you earn above that?</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/income-tax-rebate-9811541/</link>
-		
-		<dc:creator><![CDATA[Sandeep Singh]]></dc:creator>
-		<pubDate>Sat, 01 Feb 2025 07:32:45 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9811541</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9811541</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/income-tax.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/income-tax.jpg" medium="image">
 			<media:title type="html">Budget session of Parliament</media:title>
 		</media:content>
 	</item>
