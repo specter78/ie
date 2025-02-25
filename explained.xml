@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 25 Feb 2025 02:04:48 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Feb 2025 04:32:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -70,7 +70,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>The historic Tea Horse Road, connecting India and China through Tibet</title>
+		<title>How the historic Tea Horse Road connected India to China, through Tibet</title>
 		<link>https://indianexpress.com/article/explained/explained-history/the-historic-tea-horse-road-connecting-india-and-china-through-tibet-9854517/</link>
 		
 		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
@@ -83,9 +83,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9854517</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/tea-horse-road-explained-history.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/tea-horse-road-explained-history.jpg" medium="image">
-			<media:title type="html">tea horse road explained history</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/tea-horse-trail-china.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/tea-horse-trail-china.jpg" medium="image">
+			<media:title type="html">tea horse trail china</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/02/tea-horse-map.jpg" medium="image">
