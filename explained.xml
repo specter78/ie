@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 26 Feb 2025 06:29:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Feb 2025 10:05:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Musk vs OpenAI: Behind ongoing feud between the world’s richest man and company he co-founded with Sam Altman</title>
+		<link>https://indianexpress.com/article/explained/explained-global/feud-elon-musk-sam-altman-9856295/</link>
+		
+		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 10:05:56 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9856295</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9856295</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Untitled-design-3-3.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Untitled-design-3-3.jpg" medium="image">
+			<media:title type="html">Untitled design (3)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Telangana Backward Classes quota: 3 SC judgements behind the 50% ceiling on reservations</title>
 		<link>https://indianexpress.com/article/explained/explained-law/telangana-backward-class-reservation-ceiling-9856083/</link>
 		
@@ -3962,25 +3981,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/UCC-Prohibited-Relationships-Explained.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/UCC-Prohibited-Relationships-Explained.jpg" medium="image">
 			<media:title type="html">UCC Prohibited Relationships Explained</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Budget big picture: Context of historic tax cut, what impact it may have on the economy</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/budget-big-picture-context-of-historic-tax-cut-what-impact-it-may-have-on-the-economy-9812566/</link>
-		
-		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
-		<pubDate>Sun, 02 Feb 2025 01:39:58 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9812566</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9812566</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/budget1234.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/budget1234.jpg" medium="image">
-			<media:title type="html">budget1234</media:title>
 		</media:content>
 	</item>
 	</channel>
