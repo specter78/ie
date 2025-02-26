@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 26 Feb 2025 03:00:57 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Feb 2025 05:45:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>With summer approaching, will the India-China border still see friction post-disengagement?</title>
+		<link>https://indianexpress.com/article/opinion/columns/summer-will-india-china-border-see-friction-post-disengagement-9856925/</link>
+		
+		<dc:creator><![CDATA[Saheb Singh Chadha]]></dc:creator>
+		<pubDate>Wed, 26 Feb 2025 05:35:45 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9856925</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9856925</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/India-China-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/India-China-1.jpg" medium="image">
+			<media:title type="html">India China (1)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Taking a backward step</title>
 		<link>https://indianexpress.com/article/opinion/columns/taking-a-backward-step-9856713/</link>
 		
@@ -3834,25 +3853,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/Opinion4_17th-Feb-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/Opinion4_17th-Feb-1.jpg" medium="image">
 			<media:title type="html">PM Modi in Paris</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Biren Singh has stepped down. Time to begin Manipur’s healing</title>
-		<link>https://indianexpress.com/article/opinion/columns/biren-singh-has-stepped-down-time-to-begin-manipur-healing-9829565/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 11 Feb 2025 07:06:49 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9829565</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9829565</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Biren-Sinfh.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Biren-Sinfh.jpg" medium="image">
-			<media:title type="html">Biren Singh</media:title>
 		</media:content>
 	</item>
 	</channel>
