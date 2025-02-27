@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 27 Feb 2025 08:01:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Feb 2025 10:14:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Over 100 US intelligence staff fired over &#8216;sexual chats on official platform&#8217;: The case, how it came to light</title>
+		<link>https://indianexpress.com/article/explained/everyday-explainers/us-intelligence-staff-fired-sexual-chats-tulsi-gabbard-9859342/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 10:13:26 +0000</pubDate>
+		<category><![CDATA[Everyday Explainers]]></category><category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9859342</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9859342</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/tulsi-gabbard-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/tulsi-gabbard-1600.jpg" medium="image">
+			<media:title type="html">FILE PHOTO: Tulsi Gabbard, testifies before a Senate Intelligence Committee confirmation hearing, in Washington</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Vivek Ramaswamy announces Governor bid: who is the Indian-American businessman</title>
 		<link>https://indianexpress.com/article/explained/explained-global/vivek-ramaswamy-ohio-governor-9858142/</link>
 		
@@ -3966,25 +3985,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/Prince-Edward-explained.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/Prince-Edward-explained.jpg" medium="image">
 			<media:title type="html">Prince Edward explained</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Rupee breaches 87-level against dollar, raises worries about rise in imported inflation; all eyes on RBI policy review</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/rupee-fall-dollar-record-low-reason-impact-9815011/</link>
-		
-		<dc:creator><![CDATA[George Mathew]]></dc:creator>
-		<pubDate>Mon, 03 Feb 2025 10:22:21 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9815011</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9815011</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/falling-rupee-against-dollar.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/falling-rupee-against-dollar.jpg" medium="image">
-			<media:title type="html">falling rupee against dollar</media:title>
 		</media:content>
 	</item>
 	</channel>

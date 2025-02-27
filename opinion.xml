@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 27 Feb 2025 09:02:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Feb 2025 11:00:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why we should worry about Aadhar authentication for private entities</title>
+		<link>https://indianexpress.com/article/opinion/columns/why-we-should-worry-about-aadhar-authentication-private-entities-9859446/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 10:57:35 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9859446</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9859446</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/aadhar_20241126090851_20250227105636.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/aadhar_20241126090851_20250227105636.jpg" medium="image">
+			<media:title type="html">aadhar_20241126090851_20250227105636.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>The incomplete feminism of ‘Mrs’ and ‘The Great Indian Kitchen’</title>
 		<link>https://indianexpress.com/article/opinion/columns/the-incomplete-feminism-of-mrs-and-the-great-indian-kitchen-sanya-malhotra-9859201/</link>
 		
@@ -3830,25 +3849,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/trade.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/trade.jpg" medium="image">
 			<media:title type="html">trade</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Graft in education ecosystem must be curbed. We owe it to the youth</title>
-		<link>https://indianexpress.com/article/opinion/columns/graft-in-education-ecosystem-must-be-curbed-we-owe-it-to-the-youth-9833016/</link>
-		
-		<dc:creator><![CDATA[S S Mantha]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 02:05:21 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9833016</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9833016</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Union-Budget-education_20250212183355.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Union-Budget-education_20250212183355.jpg" medium="image">
-			<media:title type="html">NAAC bribery case</media:title>
 		</media:content>
 	</item>
 	</channel>
