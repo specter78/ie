@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 28 Feb 2025 14:04:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Feb 2025 15:06:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Could J&#038;K face a water shortage in the summer? Here’s what to know about the dry winter in the Valley</title>
+		<link>https://indianexpress.com/article/explained/jammu-kashmir-water-shortage-9861792/</link>
+		
+		<dc:creator><![CDATA[Naveed Iqbal]]></dc:creator>
+		<pubDate>Fri, 28 Feb 2025 15:06:27 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9861792</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9861792</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/kashmir-water.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/kashmir-water.jpg" medium="image">
+			<media:title type="html">Snowfall in Srinagar</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Markets are falling, but there’s an opportunity for investors. Here’s what they should do</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/markets-falling-investors-9861689/</link>
 		
@@ -3958,25 +3977,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/PLGA-Maoist-Explained.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/PLGA-Maoist-Explained.jpg" medium="image">
 			<media:title type="html">PLGA Maoist Explained</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Gujarat Board news you can use: Class 10 and 12 exams, and the ‘best of 2’ option for students</title>
-		<link>https://indianexpress.com/article/explained/everyday-explainers/gujarat-board-class-10-12-exams-9817547/</link>
-		
-		<dc:creator><![CDATA[Ritu Sharma]]></dc:creator>
-		<pubDate>Wed, 05 Feb 2025 03:40:36 +0000</pubDate>
-		<category><![CDATA[Everyday Explainers]]></category><category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9817547</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9817547</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Gujarat-Board-exams.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Gujarat-Board-exams.jpg" medium="image">
-			<media:title type="html">Gujarat Board exams</media:title>
 		</media:content>
 	</item>
 	</channel>
