@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 28 Feb 2025 06:06:16 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Feb 2025 06:39:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>I live between Kolkata and Delhi. I live in Delhi and Kolkata</title>
+		<link>https://indianexpress.com/article/opinion/columns/i-live-between-kolkata-and-delhi-i-live-in-delhi-and-kolkata-9860898/</link>
+		
+		<dc:creator><![CDATA[Paromita Chakrabarti]]></dc:creator>
+		<pubDate>Fri, 28 Feb 2025 06:39:16 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9860898</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9860898</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Victoria-Memorial-Express-Archive.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Victoria-Memorial-Express-Archive.jpg" medium="image">
+			<media:title type="html">Victoria Memorial - Express Archive</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Behind Nitish Kumar’s cabinet expansion, caste calculations and BJP’s rising dominance in the coalition</title>
 		<link>https://indianexpress.com/article/opinion/columns/behind-nitish-kumars-cabinet-expansion-caste-calculations-and-bjps-rising-dominance-in-the-coalition-9860847/</link>
 		
@@ -3826,25 +3845,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/Love-in-time-of-climate-change_Premium-01.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/Love-in-time-of-climate-change_Premium-01.jpg" medium="image">
 			<media:title type="html">Love in time of climate change_Premium-01</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Not just Saif Ali Khan, the humble auto is every Indian’s lifeline</title>
-		<link>https://indianexpress.com/article/opinion/columns/not-just-saif-ali-khan-the-humble-auto-is-every-indians-lifeline-9833981/</link>
-		
-		<dc:creator><![CDATA[Vandana Vasudevan]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 09:41:42 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9833981</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9833981</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/autorikshaw.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/autorikshaw.jpg" medium="image">
-			<media:title type="html">autorikshaw</media:title>
 		</media:content>
 	</item>
 	</channel>
