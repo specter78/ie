@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 27 Feb 2025 12:49:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Feb 2025 02:12:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Dis/Agree: Pullela Gopichand is right: There aren&#8217;t many options for athletes</title>
+		<link>https://indianexpress.com/article/opinion/columns/dis-agree-pullela-gopichand-is-right-there-arent-many-options-for-athletes-9860254/</link>
+		
+		<dc:creator><![CDATA[Parupalli Kashyap]]></dc:creator>
+		<pubDate>Fri, 28 Feb 2025 02:13:43 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9860254</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9860254</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/oped-illustration-15.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/oped-illustration-15.jpg" medium="image">
+			<media:title type="html">oped illustration</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why we should worry about Aadhaar authentication for private entities</title>
 		<link>https://indianexpress.com/article/opinion/columns/why-we-should-worry-about-aadhar-authentication-private-entities-9859446/</link>
 		
@@ -3830,25 +3849,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/oped-illustration-6.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/oped-illustration-6.jpg" medium="image">
 			<media:title type="html">oped illustration</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Rather than withdraw from WTO, India should strengthen trade multilateralism</title>
-		<link>https://indianexpress.com/article/opinion/columns/rather-than-withdraw-from-wto-india-should-strengthen-trade-multilateralism-9833039/</link>
-		
-		<dc:creator><![CDATA[Prabhash Ranjan]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 02:05:51 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9833039</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9833039</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/trade.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/trade.jpg" medium="image">
-			<media:title type="html">trade</media:title>
 		</media:content>
 	</item>
 	</channel>
