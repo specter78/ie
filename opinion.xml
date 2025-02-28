@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 28 Feb 2025 07:36:22 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Feb 2025 09:08:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>I live between Kolkata and Delhi. I live in Delhi and Kolkata</title>
+		<title>Between Kolkata and Delhi, looking for home</title>
 		<link>https://indianexpress.com/article/opinion/columns/i-live-between-kolkata-and-delhi-i-live-in-delhi-and-kolkata-9860898/</link>
 		
 		<dc:creator><![CDATA[Paromita Chakrabarti]]></dc:creator>
@@ -121,9 +121,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9860256</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/cricket-match.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/cricket-match.jpg" medium="image">
-			<media:title type="html">cricket match</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Derek_Obrien_Opinion-Once-there-wasnt-too-much-cricket-01.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Derek_Obrien_Opinion-Once-there-wasnt-too-much-cricket-01.jpg" medium="image">
+			<media:title type="html">Derek_Obrien_Opinion-Once there wasn’t too much cricket-01</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -216,9 +216,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9860255</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/sports.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/sports.jpg" medium="image">
-			<media:title type="html">sports</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/Theres-money-in-sports-now-copy.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/Theres-money-in-sports-now-copy.jpg" medium="image">
+			<media:title type="html">There’s money in sports now copy</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -1577,9 +1577,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9850172</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/mrs.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/mrs.jpg" medium="image">
-			<media:title type="html">mrs</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/GOOD-FOOD-BITTER-PILL-copy.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/GOOD-FOOD-BITTER-PILL-copy.jpg" medium="image">
+			<media:title type="html">GOOD FOOD, BITTER PILL copy</media:title>
 		</media:content>
 	</item>
 		<item>
