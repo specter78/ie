@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 01 Mar 2025 02:02:00 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Mar 2025 03:09:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,10 +32,48 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Ram Madhav writes on Maha Kumbh: India’s spiritual unity in diversity</title>
+		<link>https://indianexpress.com/article/opinion/columns/ram-madhav-writes-on-maha-kumbh-indias-spiritual-unity-in-diversity-9862116/</link>
+		
+		<dc:creator><![CDATA[Ram Madhav]]></dc:creator>
+		<pubDate>Sat, 01 Mar 2025 02:30:47 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9862116</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9862116</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/kumbh-bath_20250219184641_20250220225827.png" />
+		<media:content url="https://images.indianexpress.com/2025/03/kumbh-bath_20250219184641_20250220225827.png" medium="image">
+			<media:title type="html">kumbh-bath_20250219184641_20250220225827</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Who are PKK, the Kurdish armed group fighting against Turkey?</title>
+		<link>https://indianexpress.com/article/opinion/columns/who-are-pkk-the-kurdish-armed-group-fighting-against-turkey-9862124/</link>
+		
+		<dc:creator><![CDATA[The New York Times]]></dc:creator>
+		<pubDate>Sat, 01 Mar 2025 02:30:10 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9862124</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9862124</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/TURKEY-2cole.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/TURKEY-2cole.jpg" medium="image">
+			<media:title type="html">Members of the Kurdistan Workers Party, or PKK, guard a building that houses their military leader, Murat Karayilan, in Zargali, Iraq.</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Iqbal M Chagla, the senior who changed my life</title>
 		<link>https://indianexpress.com/article/opinion/columns/iqbal-m-chagla-the-senior-who-changed-my-life-9862104/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[Janak Dwarkadas]]></dc:creator>
 		<pubDate>Sat, 01 Mar 2025 02:02:54 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9862104</guid>
 
@@ -54,7 +92,7 @@
 		<title>On AI, the big leap India needs</title>
 		<link>https://indianexpress.com/article/opinion/columns/on-ai-the-big-leap-india-needs-9862103/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[B V R Subrahmanyam, Debjani Ghosh]]></dc:creator>
 		<pubDate>Sat, 01 Mar 2025 02:00:51 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9862103</guid>
 
@@ -130,7 +168,7 @@
 		<title>India can be the world leader in textiles. Here’s how</title>
 		<link>https://indianexpress.com/article/opinion/columns/india-can-be-the-world-leader-in-textiles-heres-how-9862075/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[Kulin Lalbhai]]></dc:creator>
 		<pubDate>Sat, 01 Mar 2025 01:30:53 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9862075</guid>
 
@@ -3802,44 +3840,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2022/05/Mangaon-village.jpg" />
 		<media:content url="https://images.indianexpress.com/2022/05/Mangaon-village.jpg" medium="image">
 			<media:title type="html">Mangaon village</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Dehradun — whose dera is it anyway?</title>
-		<link>https://indianexpress.com/article/opinion/columns/dehradun-dera-9835763/</link>
-		
-		<dc:creator><![CDATA[Martand Badoni]]></dc:creator>
-		<pubDate>Fri, 14 Feb 2025 06:35:13 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9835763</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9835763</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Dehradun.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Dehradun.jpg" medium="image">
-			<media:title type="html">Dehradun</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Renewable energy’s dirty secrets: Hidden cost of going green</title>
-		<link>https://indianexpress.com/article/opinion/columns/renewable-energy-dirty-secrets-hidden-cost-of-going-green-9835667/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 14 Feb 2025 05:32:53 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9835667</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9835667</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Feb1-2025-02-14T110024.479.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Feb1-2025-02-14T110024.479.jpg" medium="image">
-			<media:title type="html">Trump Paris Climate Accord</media:title>
 		</media:content>
 	</item>
 	</channel>
