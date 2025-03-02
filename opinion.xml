@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 02 Mar 2025 10:34:34 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 02 Mar 2025 11:51:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>It&#8217;s not about idli-sambar. The real problem is visitors&#8217; lack interest in anything beyond Goa’s beaches</title>
+		<link>https://indianexpress.com/article/opinion/columns/goa-beach-food-tourism-diversity-9864433/</link>
+		
+		<dc:creator><![CDATA[Pooja Pillai]]></dc:creator>
+		<pubDate>Sun, 02 Mar 2025 11:51:05 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9864433</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9864433</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/goa-beaches.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/goa-beaches.jpg" medium="image">
+			<media:title type="html">goa beaches</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>In Our Opinion: When economic data increases uncertainty</title>
 		<link>https://indianexpress.com/article/opinion/columns/in-our-opinion-when-economic-data-increases-uncertainty-9864348/</link>
 		
@@ -3821,25 +3840,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/The-masks-our-children-need-copy.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/The-masks-our-children-need-copy.jpg" medium="image">
 			<media:title type="html">The masks our children need copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>February 15, 1985, Forty Years Ago: Defection Law</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/february-15-1985-forty-years-ago-defection-law-9836872/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 15 Feb 2025 01:15:52 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9836872</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9836872</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/15-Feb-1985_IE_001.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/15-Feb-1985_IE_001.jpg" medium="image">
-			<media:title type="html">Indian Express</media:title>
 		</media:content>
 	</item>
 	</channel>
