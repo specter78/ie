@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 02 Mar 2025 09:09:42 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 02 Mar 2025 13:54:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Bombay HC has initiated a review of Maharashtra Slum Areas Act, 1971</title>
+		<link>https://indianexpress.com/article/explained/explained-law/bombay-hc-review-maha-slum-act-1971-9864602/</link>
+		
+		<dc:creator><![CDATA[Omkar Gokhale]]></dc:creator>
+		<pubDate>Sun, 02 Mar 2025 13:46:04 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9864602</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9864602</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/Mumbai-slums-act.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/Mumbai-slums-act.jpg" medium="image">
+			<media:title type="html">Mumbai slums act</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Can you trust AI medical advice from ChatGPT?</title>
 		<link>https://indianexpress.com/article/explained/explained-health/ai-medical-advice-chatgpt-accuracy-reliable-9864221/</link>
 		
@@ -3950,25 +3969,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/02/Budget-CHART-3.png?resize=600,523" medium="image">
 			<media:title type="html">Budget Chart 3: Nomura Estimates</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>&#8216;Excessive preoccupation with temperature goal&#8217;: How India has signalled shift in approach to climate crisis</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/how-india-has-signalled-a-shift-in-the-way-it-views-climate-crisis-9821960/</link>
-		
-		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
-		<pubDate>Thu, 06 Feb 2025 22:34:39 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9821960</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9821960</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/India-needs-to-scale-up-its-manufacturing-and-technology-capabilities-related-to-clean-energy.-This-would-help-it-become-less-dependent-on-foreign-supply-chains.-Express.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/India-needs-to-scale-up-its-manufacturing-and-technology-capabilities-related-to-clean-energy.-This-would-help-it-become-less-dependent-on-foreign-supply-chains.-Express.jpg" medium="image">
-			<media:title type="html">India needs to scale up its manufacturing and technology capabilities related to clean energy. This would help it become less dependent on foreign supply chains. Express</media:title>
 		</media:content>
 	</item>
 	</channel>
