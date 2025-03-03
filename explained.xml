@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 02 Mar 2025 15:09:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Mar 2025 00:05:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What latest estimates of India’s GDP say about the economy</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/what-latest-estimates-of-indias-gdp-say-about-the-economy-9864982/</link>
+		
+		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
+		<pubDate>Sun, 02 Mar 2025 22:50:52 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9864982</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9864982</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/india-GDP-forecast.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/india-GDP-forecast.jpg" medium="image">
+			<media:title type="html">india GDP forecast</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/03/gdp-growth-rates.jpg" medium="image">
+			<media:title type="html">What latest estimates of India’s GDP say about the economy</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why Bombay HC has initiated a review of Maharashtra Slum Areas Act, 1971</title>
 		<link>https://indianexpress.com/article/explained/explained-law/bombay-hc-review-maha-slum-act-1971-9864602/</link>
 		
@@ -3938,37 +3961,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/Feb1-52.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/Feb1-52.jpg" medium="image">
 			<media:title type="html">RBI Governor said the RBI will use flexible inflation targeting to make best macro decisions.</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>ExplainSpeaking &#124; Tax cuts and other budget allocations: Why there is no free lunch</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/explainspeaking-budget-allocations-9821350/</link>
-		
-		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
-		<pubDate>Fri, 07 Feb 2025 01:30:36 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9821350</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9821350</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/ExplainSpeaking-Budget-Allocations.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/ExplainSpeaking-Budget-Allocations.jpg" medium="image">
-			<media:title type="html">ExplainSpeaking Budget Allocations</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/02/Budget-Chart-1.png?resize=600,551" medium="image">
-			<media:title type="html">Budget Chart 1: The central government&#039;s fiscal impulse</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/02/Budget-Chart-2.png?resize=600,600" medium="image">
-			<media:title type="html">Budget Chart 2: Current to Capex ratio</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/02/Budget-CHART-3.png?resize=600,523" medium="image">
-			<media:title type="html">Budget Chart 3: Nomura Estimates</media:title>
 		</media:content>
 	</item>
 	</channel>
