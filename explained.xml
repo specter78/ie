@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 04 Mar 2025 03:00:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Mar 2025 06:27:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Explained: India’s agriculture exports</title>
+		<title>Why India’s agriculture trade surplus is shrinking</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/india-agriculture-exports-farm-produce-9866930/</link>
 		
 		<dc:creator><![CDATA[Harish Damodaran]]></dc:creator>
