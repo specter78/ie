@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 05 Mar 2025 07:33:01 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Mar 2025 08:59:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -233,8 +233,8 @@
 			<media:title type="html">India agriculture exports</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/03/india-agri-exports-imports.jpg?resize=600,363" medium="image">
-			<media:title type="html">agriculture exports</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/03/india-agri-exports-imports_d2f1c4.jpg" medium="image">
+			<media:title type="html">india-agri-exports-imports_d2f1c4</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/03/india-top-exports.jpg?resize=600,493" medium="image">
