@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 08 Mar 2025 01:39:58 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 08 Mar 2025 02:52:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why US has lost 22% of its butterfly population over past 2 decades</title>
+		<link>https://indianexpress.com/article/explained/why-us-has-lost-22-of-its-butterfly-population-over-past-2-decades-9874713/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 08 Mar 2025 02:15:38 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9874713</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9874713</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/Butterfly-ex.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/Butterfly-ex.jpg" medium="image">
+			<media:title type="html">A monarch butterfly is seen at an enclosure at Boone Hall Plantation and Gardens in Mount Pleasant</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why Vanuatu boasts one of the most popular ‘golden passport’ schemes</title>
 		<link>https://indianexpress.com/article/explained/explained-global/why-vanuatu-boasts-one-of-the-most-popular-golden-passport-schemes-9874744/</link>
 		
@@ -4002,25 +4021,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/gaurav-and-elizabeth-gogoi.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/gaurav-and-elizabeth-gogoi.jpg" medium="image">
 			<media:title type="html">gaurav and elizabeth gogoi</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What does the doubles tweak in the US Open mean</title>
-		<link>https://indianexpress.com/article/explained/explained-sports/what-does-the-doubles-tweak-in-the-us-open-mean-9833075/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 13 Feb 2025 02:30:36 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sports]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9833075</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9833075</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/opens.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/opens.jpg" medium="image">
-			<media:title type="html">opens</media:title>
 		</media:content>
 	</item>
 	</channel>
