@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 11 Mar 2025 02:21:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Mar 2025 07:01:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>When our ancestors started using tools: the theories and the evidence</title>
+		<title>When humans started using tools: the theories and the evidence</title>
 		<link>https://indianexpress.com/article/explained/when-our-ancestors-started-using-tools-the-theories-and-the-evidence-9879827/</link>
 		
 		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
@@ -51,7 +51,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Explained: How a gene-edited banana may help reduce food waste</title>
+		<title>How new gene-edited bananas could help reduce food waste</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/explained-how-a-gene-edited-banana-may-help-reduce-food-waste-9879774/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
