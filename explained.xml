@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 12 Mar 2025 06:18:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Mar 2025 08:06:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Why former Philippine President rodrigo Duterte was arrested</title>
+		<title>Immigration and Foreigners Bill, 2025 in Parliament: Its provisions, criticism</title>
+		<link>https://indianexpress.com/article/explained/explained-law/immigration-and-foreigners-bill-2025-provisions-criticism-9882521/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 12 Mar 2025 08:06:45 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9882521</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9882521</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/nityanand-rai-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/nityanand-rai-1600.jpg" medium="image">
+			<media:title type="html">Budget session of Parliament</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why former Philippine President Rodrigo Duterte was arrested</title>
 		<link>https://indianexpress.com/article/explained/explained-global/why-former-philippine-president-rodrigo-duterte-was-arrested-9881561/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -4006,25 +4025,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/milei-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/milei-1600.jpg" medium="image">
 			<media:title type="html">FILE PHOTO: G20 summit in Rio de Janeiro</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>PM Modi, Amit Shah &#038; Rahul Gandhi meet to appoint new Chief Election Commissioner: How the appointment process works, why it was changed</title>
-		<link>https://indianexpress.com/article/explained/explained-politics/new-cec-selection-today-process-9840781/</link>
-		
-		<dc:creator><![CDATA[Damini Nath, Ritika Chopra]]></dc:creator>
-		<pubDate>Mon, 17 Feb 2025 10:47:04 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9840781</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9840781</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Untitled-design-1-2.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Untitled-design-1-2.jpg" medium="image">
-			<media:title type="html">New CEC selection</media:title>
 		</media:content>
 	</item>
 	</channel>
