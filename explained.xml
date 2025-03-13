@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 12 Mar 2025 15:29:43 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Mar 2025 03:12:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,90 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Behind ASHA protests in Kerala: Demand for increased honorariums, other benefits</title>
+		<link>https://indianexpress.com/article/explained/behind-asha-protests-in-kerala-demand-for-increased-honorariums-other-benefits-9883668/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 03:12:39 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9883668</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9883668</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/asha-workers-protest.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/asha-workers-protest.jpg" medium="image">
+			<media:title type="html">asha workers protest</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>NASA shuts down three departments: What does it mean for the space agency?</title>
+		<link>https://indianexpress.com/article/explained/explained-global/nasa-shuts-down-departments-9883476/</link>
+		
+		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 02:15:50 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9883476</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9883476</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/NASA.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/NASA.jpg" medium="image">
+			<media:title type="html">FILE PHOTO: The NASA logo is seen in Florida</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why Byrnihat on Assam-Meghalaya border has &#8216;world&#8217;s worst air&#8217;</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/why-byrnihat-on-assam-meghalaya-border-has-worlds-worst-air-9883680/</link>
+		
+		<dc:creator><![CDATA[Sukrita Baruah]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 01:52:53 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9883680</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9883680</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/air-pollution-assam-Byrnihat.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/air-pollution-assam-Byrnihat.jpg" medium="image">
+			<media:title type="html">air pollution assam Byrnihat</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/03/byrihant-pollution.jpg" medium="image">
+			<media:title type="html">Why Byrnihat on Assam-Meghalaya border has &#039;world&#039;s worst air&#039;</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Explained: The story of Chagos, the Indian Ocean archipelago that Mauritius claims, UK controls</title>
+		<link>https://indianexpress.com/article/explained/explained-global/explained-the-story-of-chagos-the-indian-ocean-archipelago-that-mauritius-claims-uk-controls-9883678/</link>
+		
+		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
+		<pubDate>Thu, 13 Mar 2025 01:52:35 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9883678</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9883678</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/Chagos-island.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/Chagos-island.jpg" medium="image">
+			<media:title type="html">Chagos island</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/03/Chagos.jpg" medium="image">
+			<media:title type="html">Explained: The story of Chagos, the Indian Ocean archipelago that Mauritius claims, UK controls</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>This Word Means: Starlink</title>
 		<link>https://indianexpress.com/article/explained/this-word-means-starlink-9883409/</link>
 		
@@ -3937,82 +4021,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/Christian-Michel.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/Christian-Michel.jpg" medium="image">
 			<media:title type="html">Christian Michel</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Security downgraded for Maharashtra MLAs: who decides the level of security, and how?</title>
-		<link>https://indianexpress.com/article/explained/everyday-explainers/security-downgrade-maharashtra-mla-salman-9842530/</link>
-		
-		<dc:creator><![CDATA[Mohamed Thaver]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 10:24:06 +0000</pubDate>
-		<category><![CDATA[Everyday Explainers]]></category><category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9842530</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9842530</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/maharashtra-security-cover.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/02/maharashtra-security-cover.jpeg" medium="image">
-			<media:title type="html">maharashtra security cover</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Row over UP school&#8217;s name: Recalling the story of Param Vir Chakra awardee Abdul Hamid</title>
-		<link>https://indianexpress.com/article/explained/explained-history/india-pakistan-war-1965-school-abdul-hamid-9842465/</link>
-		
-		<dc:creator><![CDATA[Man Aman Singh Chhina]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 10:06:58 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9842465</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9842465</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Abdul-hamid-war-role.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Abdul-hamid-war-role.jpeg" medium="image">
-			<media:title type="html">Abdul hamid war role</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why the BMC has mandated Mumbai’s eateries and bakeries to switch to clean fuels</title>
-		<link>https://indianexpress.com/article/explained/why-the-bmc-has-mandated-mumbais-eateries-and-bakeries-to-switch-to-clean-fuels-9842422/</link>
-		
-		<dc:creator><![CDATA[Pratip Acharya]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 09:06:32 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9842422</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9842422</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/ch1920057.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/ch1920057.jpg" medium="image">
-			<media:title type="html">bakery</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What is the fraud at Mumbai&#8217;s New India Cooperative Bank, why depositors can&#8217;t get their money</title>
-		<link>https://indianexpress.com/article/explained/fraud-at-mumbais-new-india-cooperative-bank-9842419/</link>
-		
-		<dc:creator><![CDATA[Sagar Rajput]]></dc:creator>
-		<pubDate>Tue, 18 Feb 2025 09:02:38 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9842419</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9842419</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/new-india-bank-600.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/02/new-india-bank-600.jpeg" medium="image">
-			<media:title type="html">new india bank 600</media:title>
 		</media:content>
 	</item>
 	</channel>
