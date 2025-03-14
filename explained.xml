@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 14 Mar 2025 01:27:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Mar 2025 02:23:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Donald Trump rolls back use of paper straws: Are plastic straws really so bad for the environment?</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/are-plastic-straws-really-so-bad-for-the-environment-9885277/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 14 Mar 2025 02:40:25 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9885277</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9885277</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/straw-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/straw-1600.jpg" medium="image">
+			<media:title type="html">straw 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why are hospitals and nursing homes in Ahmedabad suspending cashless insurance from three private insurers?</title>
 		<link>https://indianexpress.com/article/explained/why-are-hospitals-and-nursing-homes-in-ahmedabad-suspending-cashless-insurance-from-three-private-insurers-9885402/</link>
 		
@@ -4002,33 +4021,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/nabha-jail.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/nabha-jail.jpg" medium="image">
 			<media:title type="html">nabha jail</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What is deposit insurance, and how will raising it help you?</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/deposit-insurance-explained-9843069/</link>
-		
-		<dc:creator><![CDATA[Hitesh Vyas, Aanchal Magazine]]></dc:creator>
-		<pubDate>Wed, 19 Feb 2025 01:50:19 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9843069</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9843069</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Nicb-Deposit-Insurance-Explained-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Nicb-Deposit-Insurance-Explained-1.jpg" medium="image">
-			<media:title type="html">Nicb Deposit Insurance Explained</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/02/PR_PaymentUnderSec_18A_DICGCAct_NewIndiaCoopBank.jpg?resize=417,600" medium="image">
-			<media:title type="html">A press release by the New India Cooperative Bank advertising payment under Section 18A of the DICGC Act </media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/02/WillingnessForm_Nov2021_page-0001.jpg?resize=464,600" medium="image">
-			<media:title type="html">Willingness Form Nov 2021</media:title>
 		</media:content>
 	</item>
 	</channel>
