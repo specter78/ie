@@ -13,10 +13,10 @@
 
 <channel>
 	<title>Opinion | The Indian Express</title>
-	<atom:link href="https://indianexpress.com/section/opinion/feed/?service=rss" rel="self" type="application/rss+xml" />
+	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 16 Mar 2025 02:04:41 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 16 Mar 2025 02:27:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -51,7 +51,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Tavleen Singh writes: Investment needed in people</title>
+		<title>Tavleen Singh writes: India is beginning to run out of time</title>
 		<link>https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-investment-needed-in-people-9887944/</link>
 		
 		<dc:creator><![CDATA[Tavleen Singh]]></dc:creator>
