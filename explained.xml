@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 21 Mar 2025 07:04:33 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Mar 2025 08:04:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -35,7 +35,7 @@
 		<title>Voyage of the iguanas: How they travelled from Americas to Fiji</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/voyage-of-the-iguanas-how-they-travelled-from-americas-to-fiji-9897398/</link>
 		
-		<dc:creator><![CDATA[The New York Times]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Fri, 21 Mar 2025 02:16:02 +0000</pubDate>
 		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9897398</guid>
 
@@ -108,7 +108,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Explained: Tiger traders switch to rhino horn routes, enforcement plays catch-up</title>
+		<title>Explained: As tiger traders switch to rhino horn routes, enforcement plays catch-up</title>
 		<link>https://indianexpress.com/article/explained/explained-tiger-traders-switch-to-rhino-horn-routes-enforcement-plays-catch-up-9897459/</link>
 		
 		<dc:creator><![CDATA[Jay Mazoomdaar]]></dc:creator>
@@ -193,6 +193,10 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/03/Aurangzeb-grave.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/03/Aurangzeb-grave.jpg" medium="image">
 			<media:title type="html">Aurangzeb grave</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/03/Aurangzeb-grave-1.jpg" medium="image">
+			<media:title type="html">The grave of Aurangzeb. </media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/03/jahanara-1600.jpg" medium="image">
