@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 25 Mar 2025 15:05:11 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Mar 2025 02:11:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Trump and Canada’s election</title>
+		<link>https://indianexpress.com/article/explained/explained-global/trump-and-canadas-election-9906310/</link>
+		
+		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
+		<pubDate>Wed, 26 Mar 2025 01:30:34 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9906310</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9906310</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/Mark-and-Pierre-4col.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/Mark-and-Pierre-4col.jpg" medium="image">
+			<media:title type="html">Canada&#039;s Prime Minister Mark Carney takes part in a news conference in Gander, Newfoundland</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>This Word Means: Signal</title>
 		<link>https://indianexpress.com/article/explained/this-word-means-signal-messaging-app-9905711/</link>
 		
@@ -4004,25 +4023,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/02/White-Lotus-effect-set-jetting.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/02/White-Lotus-effect-set-jetting.jpg" medium="image">
 			<media:title type="html">White Lotus effect set-jetting</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Supreme Court stayed a Lokpal order on an HC judge over a corruption complaint</title>
-		<link>https://indianexpress.com/article/explained/explained-law/in-supreme-court-staying-lokpal-order-on-hc-judge-question-of-complaints-procedure-9860284/</link>
-		
-		<dc:creator><![CDATA[Ajoy Sinha Karpuram]]></dc:creator>
-		<pubDate>Fri, 28 Feb 2025 02:15:54 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9860284</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9860284</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/02/Supreme-Court-building_4b735a.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/02/Supreme-Court-building_4b735a.jpeg" medium="image">
-			<media:title type="html">Supreme-Court-building_4b735a</media:title>
 		</media:content>
 	</item>
 	</channel>
