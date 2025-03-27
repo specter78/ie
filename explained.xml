@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 27 Mar 2025 07:28:02 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Mar 2025 10:28:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Europe&#8217;s space agency retires Gaia, the cartographer of the cosmos: Its mission &#038; significance</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/european-space-agency-retires-gaia-9909159/</link>
+		
+		<dc:creator><![CDATA[Sonal Gupta]]></dc:creator>
+		<pubDate>Thu, 27 Mar 2025 10:28:30 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9909159</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9909159</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/Gaia-mapping-the-Milky-Way.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/Gaia-mapping-the-Milky-Way.jpg" medium="image">
+			<media:title type="html">Gaia mapping the Milky Way</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/03/Gaia-constellation.jpg?resize=600,450" medium="image">
+			<media:title type="html">L2 position Gaia</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why Martian dust may pose health risks to astronauts</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/martian-dust-health-risks-astronauts-9907741/</link>
 		
@@ -4012,25 +4035,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/03/waqfe.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/03/waqfe.jpg" medium="image">
 			<media:title type="html">waqfe</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Opportunity in markets sell-off: Why experts are advising for staggered investments in large caps</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/opportunity-in-sell-off-make-staggered-investments-in-large-caps-say-experts-9862176/</link>
-		
-		<dc:creator><![CDATA[Sandeep Singh]]></dc:creator>
-		<pubDate>Fri, 28 Feb 2025 22:12:08 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9862176</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9862176</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/03/stockMarket-4cole.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/03/stockMarket-4cole.jpg" medium="image">
-			<media:title type="html">Budget Session of Parliament</media:title>
 		</media:content>
 	</item>
 	</channel>
