@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 28 Mar 2025 13:01:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Mar 2025 13:43:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>In South Korea, a painful reckoning with a history of ‘baby exporting’</title>
+		<link>https://indianexpress.com/article/opinion/columns/south-korea-painful-reckoning-with-a-history-of-baby-exporting-9911701/</link>
+		
+		<dc:creator><![CDATA[Torunika Roy]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2025 13:43:39 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9911701</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9911701</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/South-Korea-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/South-Korea-2.jpg" medium="image">
+			<media:title type="html">South Korea baby adoption</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>&#8216;Adolescence&#8217; shows us what ‘polite violence’ looks like</title>
 		<link>https://indianexpress.com/article/opinion/columns/adolescence-shows-us-what-polite-violence-looks-like-9911550/</link>
 		
@@ -3842,25 +3861,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/03/delhi-pollution-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/03/delhi-pollution-1.jpg" medium="image">
 			<media:title type="html">delhi pollution</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>After Trudeau, an opening: Can Canada&#8217;s new PM reset ties with India?</title>
-		<link>https://indianexpress.com/article/opinion/columns/canada-prime-minister-india-mark-carney-9882920/</link>
-		
-		<dc:creator><![CDATA[Sneha Bhagat]]></dc:creator>
-		<pubDate>Wed, 12 Mar 2025 11:26:00 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9882920</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9882920</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/03/Opinion2_24th-March.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/03/Opinion2_24th-March.jpg" medium="image">
-			<media:title type="html">Opinion2_24th-March</media:title>
 		</media:content>
 	</item>
 	</channel>
