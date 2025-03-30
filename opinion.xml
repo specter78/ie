@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Fat, skinny and skinny-fat: A weight-loss drug may not be the answer</title>
+		<link>https://indianexpress.com/article/opinion/columns/weight-loss-drug-may-not-be-the-answer-mounjaro-chronic-illness-9914175/</link>
+		
+		<dc:creator><![CDATA[Rinku Ghosh]]></dc:creator>
+		<pubDate>Sun, 30 Mar 2025 10:30:29 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9914175</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9914175</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/mounjaro_c84673.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/mounjaro_c84673.jpg" medium="image">
+			<media:title type="html">Mounjaro</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>The man behind the RSS: Why K B Hedgewar remains relevant</title>
 		<link>https://indianexpress.com/article/opinion/columns/man-behind-rss-k-b-hedgewar-relevance-9914141/</link>
 		
@@ -3842,25 +3861,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/03/gyanendra-shah-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/03/gyanendra-shah-1.jpg" medium="image">
 			<media:title type="html">gyanendra shah (1)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The loophole in Supreme Court guidelines on arbitrary demolitions</title>
-		<link>https://indianexpress.com/article/opinion/columns/the-loophole-in-supreme-court-guidelines-on-arbitrary-demolitions-9884722/</link>
-		
-		<dc:creator><![CDATA[Areeb Uddin Ahmed]]></dc:creator>
-		<pubDate>Thu, 13 Mar 2025 08:56:15 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9884722</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9884722</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/03/UP-demolition.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/03/UP-demolition.jpg" medium="image">
-			<media:title type="html">Bulldozer razes Javed Ahmed&#039;s house in Prayagraj</media:title>
 		</media:content>
 	</item>
 	</channel>
