@@ -32,25 +32,6 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Waqf Bill is about transparency. Why is do naysayers oppose reform?</title>
-		<link>https://indianexpress.com/article/opinion/columns/waqf-bill-is-about-transparency-why-is-do-naysayers-oppose-reform-9921313/</link>
-		
-		<dc:creator><![CDATA[Shehzad Poonawalla]]></dc:creator>
-		<pubDate>Thu, 03 Apr 2025 05:12:33 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9921313</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9921313</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/muslims-express_20250403010123.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/muslims-express_20250403010123.jpg" medium="image">
-			<media:title type="html">muslims Waqf Bill</media:title>
-		</media:content>
-	</item>
-		<item>
 		<title>Waqf Bill will bring transparency. So why is it causing anxiety?</title>
 		<link>https://indianexpress.com/article/opinion/columns/transparency-waqf-amendment-bill-parliament-9921661/</link>
 		
@@ -3861,6 +3842,25 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/03/Omar-3col.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/03/Omar-3col.jpg" medium="image">
 			<media:title type="html">J-K CM interacts with media in Srinagar</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>For the debacle that is ‘Nadaaniyan’, blame the writer, not actors</title>
+		<link>https://indianexpress.com/article/opinion/columns/for-the-debacle-that-is-nadaaniyan-blame-the-writer-not-actors-9894288/</link>
+		
+		<dc:creator><![CDATA[Deepika Singh]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2025 07:42:10 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9894288</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9894288</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/Nadaniyaan.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/Nadaniyaan.jpg" medium="image">
+			<media:title type="html">Nadaniyaan</media:title>
 		</media:content>
 	</item>
 	</channel>
