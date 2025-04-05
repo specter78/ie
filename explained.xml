@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 05 Apr 2025 13:21:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Apr 2025 15:04:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,33 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Story of Nintendo: How a company that made handcrafted playing cards became a billion dollar tech giant</title>
+		<link>https://indianexpress.com/article/explained/explained-history/story-of-nintendo-9927048/</link>
+		
+		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
+		<pubDate>Sat, 05 Apr 2025 15:04:28 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9927048</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9927048</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/Nintendo-Charitra.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/Nintendo-Charitra.jpg" medium="image">
+			<media:title type="html">Nintendo Charitra</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/NINTENDO-MUSEUM-8.jpg?resize=600,400" medium="image">
+			<media:title type="html">Nintendo Hanafuda playing cards on display </media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/NINTENDO-MUSEUM-6.jpg?resize=600,400" medium="image">
+			<media:title type="html">The Legend of Zelda: Majora&#039;s Mask on display at the new Nintendo Museum in Kyoto, Japan, Sept. 24, 2024 (Shiho Fukada/The New York Times)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>This Word Means: Stagflation</title>
 		<link>https://indianexpress.com/article/explained/this-word-means-stagflation-9926784/</link>
 		
@@ -234,7 +261,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Why Trump’s tariffs are bring compared to Smoot-Hawley Tariff Act, which worsened the Great Depression</title>
+		<title>Why Trump’s tariffs are being compared to Smoot-Hawley Tariff Act, which worsened the Great Depression</title>
 		<link>https://indianexpress.com/article/explained/explained-history/smoot-hawley-tariff-act-great-depression-9923238/</link>
 		
 		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
@@ -3988,25 +4015,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/03/baps-temple.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/03/baps-temple.jpg" medium="image">
 			<media:title type="html">baps temple</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Trump withdrew from the Iran nuclear deal in 2018, and why he wants to renegotiate now</title>
-		<link>https://indianexpress.com/article/explained/explained-global/trump-iran-nuclear-deal-9876030/</link>
-		
-		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
-		<pubDate>Sun, 09 Mar 2025 02:58:13 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9876030</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9876030</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/03/Trump-Iran-nuclear-deal.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/03/Trump-Iran-nuclear-deal.jpg" medium="image">
-			<media:title type="html">Trump Iran nuclear deal</media:title>
 		</media:content>
 	</item>
 	</channel>
