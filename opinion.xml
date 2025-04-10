@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 10 Apr 2025 08:15:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Apr 2025 10:05:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>AI is now the influencer, not humans</title>
+		<link>https://indianexpress.com/article/opinion/columns/ai-is-now-the-influencer-not-humans-9936387/</link>
+		
+		<dc:creator><![CDATA[Tara Das]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 10:05:38 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9936387</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9936387</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/AI.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/AI.jpg" medium="image">
+			<media:title type="html">Artificial Intelligence</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Censoring historical facts in the upcoming Hindi film &#8216;Phule&#8217; will defeat its purpose</title>
 		<link>https://indianexpress.com/article/opinion/columns/censoring-historical-facts-phule-defeat-purpose-9936247/</link>
 		
@@ -3838,25 +3857,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/03/Sarada-Muraleedharan.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/03/Sarada-Muraleedharan.jpg" medium="image">
 			<media:title type="html">Sarada Muraleedharan</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Aurangzeb is no role model</title>
-		<link>https://indianexpress.com/article/opinion/columns/aurangzeb-is-no-role-model-9908108/</link>
-		
-		<dc:creator><![CDATA[Balbir Punj]]></dc:creator>
-		<pubDate>Thu, 27 Mar 2025 01:37:11 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9908108</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9908108</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/03/NJAC-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/03/NJAC-1.jpg" medium="image">
-			<media:title type="html">Nagpur_77968b_20250326205512.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
