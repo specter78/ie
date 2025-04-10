@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 10 Apr 2025 06:32:56 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Apr 2025 07:56:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Adolescence shows that punishment alone can’t end gender-based violence</title>
+		<link>https://indianexpress.com/article/opinion/columns/adolescence-punishment-cant-end-gender-based-violence-9936192/</link>
+		
+		<dc:creator><![CDATA[Stuti Shah]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 07:55:59 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9936192</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9936192</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/adolescence.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/adolescence.jpg" medium="image">
+			<media:title type="html">adolescence</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>AICC meet: Will Congress’s revival strategy work?</title>
+		<link>https://indianexpress.com/article/opinion/columns/aicc-meet-congress-revival-strategy-work-9936141/</link>
+		
+		<dc:creator><![CDATA[Satish K Jha]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2025 07:37:41 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9936141</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9936141</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/Feb1-2025-04-10T130455.329.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/Feb1-2025-04-10T130455.329.jpg" medium="image">
+			<media:title type="html">The AICC session offered the opportune moment for Congress to reset its agenda for 2029 as there is not much at stake in the next few state elections, barring Gujarat.</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Express View on assault on women in Thane for not speaking Marathi: MNS is out of touch with reality</title>
 		<link>https://indianexpress.com/article/opinion/editorials/express-view-on-assault-on-women-in-thane-for-not-speaking-marathi-mns-is-out-of-touch-with-reality-9935164/</link>
 		
@@ -3819,44 +3857,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/03/firoz-bakht-ahmed.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/03/firoz-bakht-ahmed.jpg" medium="image">
 			<media:title type="html">firoz bakht ahmed</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Justice Varma case: Supreme Court must revisit NJAC</title>
-		<link>https://indianexpress.com/article/opinion/columns/justice-varma-case-supreme-court-must-revisit-njac-9908106/</link>
-		
-		<dc:creator><![CDATA[K.K. Venugopal]]></dc:creator>
-		<pubDate>Thu, 27 Mar 2025 01:33:00 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9908106</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9908106</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/03/NJAC_c34fb1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/03/NJAC_c34fb1.jpg" medium="image">
-			<media:title type="html">NJAC_c34fb1</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>March 27, 1985, Forty Years Ago: Bandh Impact</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/march-27-1985-forty-years-ago-bandh-impact-9908083/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 27 Mar 2025 01:31:03 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9908083</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9908083</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/03/express-archive-15.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/03/express-archive-15.jpg" medium="image">
-			<media:title type="html">express archive</media:title>
 		</media:content>
 	</item>
 	</channel>
