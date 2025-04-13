@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 12 Apr 2025 18:42:33 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Apr 2025 06:55:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>How anime has repeatedly overcome challenges that defined the times</title>
+		<title>Ghibli trend: How anime has repeatedly overcome challenges that defined the times</title>
 		<link>https://indianexpress.com/article/explained/explained-culture/anime-origins-challenges-9940738/</link>
 		
 		<dc:creator><![CDATA[Ajoy Sinha Karpuram]]></dc:creator>
@@ -70,7 +70,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>What to know about renewed efforts to implement long-delayed Punjab Public Libraries Bill</title>
+		<title>Explained: Ideas behind the Punjab Public Libraries Bill and recent efforts for its revival</title>
 		<link>https://indianexpress.com/article/explained/punjab-public-libraries-bill-9940441/</link>
 		
 		<dc:creator><![CDATA[Raakhi Jagga]]></dc:creator>
@@ -102,9 +102,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9940431</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/carav.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/carav.jpg" medium="image">
-			<media:title type="html">carav</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/Untitled-design-23.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/Untitled-design-23.jpg" medium="image">
+			<media:title type="html">Caravaggio</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Boy_Bitten_by_a_Lizard-Caravaggio_National_Gallery_London.jpg?resize=441,600" medium="image">
@@ -134,7 +134,7 @@
 			<media:title type="html">nix</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Screenshot-2025-04-12-001320.jpg?resize=600,398" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Screenshot-2025-04-12-001320.jpg?resize=611,405" medium="image">
 			<media:title type="html">tariffs </media:title>
 		</media:content>
 	</item>
