@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 14 Apr 2025 02:19:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Apr 2025 08:15:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>How scientists developed a new way of examining rare cancer</title>
+		<title>How scientists developed a new way of examining a rare form of colorectal cancer</title>
 		<link>https://indianexpress.com/article/explained/explained-health/explained-how-scientists-developed-a-new-way-of-examining-rare-cancer-9942586/</link>
 		
 		<dc:creator><![CDATA[Anuradha Mascarenhas]]></dc:creator>
@@ -51,7 +51,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Tracking the world’s forests; how the ESA’s Biomass mission will work</title>
+		<title>Tracking the world’s forests: how the ESA’s Biomass mission will work</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/explained-tracking-the-worlds-forests-how-the-esas-biomass-mission-will-work-9942562/</link>
 		
 		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
@@ -70,7 +70,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Expert Explains: US-Iran nuclear talks— what has happened so far, why, and the road ahead</title>
+		<title>Expert Explains: US-Iran nuclear talks — what has happened so far, why, and the road ahead</title>
 		<link>https://indianexpress.com/article/explained/explained-global/expert-explains-us-iran-nuclear-talks-what-has-happened-so-far-why-and-the-road-ahead-9942561/</link>
 		
 		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
