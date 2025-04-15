@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 15 Apr 2025 05:48:58 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 15 Apr 2025 06:54:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Prerna Shrimali writes: Kumudini Lakhia, my teacher who loved tradition and breaking past it</title>
+		<link>https://indianexpress.com/article/opinion/columns/prerna-shrimali-writes-kumudini-lakhia-my-teacher-who-loved-tradition-and-breaking-past-it-9945052/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 15 Apr 2025 06:50:24 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9945052</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9945052</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/Kumudini-Lakhia-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/Kumudini-Lakhia-2.jpg" medium="image">
+			<media:title type="html">Kumudini Lakhia</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Bhetki, bhakti and Bengalis: In C R Park, a fishy business</title>
+		<link>https://indianexpress.com/article/opinion/columns/bhetki-bhakti-bengalis-c-r-park-fishy-business-9944990/</link>
+		
+		<dc:creator><![CDATA[Devapriya Roy]]></dc:creator>
+		<pubDate>Tue, 15 Apr 2025 06:15:19 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9944990</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9944990</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/cr-park-1.png" />
+		<media:content url="https://images.indianexpress.com/2025/04/cr-park-1.png" medium="image">
+			<media:title type="html">cr-park (1)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What hitting the fast-forward button on The White Lotus reveals about you</title>
 		<link>https://indianexpress.com/article/opinion/columns/what-hitting-fast-forward-button-white-lotus-reveals-about-you-9944926/</link>
 		
@@ -3803,44 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/Opinion1_1st-April.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/Opinion1_1st-April.jpg" medium="image">
 			<media:title type="html">Opinion1_1st-April</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express View: &#8216;Empuraan&#8217; makers&#8217; voluntary modifications sets a disquieting precedent</title>
-		<link>https://indianexpress.com/article/opinion/editorials/express-view-empuraan-makers-voluntary-modifications-sets-a-disquieting-precedent-9917033/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 01:38:50 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9917033</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9917033</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/express-view-Copy.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/express-view-Copy.jpg" medium="image">
-			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>US and Iran should return to negotiations. A nuclear deal is good for West Asia and the world</title>
-		<link>https://indianexpress.com/article/opinion/editorials/us-and-iran-should-return-to-negotiations-a-nuclear-deal-is-good-for-west-asia-and-the-world-9917030/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 01 Apr 2025 01:38:35 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9917030</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9917030</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/express-view-Copy-2.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/express-view-Copy-2.jpg" medium="image">
-			<media:title type="html">express view</media:title>
 		</media:content>
 	</item>
 	</channel>
