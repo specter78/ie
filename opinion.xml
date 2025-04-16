@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 16 Apr 2025 03:26:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 16 Apr 2025 05:34:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Raghuram Rajan and Rohit Lamba are wrong. India should not give up on manufacturing</title>
+		<link>https://indianexpress.com/article/opinion/columns/raghuram-rajan-rohit-lamba-wrong-india-not-give-up-manufacturing-9946947/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2025 05:34:37 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9946947</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9946947</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/02/manufacturing.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/02/manufacturing.jpg" medium="image">
+			<media:title type="html">manufacturing</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Challenge to Waqf Act: A legal game of fastest fingers first</title>
 		<link>https://indianexpress.com/article/opinion/columns/challenge-to-waqf-act-a-legal-game-of-fastest-fingers-first-9946705/</link>
 		
@@ -3822,25 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/express-view-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/express-view-1.jpg" medium="image">
 			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>April 2, 1985, Forty Years Ago: Another Gas Leak</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/april-2-1985-forty-years-ago-another-gas-leak-9919281/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 02 Apr 2025 01:40:58 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9919281</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9919281</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/express-archives.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/express-archives.jpg" medium="image">
-			<media:title type="html">express archives</media:title>
 		</media:content>
 	</item>
 	</channel>
