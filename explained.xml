@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 17 Apr 2025 13:10:09 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 17 Apr 2025 13:26:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -128,6 +128,10 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Leonardo_da_Vinci_1452-1519_-_The_Last_Supper_1495-1498.jpg" medium="image">
 			<media:title type="html">Leonardo_da_Vinci_(1452-1519)_-_The_Last_Supper_(1495-1498)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-17-at-18.43.49.jpeg" medium="image">
+			<media:title type="html">Untitled (Last Supper) by Jamini Roy. Courtesy: DAG</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/LastSupperInRedDesert.jpg" medium="image">
