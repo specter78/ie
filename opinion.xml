@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 20 Apr 2025 07:56:30 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Apr 2025 08:23:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Anil Kapoor writes: From jugaad and Mr India to the leap to global greatness — a wave is coming</title>
+		<link>https://indianexpress.com/article/opinion/columns/anil-kapoor-writes-from-jugaad-and-mr-india-to-the-leap-to-global-greatness-a-wave-is-coming-9954828/</link>
+		
+		<dc:creator><![CDATA[Anil Kapoor]]></dc:creator>
+		<pubDate>Sun, 20 Apr 2025 08:13:48 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9954828</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9954828</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/dharavui-51.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/dharavui-51.jpg" medium="image">
+			<media:title type="html">WAVES Summit is set to take place at the Jio World Convention Centre in Mumbai from May 1 to May 4.</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Two policemen, and what their actions say about a bruised Insaniyat in India</title>
 		<link>https://indianexpress.com/article/opinion/columns/two-policemen-actions-bruised-insaniyat-india-9954763/</link>
 		
@@ -3822,25 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/edit.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/edit.jpg" medium="image">
 			<media:title type="html">edit</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>US nuclear reactors in India: A new energy</title>
-		<link>https://indianexpress.com/article/opinion/editorials/us-nuclear-reactors-in-india-a-new-energy-9925655/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 05 Apr 2025 01:55:46 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9925655</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9925655</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/edit_43a0ef.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/edit_43a0ef.jpg" medium="image">
-			<media:title type="html">edit_43a0ef</media:title>
 		</media:content>
 	</item>
 	</channel>
