@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 19 Apr 2025 15:13:39 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 20 Apr 2025 07:40:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -150,7 +150,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Adam Smith, David Ricardo, Donald Trump and semiconductors: How US tariffs herald an end to the era of hyper-globalisation</title>
+		<title>Adam Smith, Donald Trump and semiconductors: How US tariffs herald an end to hyper-globalisation</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/adam-smith-david-ricardo-and-donald-trump-how-us-tariffs-herald-an-end-to-the-era-of-hyper-globalisation-9952282/</link>
 		
 		<dc:creator><![CDATA[Harish Damodaran]]></dc:creator>
@@ -168,8 +168,8 @@
 			<media:title type="html">ada</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/hyper-global-explained.jpg" medium="image">
-			<media:title type="html">Global market share of top semiconductor makers</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Global-share-of-top-semiconductor-manufacturers.jpg?resize=728,402" medium="image">
+			<media:title type="html">Global market share of top semiconductor makers.</media:title>
 		</media:content>
 	</item>
 		<item>
