@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 21 Apr 2025 07:25:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Apr 2025 11:07:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The limits — and possibilities — of India’s humanitarianism in Myanmar</title>
+		<link>https://indianexpress.com/article/opinion/columns/myanmar-earthquake-india-humanitarian-aid-9956803/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 21 Apr 2025 11:05:40 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9956803</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9956803</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/myanmar-earthquake-6.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/myanmar-earthquake-6.jpg" medium="image">
+			<media:title type="html">myanmar earthquake</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Can M K Stalin’s committee help deepen ‘cooperative federalism’?</title>
 		<link>https://indianexpress.com/article/opinion/columns/m-k-stalin-committee-federalism-9956415/</link>
 		
@@ -3814,25 +3833,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/Opinion4_7th-April.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/Opinion4_7th-April.jpg" medium="image">
 			<media:title type="html">Opinion4_7th-April</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>At BIMSTEC summit, an opportunity for India to strengthen its Act East Policy</title>
-		<link>https://indianexpress.com/article/opinion/editorials/at-bimstec-summit-an-opportunity-for-india-to-strengthen-its-act-east-policy-9928696/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 02:12:21 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9928696</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9928696</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/express-view-Copy-2-4.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/express-view-Copy-2-4.jpg" medium="image">
-			<media:title type="html">express view</media:title>
 		</media:content>
 	</item>
 	</channel>
