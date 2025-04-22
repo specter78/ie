@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 22 Apr 2025 07:05:48 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Apr 2025 08:05:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>India has a serious food adulteration problem</title>
+		<link>https://indianexpress.com/article/opinion/columns/india-serious-food-adulteration-problem-9958446/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 07:45:49 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9958446</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9958446</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/food-adulteration.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/food-adulteration.jpg" medium="image">
+			<media:title type="html">_food adulteration</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>PM Modi’s crucial visit to Saudi Arabia highlights India’s vision to act as a reliable regional power</title>
 		<link>https://indianexpress.com/article/opinion/columns/pm-modi-crucial-visit-saudi-arabiaindia-vision-regional-power-9958330/</link>
 		
@@ -206,7 +225,7 @@
 		<title>India has chosen diversity when it comes to language. We should not defeat the purpose behind that choice</title>
 		<link>https://indianexpress.com/article/opinion/columns/india-diversity-language-should-not-defeat-purpose-9956967/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[Papia Sengupta]]></dc:creator>
 		<pubDate>Mon, 21 Apr 2025 11:28:39 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9956967</guid>
 
@@ -3814,25 +3833,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/express-view-Copy-6.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/express-view-Copy-6.jpg" medium="image">
 			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Does Waqf Act serve Muslim women at all?</title>
-		<link>https://indianexpress.com/article/opinion/columns/waqf-act-muslim-women-9930101/</link>
-		
-		<dc:creator><![CDATA[Nabeela Jamil]]></dc:creator>
-		<pubDate>Mon, 07 Apr 2025 11:36:55 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9930101</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9930101</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/muslim-women.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/muslim-women.jpg" medium="image">
-			<media:title type="html">muslim women</media:title>
 		</media:content>
 	</item>
 	</channel>
