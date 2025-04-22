@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 22 Apr 2025 12:18:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 22 Apr 2025 14:45:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Mamata Banerjee’s visit to Furfura Sharif is not merely ‘Muslim appeasement’</title>
+		<link>https://indianexpress.com/article/opinion/columns/mamata-banerjees-visit-furfura-sharif-not-merely-muslim-appeasement-9959400/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 22 Apr 2025 14:45:14 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9959400</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9959400</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/mamata_14d614.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/mamata_14d614.jpg" medium="image">
+			<media:title type="html">mamata_14d614</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>US tariffs are likely to remake the global trade system. Few economies are prepared for this</title>
 		<link>https://indianexpress.com/article/opinion/us-tariffs-likely-remake-global-trade-system-few-economies-prepared-9959147/</link>
 		
@@ -3814,25 +3833,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/raj-thackeray-1_20250407193653.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/raj-thackeray-1_20250407193653.jpg" medium="image">
 			<media:title type="html">Raj Thackeray MNS</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The Third Edit: The hope and disappointment of the internet</title>
-		<link>https://indianexpress.com/article/opinion/editorials/the-third-edit-the-hope-and-disappointment-of-the-internet-9930813/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 08 Apr 2025 02:12:22 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9930813</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9930813</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/express-view-4.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/express-view-4.jpg" medium="image">
-			<media:title type="html">express view</media:title>
 		</media:content>
 	</item>
 	</channel>
