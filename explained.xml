@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 24 Apr 2025 01:56:52 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 24 Apr 2025 03:27:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -77,12 +77,8 @@
 			<media:title type="html">Indus water treaty</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Shutdown-in-Srinagar-to-protest-the-terror-attack.-Shuaib-Masoodi.jpg" medium="image">
-			<media:title type="html">‘Sin to stay silent’: Srinagar to Jammu, towns shut down, people turn out in solidarity, protest attack</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/pahalgaon.jpg" medium="image">
-			<media:title type="html">pahalgaon</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Kashmir-2-1.jpg" medium="image">
+			<media:title type="html">Indus Waters Treaty Suspended: People participate in a candlelight protest in Srinagar on Wednesday, a day after an attack killed 26 people in Pahalgam</media:title>
 		</media:content>
 	</item>
 		<item>
