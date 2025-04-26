@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>With Pakistan and terror, an uneasy sense of deja vu</title>
+		<link>https://indianexpress.com/article/opinion/with-pakistan-and-terror-an-uneasy-sense-of-deja-vu-9967085/</link>
+		
+		<dc:creator><![CDATA[Sharat Sabharwal]]></dc:creator>
+		<pubDate>Sat, 26 Apr 2025 11:30:56 +0000</pubDate>
+		<category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9967085</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9967085</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/pahalgam-terrorist-house.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/pahalgam-terrorist-house.jpg" medium="image">
+			<media:title type="html">pahalgam terrorist house</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Pope Francis did not preach inclusion. He lived it</title>
 		<link>https://indianexpress.com/article/opinion/columns/pope-francis-did-not-preach-inclusion-he-lived-it-9966893/</link>
 		
@@ -3814,25 +3833,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/edit_68b91c.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/edit_68b91c.jpg" medium="image">
 			<media:title type="html">edit_68b91c</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>At 2028 Los Angeles Olympics, a blow to gender disparity</title>
-		<link>https://indianexpress.com/article/opinion/editorials/at-2028-los-angeles-olympics-a-blow-to-gender-disparity-9939454/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 12 Apr 2025 01:55:20 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9939454</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9939454</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/edit_9d10df.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/edit_9d10df.jpg" medium="image">
-			<media:title type="html">edit_9d10df</media:title>
 		</media:content>
 	</item>
 	</channel>
