@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 26 Apr 2025 06:12:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Apr 2025 06:42:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>From ‘Sinners’ to ‘Stree’ — why horror is the new social commentary</title>
+		<link>https://indianexpress.com/article/opinion/columns/sinners-stree-horror-new-social-commentary-9966850/</link>
+		
+		<dc:creator><![CDATA[Abbas Momin]]></dc:creator>
+		<pubDate>Sat, 26 Apr 2025 06:42:30 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9966850</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9966850</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/sinners.png" />
+		<media:content url="https://images.indianexpress.com/2025/04/sinners.png" medium="image">
+			<media:title type="html">sinners</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>The Vaccination Crisis: Chipping away at hard-won gains against infectious diseases</title>
 		<link>https://indianexpress.com/article/opinion/editorials/the-vaccination-crisis-chipping-away-at-hard-won-gains-against-infectious-diseases-9966174/</link>
 		
@@ -3814,25 +3833,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/Babasaheb-like-Gandhi-copy.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/Babasaheb-like-Gandhi-copy.jpg" medium="image">
 			<media:title type="html">Babasaheb, like Gandhi copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>West Bengal’s teacher hiring scam: A crisis long in the making</title>
-		<link>https://indianexpress.com/article/opinion/columns/west-bengals-teacher-hiring-scam-a-crisis-long-in-the-making-9939450/</link>
-		
-		<dc:creator><![CDATA[Krishna Kumar]]></dc:creator>
-		<pubDate>Sat, 12 Apr 2025 01:50:10 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9939450</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9939450</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/Waiting-for-a-teacher-copy.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/Waiting-for-a-teacher-copy.jpg" medium="image">
-			<media:title type="html">Waiting for a teacher copy</media:title>
 		</media:content>
 	</item>
 	</channel>
