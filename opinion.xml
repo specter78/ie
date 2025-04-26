@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 25 Apr 2025 15:03:11 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Apr 2025 01:42:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,82 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Pakistan is in steep decline. Army has resorted to failed strategies of the past</title>
+		<link>https://indianexpress.com/article/opinion/columns/pakistan-is-in-steep-decline-army-has-resorted-to-failed-strategies-of-the-past-9966171/</link>
+		
+		<dc:creator><![CDATA[Ramanathan Kumar]]></dc:creator>
+		<pubDate>Sat, 26 Apr 2025 01:35:51 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9966171</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9966171</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/pahalgam_2cccbd_48ab14.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/pahalgam_2cccbd_48ab14.jpg" medium="image">
+			<media:title type="html">pahalgam_2cccbd_48ab14</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Opposition’s support empowers government as it hunts for Pahalgam terrorists</title>
+		<link>https://indianexpress.com/article/opinion/editorials/oppositions-support-empowers-government-as-it-hunts-for-pahalgam-terrorists-9966173/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 26 Apr 2025 01:30:55 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9966173</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9966173</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/edit_0e4b21.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/edit_0e4b21.jpg" medium="image">
+			<media:title type="html">edit_0e4b21</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>April 26, 1985, Forty Years Ago: Bypoll Results</title>
+		<link>https://indianexpress.com/article/opinion/40-years-ago/april-26-1985-forty-years-ago-bypoll-results-9966176/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 26 Apr 2025 01:00:06 +0000</pubDate>
+		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9966176</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9966176</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/26-Apr-1985_IE_001.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/26-Apr-1985_IE_001.jpg" medium="image">
+			<media:title type="html">Indian Express</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>What can India do to get Pakistan to give up its policy of ‘proxy wars’?</title>
+		<link>https://indianexpress.com/article/opinion/columns/what-can-india-do-to-get-pakistan-to-give-up-its-policy-of-proxy-wars-9966177/</link>
+		
+		<dc:creator><![CDATA[Anju Gupta]]></dc:creator>
+		<pubDate>Sat, 26 Apr 2025 00:55:10 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9966177</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9966177</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/PAK26id.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/PAK26id.jpg" medium="image">
+			<media:title type="html">PAK26id</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Have women been sidelined in parliamentary debates and decision-making?</title>
 		<link>https://indianexpress.com/article/opinion/columns/women-sidelined-parliamentary-debates-decision-making-9965711/</link>
 		
@@ -3757,82 +3833,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/Opinion5_14th-April.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/Opinion5_14th-April.jpg" medium="image">
 			<media:title type="html">Opinion5_14th-April</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Thirty years later, Jamshedpur still contains the world and all its resources within itself</title>
-		<link>https://indianexpress.com/article/opinion/columns/jamshedpur-still-contains-the-world-and-all-its-resources-within-itself-9939020/</link>
-		
-		<dc:creator><![CDATA[Hansda Sowvendra Shekhar]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 13:13:18 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9939020</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9939020</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/Jamshedpur.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/Jamshedpur.jpg" medium="image">
-			<media:title type="html">Jamshedpur town</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Bengali Hindus know how to worship. They don’t need lessons</title>
-		<link>https://indianexpress.com/article/opinion/bengali-hindus-know-how-to-worship-they-dont-need-lessons-9938926/</link>
-		
-		<dc:creator><![CDATA[Abhik Bhattacharya]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 12:16:05 +0000</pubDate>
-		<category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9938926</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9938926</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/kali-puja.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/kali-puja.jpg" medium="image">
-			<media:title type="html">kali puja</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Buddhist monks seeking control of Mahabodhi temple shows Buddhism’s struggle against appropriation</title>
-		<link>https://indianexpress.com/article/opinion/columns/buddhist-monks-seeking-control-mahabodhi-temple-buddhism-9938861/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 11:51:13 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9938861</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9938861</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/Mahabodhi-temple-Express-Photo-Prashant-Ravi.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/Mahabodhi-temple-Express-Photo-Prashant-Ravi.jpg" medium="image">
-			<media:title type="html">Mahabodhi temple - Express Photo - Prashant Ravi</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>India&#8217;s military must prepare for climate change</title>
-		<link>https://indianexpress.com/article/opinion/columns/indias-military-must-prepare-for-climate-change-9938258/</link>
-		
-		<dc:creator><![CDATA[Zerin Osho]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 07:27:56 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9938258</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9938258</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/IE.png" />
-		<media:content url="https://images.indianexpress.com/2025/04/IE.png" medium="image">
-			<media:title type="html">western ghats</media:title>
 		</media:content>
 	</item>
 	</channel>
