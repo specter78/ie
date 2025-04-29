@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 29 Apr 2025 11:03:32 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Apr 2025 11:46:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Climate change in the Asia-Pacific: Empty classrooms, stalled dreams, a generation falling behind</title>
+		<link>https://indianexpress.com/article/opinion/columns/climate-change-asia-pacific-empty-classrooms-stalled-dreams-generation-falling-behind-9972707/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 29 Apr 2025 11:46:51 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9972707</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9972707</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/heatwave-in-india.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/heatwave-in-india.jpg" medium="image">
+			<media:title type="html">Weather: Hot day in Prayagraj</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why Pahalgam? Asim Munir&#8217;s desperation is telling</title>
 		<link>https://indianexpress.com/article/opinion/columns/why-pahalgam-asim-munirs-desperation-is-telling-9972616/</link>
 		
@@ -3830,25 +3849,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/Allahabad-High-court.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/Allahabad-High-court.jpg" medium="image">
 			<media:title type="html">Allahabad High court</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Karnataka’s caste survey: It opens a door, but the direction we walk in is still uncertain</title>
-		<link>https://indianexpress.com/article/opinion/columns/karnatakas-caste-survey-it-opens-a-door-but-the-direction-we-walk-in-is-still-uncertain-9945163/</link>
-		
-		<dc:creator><![CDATA[Afroz Alam]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 07:40:19 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9945163</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9945163</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/caste-survey.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/caste-survey.jpg" medium="image">
-			<media:title type="html">caste survey</media:title>
 		</media:content>
 	</item>
 	</channel>
