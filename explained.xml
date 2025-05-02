@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 02 May 2025 11:07:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 May 2025 12:07:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Status &#038; significance of massive anti-Naxal op in Telangana-Chhattisgarh border</title>
+		<link>https://indianexpress.com/article/explained/sankalp-anti-naxal-op-telangana-chhattisgarh-border-9978986/</link>
+		
+		<dc:creator><![CDATA[Jayprakash S Naidu]]></dc:creator>
+		<pubDate>Fri, 02 May 2025 12:00:57 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9978986</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9978986</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/KARREGUTTA.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/KARREGUTTA.jpg" medium="image">
+			<media:title type="html">KARREGUTTA</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>China this week &#124; New manufacturing PMI data and hopes from May Day holiday rush: What to know</title>
 		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-manufacturing-data-tariff-9977519/</link>
 		
@@ -4026,29 +4045,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/hands-off-protests.jpg?resize=600,338" medium="image">
 			<media:title type="html">People gather for a &#034;Remove, Reverse, Reclaim&#034; and &#034;Hands Off!&#034; demonstration at the State Capitol in Olympia, Wash., Saturday, April 5, 2025.</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>PM Modi at Jaya Sri Maha Bodhi: All about the &#8216;oldest living tree&#8217;, linked to an Indian princess</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/jaya-sri-maha-bodhi-anuradhapura-tree-history-9928450/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sun, 06 Apr 2025 13:00:07 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9928450</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9928450</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/Modi-bodhi-tree-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/Modi-bodhi-tree-1600.jpg" medium="image">
-			<media:title type="html">Modi bodhi tree 1600</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Maha_Bodhi_tree-1600.jpg?resize=600,450" medium="image">
-			<media:title type="html">Maha Bodhi tree in Gaya, bihar</media:title>
 		</media:content>
 	</item>
 	</channel>
