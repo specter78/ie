@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 04 May 2025 09:00:45 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 04 May 2025 15:41:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What counts in caste census</title>
+		<link>https://indianexpress.com/article/opinion/columns/caste-census-narendra-modi-government-inequality-mandal-commission-9982649/</link>
+		
+		<dc:creator><![CDATA[Vandita Mishra]]></dc:creator>
+		<pubDate>Sun, 04 May 2025 15:41:05 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9982649</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9982649</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/census_1a05ba.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/census_1a05ba.jpg" medium="image">
+			<media:title type="html">caste census</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Counting caste, confronting contradictions</title>
 		<link>https://indianexpress.com/article/opinion/columns/counting-caste-confronting-contradictions-9981932/</link>
 		
@@ -3830,25 +3849,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/03-Oct-1972_IE_001.jpg?resize=298,405" medium="image">
 			<media:title type="html">Jammu and Kashmir, Jammu and Kashmir rail link, Kashmir line, Udhampur-Srinagar-Baramulla Rail Link, USBRL, Jammu and Srinagar, Narendra Modi, history headline, editorial, Indian express, opinion news, current affairs</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The politics of thinness</title>
-		<link>https://indianexpress.com/article/opinion/columns/ozempic-the-politics-of-thinness-9953944/</link>
-		
-		<dc:creator><![CDATA[Leher Kala]]></dc:creator>
-		<pubDate>Sun, 20 Apr 2025 01:37:23 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9953944</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9953944</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/The-politics-of-thinness-copy.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/The-politics-of-thinness-copy.jpg" medium="image">
-			<media:title type="html">The politics of thinness copy</media:title>
 		</media:content>
 	</item>
 	</channel>
