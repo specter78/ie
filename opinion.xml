@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 05 May 2025 10:45:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 May 2025 11:49:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Australian election shows that even in fractured world the centre can hold</title>
+		<link>https://indianexpress.com/article/opinion/columns/australian-election-albanese-trump-india-indo-pacific-9984045/</link>
+		
+		<dc:creator><![CDATA[Amitabh Mattoo]]></dc:creator>
+		<pubDate>Mon, 05 May 2025 11:49:00 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9984045</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9984045</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Anthony-Albanese-1-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Anthony-Albanese-1-1.jpg" medium="image">
+			<media:title type="html">Anthony Albanese</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Two years of conflict in Manipur, and the erosion of our moral conscience</title>
 		<link>https://indianexpress.com/article/opinion/columns/manipur-violence-two-years-of-manipur-prime-minister-narendra-modi-on-manipur-9983913/</link>
 		
@@ -222,7 +241,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Vaibhav Suryavanshi and Priyansh Arya are excellent stories of change. But comparing them with Tendulkar and Sehwag is uncalled for</title>
+		<title>Vaibhav Suryavanshi, at 14, is no Sachin Tendulkar</title>
 		<link>https://indianexpress.com/article/opinion/columns/vaibhav-suryavanshi-and-priyansh-arya-are-excellent-stories-of-change-but-comparing-them-with-tendulkar-and-sehwag-is-uncalled-for-9982842/</link>
 		
 		<dc:creator><![CDATA[Sandeep Dwivedi]]></dc:creator>
@@ -3826,25 +3845,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/pakistan-bangladesh.jpeg" />
 		<media:content url="https://images.indianexpress.com/2025/04/pakistan-bangladesh.jpeg" medium="image">
 			<media:title type="html">pakistan bangladesh</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How to raise a boy: As we raise a generation of digital citizens, what we need is mutual trust</title>
-		<link>https://indianexpress.com/article/opinion/columns/how-to-raise-a-boy-digital-citizens-generation-we-need-mutual-trust-9956164/</link>
-		
-		<dc:creator><![CDATA[Aparna Vaidik]]></dc:creator>
-		<pubDate>Mon, 21 Apr 2025 05:56:52 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9956164</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9956164</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/Talking-to-my-two-kids-about-porn-trust-and-connections_Premium-01.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/Talking-to-my-two-kids-about-porn-trust-and-connections_Premium-01.jpg" medium="image">
-			<media:title type="html">Talking to my two kids about porn, trust and connections_Premium-01</media:title>
 		</media:content>
 	</item>
 	</channel>
