@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Explained: ‘Wonder drug’ Ozempic could reverse liver disease, finds study</title>
+		<link>https://indianexpress.com/article/explained/explained-health/explained-wonder-drug-ozempic-could-reverse-liver-disease-finds-study-9984795/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 03:30:55 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Health]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9984795</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9984795</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/explained-ozempic.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/explained-ozempic.jpg" medium="image">
+			<media:title type="html">explained ozempic</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Experts Explain: AI as ‘normal’ technology</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/experts-explain-ai-as-normal-technology-9984804/</link>
 		
@@ -4046,29 +4065,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Chart_-State-wise-minimum-agricultural_unskilled-wage-and-MGNREGA-wage-rate-for-FY-25-26-in-Rs-1.jpg" medium="image">
 			<media:title type="html">Chart_ State-wise minimum agricultural_unskilled wage and MGNREGA wage rate for FY 25-26 (in Rs) (1)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How the new Panchayat Advancement Index ranks rural local bodies</title>
-		<link>https://indianexpress.com/article/explained/panchayat-advancement-index-faq-ranking-9937042/</link>
-		
-		<dc:creator><![CDATA[Harikishan Sharma]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 02:58:47 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9937042</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9937042</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/panchayat-index.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/panchayat-index.jpg" medium="image">
-			<media:title type="html">panchayat index</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/panchayat-index-sdg.jpg" medium="image">
-			<media:title type="html">panchayat advancement index sdg</media:title>
 		</media:content>
 	</item>
 	</channel>
