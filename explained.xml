@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 05 May 2025 14:47:12 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 May 2025 01:33:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Experts Explain: AI as ‘normal’ technology</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/experts-explain-ai-as-normal-technology-9984804/</link>
+		
+		<dc:creator><![CDATA[Arvind Narayanan, Sayash Kapoor]]></dc:creator>
+		<pubDate>Tue, 06 May 2025 01:35:56 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9984804</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9984804</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/artificial-intelligence-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/artificial-intelligence-1.jpg" medium="image">
+			<media:title type="html">artificial intelligence</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/ai-investment.jpg" medium="image">
+			<media:title type="html">Annual global corporate investment in AI</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>This Word Means: Starbase</title>
 		<link>https://indianexpress.com/article/explained/this-word-means-starbase-9984289/</link>
 		
@@ -4046,25 +4069,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/panchayat-index-sdg.jpg" medium="image">
 			<media:title type="html">panchayat advancement index sdg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>26/11 attacks conspirator Tahawwur Rana has been extradited to India. What happens next?</title>
-		<link>https://indianexpress.com/article/explained/26-11-conspirator-tahawwur-rana-extradited-what-happens-next-9937352/</link>
-		
-		<dc:creator><![CDATA[Deeptiman Tiwary]]></dc:creator>
-		<pubDate>Fri, 11 Apr 2025 01:30:15 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9937352</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9937352</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/Tahawwur-Rana-explained-illustration11.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/Tahawwur-Rana-explained-illustration11.jpg" medium="image">
-			<media:title type="html">Tahawwur Rana explained illustration11</media:title>
 		</media:content>
 	</item>
 	</channel>
