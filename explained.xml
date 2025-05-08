@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 08 May 2025 04:44:35 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 May 2025 06:14:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -51,7 +51,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>The 9 terror camps in Pakistan, PoK struck in Operation Sindoor</title>
+		<title>Explained: The 9 terror camps in Pakistan, PoK, struck in Operation Sindoor</title>
 		<link>https://indianexpress.com/article/explained/the-9-terror-camps-in-pakistan-pok-struck-in-operation-sindoor-9989368/</link>
 		
 		<dc:creator><![CDATA[Deeptiman Tiwary]]></dc:creator>
@@ -69,6 +69,10 @@
 			<media:title type="html">Pakistan India</media:title>
 		</media:content>
 
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/operation-sindoor-map.jpg" medium="image">
+			<media:title type="html">Operation Sindoor map; not to scale. </media:title>
+		</media:content>
+
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Muzaffarabad-4col.jpg?resize=600,338" medium="image">
 			<media:title type="html">OPERATION SINDOOR, Army strikes, Army strikes in Pakistan, Army strikes Pakistan terror sites, Indian army, Army strikes PoK, Pakistan-occupied Kashmir, Pahalgam attack, Pahalgam terror attack, Pahalgam terrorist attack, Pahalgam terrorists, Indian army, india pakistan ties, india pakistan tensions, article 370, Indian army, Abrogation of Article 370, terrorism, terrorist attack, Kashmir attack, Jammu and Kashmir terrorist attack, Jammu and Kashmir, cross-border infiltration, border security, border infiltration, Pahalgam attack, Pahalgam terror attack, Pahalgam terrorist attack, Pahalgam terrorists, Indian army, india pakistan ties, india pakistan tensions, article 370, Indian army, Abrogation of Article 370, terrorism, terrorist attack, Kashmir attack, Jammu and Kashmir terrorist attack, Jammu and Kashmir, cross-border infiltration, border security, border infiltration, Indian express news, current affairs</media:title>
 		</media:content>
@@ -82,7 +86,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Operation Sindoor: Precision guided long range weapons in Indian military’s arsenal</title>
+		<title>Operation Sindoor: From HAMMER to BrahMos, the precision guided long range weapons in Indian military’s arsenal</title>
 		<link>https://indianexpress.com/article/explained/operation-sindoor-precision-guided-long-range-weapons-in-indian-militarys-arsenal-9989366/</link>
 		
 		<dc:creator><![CDATA[Amrita Nayak Dutta]]></dc:creator>
