@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 08 May 2025 08:40:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 May 2025 10:51:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>‘Most glaring example’ of Pakistan ‘misleading’ world: Story of LeT’s Sajid Mir</title>
+		<link>https://indianexpress.com/article/explained/sajid-mir-pakistan-terror-op-sindoor-misri-9990654/</link>
+		
+		<dc:creator><![CDATA[Mahender Singh Manral]]></dc:creator>
+		<pubDate>Thu, 08 May 2025 10:50:05 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9990654</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9990654</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Untitled-design-9.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Untitled-design-9.jpg" medium="image">
+			<media:title type="html">Sajid Mir</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How this year’s papal conclave differs from past conclaves to elect a new pope</title>
 		<link>https://indianexpress.com/article/explained/explained-global/pope-election-papal-conclave-2025-different-9990258/</link>
 		
@@ -4046,25 +4065,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Lord_Amarnath-1600-1.jpg?resize=600,450" medium="image">
 			<media:title type="html">Amarnath </media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Katy Perry, all-female crew go to space: Is space tourism worth it?</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/katy-perry-space-tourism-9944010/</link>
-		
-		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
-		<pubDate>Mon, 14 Apr 2025 13:26:53 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9944010</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9944010</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/Blue_Origin-Celebrity_Launch_48653-d210b.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/Blue_Origin-Celebrity_Launch_48653-d210b.jpg" medium="image">
-			<media:title type="html">Blue Origin-Celebrity Launch</media:title>
 		</media:content>
 	</item>
 	</channel>
