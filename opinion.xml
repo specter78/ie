@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 08 May 2025 12:04:45 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 May 2025 13:22:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The Indus Waters Treaty: Back to the drawing board</title>
+		<link>https://indianexpress.com/article/opinion/columns/indus-waters-treaty-india-pakistan-pahalgam-terror-attacks-9990991/</link>
+		
+		<dc:creator><![CDATA[Amit Ranjan]]></dc:creator>
+		<pubDate>Thu, 08 May 2025 13:22:40 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9990991</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9990991</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/chenab-river.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/chenab-river.jpg" medium="image">
+			<media:title type="html">Indus Waters Treaty IWT</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>For women to be counted as leaders, a seat at the table isn’t enough</title>
+		<link>https://indianexpress.com/article/opinion/columns/for-women-to-be-counted-as-leaders-a-seat-at-the-table-isnt-enough-9990999/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 08 May 2025 13:22:09 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9990999</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9990999</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2023/07/feminism.jpg" />
+		<media:content url="https://images.indianexpress.com/2023/07/feminism.jpg" medium="image">
+			<media:title type="html">feminism</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>In Bihar, voters no longer believe solely in caste or patronage</title>
 		<link>https://indianexpress.com/article/opinion/columns/in-bihar-elections-2025-voters-no-longer-believe-solely-in-caste-or-patronage-9990836/</link>
 		
@@ -3807,44 +3845,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/express-view-Copy-15.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/express-view-Copy-15.jpg" medium="image">
 			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>In wake of Pahalgam attack, staying united, in grief &#8212; and healing</title>
-		<link>https://indianexpress.com/article/opinion/editorials/in-wake-of-pahalgam-attack-staying-united-in-grief-and-healing-9961861/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 24 Apr 2025 01:42:00 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9961861</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9961861</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/express-view-Copy-2-12.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/express-view-Copy-2-12.jpg" medium="image">
-			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why the government should acquire BluSmart</title>
-		<link>https://indianexpress.com/article/opinion/columns/why-the-government-should-acquire-blusmart-9961879/</link>
-		
-		<dc:creator><![CDATA[Davinder Sandhu]]></dc:creator>
-		<pubDate>Thu, 24 Apr 2025 01:15:43 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9961879</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9961879</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/Opinion4_24th-April.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/Opinion4_24th-April.jpg" medium="image">
-			<media:title type="html">Opinion4_24th-April</media:title>
 		</media:content>
 	</item>
 	</channel>
