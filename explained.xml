@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 09 May 2025 12:17:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 May 2025 16:07:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What are Turkish Songar drones, used by Pak to attack India?</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/turkish-songar-drones-pak-india-9993416/</link>
+		
+		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 16:07:11 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9993416</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9993416</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/drone.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/drone.jpg" medium="image">
+			<media:title type="html">drone</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>This word means: Fog of war</title>
+		<link>https://indianexpress.com/article/explained/this-word-means-fog-of-war-9993364/</link>
+		
+		<dc:creator><![CDATA[Sonal Gupta]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 15:37:32 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9993364</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9993364</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/This-Word-Means-4.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/This-Word-Means-4.jpg" medium="image">
+			<media:title type="html">This Word Means</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Blackouts in over 15 cities amid India-Pakistan tensions: What the measure is, how it can help</title>
 		<link>https://indianexpress.com/article/explained/blackouts-india-pakistan-meaning-guidelines-9992813/</link>
 		
@@ -4031,44 +4069,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/veeraswamy-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/veeraswamy-1600.jpg" medium="image">
 			<media:title type="html">veeraswamy 1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>AI basics: How TPU is different from CPU and GPU</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/tpu-cpu-gpu-9945632/</link>
-		
-		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 11:13:11 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9945632</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9945632</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/TPUv7_Hero-Image_2096x1182.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/TPUv7_Hero-Image_2096x1182.jpg" medium="image">
-			<media:title type="html">TPUv7_Hero-Image_2096x1182</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>China restricts exports of rare earths: What will be the impact?</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/china-restricts-exports-of-rare-earths-impact-9945497/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 10:22:51 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9945497</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9945497</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/rare-earth-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/rare-earth-1600.jpg" medium="image">
-			<media:title type="html">FILE PHOTO: A worker at the a smelting workshop prepares to pour the rare earth metal Lanthanum into a mould near the town of Damao in China&#039;s Inner Mongolia Autonomous Region</media:title>
 		</media:content>
 	</item>
 	</channel>
