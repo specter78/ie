@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 09 May 2025 10:00:13 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 May 2025 11:01:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Blackouts in over 15 cities amid India-Pakistan tensions: What the measure is, how it can help</title>
+		<link>https://indianexpress.com/article/explained/blackouts-india-pakistan-meaning-guidelines-9992813/</link>
+		
+		<dc:creator><![CDATA[Vibha B Madhava]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 10:57:44 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9992813</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9992813</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/blackout-explained.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/05/blackout-explained.jpeg" medium="image">
+			<media:title type="html">blackout explained</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Tariff tracker, May 9: Why the US-UK trade deal isn&#8217;t what it seems</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/tariff-tracker-us-uk-trade-deal-9992464/</link>
 		
@@ -1429,9 +1448,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9977327</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/Bhakra_Dam-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/Bhakra_Dam-1600.jpg" medium="image">
-			<media:title type="html">Bhakra_Dam 1600</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Bhakra_Dam-1600-e1746785576282.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Bhakra_Dam-1600-e1746785576282.jpg" medium="image">
+			<media:title type="html">Can Punjab and Haryana transform this conflict into an opportunity for resilience?</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4050,25 +4069,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/rare-earth-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/rare-earth-1600.jpg" medium="image">
 			<media:title type="html">FILE PHOTO: A worker at the a smelting workshop prepares to pour the rare earth metal Lanthanum into a mould near the town of Damao in China&#039;s Inner Mongolia Autonomous Region</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Remembering author Mario Vargas Llosa, Nobel laureate and stalwart of Latin American Boom</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/mario-vargas-llosa-latin-american-boom-9945340/</link>
-		
-		<dc:creator><![CDATA[Paromita Chakrabarti]]></dc:creator>
-		<pubDate>Tue, 15 Apr 2025 09:03:02 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9945340</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9945340</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/Mario-Vargas-Llosa-obit-explainer.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/Mario-Vargas-Llosa-obit-explainer.jpg" medium="image">
-			<media:title type="html">Mario Vargas Llosa obit explainer</media:title>
 		</media:content>
 	</item>
 	</channel>
