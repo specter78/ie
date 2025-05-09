@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 09 May 2025 13:11:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 May 2025 14:04:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>During Operation Sindoor, let’s not forget about digital warfare</title>
+		<link>https://indianexpress.com/article/opinion/columns/during-operation-sindoor-lets-not-forget-about-digital-warfare-9993233/</link>
+		
+		<dc:creator><![CDATA[Subimal Bhattacharjee]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 14:04:38 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9993233</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9993233</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/04/Fake-News_20241104064156.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/04/Fake-News_20241104064156.jpg" medium="image">
+			<media:title type="html">Fake-News_20241104064156</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>From Lalu’s charisma to Nitish’s technocracy: What has changed in Bihar politics?</title>
+		<link>https://indianexpress.com/article/opinion/columns/lalu-prasad-nitish-kumar-prashant-kishor-bihar-elections-9993219/</link>
+		
+		<dc:creator><![CDATA[Sarthak Bagchi]]></dc:creator>
+		<pubDate>Fri, 09 May 2025 14:04:28 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9993219</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9993219</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/Saif-Ali-Khan-1-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/Saif-Ali-Khan-1-1.jpg" medium="image">
+			<media:title type="html">Prashant Kishore fast unto death</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>As Pakistan plunges region into uncertainty, South Asia should rethink its non-alignment policy</title>
 		<link>https://indianexpress.com/article/opinion/columns/operation-sindoor-pahalgam-as-pakistan-plunges-region-into-uncertainty-south-asia-should-rethink-its-non-alignment-policy-9993138/</link>
 		
@@ -3807,44 +3845,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/express-view-Copy-16.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/express-view-Copy-16.jpg" medium="image">
 			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>After Pahalgam, the next steps</title>
-		<link>https://indianexpress.com/article/opinion/editorials/after-pahalgam-the-next-steps-9964406/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 25 Apr 2025 01:34:03 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9964406</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9964406</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/express-view-Copy-2-13.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/express-view-Copy-2-13.jpg" medium="image">
-			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>To deter terror activity in the Valley, after Pahalgam, back to basics</title>
-		<link>https://indianexpress.com/article/opinion/columns/to-deter-terror-activity-in-the-valley-after-pahalgam-back-to-basics-9964394/</link>
-		
-		<dc:creator><![CDATA[Syed Ata Hasnain]]></dc:creator>
-		<pubDate>Fri, 25 Apr 2025 01:20:28 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9964394</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9964394</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/pahalgaon.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/pahalgaon.jpg" medium="image">
-			<media:title type="html">pahalgaon</media:title>
 		</media:content>
 	</item>
 	</channel>
