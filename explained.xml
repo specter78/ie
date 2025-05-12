@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 12 May 2025 02:27:42 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 May 2025 03:21:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -73,8 +73,8 @@
 			<media:title type="html">wheat_d6bc4d</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/wheat-yield.jpg" medium="image">
-			<media:title type="html">wheat</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Farming-Explained.jpg" medium="image">
+			<media:title type="html">Farming</media:title>
 		</media:content>
 	</item>
 		<item>
