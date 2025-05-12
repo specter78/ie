@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 12 May 2025 05:09:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 May 2025 05:13:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -144,9 +144,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9996872</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/r-pollution_20250511180138.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/r-pollution_20250511180138.jpg" medium="image">
-			<media:title type="html">r-pollution</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Opinion2_12th-May.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Opinion2_12th-May.jpg" medium="image">
+			<media:title type="html">Opinion2_12th-May</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -163,9 +163,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9996869</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/op-sindoor-briefing-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/op-sindoor-briefing-1.jpg" medium="image">
-			<media:title type="html">op sindoor briefing</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Opinion1_12th-May.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Opinion1_12th-May.jpg" medium="image">
+			<media:title type="html">Opinion1_12th-May</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -1444,9 +1444,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">9985388</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/caste-census-2.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/caste-census-2.jpg" medium="image">
-			<media:title type="html">caste census</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Opinion5_12th-May.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Opinion5_12th-May.jpg" medium="image">
+			<media:title type="html">Opinion5_12th-May</media:title>
 		</media:content>
 	</item>
 		<item>
