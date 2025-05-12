@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 12 May 2025 06:21:23 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 May 2025 07:33:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Kolkata Municipal Corporation ordered rooftop restaurant demolition, later stayed by HC</title>
+		<link>https://indianexpress.com/article/explained/kolkata-rooftop-restaurant-ban-reason-9996738/</link>
+		
+		<dc:creator><![CDATA[Sweety Kumari]]></dc:creator>
+		<pubDate>Mon, 12 May 2025 07:23:44 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9996738</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">9996738</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/rituraj-hotel-fire.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/rituraj-hotel-fire.jpg" medium="image">
+			<media:title type="html">Rituraj Hotel in Barabazar, after the fire incident.</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Those showing symptoms of ADHD are more likely to smoke: Study</title>
 		<link>https://indianexpress.com/article/explained/those-showing-symptoms-of-adhd-are-more-likely-to-smoke-study-9997084/</link>
 		
@@ -4030,41 +4049,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/SC-Explained.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/SC-Explained.jpg" medium="image">
 			<media:title type="html">SC Explained</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>On Good Friday, the story of da Vinci’s Last Supper &#038; its Indian interpretations</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/last-supper-da-vinci-masterpiece-indian-interpretations-9949692/</link>
-		
-		<dc:creator><![CDATA[Vandana Kalra]]></dc:creator>
-		<pubDate>Thu, 17 Apr 2025 11:25:34 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9949692</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9949692</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/DaVinciLastSupper.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/DaVinciLastSupper.jpg" medium="image">
-			<media:title type="html">DaVinciLastSupper</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Leonardo_da_Vinci_1452-1519_-_The_Last_Supper_1495-1498.jpg" medium="image">
-			<media:title type="html">Leonardo_da_Vinci_(1452-1519)_-_The_Last_Supper_(1495-1498)</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/WhatsApp-Image-2025-04-17-at-18.43.49.jpeg" medium="image">
-			<media:title type="html">Untitled (Last Supper) by Jamini Roy. Courtesy: DAG</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/LastSupperInRedDesert.jpg" medium="image">
-			<media:title type="html">LastSupperInRedDesert</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/F-N-SOUZA-LAST-SUPPER.jpg" medium="image">
-			<media:title type="html">F N SOUZA LAST SUPPER</media:title>
 		</media:content>
 	</item>
 	</channel>
