@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 13 May 2025 21:35:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 May 2025 01:47:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,33 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Operation Sindoor: India’s air defence shield explained</title>
+		<link>https://indianexpress.com/article/explained/indias-air-defence-shield-10003549/</link>
+		
+		<dc:creator><![CDATA[Amrita Nayak Dutta]]></dc:creator>
+		<pubDate>Wed, 14 May 2025 01:20:59 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10003549</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10003549</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/This-picture-of-the-IACCS-was-shown-at-the-media-briefing-on-Operation-Sindoor-by-the-Indian-armed-forces-on-Monday-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/This-picture-of-the-IACCS-was-shown-at-the-media-briefing-on-Operation-Sindoor-by-the-Indian-armed-forces-on-Monday-1.jpg" medium="image">
+			<media:title type="html">This picture of the IACCS was shown at the media briefing on Operation Sindoor by the Indian armed forces on Monday 1</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/airstrike.jpg" medium="image">
+			<media:title type="html">India’s air defence shield</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/srbm.jpg" medium="image">
+			<media:title type="html">India’s air defence shield</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>NOAA slashes its weather balloon launches: Why is this significant?</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/noaa-weather-balloon-10001282/</link>
 		
@@ -4050,29 +4077,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/bowl1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/bowl1.jpg" medium="image">
 			<media:title type="html">bowl1</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Kailash Mansarovar Yatra to resume soon: Everything you need to know</title>
-		<link>https://indianexpress.com/article/explained/kailash-mansarovar-yatra-to-resume-soon-everything-you-need-to-know-9952296/</link>
-		
-		<dc:creator><![CDATA[Divya A]]></dc:creator>
-		<pubDate>Sat, 19 Apr 2025 01:50:54 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9952296</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9952296</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/kailash-man1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/kailash-man1.jpg" medium="image">
-			<media:title type="html">kailash man1</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/MAP.jpg" medium="image">
-			<media:title type="html">MAP</media:title>
 		</media:content>
 	</item>
 	</channel>
