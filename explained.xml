@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 16 May 2025 07:14:19 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 May 2025 09:09:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>On 50 years of Sikkim’s integration with India, recalling the role of royals, political parties</title>
+		<link>https://indianexpress.com/article/explained/explained-history/sikkim-day-50-years-integration-story-nehru-china-10010313/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 16 May 2025 09:09:40 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10010313</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10010313</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/sikkim-day.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/sikkim-day.jpg" medium="image">
+			<media:title type="html">sikkim day</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/indira-sikkim.jpg?resize=437,600" medium="image">
+			<media:title type="html">Sikkim King Palden Thondup Namgyal along with his wife being greeted by PM Indira Gandhi on their arrival at Palam Airport in New Delhi. </media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why BMC’s 3-year plan to clear Deonar landfill is easier said than done</title>
 		<link>https://indianexpress.com/article/explained/bmc-3-year-plan-clear-deonar-landfill-challenge-10008815/</link>
 		
@@ -4058,25 +4081,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/PANDEMIC-STUDIES-FUNDING.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/PANDEMIC-STUDIES-FUNDING.jpg" medium="image">
 			<media:title type="html">A COVID-19 vaccination is administered in Silver Spring, Md., Feb. 26, 2021. (Kenny Holston/The New York Times)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>No body no crime? How Mumbai court awarded life sentence to ex cop, absent victim’s body</title>
-		<link>https://indianexpress.com/article/explained/explained-law/no-body-no-crime-mumbai-court-9958974/</link>
-		
-		<dc:creator><![CDATA[Sadaf Modak]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 11:13:10 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9958974</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9958974</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/No-body-no-crime.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/No-body-no-crime.jpg" medium="image">
-			<media:title type="html">No body no crime</media:title>
 		</media:content>
 	</item>
 	</channel>
