@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 16 May 2025 23:35:25 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 17 May 2025 01:59:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,71 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Shingles vaccine &#038; lower dementia risk: what new study says</title>
+		<link>https://indianexpress.com/article/explained/explained-health/shingles-vaccine-lower-dementia-risk-what-new-study-says-10011405/</link>
+		
+		<dc:creator><![CDATA[Anonna Dutt]]></dc:creator>
+		<pubDate>Sat, 17 May 2025 01:30:02 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Health]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10011405</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10011405</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/vax1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/vax1.jpg" medium="image">
+			<media:title type="html">vax1</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Story of a sacred Jharkhand hill at the centre of old friction between Jains &#038; Santals</title>
+		<link>https://indianexpress.com/article/explained/explained-politics/story-of-a-sacred-jharkhand-hill-at-the-centre-of-old-friction-between-jains-santals-10011403/</link>
+		
+		<dc:creator><![CDATA[Shubham Tigga]]></dc:creator>
+		<pubDate>Sat, 17 May 2025 01:20:41 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10011403</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10011403</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/santh-adiv1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/santh-adiv1.jpg" medium="image">
+			<media:title type="html">santh adiv1</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-17-at-00.27.43_aade0ecd.jpg?resize=600,450" medium="image">
+			<media:title type="html">Jharkhand High Court, sale of meat, meat sale ban, Jharkhand meat sale ban, Santhal community, Adivasi community, jain community, Indian express explained, explained news, current affairs</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/WhatsApp-Image-2025-05-17-at-00.27.43_632f8907.jpg?resize=600,450" medium="image">
+			<media:title type="html">Jharkhand High Court, sale of meat, meat sale ban, Jharkhand meat sale ban, Santhal community, Adivasi community, jain community, Indian express explained, explained news, current affairs</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Trump, Syria &#038; the Middle East: What the US President wants</title>
+		<link>https://indianexpress.com/article/explained/explained-global/trump-syria-middle-east-what-us-president-wants-10011404/</link>
+		
+		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
+		<pubDate>Sat, 17 May 2025 01:13:51 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10011404</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10011404</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Trump_Mideast_3col1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Trump_Mideast_3col1.jpg" medium="image">
+			<media:title type="html">APTOPIX Trump Mideast</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Before doors closed, 55 projects benefited from 2017-2021 environmental amnesty</title>
 		<link>https://indianexpress.com/article/explained/explained-law/before-doors-closed-55-projects-benefited-from-2017-2021-environmental-amnesty-10011525/</link>
 		
@@ -176,7 +241,7 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -184,7 +249,7 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -4028,63 +4093,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/pahalgam-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/pahalgam-1600.jpg" medium="image">
 			<media:title type="html">Suspected militant attack in Kashmir</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Tariff tracker, April 23: Relief rally in the markets as Bessent says tariffs against China not sustainable</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/tariff-tracker-april-23-relief-rally-markets-bessent-china-9960139/</link>
-		
-		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
-		<pubDate>Wed, 23 Apr 2025 03:35:12 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9960139</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9960139</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/Scott-Bessent-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/Scott-Bessent-1600.jpg" medium="image">
-			<media:title type="html">FILE PHOTO: FILE PHOTO: US Treasury&#039;s Bessent leaves the Economy Ministry building,  in Buenos Aires</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>2000, ’02, J&#038;K terror’s old ghost: Pahalgam attack during high-profile US visit</title>
-		<link>https://indianexpress.com/article/explained/2000-02-jk-terrors-old-ghost-pahalgam-attack-during-high-profile-us-visit-9959867/</link>
-		
-		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 23:15:26 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9959867</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9959867</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/kashmir-pahalgaon.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/kashmir-pahalgaon.jpg" medium="image">
-			<media:title type="html">kashmir pahalgaon</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>This Word Means: anti-Semitism</title>
-		<link>https://indianexpress.com/article/explained/this-word-means-anti-semitism-9959420/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 22 Apr 2025 15:14:33 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9959420</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9959420</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/TWM-anti-Semitism.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/TWM-anti-Semitism.jpg" medium="image">
-			<media:title type="html">TWM anti-Semitism</media:title>
 		</media:content>
 	</item>
 	</channel>
