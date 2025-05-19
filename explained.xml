@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 19 May 2025 02:27:33 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 May 2025 06:03:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -55,7 +55,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Why Supreme Court struck down the Centre’s orders on retrospective green clearances</title>
+		<title>Why Supreme Court struck down the Centre’s orders on retrospective environmental clearances</title>
 		<link>https://indianexpress.com/article/explained/supreme-court-retrospective-environmental-clearances-10014393/</link>
 		
 		<dc:creator><![CDATA[Nikhil Ghanekar]]></dc:creator>
@@ -523,7 +523,11 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+			<media:title type="html">Deonar</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -531,11 +535,7 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
-			<media:title type="html">Deonar</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
