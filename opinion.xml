@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 19 May 2025 10:01:54 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 May 2025 11:31:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,82 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Four ways in which India gains from an FTA with the UK</title>
+		<link>https://indianexpress.com/article/opinion/columns/four-ways-in-which-india-gains-from-an-fta-with-the-uk-10015786/</link>
+		
+		<dc:creator><![CDATA[Ganeshan Wignaraja]]></dc:creator>
+		<pubDate>Mon, 19 May 2025 11:28:28 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10015786</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10015786</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/starmer-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/starmer-1.jpg" medium="image">
+			<media:title type="html">India UK FTA</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How to raise a boy: Indian fatherhood needs a reset. We must show there is more to men than just being breadwinners</title>
+		<link>https://indianexpress.com/article/opinion/columns/indian-fatherhood-needs-reset-10015375/</link>
+		
+		<dc:creator><![CDATA[Uday Raj Anand]]></dc:creator>
+		<pubDate>Mon, 19 May 2025 11:22:14 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10015375</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10015375</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/GettyImages-new-dads_1200-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/GettyImages-new-dads_1200-1.jpg" medium="image">
+			<media:title type="html">GettyImages-new-dads_1200 (1)</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Ali Khan Mahmudabad’s arrest: At private universities, the promise of academic freedom belied</title>
+		<link>https://indianexpress.com/article/opinion/columns/mahmudabads-arrest-academic-freedom-in-ashoka-university-lack-of-freedom-of-speech-operation-sindoor-10015763/</link>
+		
+		<dc:creator><![CDATA[Rituparna Patgiri]]></dc:creator>
+		<pubDate>Mon, 19 May 2025 11:18:54 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10015763</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10015763</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Ali-Khan-Mahmudabad-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Ali-Khan-Mahmudabad-2.jpg" medium="image">
+			<media:title type="html">Ali Khan Mahmudabad</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Operation Sindoor: The weapons that gave India the edge</title>
+		<link>https://indianexpress.com/article/opinion/columns/operation-sindoor-tair-defence-he-weapons-that-gave-india-the-edge-10015753/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 19 May 2025 11:14:02 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10015753</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10015753</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Op-Sindoor-4.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Op-Sindoor-4.jpg" medium="image">
+			<media:title type="html">Operation Sindoor</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>The Russia-China push in the arctic – a new strategic flashpoint</title>
 		<link>https://indianexpress.com/article/opinion/columns/russia-china-us-donald-trump-greenland-arctic-council-10015600/</link>
 		
@@ -3765,82 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/Opinion3_5th-May.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/Opinion3_5th-May.jpg" medium="image">
 			<media:title type="html">Opinion3_5th-May</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>As states want more, the 16th Finance Commission will have to walk a tightrope on equity and efficiency</title>
-		<link>https://indianexpress.com/article/opinion/columns/as-states-want-more-the-16th-finance-commission-will-have-to-walk-a-tightrope-on-equity-and-efficiency-9982830/</link>
-		
-		<dc:creator><![CDATA[Ishan Bakshi]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 01:54:05 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9982830</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9982830</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/Opinion2_5th-May.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/Opinion2_5th-May.jpg" medium="image">
-			<media:title type="html">Opinion2_5th-May</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Attempts to make America great again seem to centre around destroying the institutions that made American science great. It is a bad idea</title>
-		<link>https://indianexpress.com/article/opinion/columns/attempts-to-make-america-great-again-seem-to-centre-around-destroying-the-institutions-that-made-american-science-great-it-is-a-bad-idea-9982832/</link>
-		
-		<dc:creator><![CDATA[Hemant Kanakia, Sonalde Desai]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 01:52:13 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9982832</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9982832</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/Opinion1_5th-May.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/Opinion1_5th-May.jpg" medium="image">
-			<media:title type="html">Opinion1_5th-May</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What counts in caste census</title>
-		<link>https://indianexpress.com/article/opinion/columns/caste-census-narendra-modi-government-inequality-mandal-commission-9982649/</link>
-		
-		<dc:creator><![CDATA[Vandita Mishra]]></dc:creator>
-		<pubDate>Sun, 04 May 2025 15:41:05 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9982649</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9982649</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/Opinion4_6th-May-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/Opinion4_6th-May-1.jpg" medium="image">
-			<media:title type="html">Opinion4_6th-May (1)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Counting caste, confronting contradictions</title>
-		<link>https://indianexpress.com/article/opinion/columns/counting-caste-confronting-contradictions-9981932/</link>
-		
-		<dc:creator><![CDATA[Sanjay Srivastava]]></dc:creator>
-		<pubDate>Sun, 04 May 2025 08:17:34 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9981932</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9981932</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/caste-census-1-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/caste-census-1-1.jpg" medium="image">
-			<media:title type="html">caste census (1)</media:title>
 		</media:content>
 	</item>
 	</channel>
