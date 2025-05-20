@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 20 May 2025 06:57:10 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 May 2025 08:06:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,56 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Astrophysicist Jayant Narlikar passes away: What is the Hoyle–Narlikar theory of gravity?</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/astrophysicist-jayant-narlikar-dead-hoyle-narlikar-theory-gravity-10017249/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 20 May 2025 07:45:40 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10017249</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10017249</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/jayant-narlikar.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/jayant-narlikar.jpg" medium="image">
+			<media:title type="html">National Conference on Space</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Sail ships in the 21st century: Why ancient technology remains relevant today</title>
+		<link>https://indianexpress.com/article/explained/sail-ships-21st-century-cuahtemoc-10017116/</link>
+		
+		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
+		<pubDate>Tue, 20 May 2025 07:15:23 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10017116</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10017116</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Cuahtemoc-Sail-Ships.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Cuahtemoc-Sail-Ships.jpg" medium="image">
+			<media:title type="html">Cuahtemoc Sail Ships</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/INS-Tarangini.jpg?resize=600,429" medium="image">
+			<media:title type="html">INS Tarangini</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Pyxis_Ocean.jpeg?resize=600,450" medium="image">
+			<media:title type="html">Pyxis Ocean (Wikimedia Commons)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Buckau-Flettner-Rotor-Ship.jpg?resize=600,433" medium="image">
+			<media:title type="html">The Buckau, the Flettner Rotor Ship, photographed in 1924. (Wikimedia Commons)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>In conflict-scorched Manipur, Shirui Lily festival kicks off: All you need to know, about the festival and the flower</title>
 		<link>https://indianexpress.com/article/explained/explained-culture/manipur-shirui-lily-festival-all-you-need-to-know-10017181/</link>
 		
@@ -664,7 +714,7 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -676,7 +726,7 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
@@ -4047,56 +4097,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Nihal-Sarin-Aravindh-Chithambaram.jpg?resize=600,338" medium="image">
 			<media:title type="html">Indian chess players Nihal Sarin (L) Aravindh Chithambaram have signed a deal with Indian Esports Organisation Team S8UL for the upcoming EWC. (Special Arrangement)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How tractor and fertiliser sales data act as a mirror for farm sector growth</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/how-tractor-and-fertiliser-sales-data-act-as-a-mirror-for-farm-sector-growth-9966228/</link>
-		
-		<dc:creator><![CDATA[Harish Damodaran]]></dc:creator>
-		<pubDate>Sat, 26 Apr 2025 01:44:45 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9966228</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9966228</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/fertilizer-11.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/fertilizer-11.jpg" medium="image">
-			<media:title type="html">fertilizer-11</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/TABLE-TRACTOR-FERTILISER-SALE.jpg" medium="image">
-			<media:title type="html">TABLE TRACTOR &#038; FERTILISER SALE</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/tractor.jpg?resize=600,416" medium="image">
-			<media:title type="html">Domestic tractor sales</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Crimea matters to Russia</title>
-		<link>https://indianexpress.com/article/explained/explained-global/why-crimea-matters-to-russia-9966245/</link>
-		
-		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
-		<pubDate>Sat, 26 Apr 2025 00:55:46 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9966245</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9966245</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/trump-and-putin1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/trump-and-putin1.jpg" medium="image">
-			<media:title type="html">trump-and-putin1</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/BLACK-SEA-MAP.jpg" medium="image">
-			<media:title type="html">BLACK SEA MAP</media:title>
 		</media:content>
 	</item>
 	</channel>
