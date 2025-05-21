@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 21 May 2025 08:49:55 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 May 2025 09:52:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>‘Brutal revolutionary’ behind most audacious Naxal attacks in history: Story &#038; significance of Basavaraju, dreaded Maoist leader allegedly killed in encounter</title>
+		<link>https://indianexpress.com/article/explained/basavaraju-dreaded-maoist-leader-killed-chhattisgarh-10019574/</link>
+		
+		<dc:creator><![CDATA[Deeptiman Tiwary]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 09:39:18 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10019574</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10019574</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/BASAVARAJU.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/05/BASAVARAJU.jpeg" medium="image">
+			<media:title type="html">BASAVARAJU</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Bengaluru Rains: Why the city frequently witnesses flooding, waterlogging</title>
+		<link>https://indianexpress.com/article/explained/bengaluru-rains-frequent-flooding-waterlogging-10019529/</link>
+		
+		<dc:creator><![CDATA[Sanath Prasad, Kiran Parashar]]></dc:creator>
+		<pubDate>Wed, 21 May 2025 09:22:35 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10019529</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10019529</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Bengaluru-Rains-flooding.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Bengaluru-Rains-flooding.jpg" medium="image">
+			<media:title type="html">Bengaluru Rains flooding</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Led deadliest attacks: Who was Basava Raju, top Maoist man killed in Abujhmad encounter?</title>
 		<link>https://indianexpress.com/article/explained/who-is-basavraj-top-maoist-man-abujhmad-10019398/</link>
 		
@@ -878,19 +916,19 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
-			<media:title type="html">Deonar</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
+			<media:title type="html">Deonar</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
@@ -4051,44 +4089,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/04/vancouver-deaths-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/04/vancouver-deaths-1600.jpg" medium="image">
 			<media:title type="html">Vehicle drove into a crowd at the Lapu Lapu day block party, in Vancouver</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Question before SC: are ‘unopposed’ election victories unconstitutional?</title>
-		<link>https://indianexpress.com/article/explained/explained-law/supreme-court-unopposed-election-wins-unconstitutional-9968747/</link>
-		
-		<dc:creator><![CDATA[Damini Nath]]></dc:creator>
-		<pubDate>Sun, 27 Apr 2025 12:10:00 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9968747</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9968747</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/unopposed-elections-sc.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/unopposed-elections-sc.jpg" medium="image">
-			<media:title type="html">unopposed elections sc</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>This Word Means: National Investigation Agency or NIA</title>
-		<link>https://indianexpress.com/article/explained/this-word-means-national-investigation-agency-or-nia-9968614/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sun, 27 Apr 2025 10:47:15 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9968614</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9968614</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/This-Word-Means-7.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/This-Word-Means-7.jpg" medium="image">
-			<media:title type="html">This Word Means</media:title>
 		</media:content>
 	</item>
 	</channel>
