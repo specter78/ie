@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 22 May 2025 06:01:34 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 May 2025 06:48:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -70,7 +70,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Quiet power, revolutions: What shines in Banu Mushtaq’s ‘Heart Lamp’</title>
+		<title>Quiet power, revolutions: What shines in International Booker Prize winner Banu Mushtaq’s ‘Heart Lamp’</title>
 		<link>https://indianexpress.com/article/explained/quiet-power-revolutions-what-shines-in-banu-mushtaqs-heart-lamp-10020861/</link>
 		
 		<dc:creator><![CDATA[Akhil PJ]]></dc:creator>
@@ -184,7 +184,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Bengaluru Rains: Why the city frequently witnesses flooding, waterlogging</title>
+		<title>Bengaluru Rains: Why the city witnesses flooding and waterlogging almost every year</title>
 		<link>https://indianexpress.com/article/explained/bengaluru-rains-frequent-flooding-waterlogging-10019529/</link>
 		
 		<dc:creator><![CDATA[Sanath Prasad, Kiran Parashar]]></dc:creator>
@@ -1053,7 +1053,7 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -1061,7 +1061,7 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
