@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 24 May 2025 08:05:47 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 May 2025 09:05:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1397,19 +1397,19 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
-			<media:title type="html">Deonar</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
-			<media:title type="html">Deonar</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+			<media:title type="html">Deonar</media:title>
+		</media:content>
+
 		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
+			<media:title type="html">Deonar</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
