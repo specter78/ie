@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 24 May 2025 09:17:57 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 24 May 2025 11:02:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Tariff Tracker, May 24: Trade war fears abound after Trump announces 50% tariffs on EU</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/tariff-tracker-may-24-trump-50pc-tariffs-eu-10026132/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Sat, 24 May 2025 11:02:32 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10026132</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10026132</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Tariff-Tracker-May-24.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Tariff-Tracker-May-24.jpg" medium="image">
+			<media:title type="html">Tariff Tracker May 24</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: Story of ‘rat temple’ near Bikaner, visited by PM Modi</title>
 		<link>https://indianexpress.com/article/explained/rat-temple-bikaner-modi-10025966/</link>
 		
@@ -48,6 +67,10 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/karni-mata.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/karni-mata.jpg" medium="image">
 			<media:title type="html">PM Modi offers prayers at Karni Mata temple in Deshnoke</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Rats_in_the_Temple_of_Karni_Mata_in_Deshnoke-2.jpg" medium="image">
+			<media:title type="html">Rats_in_the_Temple_of_Karni_Mata_in_Deshnoke-2</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -1416,11 +1439,11 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -4102,25 +4125,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/04/Vietnam_War_Anniversary_Agent_Orange_93921-5fc9a.jpg?resize=600,338" medium="image">
 			<media:title type="html">agent orange</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Cabinet approves caste Census: The debate, and the government&#8217;s stand over the years</title>
-		<link>https://indianexpress.com/article/explained/cabinet-caste-census-history-9974909/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 30 Apr 2025 12:21:32 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9974909</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9974909</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/04/caste.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/04/caste.jpg" medium="image">
-			<media:title type="html">PM chairs high-level meeting</media:title>
 		</media:content>
 	</item>
 	</channel>
