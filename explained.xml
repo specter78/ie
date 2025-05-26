@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 26 May 2025 06:11:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 May 2025 07:09:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -143,7 +143,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Ship sinking off Kerala coast triggers oil spills concerns: All you need to know</title>
+		<title>Capsized ship off Kerala coast triggers oil spills concerns: All you need to know</title>
 		<link>https://indianexpress.com/article/explained/kerala-ship-sinking-oil-spills-concerns-10028102/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -1687,19 +1687,19 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
-			<media:title type="html">Deonar</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+			<media:title type="html">Deonar</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
