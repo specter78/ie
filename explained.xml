@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 26 May 2025 09:29:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 May 2025 10:10:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Mumbai under water: Why monsoon came early to city this year, and why it is raining so much</title>
+		<title>Why monsoon came to Mumbai two weeks early, and why this has been an unusual May for city</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/mumbai-why-monsoon-came-early-raining-so-much-10029769/</link>
 		
 		<dc:creator><![CDATA[Nayonika Bose]]></dc:creator>
@@ -1706,7 +1706,7 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -1714,7 +1714,7 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
