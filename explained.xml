@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 26 May 2025 02:21:04 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 May 2025 06:11:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Donald Trump’s One Big Beautiful Bill</title>
+		<title>What Donald Trump’s &#8216;One Big Beautiful Bill&#8217; aims to do, and what is not so beautiful about it</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/donald-trump-one-big-beautiful-bill-us-10028680/</link>
 		
 		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
@@ -1687,7 +1687,7 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -1695,11 +1695,11 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
