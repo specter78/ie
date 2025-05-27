@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 27 May 2025 12:56:01 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 May 2025 15:00:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>This Word Means: Sherpa</title>
+		<link>https://indianexpress.com/article/explained/this-word-means-everest-sherpa-10032475/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 27 May 2025 14:51:12 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10032475</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10032475</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/WhatsApp-Image-2025-05-27-at-20.16.45.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/05/WhatsApp-Image-2025-05-27-at-20.16.45.jpeg" medium="image">
+			<media:title type="html">Sherpa meaning explained</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>CPM named in money laundering case: Can ED name a political party as accused?</title>
 		<link>https://indianexpress.com/article/explained/cpm-can-ed-name-a-political-party-as-accused-10032200/</link>
 		
@@ -1847,7 +1866,7 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -1855,7 +1874,7 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -4126,25 +4145,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/DETAINEE-ABUSE-HEARINGS.jpg?resize=600,400" medium="image">
 			<media:title type="html">Bagram</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The hot Line of Control: Why Pakistan keeps violating ceasefire with India</title>
-		<link>https://indianexpress.com/article/explained/the-hot-loc-what-is-the-nature-of-india-pakistan-ceasefire-understanding-9979640/</link>
-		
-		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
-		<pubDate>Sat, 03 May 2025 01:05:07 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9979640</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9979640</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/LoC-3cole.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/LoC-3cole.jpg" medium="image">
-			<media:title type="html">LoC-3cole</media:title>
 		</media:content>
 	</item>
 	</channel>
