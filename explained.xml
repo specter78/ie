@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 28 May 2025 01:37:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 May 2025 04:05:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,38 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>This Word Means: Madden-Julian Oscillation</title>
+		<title>ExplainSpeaking: Why India is the third-largest economy, not fourth or fifth</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/india-third-largest-economy-10033187/</link>
+		
+		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
+		<pubDate>Wed, 28 May 2025 03:46:23 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10033187</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10033187</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/India-Economy-Port.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/India-Economy-Port.jpg" medium="image">
+			<media:title type="html">India Economy Port</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Chart-1-JPEG.jpg" medium="image">
+			<media:title type="html">India Economy</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Chart-2-JPEG.jpg" medium="image">
+			<media:title type="html">India Economy</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Chart-3-JPEG.jpg" medium="image">
+			<media:title type="html">India Economy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How the Madden-Julian Oscillation helped trigger the early onset of the monsoon</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/this-word-means-madden-julian-oscillation-10032866/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -1912,11 +1943,11 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
@@ -4110,25 +4141,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/This-Word-Means-2.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/This-Word-Means-2.jpg" medium="image">
 			<media:title type="html">This Word Means Machiavellian</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Tariff tracker, May 3: Hopes of a US-China trade detente lift markets</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/tariff-tracker-hopes-of-us-china-trade-detente-lift-markets-9980333/</link>
-		
-		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
-		<pubDate>Sat, 03 May 2025 07:39:08 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9980333</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9980333</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/TrumpTracker.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/TrumpTracker.jpg" medium="image">
-			<media:title type="html">Beijing is &#34;evaluating&#34; an offer from Washington to hold talks over US President Donald Trump&#039;s crippling tariffs. (Freepik)</media:title>
 		</media:content>
 	</item>
 	</channel>
