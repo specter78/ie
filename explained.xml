@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 29 May 2025 09:00:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 May 2025 10:33:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>&#8216;Unlawful&#8217;, &#8216;exceeds&#8230; authority&#8217;: Why the US Court of International Trade struck down Trump’s tariffs</title>
+		<title>Why the US Court of International Trade struck down Trump’s tariffs: &#8216;Unlawful&#8217;, &#8216;exceeds&#8230; authority&#8217;</title>
 		<link>https://indianexpress.com/article/explained/explained-global/unlawful-exceeds-authority-trump-tariffs-struck-down-reason-10036057/</link>
 		
 		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
@@ -2087,11 +2087,7 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
-			<media:title type="html">Deonar</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -2099,7 +2095,11 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+			<media:title type="html">Deonar</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
