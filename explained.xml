@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 29 May 2025 10:33:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 29 May 2025 11:56:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What Operation Sindoor tells us about the nature of escalation, and India&#8217;s changing approach</title>
+		<link>https://indianexpress.com/article/explained/operation-sindoor-nature-of-escalation-10036560/</link>
+		
+		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
+		<pubDate>Thu, 29 May 2025 11:56:47 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10036560</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10036560</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/sindoor-1600.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/05/sindoor-1600.jpeg" medium="image">
+			<media:title type="html">sindoor 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why the US Court of International Trade struck down Trump’s tariffs: &#8216;Unlawful&#8217;, &#8216;exceeds&#8230; authority&#8217;</title>
 		<link>https://indianexpress.com/article/explained/explained-global/unlawful-exceeds-authority-trump-tariffs-struck-down-reason-10036057/</link>
 		
@@ -2087,19 +2106,19 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
-			<media:title type="html">Deonar</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+			<media:title type="html">Deonar</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
@@ -4110,25 +4129,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/ship-india-pak.jpeg" />
 		<media:content url="https://images.indianexpress.com/2025/05/ship-india-pak.jpeg" medium="image">
 			<media:title type="html">ship india pak</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why river water from parched Punjab is flowing unused into Pakistan</title>
-		<link>https://indianexpress.com/article/explained/why-river-water-parched-punjab-is-going-to-pakistan-9982585/</link>
-		
-		<dc:creator><![CDATA[Anju Agnihotri Chaba]]></dc:creator>
-		<pubDate>Sun, 04 May 2025 14:23:34 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9982585</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9982585</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/ravi-river-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/ravi-river-1600.jpg" medium="image">
-			<media:title type="html">ravi river 1600</media:title>
 		</media:content>
 	</item>
 	</channel>
