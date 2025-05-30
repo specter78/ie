@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 30 May 2025 14:57:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 May 2025 18:09:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>China this week &#124; US to revoke Chinese students’ visas, European businesses register low confidence in China</title>
+		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-us-revoke-visa-ai-europe-business-sentiment-10039081/</link>
+		
+		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 18:08:53 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10039081</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10039081</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/china-this-week-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/china-this-week-1.jpg" medium="image">
+			<media:title type="html">An interview with a Chinese postgraduate student who is waiting to resume visa process to study a PhD in the U.S., in Beijing</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>This Word Means: Aircraft carrier</title>
 		<link>https://indianexpress.com/article/explained/this-word-means-aircraft-carrier-10039085/</link>
 		
@@ -2289,11 +2308,11 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -4114,25 +4133,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/TWM-Starbase.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/TWM-Starbase.jpg" medium="image">
 			<media:title type="html">TWM Starbase</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What is Maharashtra’s ‘One State, One Registration’ policy, aimed at easing property registration</title>
-		<link>https://indianexpress.com/article/explained/maharashtras-one-state-one-registration-property-doc-registration-9984022/</link>
-		
-		<dc:creator><![CDATA[Siddhant Konduskar]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 12:38:10 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9984022</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9984022</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/mahrashtra-property-registration.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/mahrashtra-property-registration.jpg" medium="image">
-			<media:title type="html">mahrashtra property registration</media:title>
 		</media:content>
 	</item>
 	</channel>
