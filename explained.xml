@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 30 May 2025 07:32:32 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 May 2025 08:15:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Why MMRDA has scrapped the tendering process for Thane-Bhayandar mega infra projects</title>
+		<title>Why MMRDA has scrapped the tendering process for Rs 14,000 crore Thane-Bhayander mega infra projects</title>
 		<link>https://indianexpress.com/article/explained/mumbai-mmrda-scrap-thane-bhayandar-mega-infra-project-reason-10038219/</link>
 		
 		<dc:creator><![CDATA[Omkar Gokhale]]></dc:creator>
@@ -2247,11 +2247,7 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
-			<media:title type="html">Deonar</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -2259,7 +2255,11 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
+			<media:title type="html">Deonar</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
