@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 29 May 2025 14:45:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 May 2025 01:06:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Beijing &#038; Vatican: a short history of religion and Catholicism in China</title>
+		<link>https://indianexpress.com/article/explained/explained-global/beijing-vatican-a-short-history-of-religion-and-catholicism-in-china-10037451/</link>
+		
+		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 01:30:55 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10037451</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10037451</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/PopeTaiwane.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/PopeTaiwane.jpg" medium="image">
+			<media:title type="html">PopeTaiwane</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>This Word Means: Initial Public Offering (IPO)</title>
 		<link>https://indianexpress.com/article/explained/this-word-means-initial-public-offering-ipo-10036997/</link>
 		
@@ -2186,15 +2205,15 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
-			<media:title type="html">Deonar</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
+			<media:title type="html">Deonar</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
@@ -4102,25 +4121,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/Tariff-tracker-May-5.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/Tariff-tracker-May-5.jpg" medium="image">
 			<media:title type="html">Tariff tracker May 5</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Drafting, super spikes: How Faith Kipyegon can become the first woman to run a mile under four minutes</title>
-		<link>https://indianexpress.com/article/explained/explained-sports/faith-kipyegon-first-woman-four-minute-mile-9983443/</link>
-		
-		<dc:creator><![CDATA[Mihir Vasavda]]></dc:creator>
-		<pubDate>Mon, 05 May 2025 06:28:59 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sports]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9983443</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9983443</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/fiath-kipyegon.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/fiath-kipyegon.jpg" medium="image">
-			<media:title type="html">faith kipyegon</media:title>
 		</media:content>
 	</item>
 	</channel>
