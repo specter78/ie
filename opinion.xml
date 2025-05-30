@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 30 May 2025 09:35:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 May 2025 11:49:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>When Ngũgĩ wa Thiong’o met Tagore</title>
+		<link>https://indianexpress.com/article/opinion/columns/when-ngugi-wa-thiongo-met-tagore-10038726/</link>
+		
+		<dc:creator><![CDATA[Bishan Samaddar]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 11:47:02 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10038726</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10038726</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Ngugi_8d1194.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Ngugi_8d1194.jpg" medium="image">
+			<media:title type="html">Ngũgĩ wa Thiong’o</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Robust municipal governance holds the key to preventing waterlogging and health hazards during monsoon</title>
 		<link>https://indianexpress.com/article/opinion/columns/robust-municipal-governance-holds-the-key-to-preventing-waterlogging-and-health-hazards-during-monsoon-10038480/</link>
 		
@@ -3834,25 +3853,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/express-view-Copy-2-8.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/express-view-Copy-2-8.jpg" medium="image">
 			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>In uncertain times, resilience is the financial superpower every parent needs</title>
-		<link>https://indianexpress.com/article/opinion/columns/in-uncertain-times-resilience-is-the-financial-superpower-every-parent-needs-10009202/</link>
-		
-		<dc:creator><![CDATA[Lavanya Mohan]]></dc:creator>
-		<pubDate>Fri, 16 May 2025 01:26:59 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10009202</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10009202</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/A-PLAN-NO-CRYSTAL-BALL-copy.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/A-PLAN-NO-CRYSTAL-BALL-copy.jpg" medium="image">
-			<media:title type="html">A PLAN, NO CRYSTAL BALL copy</media:title>
 		</media:content>
 	</item>
 	</channel>
