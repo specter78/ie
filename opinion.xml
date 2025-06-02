@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 02 Jun 2025 13:22:46 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Jun 2025 13:37:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -102,8 +102,8 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10043656</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Pro-Kannada-organisation-warns-theatre-owners-on-Kamal-Haasans-Thug-Life-release-in-Bengaluru-amid-Kannada-language-row.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Pro-Kannada-organisation-warns-theatre-owners-on-Kamal-Haasans-Thug-Life-release-in-Bengaluru-amid-Kannada-language-row.jpg" medium="image">
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/Kamal-Haasan-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/Kamal-Haasan-1.jpg" medium="image">
 			<media:title type="html">Kamal Haasan</media:title>
 		</media:content>
 	</item>
