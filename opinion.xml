@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 05 Jun 2025 08:47:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Jun 2025 09:34:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How AI can be a solution — not a problem — in the fight against climate change</title>
+		<link>https://indianexpress.com/article/opinion/columns/how-ai-can-be-a-solution-not-a-problem-in-the-fight-against-climate-change-10049882/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 09:34:46 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10049882</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10049882</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/artificial-intelligence-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/artificial-intelligence-1600.jpg" medium="image">
+			<media:title type="html">artificial intelligence</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>World Environment Day: India needs to mitigate the climate change threat to agriculture</title>
+		<link>https://indianexpress.com/article/opinion/columns/world-environment-day-india-mitigate-climate-change-agriculture-10049816/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 09:12:23 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10049816</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10049816</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/Untitled-design-2025-05-31T115253.558_20250605091022.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/Untitled-design-2025-05-31T115253.558_20250605091022.jpg" medium="image">
+			<media:title type="html">Untitled-design-2025-05-31T115253.558_20250605091022.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Dissecting the myth of China’s control over the Brahmaputra</title>
 		<link>https://indianexpress.com/article/opinion/columns/dissecting-the-myth-of-chinas-control-over-the-brahmaputra-10049767/</link>
 		
@@ -3827,44 +3865,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/express-view-14.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/express-view-14.jpg" medium="image">
 			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Pakistan’s hypocrisy must be revealed to the world</title>
-		<link>https://indianexpress.com/article/opinion/columns/pakistans-hypocrisy-must-be-revealed-to-the-world-10020735/</link>
-		
-		<dc:creator><![CDATA[Sarfaraz Ahmad]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 01:22:16 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10020735</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10020735</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/Opinion2_22nd-May.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/Opinion2_22nd-May.jpg" medium="image">
-			<media:title type="html">Opinion2_22nd-May</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>A decade of marriage equality in Ireland</title>
-		<link>https://indianexpress.com/article/opinion/columns/a-decade-of-marriage-equality-in-ireland-10020755/</link>
-		
-		<dc:creator><![CDATA[Kevin Kelly]]></dc:creator>
-		<pubDate>Thu, 22 May 2025 01:22:03 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10020755</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10020755</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/Opinion5_22nd-May-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/Opinion5_22nd-May-1.jpg" medium="image">
-			<media:title type="html">Opinion5_22nd-May (1)</media:title>
 		</media:content>
 	</item>
 	</channel>
