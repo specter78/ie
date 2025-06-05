@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 05 Jun 2025 13:59:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Jun 2025 15:54:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -70,7 +70,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>How the new Trump travel ban on 12 countries differs from his previous &#8216;Muslim ban&#8217;</title>
+		<title>How the new Trump travel ban differs from his previous &#8216;Muslim ban&#8217;</title>
 		<link>https://indianexpress.com/article/explained/explained-global/explained-trump-travel-ban-12-countries-middle-east-africa-10050063/</link>
 		
 		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
@@ -3219,7 +3219,7 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -3227,7 +3227,7 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
