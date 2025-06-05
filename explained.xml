@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 05 Jun 2025 09:54:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Jun 2025 12:05:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How the new Trump travel ban on 12 countries differs from his previous &#8216;Muslim ban&#8217;</title>
+		<link>https://indianexpress.com/article/explained/explained-global/explained-trump-travel-ban-12-countries-middle-east-africa-10050063/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2025 11:40:50 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10050063</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10050063</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/Trump-Rubio.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/Trump-Rubio.jpg" medium="image">
+			<media:title type="html">Trump Rubio</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Bengaluru tragedy: 6 tips to protect yourself in stampede-like situations</title>
 		<link>https://indianexpress.com/article/explained/bengaluru-rcb-ipl-stampede-tips-protection-10049831/</link>
 		
@@ -3158,11 +3177,11 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -3170,7 +3189,7 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
@@ -4110,25 +4129,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/Dwarka_Beach_Gujrat.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/Dwarka_Beach_Gujrat.jpg" medium="image">
 			<media:title type="html">Dwarka_Beach_Gujrat</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Tariff tracker, May 10: Upcoming US trade talks with China, European Union</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/tariff-tracker-may-10-us-talks-china-eu-9994824/</link>
-		
-		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
-		<pubDate>Sat, 10 May 2025 12:24:01 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9994824</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9994824</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/Trump-tariff-tracker-trade-deals.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/Trump-tariff-tracker-trade-deals.jpg" medium="image">
-			<media:title type="html">Trump tariff tracker trade deals</media:title>
 		</media:content>
 	</item>
 	</channel>
