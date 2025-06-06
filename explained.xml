@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 06 Jun 2025 02:31:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Jun 2025 04:15:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>After the Trump-Musk break-up: five takeaways</title>
+		<link>https://indianexpress.com/article/explained/explained-global/trump-donald-elon-musk-break-up-takeaways-10051278/</link>
+		
+		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
+		<pubDate>Fri, 06 Jun 2025 03:45:06 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10051278</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10051278</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/donald-trump-with-elon.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/donald-trump-with-elon.jpg" medium="image">
+			<media:title type="html">donald trump with elon</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>ExplainSpeaking: The critical importance of Census 2027 for India’s economy</title>
+		<link>https://indianexpress.com/article/explained/explainspeaking-critical-importance-census-2027-indias-economy-10051236/</link>
+		
+		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
+		<pubDate>Fri, 06 Jun 2025 03:34:40 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10051236</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10051236</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/Caste-census-3.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/Caste-census-3.jpg" medium="image">
+			<media:title type="html">Caste census (3)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Assam CM on Pakistan ‘scare narrative’: Could Chinese dams affect Brahmaputra flow in India?</title>
 		<link>https://indianexpress.com/article/explained/assam-cm-himanta-biswa-sarma-on-pakistan-scare-narrative-could-chinese-dams-affect-brahmaputra-flow-in-india-10050846/</link>
 		
@@ -71,25 +109,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/SOREN-MARANDI.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/SOREN-MARANDI.jpg" medium="image">
 			<media:title type="html">SOREN-MARANDI</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>China rare earth mineral export ban impact: Suzuki suspends production of Swift cars</title>
-		<link>https://indianexpress.com/article/explained/suzuki-swift-suspend-china-rare-earth-mineral-export-ban-10050475/</link>
-		
-		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
-		<pubDate>Thu, 05 Jun 2025 13:45:42 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10050475</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10050475</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/swift.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/swift.jpg" medium="image">
-			<media:title type="html">swift</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3257,11 +3276,11 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
@@ -4110,25 +4129,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/Mothers-day.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/Mothers-day.jpg" medium="image">
 			<media:title type="html">Mothers day</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>As India bids for Olympics, what research has found about health, economic impacts on hosts</title>
-		<link>https://indianexpress.com/article/explained/explained-sports/india-bid-olympics-health-economic-impacts-hosts-9995947/</link>
-		
-		<dc:creator><![CDATA[Anil Dias]]></dc:creator>
-		<pubDate>Sun, 11 May 2025 06:51:21 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sports]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=9995947</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">9995947</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/LONDON-OLYMPICS-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/LONDON-OLYMPICS-1600.jpg" medium="image">
-			<media:title type="html">The Opening Ceremony of the London Olympics, July 27, 2012. (Doug Mills/The New York Times)</media:title>
 		</media:content>
 	</item>
 	</channel>
