@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 06 Jun 2025 13:50:28 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Jun 2025 15:08:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -131,7 +131,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>ExplainSpeaking: The critical importance of Census 2027 for India’s economy</title>
+		<title>ExplainSpeaking: The critical importance of the next Census for India’s economy</title>
 		<link>https://indianexpress.com/article/explained/explainspeaking-critical-importance-census-2027-indias-economy-10051236/</link>
 		
 		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
@@ -3356,10 +3356,6 @@
 			<media:title type="html">Residences located right next to the Deonar dumping ground, 2016. (Express Photo by Vasant Prabhu)</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
-			<media:title type="html">Deonar</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/05/Deonar1.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
@@ -3369,6 +3365,10 @@
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+			<media:title type="html">Deonar</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar4.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
