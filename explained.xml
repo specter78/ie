@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 09 Jun 2025 07:05:04 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 Jun 2025 07:38:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Explained: Complex challenges in chaotic Trump world</title>
+		<title>One year of Modi 3.0: Complex foreign policy challenges in a chaotic Trump world</title>
 		<link>https://indianexpress.com/article/explained/explained-global/complex-challenges-in-chaotic-trump-world-10055525/</link>
 		
 		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
@@ -74,7 +74,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Explained: Lok Sabha blip is past, BJP back in business</title>
+		<title>One year of Modi 3.0: Lok Sabha blip is past, BJP back in business</title>
 		<link>https://indianexpress.com/article/explained/explained-politics/lok-sabha-blip-is-past-bjp-back-in-business-10055524/</link>
 		
 		<dc:creator><![CDATA[Vikas Pathak]]></dc:creator>
@@ -93,7 +93,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Explained: Stepping up Naxal fight, carrying on welfare push</title>
+		<title>One year of Modi 3.0, governance status check: Stepping up Naxal fight, carrying on welfare push</title>
 		<link>https://indianexpress.com/article/explained/stepping-up-naxal-fight-carrying-on-welfare-push-10055531/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -3800,11 +3800,11 @@
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/05/Deonar3.jpg" medium="image">
+		<media:content url="https://images.indianexpress.com/2025/05/Deonar2.jpg" medium="image">
 			<media:title type="html">Deonar</media:title>
 		</media:content>
 	</item>
