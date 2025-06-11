@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 11 Jun 2025 07:43:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Jun 2025 08:46:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What happens when a classic director chases the reels generation? The answer is Mani Ratnam’s ‘Thug Life’</title>
+		<link>https://indianexpress.com/article/opinion/columns/what-happens-when-a-classic-director-chases-the-reels-generation-the-answer-is-mani-ratnams-thug-life-10060369/</link>
+		
+		<dc:creator><![CDATA[Rajesh Rajamani]]></dc:creator>
+		<pubDate>Wed, 11 Jun 2025 08:46:02 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10060369</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10060369</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2023/08/thug-life-review.jpg" />
+		<media:content url="https://images.indianexpress.com/2023/08/thug-life-review.jpg" medium="image">
+			<media:title type="html">thug life review</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Community forest rights can end Naxalism. Gadchiroli is an example</title>
 		<link>https://indianexpress.com/article/opinion/columns/community-forest-rights-can-end-naxalism-gadchiroli-is-an-example-10060226/</link>
 		
@@ -3834,25 +3853,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/edit_5ab847.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/edit_5ab847.jpg" medium="image">
 			<media:title type="html">edit_5ab847</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express View: CBSE directive to introduce teaching in mother tongue in primary classes — a wrong lesson plan</title>
-		<link>https://indianexpress.com/article/opinion/editorials/express-view-cbse-directive-to-introduce-teaching-in-mother-tongue-in-primary-classes-a-wrong-lesson-plan-10032825/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 28 May 2025 01:45:08 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10032825</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10032825</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/e-view.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/e-view.jpg" medium="image">
-			<media:title type="html">e view</media:title>
 		</media:content>
 	</item>
 	</channel>
