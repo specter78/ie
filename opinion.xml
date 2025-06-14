@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 14 Jun 2025 06:44:04 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Jun 2025 07:32:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What Telangana Congress doesn’t realise: There can be no social justice if it excludes Muslims</title>
+		<link>https://indianexpress.com/article/opinion/columns/no-muslim-in-telangana-cabinet-congress-social-justice-politics-10066305/</link>
+		
+		<dc:creator><![CDATA[Afroz Alam]]></dc:creator>
+		<pubDate>Sat, 14 Jun 2025 07:32:49 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10066305</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10066305</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Revanth-Reddy-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Revanth-Reddy-1.jpg" medium="image">
+			<media:title type="html">Revanth Reddy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Not so cool: Government’s rule setting AC temperatures, and its impact</title>
+		<link>https://indianexpress.com/article/opinion/columns/ac-guideline-of-government-temperature-control-by-central-government-modi-10066302/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 14 Jun 2025 07:23:15 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10066302</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10066302</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/Untitled-design-2025-05-08T110313.949.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/Untitled-design-2025-05-08T110313.949.jpg" medium="image">
+			<media:title type="html">AC guidelines</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Ram Madhav writes: What the current discourse on religious freedom gets wrong</title>
 		<link>https://indianexpress.com/article/opinion/columns/ram-madhav-writes-what-the-current-discourse-on-religious-freedom-gets-wrong-10065570/</link>
 		
@@ -3815,44 +3853,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/navy-shipss-4col.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/navy-shipss-4col.jpg" medium="image">
 			<media:title type="html">ships</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The Elon Musk-Donald Trump break up: Too much main character energy</title>
-		<link>https://indianexpress.com/article/opinion/editorials/the-elon-musk-donald-trump-break-up-too-much-main-character-energy-10039290/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 31 May 2025 01:45:47 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10039290</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10039290</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/edit_b84379.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/edit_b84379.jpg" medium="image">
-			<media:title type="html">edit_b84379</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>In Manipur, push for a return to popular government is understandable</title>
-		<link>https://indianexpress.com/article/opinion/editorials/in-manipur-push-for-a-return-to-popular-government-is-understandable-10039289/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 31 May 2025 01:42:44 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10039289</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10039289</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/edit_c0b4db.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/edit_c0b4db.jpg" medium="image">
-			<media:title type="html">edit_c0b4db</media:title>
 		</media:content>
 	</item>
 	</channel>
