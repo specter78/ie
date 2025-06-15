@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 15 Jun 2025 05:51:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Jun 2025 08:10:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,10 +32,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>ED questions actor Dino Morea: What is the alleged multi-crore Mithi river scam?</title>
+		<link>https://indianexpress.com/article/explained/ed-actor-dino-morea-mithi-river-scam-10067926/</link>
+		
+		<dc:creator><![CDATA[Vijay Kumar Yadav]]></dc:creator>
+		<pubDate>Sun, 15 Jun 2025 08:06:45 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10067926</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10067926</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/dino-morea.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/06/dino-morea.jpeg" medium="image">
+			<media:title type="html">dino morea</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: Centre’s rationale behind MGNREGS spending cap, the problems with it</title>
 		<link>https://indianexpress.com/article/explained/explained-centre-rationale-behind-mgnregs-spending-cap-problems-10066940/</link>
 		
-		<dc:creator><![CDATA[Laavanya Tamang]]></dc:creator>
+		<dc:creator><![CDATA[Laavanya Tamang, Purbayan Chakraborty]]></dc:creator>
 		<pubDate>Sun, 15 Jun 2025 04:04:08 +0000</pubDate>
 		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10066940</guid>
 
@@ -4098,25 +4117,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Consumer-price-rev.jpg?resize=626,405" medium="image">
 			<media:title type="html">consumer price </media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Supreme Court struck down the Centre’s orders on retrospective environmental clearances</title>
-		<link>https://indianexpress.com/article/explained/supreme-court-retrospective-environmental-clearances-10014393/</link>
-		
-		<dc:creator><![CDATA[Nikhil Ghanekar]]></dc:creator>
-		<pubDate>Sun, 18 May 2025 14:33:19 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10014393</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10014393</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/clearance-supreme-court-environment.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/clearance-supreme-court-environment.jpg" medium="image">
-			<media:title type="html">clearance supreme court environment</media:title>
 		</media:content>
 	</item>
 	</channel>
