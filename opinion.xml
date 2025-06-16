@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 16 Jun 2025 07:00:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Jun 2025 07:27:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>With &#8216;realism&#8217; guiding its Pakistan policy, US credibility is diminished</title>
+		<link>https://indianexpress.com/article/opinion/columns/with-realism-guiding-its-pakistan-policy-us-credibility-is-diminished-10069731/</link>
+		
+		<dc:creator><![CDATA[Bhopinder Singh]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2025 07:26:59 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10069731</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10069731</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2023/12/asim-munir.jpg" />
+		<media:content url="https://images.indianexpress.com/2023/12/asim-munir.jpg" medium="image">
+			<media:title type="html">Asim Munir.</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>11 years on, Bharat is stronger and more inclusive</title>
+		<link>https://indianexpress.com/article/opinion/columns/11-years-on-bharat-is-stronger-and-more-inclusive-10069717/</link>
+		
+		<dc:creator><![CDATA[Gourav Vallabh]]></dc:creator>
+		<pubDate>Mon, 16 Jun 2025 07:18:25 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10069717</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10069717</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/modi-file.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/modi-file.jpg" medium="image">
+			<media:title type="html">modi file</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Men’s mental health matters. More so, as patriarchy doesn’t let them speak</title>
 		<link>https://indianexpress.com/article/opinion/columns/mens-mental-health-awareness-month-more-patriarchy-doesnt-let-them-speak-10069652/</link>
 		
@@ -3803,44 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/IIT-delhi-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/IIT-delhi-1.jpg" medium="image">
 			<media:title type="html">IIT Delhi</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>June 2, 1985, Forty Years Ago: Patil Resigns as CM</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/june-2-1985-forty-years-ago-patil-resigns-as-cm-10042655/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 01:50:21 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10042655</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10042655</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/express-archives.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/express-archives.jpg" medium="image">
-			<media:title type="html">express archives</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Jayant Narlikar, the storyteller who brought the stars closer to India</title>
-		<link>https://indianexpress.com/article/opinion/columns/jayant-narlikar-the-storyteller-who-brought-the-stars-closer-to-india-10042654/</link>
-		
-		<dc:creator><![CDATA[Naresh Dadhich]]></dc:creator>
-		<pubDate>Mon, 02 Jun 2025 01:17:19 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10042654</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10042654</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Opinion2_2nd-June.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Opinion2_2nd-June.jpg" medium="image">
-			<media:title type="html">Opinion2_2nd-June</media:title>
 		</media:content>
 	</item>
 	</channel>

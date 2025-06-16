@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 16 Jun 2025 07:02:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Jun 2025 08:06:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -240,8 +240,12 @@
 			<media:title type="html">Pulses dried</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/Graphs-1600.jpg?resize=600,453" medium="image">
-			<media:title type="html">india&#039;s imports</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/pulses-1600.jpg?resize=600,227" medium="image">
+			<media:title type="html">pulses imports</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/oil-1600.jpg?resize=600,227" medium="image">
+			<media:title type="html">oil imports</media:title>
 		</media:content>
 	</item>
 		<item>
