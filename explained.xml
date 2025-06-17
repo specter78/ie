@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 17 Jun 2025 13:06:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Jun 2025 13:37:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,33 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Ram darbar consecration at Ayodhya: What this means, which is the &#8216;only temple&#8217; where Ram is worshipped as king</title>
+		<link>https://indianexpress.com/article/explained/explained-culture/ram-darbar-consecration-ayodhya-king-orchha-10072302/</link>
+		
+		<dc:creator><![CDATA[Yashee]]></dc:creator>
+		<pubDate>Tue, 17 Jun 2025 13:37:54 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10072302</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10072302</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/ram-darbar-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/ram-darbar-1600.jpg" medium="image">
+			<media:title type="html">ram darbar 1600</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/Ram_Raja_Temple-1600.jpg?resize=600,401" medium="image">
+			<media:title type="html">Ramraja temple orchha</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/Chaturbhuj_Temple-Orchha-1600.jpg?resize=600,450" medium="image">
+			<media:title type="html">Chaturbhuj temple in Orchha</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What is the International Big Cat Alliance, launched by India?</title>
 		<link>https://indianexpress.com/article/explained/everyday-explainers/international-big-cat-alliance-faq-10072246/</link>
 		
@@ -4070,29 +4097,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/asim-munir.jpeg" />
 		<media:content url="https://images.indianexpress.com/2025/05/asim-munir.jpeg" medium="image">
 			<media:title type="html">asim munir</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>A great ambassador for science: Jayant Narlikar’s efforts to popularise science in India</title>
-		<link>https://indianexpress.com/article/explained/jayant-narlikar-science-india-10017909/</link>
-		
-		<dc:creator><![CDATA[Anjali Marar]]></dc:creator>
-		<pubDate>Tue, 20 May 2025 13:40:55 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10017909</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10017909</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/Narlikar.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/Narlikar.jpg" medium="image">
-			<media:title type="html">Narlikar</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Narlikar-during-Bharat-Darshan-lecture-series.jpg?resize=455,600" medium="image">
-			<media:title type="html">Narlikar </media:title>
 		</media:content>
 	</item>
 	</channel>
