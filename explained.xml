@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 18 Jun 2025 08:04:43 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Jun 2025 12:15:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,75 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The shared history of California &#038; Mexico, why anti-ICE protestors were waving Mexican flags</title>
+		<link>https://indianexpress.com/article/explained/explained-history/la-protests-shared-history-california-mexico-10074068/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 12:15:03 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10074068</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10074068</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/California-Mexico.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/California-Mexico.jpg" medium="image">
+			<media:title type="html">California Mexico</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/California_island_Vinckeboons5.jpg?resize=600,416" medium="image">
+			<media:title type="html">California island</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/Mexico_1824_equirectangular_projection.png?resize=600,449" medium="image">
+			<media:title type="html">Mexican Californias</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/Irredentismo_California_en.jpg?resize=600,522" medium="image">
+			<media:title type="html">Los Californios history</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Explained: Strike at Louvre Museum &#038; growing menace of overtourism</title>
+		<link>https://indianexpress.com/article/explained/explained-global/louvre-museum-overtourism-10074135/</link>
+		
+		<dc:creator><![CDATA[Sonal Gupta]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 12:08:58 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10074135</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10074135</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/Crowd_looking_at_the_Mona_Lisa_at_the_Louvre.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/Crowd_looking_at_the_Mona_Lisa_at_the_Louvre.jpg" medium="image">
+			<media:title type="html">Crowd_looking_at_the_Mona_Lisa_at_the_Louvre</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>WhatsApp to introduce ads: All you need to know</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/whatsapp-introduce-ads-10074129/</link>
+		
+		<dc:creator><![CDATA[Karan Mahadik]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 12:05:50 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10074129</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10074129</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/smartphone-5064084_1920.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/smartphone-5064084_1920.jpg" medium="image">
+			<media:title type="html">WhatsApp Ad</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why the Iran-Israel war has not hit Indian markets</title>
 		<link>https://indianexpress.com/article/explained/why-the-iran-israel-war-has-not-hit-indian-markets-10072883/</link>
 		
@@ -4040,63 +4109,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/BASAVARAJU.jpeg" />
 		<media:content url="https://images.indianexpress.com/2025/05/BASAVARAJU.jpeg" medium="image">
 			<media:title type="html">BASAVARAJU</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Bengaluru Rains: Why the city witnesses flooding and waterlogging almost every year</title>
-		<link>https://indianexpress.com/article/explained/bengaluru-rains-frequent-flooding-waterlogging-10019529/</link>
-		
-		<dc:creator><![CDATA[Sanath Prasad, Kiran Parashar]]></dc:creator>
-		<pubDate>Wed, 21 May 2025 09:22:35 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10019529</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10019529</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/Bengaluru-Rains-flooding.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/Bengaluru-Rains-flooding.jpg" medium="image">
-			<media:title type="html">Bengaluru Rains flooding</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Chhattisgarh Encounter: Who was Basava Raju, top Maoist man killed in Abujhmad encounter?</title>
-		<link>https://indianexpress.com/article/explained/who-is-basavraj-top-maoist-man-abujhmad-10019398/</link>
-		
-		<dc:creator><![CDATA[Sreenivas Janyala, Jayprakash S Naidu]]></dc:creator>
-		<pubDate>Wed, 21 May 2025 08:14:01 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10019398</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10019398</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/naxal.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/05/naxal.jpeg" medium="image">
-			<media:title type="html">naxal</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why China has ramped up construction work on Pakistan’s Mohmand dam</title>
-		<link>https://indianexpress.com/article/explained/explained-global/why-china-construction-pakistans-mohmand-dam-10019245/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Wed, 21 May 2025 06:35:23 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10019245</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10019245</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/mohmand-dam-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/mohmand-dam-1600.jpg" medium="image">
-			<media:title type="html">mohmand dam 1600</media:title>
 		</media:content>
 	</item>
 	</channel>
