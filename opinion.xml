@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 18 Jun 2025 07:35:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Jun 2025 09:06:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,82 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Rabindranath Tagore will always be relevant to Bangladesh</title>
+		<link>https://indianexpress.com/article/opinion/columns/rabindranath-tagore-will-always-be-relevant-to-bangladesh-10073766/</link>
+		
+		<dc:creator><![CDATA[Subrata Mukherjee]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 09:03:27 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10073766</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10073766</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/Untitled-design-10-3_20250509042134_20250618085926.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/Untitled-design-10-3_20250509042134_20250618085926.jpg" medium="image">
+			<media:title type="html">Rabindranath Tagore</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Israel-Iran conflict: Why the world can’t afford a blocked Strait of Hormuz</title>
+		<link>https://indianexpress.com/article/opinion/columns/israel-iran-conflict-why-the-world-cant-afford-a-blocked-strait-of-hormuz-10073774/</link>
+		
+		<dc:creator><![CDATA[Kuldip Singh]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 09:02:35 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10073774</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10073774</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/AP06_16_2025_000035A.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/AP06_16_2025_000035A.jpg" medium="image">
+			<media:title type="html">APTOPIX Israel Iran Mideast Wars</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Undercounted and overlooked: The hidden toll of heat waves on health</title>
+		<link>https://indianexpress.com/article/opinion/columns/heat-wave-public-health-emergency-toll-10073709/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 08:29:15 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10073709</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10073709</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/heatwave-1_20250618082207.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/heatwave-1_20250618082207.jpg" medium="image">
+			<media:title type="html">heatwave-1_20250618082207.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>US involvement is contingent upon how the Iran-Israel conflict unfolds in the coming days</title>
+		<link>https://indianexpress.com/article/opinion/columns/israel-iran-war-us-donald-trump-israel-iran-war-10073706/</link>
+		
+		<dc:creator><![CDATA[Rajan Kumar]]></dc:creator>
+		<pubDate>Wed, 18 Jun 2025 08:24:55 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10073706</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10073706</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/tehran-airstrike.png" />
+		<media:content url="https://images.indianexpress.com/2025/06/tehran-airstrike.png" medium="image">
+			<media:title type="html">tehran-airstrike</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Who&#8217;s my neighbour: When my neighbourhood was a boarding school dormitory</title>
 		<link>https://indianexpress.com/article/opinion/columns/whos-my-neighbour-when-my-neighbourhood-was-a-boarding-school-dormitory-10073623/</link>
 		
@@ -3182,7 +3258,7 @@
 		<title>Trump’s latest travel ban isn’t about national security — it’s about national identity and who’s allowed to belong</title>
 		<link>https://indianexpress.com/article/opinion/columns/trumps-latest-travel-ban-isnt-about-national-security-its-about-national-identity-and-whos-allowed-to-belong-10051552/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[Jonah Blank]]></dc:creator>
 		<pubDate>Fri, 06 Jun 2025 06:30:25 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10051552</guid>
 
@@ -3765,82 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/Trade-4col.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/Trade-4col.jpg" medium="image">
 			<media:title type="html">Representative image</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Operation Sindoor is shaping the political narrative of West Bengal</title>
-		<link>https://indianexpress.com/article/opinion/columns/how-operation-sindoor-is-shaping-the-political-narrative-of-west-bengal-10047466/</link>
-		
-		<dc:creator><![CDATA[Suman Nath]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 07:38:55 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10047466</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10047466</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Mamata-Murshidabad.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Mamata-Murshidabad.jpg" medium="image">
-			<media:title type="html">Mamata Banerjee</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What if Russia ‘loses’?</title>
-		<link>https://indianexpress.com/article/opinion/columns/ukraine-drone-attack-on-russia-if-russia-loses-the-war-10047491/</link>
-		
-		<dc:creator><![CDATA[Manav Sachdeva]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 07:17:25 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10047491</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10047491</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/russia-ukraine.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/russia-ukraine.jpg" medium="image">
-			<media:title type="html">russia ukraine</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The Indian common man and the road the happiness</title>
-		<link>https://indianexpress.com/article/opinion/columns/the-indian-common-man-and-the-road-the-happiness-10046654/</link>
-		
-		<dc:creator><![CDATA[Praveen Siddharth]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 01:24:23 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10046654</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10046654</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Opinion2_4th-June.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Opinion2_4th-June.jpg" medium="image">
-			<media:title type="html">Opinion2_4th-June</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Niti Aayog and a deepening federalism</title>
-		<link>https://indianexpress.com/article/opinion/niti-aayog-and-a-deepening-federalism-10046735/</link>
-		
-		<dc:creator><![CDATA[B V R Subrahmanyam, Shashank Shah]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 01:23:56 +0000</pubDate>
-		<category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10046735</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10046735</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Opinion4_4th-June.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Opinion4_4th-June.jpg" medium="image">
-			<media:title type="html">Opinion4_4th-June</media:title>
 		</media:content>
 	</item>
 	</channel>
