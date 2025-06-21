@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 21 Jun 2025 05:44:15 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Jun 2025 08:56:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What new Registration Bill says, why it was introduced</title>
+		<link>https://indianexpress.com/article/explained/explained-law/draft-registration-bill-10079810/</link>
+		
+		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
+		<pubDate>Sat, 21 Jun 2025 08:56:22 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10079810</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10079810</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/RegistrationBill.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/RegistrationBill.jpg" medium="image">
+			<media:title type="html">RegistrationBill</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why Madhya Pradesh CM&#8217;s wish to count snakes and rear king cobras is unfeasible</title>
 		<link>https://indianexpress.com/article/explained/why-madhya-pradesh-cms-wish-to-count-snakes-and-rear-king-cobras-is-unfeasible-10079052/</link>
 		
@@ -4058,25 +4077,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/This-Word-Means-8.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/This-Word-Means-8.jpg" medium="image">
 			<media:title type="html">This Word Means</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What is the FATF, and why does Pakistan potentially being greylisted matter?</title>
-		<link>https://indianexpress.com/article/explained/what-is-fatf-grey-list-10024362/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 11:57:42 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10024362</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10024362</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/FATF.png" />
-		<media:content url="https://images.indianexpress.com/2025/05/FATF.png" medium="image">
-			<media:title type="html">FATF</media:title>
 		</media:content>
 	</item>
 	</channel>
