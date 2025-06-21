@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 21 Jun 2025 08:56:22 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Jun 2025 13:45:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Tariff Tracker, June 21: Hong Kong dollar declines, but investors wary of US assets</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/tariff-tracker-june-21-hong-kong-dollar-hkd-usd-10080145/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Sat, 21 Jun 2025 13:45:29 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10080145</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10080145</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/Tariff-Tracker-June-21.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/Tariff-Tracker-June-21.jpg" medium="image">
+			<media:title type="html">Tariff Tracker June 21</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>International Yoga Day: Why is it hard to pinpoint the origin of yoga?</title>
+		<link>https://indianexpress.com/article/explained/explained-culture/international-yoga-day-why-is-it-hard-to-pinpoint-the-origin-of-yoga-10080134/</link>
+		
+		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
+		<pubDate>Sat, 21 Jun 2025 13:37:44 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10080134</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10080134</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/YOGA123.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/YOGA123.jpg" medium="image">
+			<media:title type="html">YOGA123</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What new Registration Bill says, why it was introduced</title>
 		<link>https://indianexpress.com/article/explained/explained-law/draft-registration-bill-10079810/</link>
 		
@@ -4039,44 +4077,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/electric-vehiclesee.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/electric-vehiclesee.jpg" medium="image">
 			<media:title type="html">electric-vehiclesee</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>China This Week &#124; China-Pak-Afghanistan meeting in Beijing, NVIDIA CEO says US policy on tech to China &#8216;failed&#8217;</title>
-		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-china-pakistan-afghanistan-cpec-ai-national-security-10024858/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 16:28:08 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10024858</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10024858</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/nvidia-china-ai.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/nvidia-china-ai.jpg" medium="image">
-			<media:title type="html">FILE PHOTO: Nvidia&#039;s CEO Jensen Huang answers questions from members of the media at a press event in Taipei</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>This Word Means: Student and Exchange Visitor Program (SEVP)</title>
-		<link>https://indianexpress.com/article/explained/this-word-means-sevp-harvard-10024759/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 23 May 2025 15:26:21 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10024759</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10024759</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/This-Word-Means-8.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/This-Word-Means-8.jpg" medium="image">
-			<media:title type="html">This Word Means</media:title>
 		</media:content>
 	</item>
 	</channel>
