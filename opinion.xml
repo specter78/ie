@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 22 Jun 2025 10:01:52 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Jun 2025 11:27:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,8 +32,27 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>From the Opinions Editor: India needs a well thought out trade strategy, but first it needs a China strategy</title>
+		<link>https://indianexpress.com/article/opinion/columns/india-trade-strategy-china-10081550/</link>
+		
+		<dc:creator><![CDATA[Ishan Bakshi]]></dc:creator>
+		<pubDate>Sun, 22 Jun 2025 11:13:04 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10081550</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10081550</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/trade.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/trade.jpg" medium="image">
+			<media:title type="html">trade</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Iraq was a warning, Iran is a rupture</title>
-		<link>https://indianexpress.com/article/opinion/columns/with-us-strikes-on-iran-a-shadow-war-becomes-a-spectacle-10081425/</link>
+		<link>https://indianexpress.com/article/opinion/columns/iraq-was-a-warning-iran-is-a-rupture-10081425/</link>
 		
 		<dc:creator><![CDATA[Manav Sachdeva]]></dc:creator>
 		<pubDate>Sun, 22 Jun 2025 09:34:53 +0000</pubDate>
@@ -3842,25 +3861,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/rahul-gandhi-9_20250607143827.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/rahul-gandhi-9_20250607143827.jpg" medium="image">
 			<media:title type="html">rahul-gandhi-9_20250607143827.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Preparing for the new normal post-Operation Sindoor</title>
-		<link>https://indianexpress.com/article/opinion/columns/sindoor-strategy-counterterrorism-drones-narratives-pakistan-nuclear-10053435/</link>
-		
-		<dc:creator><![CDATA[D.S. Hooda]]></dc:creator>
-		<pubDate>Sat, 07 Jun 2025 09:41:32 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10053435</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10053435</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Opinion5_11th-June.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Opinion5_11th-June.jpg" medium="image">
-			<media:title type="html">Opinion5_11th-June</media:title>
 		</media:content>
 	</item>
 	</channel>
