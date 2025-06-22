@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 22 Jun 2025 02:51:54 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Jun 2025 10:01:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Iraq was a warning, Iran is a rupture</title>
+		<link>https://indianexpress.com/article/opinion/columns/with-us-strikes-on-iran-a-shadow-war-becomes-a-spectacle-10081425/</link>
+		
+		<dc:creator><![CDATA[Manav Sachdeva]]></dc:creator>
+		<pubDate>Sun, 22 Jun 2025 09:34:53 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10081425</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10081425</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/Iran-Attack_20250622092907.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/Iran-Attack_20250622092907.jpg" medium="image">
+			<media:title type="html">Iran-Attack_20250622092907.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Express View on US strikes on Iran: A defining, dangerous moment</title>
+		<link>https://indianexpress.com/article/opinion/editorials/express-view-united-states-strikes-iran-defining-dangerous-moment-10081417/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sun, 22 Jun 2025 09:27:08 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10081417</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10081417</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/express-view-16.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/express-view-16.jpg" medium="image">
+			<media:title type="html">express view</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>A common name, a father&#8217;s light</title>
 		<link>https://indianexpress.com/article/opinion/columns/a-common-name-a-fathers-light-10080578/</link>
 		
@@ -3823,44 +3861,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/Opinion5_11th-June.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/Opinion5_11th-June.jpg" medium="image">
 			<media:title type="html">Opinion5_11th-June</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>India cannot resolve its food challenge without fixing how it uses water</title>
-		<link>https://indianexpress.com/article/opinion/columns/india-water-use-agriculture-groundwater-irrigation-freshwater-10053227/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 07 Jun 2025 07:47:19 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10053227</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10053227</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/ch1868176_20250607064109.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/ch1868176_20250607064109.jpg" medium="image">
-			<media:title type="html">ch1868176_20250607064109.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Trump vs Musk: Call the breakup poetic justice. Call it karmic crypto-collapse. Just don’t call it surprising</title>
-		<link>https://indianexpress.com/article/opinion/columns/trump-musk-breakup-bromance-epstein-spacex-kanye-10053141/</link>
-		
-		<dc:creator><![CDATA[Sudhanshu Mishra]]></dc:creator>
-		<pubDate>Sat, 07 Jun 2025 05:44:15 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10053141</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10053141</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Trump-Musk-2_20250607053920.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Trump-Musk-2_20250607053920.jpg" medium="image">
-			<media:title type="html">Trump-Musk-2_20250607053920.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
