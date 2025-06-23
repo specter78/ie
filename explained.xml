@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 23 Jun 2025 05:57:53 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Jun 2025 06:59:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Ambubachi Mela at Kamakhya temple: Significance of major Assam religious festival</title>
+		<link>https://indianexpress.com/article/explained/explained-culture/ambubachi-mela-at-kamakhya-significance-religious-festival-10082824/</link>
+		
+		<dc:creator><![CDATA[Sukrita Baruah]]></dc:creator>
+		<pubDate>Mon, 23 Jun 2025 06:41:05 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10082824</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10082824</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/ambubachi-mela-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/ambubachi-mela-1600.jpg" medium="image">
+			<media:title type="html">Devotees throng Maa Kamakhya Temple to offer prayers on the eve of Ambubachi Mela</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why these two agri industries are wary about India-US trade deal</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/why-these-two-agri-industries-wary-india-us-trade-deal-10082212/</link>
 		
@@ -4066,25 +4085,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/altman-ive-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/altman-ive-1600.jpg" medium="image">
 			<media:title type="html">altman ive 1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Has the Indus Waters Treaty been fair to India, and what is the way forward: An Expert Explains</title>
-		<link>https://indianexpress.com/article/explained/explained-global/indus-waters-treaty-fair-to-india-way-forward-10027741/</link>
-		
-		<dc:creator><![CDATA[Yashee]]></dc:creator>
-		<pubDate>Sun, 25 May 2025 08:55:27 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10027741</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10027741</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/salal-dam-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/salal-dam-1600.jpg" medium="image">
-			<media:title type="html">salal dam 1600</media:title>
 		</media:content>
 	</item>
 	</channel>
