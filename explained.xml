@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 26 Jun 2025 11:20:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Jun 2025 12:54:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How Shubhanshu Shukhla’s Dragon spacecraft docked with ISS</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/how-shubhanshu-shukhla-dragon-spacecraft-docked-with-iss-10090455/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2025 12:54:29 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10090455</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10090455</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/SpaceXDragonDockingISS.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/SpaceXDragonDockingISS.jpg" medium="image">
+			<media:title type="html">SpaceXDragonDockingISS</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How Patna Water Metro can transform the city&#8217;s geographical constraints into its greatest asset</title>
 		<link>https://indianexpress.com/article/explained/patna-water-metro-plan-benefits-challenges-10090128/</link>
 		
@@ -4074,25 +4093,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/May-29-Tariff-Tracker.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/May-29-Tariff-Tracker.jpg" medium="image">
 			<media:title type="html">May 29 Tariff Tracker</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What Operation Sindoor tells us about the nature of escalation, and India&#8217;s changing approach</title>
-		<link>https://indianexpress.com/article/explained/operation-sindoor-nature-of-escalation-10036560/</link>
-		
-		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
-		<pubDate>Thu, 29 May 2025 11:56:47 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10036560</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10036560</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/sindoor-1600.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/05/sindoor-1600.jpeg" medium="image">
-			<media:title type="html">sindoor 1600</media:title>
 		</media:content>
 	</item>
 	</channel>
