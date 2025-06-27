@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 27 Jun 2025 10:51:16 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Jun 2025 12:15:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Support for war shows our alienation and longing for meaning</title>
+		<link>https://indianexpress.com/article/opinion/columns/philosophy-of-war-why-war-happens-hegel-on-war-10092505/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 12:15:46 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10092505</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10092505</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/6_8de182.gif" />
+		<media:content url="https://images.indianexpress.com/2025/06/6_8de182.gif" medium="image">
+			<media:title type="html">Israel-Iran conflict</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>From Chirag Paswan to Prashant Kishor: Why smaller parties could be a game changer in Bihar</title>
+		<link>https://indianexpress.com/article/opinion/columns/bihar-election-caste-prashant-kishor-chirag-paswan-smaller-parties-nda-mahagathbandhan-10092332/</link>
+		
+		<dc:creator><![CDATA[Ashwani Kumar]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 11:23:03 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10092332</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10092332</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/01/Saif-Ali-Khan-1-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/01/Saif-Ali-Khan-1-1.jpg" medium="image">
+			<media:title type="html">Prashant Kishore fast unto death</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Where are the women in India’s political parties?</title>
 		<link>https://indianexpress.com/article/opinion/columns/where-are-the-women-in-indias-political-parties-congress-bjp-10092291/</link>
 		
@@ -3819,44 +3857,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/05/nargis-birth-anniversary.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/05/nargis-birth-anniversary.jpg" medium="image">
 			<media:title type="html">nargis-birth-anniversary</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Ahmedabad plane crash: We must understand factors that lead to aviation disasters</title>
-		<link>https://indianexpress.com/article/opinion/columns/ahmedabad-plane-crash-air-india-systemic-failure-10064389/</link>
-		
-		<dc:creator><![CDATA[Vivek Kant]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 06:39:16 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10064389</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10064389</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Air-India-1_20250613063729.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Air-India-1_20250613063729.jpg" medium="image">
-			<media:title type="html">Air-India-1_20250613063729.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>A murder in Meghalaya and a lesson</title>
-		<link>https://indianexpress.com/article/opinion/columns/honeymoon-murder-meghalaya-a-lesson-10063694/</link>
-		
-		<dc:creator><![CDATA[Meeran Chadha Borwankar]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 02:15:45 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10063694</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10063694</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/sonam-raghuvanshi-maghalaya-murder_20250611193636_20250612191004.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/sonam-raghuvanshi-maghalaya-murder_20250611193636_20250612191004.jpg" medium="image">
-			<media:title type="html">sonam-raghuvanshi-maghalaya-murder_20250611193636_20250612191004.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
