@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 27 Jun 2025 02:54:44 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Jun 2025 03:14:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -67,6 +67,25 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/indira-Gandhi_20250625193838_20250626211219.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/indira-Gandhi_20250625193838_20250626211219.jpg" medium="image">
 			<media:title type="html">indira-Gandhi_20250625193838_20250626211219.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Manish Tewari on Emergency: Internal siege, external forces</title>
+		<link>https://indianexpress.com/article/opinion/columns/manish-tewari-on-emergency-internal-siege-external-forces-10091377/</link>
+		
+		<dc:creator><![CDATA[Manish Tewari]]></dc:creator>
+		<pubDate>Fri, 27 Jun 2025 01:20:50 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10091377</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10091377</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/Prime-Minister-Indira-Gandhi_20250626212912.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/Prime-Minister-Indira-Gandhi_20250626212912.jpg" medium="image">
+			<media:title type="html">Prime-Minister-Indira-Gandhi_20250626212912.jpg</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3838,25 +3857,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/express-archive-6.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/express-archive-6.jpg" medium="image">
 			<media:title type="html">express archive</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Reclaiming Deonar landfill, moving a mountain</title>
-		<link>https://indianexpress.com/article/opinion/editorials/reclaiming-deonar-landfill-moving-a-mountain-10063658/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 13 Jun 2025 02:15:11 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10063658</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10063658</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/express-view-Copy-8.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/express-view-Copy-8.jpg" medium="image">
-			<media:title type="html">express view</media:title>
 		</media:content>
 	</item>
 	</channel>
