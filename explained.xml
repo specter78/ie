@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 27 Jun 2025 17:19:26 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 Jun 2025 02:31:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Kolhapuri chappal makers can only claim credit, not compensation</title>
+		<link>https://indianexpress.com/article/explained/kolhapuri-chappal-compensation-10092962/</link>
+		
+		<dc:creator><![CDATA[Rinku Ghosh]]></dc:creator>
+		<pubDate>Sat, 28 Jun 2025 02:05:37 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10092962</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10092962</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/chappal.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/chappal.jpg" medium="image">
+			<media:title type="html">chappal</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How GLP-1 drugs like semaglutide have revolutionised obesity treatment</title>
+		<link>https://indianexpress.com/article/explained/explained-health/how-glp-1-drugs-like-semaglutide-have-revolutionised-obesity-treatment-10093196/</link>
+		
+		<dc:creator><![CDATA[Anonna Dutt]]></dc:creator>
+		<pubDate>Sat, 28 Jun 2025 01:10:10 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Health]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10093196</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10093196</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/06/obesity_getty_2003.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/06/obesity_getty_2003.jpg" medium="image">
+			<media:title type="html">obesity_getty_2003</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>China This Week &#124; Rajnath at SCO meeting, Iran-China ties, and a report that Xi may skip BRICS summit in Brazil</title>
 		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-sco-iran-pak-taiwan-brics-10092707/</link>
 		
@@ -4055,48 +4093,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Gaza-data.jpg?resize=600,330" medium="image">
 			<media:title type="html">Gaza</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why MMRDA has scrapped the tendering process for Rs 14,000 crore Thane-Bhayander mega infra projects</title>
-		<link>https://indianexpress.com/article/explained/mumbai-mmrda-scrap-thane-bhayandar-mega-infra-project-reason-10038219/</link>
-		
-		<dc:creator><![CDATA[Omkar Gokhale]]></dc:creator>
-		<pubDate>Fri, 30 May 2025 07:28:27 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10038219</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10038219</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/mmrda-lt.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/mmrda-lt.jpg" medium="image">
-			<media:title type="html">mmrda l&#38;t</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How IMF has forced Pakistan to reform its farm sector</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/imf-pakistan-reform-farm-sector-msp-economy-loan-10038061/</link>
-		
-		<dc:creator><![CDATA[Harish Damodaran]]></dc:creator>
-		<pubDate>Fri, 30 May 2025 06:33:01 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10038061</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10038061</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/05/pakistan-ecoomy-farm.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/05/pakistan-ecoomy-farm.jpg" medium="image">
-			<media:title type="html">pakistan ecoomy farm</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/05/Production-of-Key-Crops-in-2023-24-01.jpg?resize=480,600" medium="image">
-			<media:title type="html">Production of Key Crops in Pakistan</media:title>
 		</media:content>
 	</item>
 	</channel>
