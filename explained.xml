@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 01 Jul 2025 06:16:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Jul 2025 06:38:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -51,7 +51,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Explained &#124; India’s outreach to the Global South</title>
+		<title>Explained: In PM Modi&#8217;s diplomatic tour, India’s outreach to the Global South</title>
 		<link>https://indianexpress.com/article/explained/explained-indias-outreach-to-the-global-south-10098511/</link>
 		
 		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
@@ -69,8 +69,8 @@
 			<media:title type="html">India outreach explainer</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/07/Indias-outreach.jpg?resize=600,299" medium="image">
-			<media:title type="html">Narendra Modi</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/07/pm-modi-brics.jpg" medium="image">
+			<media:title type="html">PM Modi will visit these countries in the next few days. </media:title>
 		</media:content>
 	</item>
 		<item>
