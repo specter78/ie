@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 03 Jul 2025 09:32:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 03 Jul 2025 10:20:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Heat health risks need to be understood as a slow, protracted disaster</title>
+		<link>https://indianexpress.com/article/opinion/columns/heat-health-risks-slow-protracted-disaster-strokes-illness-10103968/</link>
+		
+		<dc:creator><![CDATA[Rajib Dasgupta]]></dc:creator>
+		<pubDate>Thu, 03 Jul 2025 10:20:10 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10103968</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10103968</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/heatwave_1600__20250619200600_20250703101743.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/heatwave_1600__20250619200600_20250703101743.jpg" medium="image">
+			<media:title type="html">Heat</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>When labour reform doesn’t translate to labour rights</title>
 		<link>https://indianexpress.com/article/opinion/columns/when-labour-reform-doesnt-translate-to-labour-rights-10103570/</link>
 		
@@ -3842,25 +3861,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/Opinion3_19th-June.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/Opinion3_19th-June.jpg" medium="image">
 			<media:title type="html">Opinion3_19th-June</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Oscar Wilde’s reader pass reinstated: Perhaps the library ought to pay a fine</title>
-		<link>https://indianexpress.com/article/opinion/editorials/oscar-wildes-reader-pass-reinstated-perhaps-the-library-ought-to-pay-a-fine-10074802/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 19 Jun 2025 01:34:19 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10074802</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10074802</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/express-view-Copy-2-8_20250618191409.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/express-view-Copy-2-8_20250618191409.jpg" medium="image">
-			<media:title type="html">express-view</media:title>
 		</media:content>
 	</item>
 	</channel>
