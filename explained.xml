@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 04 Jul 2025 04:27:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Jul 2025 06:46:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -48,6 +48,25 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/John-Trumbulls-painting-Declaration-of-Independence-1819.-Wikimedia-Commons.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/John-Trumbulls-painting-Declaration-of-Independence-1819.-Wikimedia-Commons.jpg" medium="image">
 			<media:title type="html">John Trumbull’s painting Declaration of Independence (1819). Wikimedia Commons</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How Trump&#8217;s lawsuit against Paramount could shape media coverage of the US President</title>
+		<link>https://indianexpress.com/article/explained/explained-global/trump-paramount-lawsuit-implications-10105352/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2025 04:09:57 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10105352</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10105352</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/trump-paramount.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/trump-paramount.jpg" medium="image">
+			<media:title type="html">President Donald Trump speaks to reporters as he boards Air Force One to travel to Iowa at Joint Base Andrews in Maryland, on Thursday, July 3, 2025. (Haiyun Jiang/The New York Times)</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4110,29 +4129,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/census-explained.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/census-explained.jpg" medium="image">
 			<media:title type="html">census explained</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Elon Musk’s alleged drug use and obsession with having children: What an explosive media report has alleged</title>
-		<link>https://indianexpress.com/article/explained/explained-global/elon-musk-alleged-drug-use-obsession-children-report-10048384/</link>
-		
-		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
-		<pubDate>Wed, 04 Jun 2025 14:59:20 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10048384</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10048384</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/erratic-musk.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/erratic-musk.jpg" medium="image">
-			<media:title type="html">erratic musk</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/MUSK-TRUMP-SPENDING.jpg?resize=600,390" medium="image">
-			<media:title type="html">Musk son X</media:title>
 		</media:content>
 	</item>
 	</channel>
