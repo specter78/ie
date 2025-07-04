@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 04 Jul 2025 14:33:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 04 Jul 2025 15:23:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>When heritage travels from Kolhapur to Milan, how do we protect it?</title>
+		<link>https://indianexpress.com/article/opinion/columns/when-heritage-travels-from-kolhapur-to-milan-how-do-we-protect-it-10106740/</link>
+		
+		<dc:creator><![CDATA[Kartikey Singh]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2025 15:23:34 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10106740</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10106740</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/prada-kolhapuri-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/prada-kolhapuri-2.jpg" medium="image">
+			<media:title type="html">prada-kolhapuri-2</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Zohran Mamdani, a plate of biryani and the Brown man&#8217;s burden</title>
 		<link>https://indianexpress.com/article/opinion/columns/zohran-mamdani-eating-with-his-hands-racism-10106506/</link>
 		
@@ -3838,25 +3857,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/Israel-Iran-2-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/Israel-Iran-2-1.jpg" medium="image">
 			<media:title type="html">Israel Iran</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Calcutta High Court&#8217;s MGNREGA order underlines people shouldn’t suffer for the corruption of a few</title>
-		<link>https://indianexpress.com/article/opinion/columns/calcutta-high-courts-mgnrega-order-underlines-people-shouldnt-suffer-for-the-corruption-of-a-few-10077924/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 20 Jun 2025 07:59:39 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10077924</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10077924</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Calcutta-HC-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Calcutta-HC-1.jpg" medium="image">
-			<media:title type="html">Calcutta HC</media:title>
 		</media:content>
 	</item>
 	</channel>
