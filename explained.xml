@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 05 Jul 2025 14:04:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Jul 2025 14:37:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How Paris fixed Seine’s ‘poop problem’, made river fit for swimmers</title>
+		<link>https://indianexpress.com/article/explained/explained-global/paris-seine-poop-problem-swimmers-10108468/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 05 Jul 2025 14:37:18 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10108468</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10108468</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/France_Seine_Swimming_56385-0df2b.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/France_Seine_Swimming_56385-0df2b.jpg" medium="image">
+			<media:title type="html">France Seine Swimming</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How extreme heat has become Europe’s new climate reality</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/extreme-heat-europe-10108427/</link>
 		
@@ -4110,25 +4129,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/madleen-tracker-e1749209422781.jpg" medium="image">
 			<media:title type="html">madleen tracker</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Trump-Musk break-up can severely affect NASA and its future space missions</title>
-		<link>https://indianexpress.com/article/explained/explained-global/trump-musk-break-up-nasa-10051941/</link>
-		
-		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
-		<pubDate>Fri, 06 Jun 2025 10:40:33 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10051941</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10051941</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Musk_Trump_09416-fb3b8.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Musk_Trump_09416-fb3b8.jpg" medium="image">
-			<media:title type="html">Musk Trump</media:title>
 		</media:content>
 	</item>
 	</channel>
