@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 05 Jul 2025 15:32:02 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 05 Jul 2025 20:06:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,48 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How Krishen Khanna’s signature ‘bandwallas’ became enduring emblems of othering</title>
+		<link>https://indianexpress.com/article/explained/explained-culture/krishen-khanna-signature-bandwallas-10108797/</link>
+		
+		<dc:creator><![CDATA[Vandana Kalra]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2025 03:05:28 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10108797</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10108797</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/KrishenKhanna.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/KrishenKhanna.jpg" medium="image">
+			<media:title type="html">KrishenKhanna</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/07/Krishen-Khanna-Bandwala-Oil-on-Canvas-2019-1.jpg" medium="image">
+			<media:title type="html">Krishen Khanna, Bandwala, Oil on Canvas, 2019 (1)</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Behind the scenes stories of Dalai Lama, from his long-time secretary &#038; companion</title>
+		<link>https://indianexpress.com/article/explained/dalai-lama-birthday-10108483/</link>
+		
+		<dc:creator><![CDATA[Varinder Bhatia]]></dc:creator>
+		<pubDate>Sun, 06 Jul 2025 01:49:03 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10108483</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10108483</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/Dalai-Lama-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/Dalai-Lama-2.jpg" medium="image">
+			<media:title type="html">Eve of Dalai Lama&#039;s 90th birthday in McLeodganj</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>PM Modi in Argentina: 3 lesser-known facts about India-Argentina relations</title>
 		<link>https://indianexpress.com/article/explained/pm-modi-india-argentina-3-facts-10108502/</link>
 		
@@ -4071,60 +4113,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/chenab-bridge.jpg" medium="image">
 			<media:title type="html">Chenab railway bridge, world&#039;s highest rail bridge, Jammu and Kashmir railway project, Vande Bharat Srinagar Katra, Chenab bridge inauguration, PM Modi Chenab bridge, Vande Bharat trains Kashmir, Chenab bridge construction, Chenab bridge challenges, Konkan Railway Chenab bridge, Chenab bridge design, High-speed rail bridge, USBRL project, Narendra Modi inauguration, Indian Railways infrastructure, Chenab River bridge height, railway connectivity Kashmir, tallest railway arch bridge, Express Explained</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Rail link to Valley &#124; How it was done: ‘For 12 years, we ate, lived, breathed the Chenab’</title>
-		<link>https://indianexpress.com/article/explained/rail-link-to-valley-how-it-was-done-for-12-years-we-ate-lived-breathed-the-chenab-10052652/</link>
-		
-		<dc:creator><![CDATA[Rinku Ghosh]]></dc:creator>
-		<pubDate>Sat, 07 Jun 2025 01:10:49 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10052652</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10052652</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/chenab-bridge-explained.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/chenab-bridge-explained.jpg" medium="image">
-			<media:title type="html">chenab bridge explained</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/Konkan-Rly-CMD-S-K-Jha-right-its-ED-L-Prakash.jpg" medium="image">
-			<media:title type="html">Chenab railway bridge, world&#039;s highest rail bridge, Jammu and Kashmir railway project, Vande Bharat Srinagar Katra, Chenab bridge inauguration, PM Modi Chenab bridge, Vande Bharat trains Kashmir, Chenab bridge construction, Chenab bridge challenges, Konkan Railway Chenab bridge, Chenab bridge design, High-speed rail bridge, USBRL project, Narendra Modi inauguration, Indian Railways infrastructure, Chenab River bridge height, railway connectivity Kashmir, tallest railway arch bridge, Express Explained</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/vande-bharat-jk.jpg" medium="image">
-			<media:title type="html">Chenab railway bridge, world&#039;s highest rail bridge, Jammu and Kashmir railway project, Vande Bharat Srinagar Katra, Chenab bridge inauguration, PM Modi Chenab bridge, Vande Bharat trains Kashmir, Chenab bridge construction, Chenab bridge challenges, Konkan Railway Chenab bridge, Chenab bridge design, High-speed rail bridge, USBRL project, Narendra Modi inauguration, Indian Railways infrastructure, Chenab River bridge height, railway connectivity Kashmir, tallest railway arch bridge, Express Explained</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/A-Vande-Bharat-train-crosses-the-newly-inaugurated-Chenab-rail-bridge-in.jpg" medium="image">
-			<media:title type="html">Chenab railway bridge, world&#039;s highest rail bridge, Jammu and Kashmir railway project, Vande Bharat Srinagar Katra, Chenab bridge inauguration, PM Modi Chenab bridge, Vande Bharat trains Kashmir, Chenab bridge construction, Chenab bridge challenges, Konkan Railway Chenab bridge, Chenab bridge design, High-speed rail bridge, USBRL project, Narendra Modi inauguration, Indian Railways infrastructure, Chenab River bridge height, railway connectivity Kashmir, tallest railway arch bridge, Express Explained</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/Prime-Minister-Narendra-Modi-with-the-Tricolour-on-the-Chenab-bridge-in-Reasi-district.jpg" medium="image">
-			<media:title type="html">Chenab railway bridge, world&#039;s highest rail bridge, Jammu and Kashmir railway project, Vande Bharat Srinagar Katra, Chenab bridge inauguration, PM Modi Chenab bridge, Vande Bharat trains Kashmir, Chenab bridge construction, Chenab bridge challenges, Konkan Railway Chenab bridge, Chenab bridge design, High-speed rail bridge, USBRL project, Narendra Modi inauguration, Indian Railways infrastructure, Chenab River bridge height, railway connectivity Kashmir, tallest railway arch bridge, Express Explained</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>China This Week &#124; Trump-Xi phone call, rare earths shortage looms, and 36 years of Tiananmen</title>
-		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-trump-xi-call-rare-earths-tiananmen-10052249/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Fri, 06 Jun 2025 13:50:21 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10052249</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10052249</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/trump-xi.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/trump-xi.jpg" medium="image">
-			<media:title type="html">President Donald Trump with President Xi Jinping of China during a welcome ceremony in Beijing, Nov. 9, 2017.</media:title>
 		</media:content>
 	</item>
 	</channel>
