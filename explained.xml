@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 08 Jul 2025 06:34:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Jul 2025 08:09:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -71,6 +71,10 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-08-at-11.47.00.jpeg" medium="image">
 			<media:title type="html">Vera C Rubin Observatory.</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/07/lm4-Trifid-10k.jpg?resize=600,368" medium="image">
+			<media:title type="html">rubin</media:title>
 		</media:content>
 	</item>
 		<item>
