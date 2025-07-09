@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 09 Jul 2025 08:46:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Jul 2025 10:05:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Delhi HC dismissed Turkish firm Celebi’s challenge to security clearance revocation</title>
+		<link>https://indianexpress.com/article/explained/explained-law/turkish-firm-celebi-security-clearance-10115832/</link>
+		
+		<dc:creator><![CDATA[Sohini Ghosh]]></dc:creator>
+		<pubDate>Wed, 09 Jul 2025 10:05:05 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10115832</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10115832</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/CELEBI.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/07/CELEBI.jpeg" medium="image">
+			<media:title type="html">CELEBI</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why the UNFCCC process must be reformed</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/reforming-unfccc-process-10114755/</link>
 		
@@ -4070,25 +4089,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/Astronauts-SpaceX-Twitter31.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/Astronauts-SpaceX-Twitter31.jpg" medium="image">
 			<media:title type="html">Astronauts SpaceX Twitter31</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Ahmedabad police to use AI-based system during Rath Yatra to avoid stampede. How does it work?</title>
-		<link>https://indianexpress.com/article/explained/ahmedabad-police-to-use-ai-based-system-during-rath-yatra-to-avoid-stampede-how-does-it-work-10059394/</link>
-		
-		<dc:creator><![CDATA[Brendan Dabhi]]></dc:creator>
-		<pubDate>Tue, 10 Jun 2025 19:12:19 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10059394</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10059394</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Guj7-AI-4col1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Guj7-AI-4col1.jpg" medium="image">
-			<media:title type="html">Guj7-AI-4col1</media:title>
 		</media:content>
 	</item>
 	</channel>
