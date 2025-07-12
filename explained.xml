@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 12 Jul 2025 04:47:44 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Jul 2025 08:36:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How AI may be behind drop in student visas issued by Canada to Indians</title>
+		<link>https://indianexpress.com/article/explained/ai-student-visas-canada-indians-10122011/</link>
+		
+		<dc:creator><![CDATA[Anju Agnihotri Chaba]]></dc:creator>
+		<pubDate>Sat, 12 Jul 2025 08:36:09 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10122011</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10122011</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/canada-visa.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/canada-visa.jpg" medium="image">
+			<media:title type="html">canada visa</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>‘The most famous bag of all time’: How the Birkin came to be</title>
 		<link>https://indianexpress.com/article/explained/the-most-famous-bag-of-all-time-how-the-birkin-came-to-be-10121127/</link>
 		
@@ -4062,25 +4081,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/oil-1600.jpg?resize=600,227" medium="image">
 			<media:title type="html">oil imports</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Despite diversification push, why Punjab is staring at another year of near-record paddy cultivation</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/despite-diversification-push-why-10066707-punjab-is-staring-at-another-year-of-near-record-paddy-cultivation-10066707/</link>
-		
-		<dc:creator><![CDATA[Anju Agnihotri Chaba]]></dc:creator>
-		<pubDate>Sat, 14 Jun 2025 12:48:51 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10066707</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10066707</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/ch375800-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/ch375800-1.jpg" medium="image">
-			<media:title type="html">One of the farmers working in his paddy fields</media:title>
 		</media:content>
 	</item>
 	</channel>
