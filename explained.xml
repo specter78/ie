@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 13 Jul 2025 08:49:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Jul 2025 10:41:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What is the Aircraft Accident Investigation Bureau (AAIB), agency investigating the Ahmedabad flight crash?</title>
+		<link>https://indianexpress.com/article/explained/everyday-explainers/aircraft-accident-investigation-bureau-aaib-report-ahmedabad-flight-crash-10123840/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sun, 13 Jul 2025 10:38:05 +0000</pubDate>
+		<category><![CDATA[Everyday Explainers]]></category><category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10123840</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10123840</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/AAIB.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/AAIB.jpg" medium="image">
+			<media:title type="html">AAIB</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Tech CEO pays USD 400,000 to conduct orchestra: What exactly does a music conductor do?</title>
 		<link>https://indianexpress.com/article/explained/explained-culture/tech-ceo-pays-usd-400000-what-does-a-music-conductor-do-10123658/</link>
 		
@@ -4066,25 +4085,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/Untitled-design-1-7.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/Untitled-design-1-7.jpg" medium="image">
 			<media:title type="html">Iran Israel conflict 2025</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Lawmaker killed, another shot at in Minnesota: What we know about the attacks, the suspect</title>
-		<link>https://indianexpress.com/article/explained/explained-global/minnesota-shootings-lawmaker-killed-what-we-know-10068502/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sun, 15 Jun 2025 14:10:34 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10068502</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10068502</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/MINN-LAWMAKERS-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/MINN-LAWMAKERS-1600.jpg" medium="image">
-			<media:title type="html">Minnesota State Rep. Melissa Hortman, the top Democrat in the House, and State Sen. John A. Hoffman, the two lawmakers attacked by a gunman disguised as a policeman on Saturday, June 14, 2025. (Minnesota House, left, and Minnesota Senate via The New York Times)</media:title>
 		</media:content>
 	</item>
 	</channel>
