@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 14 Jul 2025 07:18:29 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 14 Jul 2025 10:02:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Air India crash report analysis: Before jumping to conclusions, what we need to know about aircraft designs</title>
+		<link>https://indianexpress.com/article/opinion/columns/air-india-crash-report-is-it-pilot-error-air-india-crash-10125533/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 09:27:11 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10125533</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10125533</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/plane.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/plane.jpg" medium="image">
+			<media:title type="html">Air India crash report</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Election Commission is simply doing its job in Bihar. Why is the Opposition scared of electoral roll revision?</title>
 		<link>https://indianexpress.com/article/opinion/columns/electoral-roll-bihar-election-commission-what-is-sir-10125207/</link>
 		
@@ -67,6 +86,25 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/12/MIGRANTS.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/12/MIGRANTS.jpg" medium="image">
 			<media:title type="html">Marathi</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How Haryana leads the way in implementing new criminal laws</title>
+		<link>https://indianexpress.com/article/opinion/columns/haryana-leads-way-implementing-new-criminal-laws-10125001/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2025 06:13:44 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10125001</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10125001</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/Haryana-Police.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/Haryana-Police.jpg" medium="image">
+			<media:title type="html">Haryana Police</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -1324,7 +1362,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Kerala nurse Nimisha Priya&#8217;s time is running out. What her story tells us about fate of Indian migrant workers</title>
+		<title>Centre says they can do nothing much. What Nimisha Priya&#8217;s case tells us about fate of Indian migrant workers</title>
 		<link>https://indianexpress.com/article/opinion/columns/nimisha-priya-who-is-nimisha-priya-indian-nurses-will-nimisha-priya-die-10115524/</link>
 		
 		<dc:creator><![CDATA[Shashank Maheshwari]]></dc:creator>
@@ -3803,44 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/Opinion4_8th-July.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/Opinion4_8th-July.jpg" medium="image">
 			<media:title type="html">Opinion4_8th-July</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>India’s trade strategy with China will have to rely on a ‘managed rivalry’</title>
-		<link>https://indianexpress.com/article/opinion/columns/indias-trade-strategy-with-china-will-have-to-rely-on-a-managed-rivalry-10097167/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 30 Jun 2025 06:50:16 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10097167</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10097167</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/idnia-china_20250130201854_20250630063756.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/idnia-china_20250130201854_20250630063756.jpg" medium="image">
-			<media:title type="html">idnia-china_20250130201854_20250630063756.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Hindi should be promoted. How about starting in the &#8216;Hindi belt&#8217;</title>
-		<link>https://indianexpress.com/article/opinion/columns/to-promote-hindi-start-with-the-hindi-belt-10097072/</link>
-		
-		<dc:creator><![CDATA[Yashee]]></dc:creator>
-		<pubDate>Mon, 30 Jun 2025 05:39:20 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10097072</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10097072</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/hindi_3b1b2c_20250630053640.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/hindi_3b1b2c_20250630053640.jpg" medium="image">
-			<media:title type="html">hindi_3b1b2c_20250630053640.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
