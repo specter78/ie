@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 21 Jul 2025 07:38:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Jul 2025 09:16:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Kanwar yatra is not chaos. It is a radical act of equality and freedom</title>
+		<link>https://indianexpress.com/article/opinion/columns/kanwar-yatra-kanwariya-subaltern-religious-act-10139845/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 09:16:51 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10139845</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10139845</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/kanwariyas.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/kanwariyas.jpg" medium="image">
+			<media:title type="html">kanwariyas</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Designating TRF as a terrorist group is welcome, but US has a tendency to play both sides</title>
 		<link>https://indianexpress.com/article/opinion/columns/designating-trf-as-a-terrorist-group-us-india-pakistan-operation-sindoor-10139606/</link>
 		
@@ -3826,25 +3845,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/07/BT-cotton.jpg" medium="image">
 			<media:title type="html">Indian agriculture&#039;s prospects depend on innovating and adopting genetic tech</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>With every fragile &#8216;peace&#8217; in Middle East, the West sows seeds of a conflict</title>
-		<link>https://indianexpress.com/article/opinion/columns/with-every-fragile-peace-in-middle-east-the-west-sows-seeds-of-a-conflict-10110480/</link>
-		
-		<dc:creator><![CDATA[Vikram S Mehta]]></dc:creator>
-		<pubDate>Mon, 07 Jul 2025 01:57:08 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10110480</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10110480</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/Opinion4_7th-July.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/Opinion4_7th-July.jpg" medium="image">
-			<media:title type="html">Opinion4_7th-July</media:title>
 		</media:content>
 	</item>
 	</channel>
