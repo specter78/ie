@@ -16,7 +16,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 21 Jul 2025 06:19:40 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 21 Jul 2025 08:07:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,6 +32,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Bombay HC overturned special court verdict, acquitted all accused in 2006 train blasts case</title>
+		<link>https://indianexpress.com/article/explained/explained-law/bombay-hc-2006-bombay-mumbai-train-blasts-10139636/</link>
+		
+		<dc:creator><![CDATA[Omkar Gokhale]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 07:59:43 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10139636</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10139636</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/Bombay-HC-train-blast.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/Bombay-HC-train-blast.jpg" medium="image">
+			<media:title type="html">Bombay HC train blast</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Explained: The 2006 Mumbai train blasts, in which Bombay HC has acquitted all 12 accused</title>
+		<link>https://indianexpress.com/article/explained/mumbai-2006-train-blasts-case-accused-10139630/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 21 Jul 2025 07:56:34 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10139630</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10139630</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/mumbai-2006-blasts.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/mumbai-2006-blasts.jpg" medium="image">
+			<media:title type="html">mumbai 2006 blasts</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: Why food inflation may remain low</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/explained-why-food-inflation-may-remain-low-10138792/</link>
 		
@@ -4095,44 +4133,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/06/shubhanshu-shukla-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/06/shubhanshu-shukla-1600.jpg" medium="image">
 			<media:title type="html">Axiom Mission 4</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Meet Zohran Mamdani, the Indian-American leading the race to become New York’s next mayor</title>
-		<link>https://indianexpress.com/article/explained/explained-global/zohran-mamdani-indian-american-new-york-next-mayor-10086827/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Wed, 25 Jun 2025 03:54:34 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10086827</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10086827</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Mamdani-profile.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Mamdani-profile.jpg" medium="image">
-			<media:title type="html">Mamdani profile</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Indira Gandhi used the Constitution to subvert democracy</title>
-		<link>https://indianexpress.com/article/explained/explained-history/how-indira-gandhi-used-the-constitution-to-subvert-democracy-10086543/</link>
-		
-		<dc:creator><![CDATA[Apurva Vishwanath]]></dc:creator>
-		<pubDate>Wed, 25 Jun 2025 01:05:27 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10086543</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10086543</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/Indira-e.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/Indira-e.jpg" medium="image">
-			<media:title type="html">Indira e</media:title>
 		</media:content>
 	</item>
 	</channel>
