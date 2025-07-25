@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 25 Jul 2025 03:42:13 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Jul 2025 05:59:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Four-year undergraduate course in Delhi University has many challenges: Lack of faculty members is just one of them</title>
+		<link>https://indianexpress.com/article/opinion/columns/four-year-undergraduate-course-delhi-university-faculty-nep-2020-10146873/</link>
+		
+		<dc:creator><![CDATA[Rituparna Patgiri]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 05:59:24 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10146873</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10146873</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/DU.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/DU.jpg" medium="image">
+			<media:title type="html">DU</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>India-UK FTA offers clear benefits, but long-term impact depends on execution and political will</title>
+		<link>https://indianexpress.com/article/opinion/columns/india-uk-fta-free-trade-deal-cheap-whisky-scotch-10148476/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 25 Jul 2025 05:56:41 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10148476</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10148476</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/starmer-modi_20250507164328_20250722062851.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/starmer-modi_20250507164328_20250722062851.jpg" medium="image">
+			<media:title type="html">India UK FTA</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Best of Both Sides: CBSE’s math levels will give students more options</title>
 		<link>https://indianexpress.com/article/opinion/columns/best-of-both-sides-cbses-math-levels-will-give-students-more-options-10147873/</link>
 		
@@ -3792,44 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/bihar-govt-teachers.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/bihar-govt-teachers.jpg" medium="image">
 			<media:title type="html">bihar govt teachers</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Go gently into the night, CM Naim sahab</title>
-		<link>https://indianexpress.com/article/opinion/columns/go-gently-into-the-night-cm-naim-sahab-10119098/</link>
-		
-		<dc:creator><![CDATA[Rakhshanda Jalil]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 01:47:36 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10119098</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10119098</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/CMNaim_SouthernAsia_20250710195013.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/CMNaim_SouthernAsia_20250710195013.jpg" medium="image">
-			<media:title type="html">CMNaim_SouthernAsia_20250710195013.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express View on Vadodara bridge collapse: Cost of maintenance failure is borne by general public</title>
-		<link>https://indianexpress.com/article/opinion/editorials/this-is-the-front-page-of-the-indian-express-published-on-july-11-1985-10119075/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 11 Jul 2025 01:45:59 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10119075</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10119075</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/express-view-Copy-2-6.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/express-view-Copy-2-6.jpg" medium="image">
-			<media:title type="html">express view - Copy (2)</media:title>
 		</media:content>
 	</item>
 	</channel>
