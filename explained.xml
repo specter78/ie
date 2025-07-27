@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Tariff Tracker, July 27 &#124; What to expect from prospective EU-US deal ahead of deadline</title>
+		<link>https://indianexpress.com/article/explained/explained-global/tariff-tracker-july-27-prospective-eu-us-deal-deadline-10151747/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Sun, 27 Jul 2025 03:46:22 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10151747</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10151747</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/Tariff-Tracker-July-26.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/Tariff-Tracker-July-26.jpg" medium="image">
+			<media:title type="html">Tariff Tracker July 27</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>China’s mega dam on Brahmaputra &#038; concerns in India</title>
 		<link>https://indianexpress.com/article/explained/chinas-mega-dam-on-brahmaputra-concerns-in-india-10151594/</link>
 		
@@ -4107,25 +4126,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/dalai-lama-fbe.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/dalai-lama-fbe.jpg" medium="image">
 			<media:title type="html">dalai-lama-fbe</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Can a child obtain an OBC certificate from their mother? Supreme Court to decide</title>
-		<link>https://indianexpress.com/article/explained/explained-law/supreme-court-single-mother-obc-certificate-10100055/</link>
-		
-		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
-		<pubDate>Tue, 01 Jul 2025 13:26:04 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10100055</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10100055</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/SC-Explained.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/SC-Explained.jpg" medium="image">
-			<media:title type="html">SC Explained</media:title>
 		</media:content>
 	</item>
 	</channel>
