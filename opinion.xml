@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 29 Jul 2025 07:52:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Jul 2025 09:13:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Hidesign speaks up for Gaza: Where are the global brands?</title>
+		<link>https://indianexpress.com/article/opinion/columns/hidesign-gaza-what-hidesign-said-on-gaza-genocide-10156951/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 29 Jul 2025 09:13:35 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10156951</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10156951</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/Israel_Palestinians_Gaza_30628-44a4c.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/Israel_Palestinians_Gaza_30628-44a4c.jpg" medium="image">
+			<media:title type="html">Israel Palestinians Gaza</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What NCERT history textbooks get right about Marathas</title>
 		<link>https://indianexpress.com/article/opinion/columns/ncert-books-history-mughals-and-marathas-marathas-in-ncert-10156708/</link>
 		
@@ -86,7 +105,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Love in the time of partisan politics: No, opposites don&#8217;t attract</title>
+		<title>On a dating app, why I&#8217;ll only swipe right for Left</title>
 		<link>https://indianexpress.com/article/opinion/columns/love-dating-app-whom-should-we-date-dating-of-our-time-gen-z-dating-10156585/</link>
 		
 		<dc:creator><![CDATA[Saptarshi Basak]]></dc:creator>
@@ -118,9 +137,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10155854</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/law-gavel_20250212202507_20250213190252_20250224225543_20250304175423_20250318185439_20250320203139_20250324233121_20250423014933_20250504221645_20250507231352_20250625195544_20250722212822_20250728194608.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/law-gavel_20250212202507_20250213190252_20250224225543_20250304175423_20250318185439_20250320203139_20250324233121_20250423014933_20250504221645_20250507231352_20250625195544_20250722212822_20250728194608.jpg" medium="image">
-			<media:title type="html">law-gavel_20250212202507_20250213190252_20250224225543_20250304175423_20250318185439_20250320203139_20250324233121_20250423014933_20250504221645_20250507231352_20250625195544_20250722212822_20250728194608.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/A-just-equilibrium-copy.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/A-just-equilibrium-copy.jpg" medium="image">
+			<media:title type="html">A just equilibrium copy</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -213,9 +232,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10155850</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/oped-illustration-12.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/oped-illustration-12.jpg" medium="image">
-			<media:title type="html">oped illustration</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/A-compass-not-a-verdict_Premium-01.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/A-compass-not-a-verdict_Premium-01.jpg" medium="image">
+			<media:title type="html">A compass, not a verdict_Premium-01</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -251,9 +270,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10155813</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/july-19-2_20250728192403.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/july-19-2_20250728192403.jpg" medium="image">
-			<media:title type="html">china dam</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/Two-nations-and-a-river-copy.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/Two-nations-and-a-river-copy.jpg" medium="image">
+			<media:title type="html">Two nations and a river copy</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3810,25 +3829,6 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">10126598</post-id>
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/edit-Copy-7.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/edit-Copy-7.jpg" medium="image">
-			<media:title type="html">edit - Copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>A good monsoon will help sustain declining inflation</title>
-		<link>https://indianexpress.com/article/opinion/editorials/a-good-monsoon-will-help-sustain-declining-inflation-10126593/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 01:54:24 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10126593</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10126593</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/edit-Copy-6.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/edit-Copy-6.jpg" medium="image">
 			<media:title type="html">edit - Copy</media:title>
 		</media:content>
 	</item>
