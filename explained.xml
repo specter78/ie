@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 30 Jul 2025 11:25:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 30 Jul 2025 13:28:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Jaishankar says Indus Waters Treaty was for &#8216;appeasement&#8217;: The exact terms of treaty, and what Nehru said</title>
+		<link>https://indianexpress.com/article/explained/explained-politics/jaishankar-indus-waters-treaty-terms-nehru-10159659/</link>
+		
+		<dc:creator><![CDATA[Yashee]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 13:20:45 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10159659</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10159659</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/jaishankar-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/jaishankar-1600.jpg" medium="image">
+			<media:title type="html">S. Jaishankar speaks in Rajya Sabha</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Raanjhanaa’s AI-altered re-release: Why director Aanand L Rai is unhappy, what the law says</title>
+		<link>https://indianexpress.com/article/explained/explained-law/raanjhanaa-ai-re-release-director-aanand-l-rai-unhappy-law-10159524/</link>
+		
+		<dc:creator><![CDATA[Shaarvi Magazine]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 12:46:22 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10159524</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10159524</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/Raanjhanaa-AI-happy-ending.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/Raanjhanaa-AI-happy-ending.jpg" medium="image">
+			<media:title type="html">Raanjhanaa AI &#039;happy ending&#039;</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How an earthquake can generate tsunami</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/earthquake-generate-tsunami-10159403/</link>
 		
@@ -4060,48 +4098,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/Modi-Milei-milan.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/Modi-Milei-milan.jpg" medium="image">
 			<media:title type="html">Modi Milei milan</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Paris fixed Seine’s ‘poop problem’, made river fit for swimmers</title>
-		<link>https://indianexpress.com/article/explained/explained-global/paris-seine-poop-problem-swimmers-10108468/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 05 Jul 2025 14:37:18 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10108468</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10108468</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/France_Seine_Swimming_56385-0df2b.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/France_Seine_Swimming_56385-0df2b.jpg" medium="image">
-			<media:title type="html">France Seine Swimming</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How extreme heat has become Europe’s new climate reality</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/extreme-heat-europe-10108427/</link>
-		
-		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
-		<pubDate>Sat, 05 Jul 2025 14:04:12 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10108427</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10108427</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/France_Extreme_Weather_Heat_87385-01c97.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/France_Extreme_Weather_Heat_87385-01c97.jpg" medium="image">
-			<media:title type="html">France Extreme Weather Heat</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/07/heatwave-in-europe.jpg?resize=600,509" medium="image">
-			<media:title type="html">heatwave in europe</media:title>
 		</media:content>
 	</item>
 	</channel>
