@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 01 Aug 2025 07:29:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Aug 2025 09:58:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Supreme Court verdict on student suicides should move the needle on mental health of youngsters</title>
+		<link>https://indianexpress.com/article/opinion/columns/supreme-court-verdict-on-student-suicides-mental-health-10163426/</link>
+		
+		<dc:creator><![CDATA[Ummar Jamal]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 09:58:21 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10163426</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10163426</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/Odisha_20250716123703_20250730221645_20250801095421.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/Odisha_20250716123703_20250730221645_20250801095421.jpg" medium="image">
+			<media:title type="html">student suicides/representative image</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Derek O’Brien writes: 8 suggestions for the Vice President of India — whoever that may be</title>
 		<link>https://indianexpress.com/article/opinion/columns/derek-obrien-writes-8-suggestions-for-the-vice-president-of-india-whoever-that-may-be-10162485/</link>
 		
@@ -3815,25 +3834,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/oped_3f224a.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/oped_3f224a.jpg" medium="image">
 			<media:title type="html">oped_3f224a</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>India should disregard NATO threat on doing business with Russia</title>
-		<link>https://indianexpress.com/article/opinion/editorials/india-should-disregard-nato-threat-on-doing-business-with-russia-10133518/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 18 Jul 2025 01:40:54 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10133518</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10133518</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/express-view-Copy-10.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/express-view-Copy-10.jpg" medium="image">
-			<media:title type="html">express view - Copy</media:title>
 		</media:content>
 	</item>
 	</channel>
