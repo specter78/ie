@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 01 Aug 2025 13:42:49 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Aug 2025 15:11:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>China This Week &#124; China escapes US tariffs amid ongoing talks, a new baby subsidy, and Taiwan</title>
+		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-us-tar-ff-baby-subsidy-taiwan-10164136/</link>
+		
+		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
+		<pubDate>Fri, 01 Aug 2025 15:11:08 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10164136</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10164136</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/china-us-talks.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/08/china-us-talks.jpeg" medium="image">
+			<media:title type="html">china us talks</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why the ICJ’s advisory opinion on climate change opens the window for a new, restorative vision of environmental law in India</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/icj-advisory-opinion-climate-change-10163980/</link>
 		
@@ -4079,25 +4098,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/xi-jinping-china-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/xi-jinping-china-1.jpg" medium="image">
 			<media:title type="html">President Xi Jinping of China waits briefly for President Donald Trump to join him for a bilateral meeting at the G-20 Summit in Osaka, Japan, June 29, 2019. (Erin Schaff/The New York Times)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Kerala engineer held for selling drugs over the internet: What is the &#8216;dark web&#8217;, and is it really all dark?</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/kerala-engineer-drugs-internet-dark-web-10112034/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 07 Jul 2025 13:46:33 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10112034</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10112034</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/dark-web.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/dark-web.jpg" medium="image">
-			<media:title type="html">dark web</media:title>
 		</media:content>
 	</item>
 	</channel>
