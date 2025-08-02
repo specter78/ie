@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 02 Aug 2025 08:08:40 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 Aug 2025 10:55:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,41 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Increase in coal production capacity dipped in 2024: What does it mean for net-zero targets?</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/global-coal-mine-warming-10165516/</link>
+		
+		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
+		<pubDate>Sat, 02 Aug 2025 10:55:05 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10165516</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10165516</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/coal-mine.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/coal-mine.jpg" medium="image">
+			<media:title type="html">coal mine</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/08/coal-1.jpg?resize=600,508" medium="image">
+			<media:title type="html">coal</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/08/coal-2.jpg?resize=600,510" medium="image">
+			<media:title type="html">coal</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/08/coal-4.jpg?resize=567,600" medium="image">
+			<media:title type="html">coal</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/08/coal-5.jpg?resize=457,600" medium="image">
+			<media:title type="html">coal</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Who was Amadeo Modigliani, the subject of Johnny Depp’s latest directorial?</title>
 		<link>https://indianexpress.com/article/explained/explained-culture/amadeo-modigliani-johnny-depp-directorial-10165282/</link>
 		
@@ -4071,25 +4106,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/Taal_Volcano_eruption_on_January_12_2020.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/Taal_Volcano_eruption_on_January_12_2020.jpg" medium="image">
 			<media:title type="html">Taal_Volcano_eruption_on_January_12,_2020</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why the US Justice Department will not release ‘Epstein Files’</title>
-		<link>https://indianexpress.com/article/explained/explained-global/epstein-files-new-release-pam-bondi-10113820/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 08 Jul 2025 11:16:33 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10113820</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10113820</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/epstein-files.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/epstein-files.jpg" medium="image">
-			<media:title type="html">Jack Posobiec, a far-right political activist, leaves an entrance of the West Wing with a red hat and a binder at the White House in Washington, Feb. 27, 2025. (Haiyun Jiang/The New York Times)</media:title>
 		</media:content>
 	</item>
 	</channel>
