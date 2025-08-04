@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 04 Aug 2025 07:04:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 04 Aug 2025 07:55:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Trump has a Russia problem, and there is no easy way out</title>
+		<link>https://indianexpress.com/article/opinion/columns/trump-has-a-russia-problem-ukraine-ceasefire-sanctions-10168625/</link>
+		
+		<dc:creator><![CDATA[Vivek Mishra]]></dc:creator>
+		<pubDate>Mon, 04 Aug 2025 07:34:07 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10168625</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10168625</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/Trump-Putin-1_20250804072919.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/Trump-Putin-1_20250804072919.jpg" medium="image">
+			<media:title type="html">Trump Russia Putin</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>What India can learn from the maritime prowess of the Cholas</title>
+		<link>https://indianexpress.com/article/opinion/columns/what-india-can-learn-from-the-maritime-prowess-of-the-cholas-10168609/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 04 Aug 2025 07:25:23 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10168609</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10168609</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/Rajendra_Chola_cropped-1_20250804072210-e1754292160866.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/Rajendra_Chola_cropped-1_20250804072210-e1754292160866.jpg" medium="image">
+			<media:title type="html">Cholas</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>China wants more children. But its people cannot afford them</title>
 		<link>https://indianexpress.com/article/opinion/columns/china-fertility-population-they-want-more-children-10168571/</link>
 		
@@ -612,9 +650,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10163533</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/IIM-Khozikhode.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/IIM-Khozikhode.jpg" medium="image">
-			<media:title type="html">IIM Khozikhode</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/Kozhikode-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/Kozhikode-1.jpg" medium="image">
+			<media:title type="html">Kozhikode (1)</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3792,48 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/Gaza_8ab4a8_20250720193239.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/Gaza_8ab4a8_20250720193239.jpg" medium="image">
 			<media:title type="html">Gaza_8ab4a8_20250720193239.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>July 21, 1985, Forty Years Ago: Kanishka mystery</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/july-21-1985-forty-years-ago-kanishka-mystery-10138840/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 21 Jul 2025 02:35:26 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10138840</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10138840</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/express-archive-8.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/express-archive-8.jpg" medium="image">
-			<media:title type="html">express archive</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>To improve both crop and human nutrition, India needs a paradigm shift</title>
-		<link>https://indianexpress.com/article/opinion/columns/to-improve-both-crop-and-human-nutrition-india-needs-a-paradigm-shift-10138789/</link>
-		
-		<dc:creator><![CDATA[Ashok Gulati, Leonardus Vergutz, Ritika Juneja]]></dc:creator>
-		<pubDate>Mon, 21 Jul 2025 02:34:16 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10138789</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10138789</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/oped-illustration-7.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/oped-illustration-7.jpg" medium="image">
-			<media:title type="html">oped illustration</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/07/indian-soil.jpg" medium="image">
-			<media:title type="html">To improve both crop and human nutrition, India needs a paradigm shift</media:title>
 		</media:content>
 	</item>
 	</channel>
