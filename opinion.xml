@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 09 Aug 2025 02:35:57 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Aug 2025 05:06:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Ram Madhav writes: Countering Trump’s transactionalism</title>
+		<link>https://indianexpress.com/article/opinion/columns/ram-madhav-donald-trump-tariff-india-10178988/</link>
+		
+		<dc:creator><![CDATA[Ram Madhav]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2025 05:06:39 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10178988</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10178988</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/Trump-Tariffs-4.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/Trump-Tariffs-4.jpg" medium="image">
+			<media:title type="html">Trump</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>A blanket reduction of the age of consent won&#8217;t make vulnerable girls any safer</title>
+		<link>https://indianexpress.com/article/opinion/columns/a-blanket-reduction-of-the-age-of-consent-wont-make-vulnerable-girls-any-safer-10178961/</link>
+		
+		<dc:creator><![CDATA[Audrey Dmello, Flavia Agnes]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2025 05:06:12 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10178961</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10178961</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/consent-opinion.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/consent-opinion.jpg" medium="image">
+			<media:title type="html">consent opinion</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>My teacher Rajat Kanta Ray</title>
 		<link>https://indianexpress.com/article/opinion/columns/my-teacher-rajat-kanta-ray-10178626/</link>
 		
@@ -3796,44 +3834,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/edit_c984d9.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/edit_c984d9.jpg" medium="image">
 			<media:title type="html">edit_c984d9</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Hulkamania will live on</title>
-		<link>https://indianexpress.com/article/opinion/editorials/hulkamania-will-live-on-10150227/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 26 Jul 2025 01:32:54 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10150227</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10150227</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/edit_d7b8c8.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/edit_d7b8c8.jpg" medium="image">
-			<media:title type="html">edit_d7b8c8</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What Startup20 provides the world</title>
-		<link>https://indianexpress.com/article/opinion/columns/what-startup20-provides-the-world-10150173/</link>
-		
-		<dc:creator><![CDATA[Chintan Vaishnav]]></dc:creator>
-		<pubDate>Sat, 26 Jul 2025 01:31:51 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10150173</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10150173</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/STartUP26id-revised.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/STartUP26id-revised.jpg" medium="image">
-			<media:title type="html">STartUP26id revised</media:title>
 		</media:content>
 	</item>
 	</channel>
