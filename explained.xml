@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 08 Aug 2025 17:49:22 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Aug 2025 02:35:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,67 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Goa legislators want bull fighting to be legalised</title>
+		<link>https://indianexpress.com/article/explained/explained-culture/why-goa-legislators-want-bull-fighting-to-be-legalised-10178079/</link>
+		
+		<dc:creator><![CDATA[Pavneet Singh Chadha]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2025 02:33:07 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10178079</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10178079</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/BullFight.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/BullFight.jpg" medium="image">
+			<media:title type="html">BullFight</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why an order by Mumbai’s civic body on feeding pigeons is now before HC</title>
+		<link>https://indianexpress.com/article/explained/mumbai-bmc-feeding-pigeons-ban-high-court-10178768/</link>
+		
+		<dc:creator><![CDATA[Nayonika Bose, Omkar Gokhale]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2025 02:30:32 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10178768</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10178768</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/Mumbai-Kabutarkhana.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/08/Mumbai-Kabutarkhana.jpeg" medium="image">
+			<media:title type="html">Mumbai Kabutarkhana</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Was Jaisalmer ever a part of the Maratha empire? Here’s what historians say</title>
+		<link>https://indianexpress.com/article/explained/explained-history/jaisalmer-maratha-empire-history-10178204/</link>
+		
+		<dc:creator><![CDATA[Abhinaya Harigovind, Soham Shah]]></dc:creator>
+		<pubDate>Sat, 09 Aug 2025 00:57:41 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10178204</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10178204</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/JAISALMER-FORT.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/JAISALMER-FORT.jpg" medium="image">
+			<media:title type="html">JAISALMER FORT</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/08/MARATHA-MAP-1.jpg" medium="image">
+			<media:title type="html">MARATHA MAP</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>China This Week &#124; Putin dials Xi, China frowns at India-Philippines drills, but welcomes PM Modi for visit</title>
 		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-putin-dials-xi-phillipines-india-modi-visit-10178303/</link>
 		
@@ -915,28 +976,28 @@
 			<media:title type="html">HimmatShahHead</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/08/04.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2013), Bronze, 11 x 4.2 x 7 inches Image courtesy of Anant Art, New Delhi.</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/08/07.jpg?resize=600,575" medium="image">
 			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 22 x 15 x 3 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/08/05.jpg?resize=401,600" medium="image">
 			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 48 x 13 x 13 inches Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/08/01_Himmat-Shah-Tirthankar.jpg?resize=405,600" medium="image">
 			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/04.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2013), Bronze, 11 x 4.2 x 7 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4061,67 +4122,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/Jane-streeet.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/Jane-streeet.jpg" medium="image">
 			<media:title type="html">Jane streeet</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Sanjay Jagtap&#8217;s induction will unsettle BJP allies NCP and Shiv Sena in Pune politics</title>
-		<link>https://indianexpress.com/article/explained/explained-politics/sanjay-jagtap-induction-bjp-allies-ncp-shiv-sena-pune-politics-10128110/</link>
-		
-		<dc:creator><![CDATA[Ajay Jadhav]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 11:56:06 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10128110</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10128110</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/Jagtap.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/Jagtap.jpg" medium="image">
-			<media:title type="html">Jagtap</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How will space travel impact Shubhanshu Shukla&#8217;s health: Why astronauts need &#8216;reconditioning&#8217; to earth</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/space-travel-impact-shubhanshu-shuklas-health-10127319/</link>
-		
-		<dc:creator><![CDATA[Anonna Dutt]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 06:33:27 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10127319</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10127319</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/shubhanshu-shukla-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/shubhanshu-shukla-1600.jpg" medium="image">
-			<media:title type="html">Axiom-4 mission: Ax-4 crew with ISS members</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained Interview &#124; After obesity and diabetes, where GLP-1 research is headed</title>
-		<link>https://indianexpress.com/article/explained/explained-health/after-obesity-glp-1-research-focused-on-alzheimers-hypothesis-centres-on-its-ability-to-reduce-inflammation-in-brain-this-is-different-from-c-10126845/</link>
-		
-		<dc:creator><![CDATA[Kaunain Sheriff M]]></dc:creator>
-		<pubDate>Tue, 15 Jul 2025 04:30:45 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Health]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10126845</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10126845</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/Untitled-design-43.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/Untitled-design-43.jpg" medium="image">
-			<media:title type="html">Alzheimer glp-1</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-15-at-09.50.15.jpeg" medium="image">
-			<media:title type="html">GLP-1</media:title>
 		</media:content>
 	</item>
 	</channel>
