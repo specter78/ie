@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 10 Aug 2025 03:36:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Aug 2025 07:51:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -109,7 +109,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Delhi underlines its message amid US tilt to Pakistan and 25% Russian penalty</title>
+		<title>The messages Delhi underlined with Op Sindoor details, amid US tilt to Pakistan and 25% Russian penalty</title>
 		<link>https://indianexpress.com/article/explained/delhi-underlines-its-message-amid-us-tilt-to-pakistan-and-25-russian-penalty-10180257/</link>
 		
 		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
@@ -1163,12 +1163,12 @@
 			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/08/04.jpg?resize=401,600" medium="image">
 			<media:title type="html">Himmat Shah Untitled (2013), Bronze, 11 x 4.2 x 7 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/08/07.jpg?resize=600,575" medium="image">
