@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 13 Aug 2025 07:29:32 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 Aug 2025 08:39:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Who&#8217;s my neighbour: Sharing sorrows with those who share our walls</title>
+		<link>https://indianexpress.com/article/opinion/columns/whos-my-neighbour-sharing-sorrows-with-those-who-share-our-walls-10186611/</link>
+		
+		<dc:creator><![CDATA[Katyayani Sanjay Bhatia]]></dc:creator>
+		<pubDate>Wed, 13 Aug 2025 08:39:27 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10186611</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10186611</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/05/punjab-blackout-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/05/punjab-blackout-1600.jpg" medium="image">
+			<media:title type="html">punjab blackout 1600</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>From Gaza to Priyanka Gandhi and India&#8217;s internal politics: Israel is going too far</title>
+		<link>https://indianexpress.com/article/opinion/columns/priyanka-gandhi-gaza-israel-opposition-manoj-jha-parliament-10186646/</link>
+		
+		<dc:creator><![CDATA[Manoj Kumar Jha]]></dc:creator>
+		<pubDate>Wed, 13 Aug 2025 08:35:20 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10186646</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10186646</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/priyanka-gandhi.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/priyanka-gandhi.jpg" medium="image">
+			<media:title type="html">Monsoon session of Parliament</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Lesson for India in the China-EU freeze: Proceed with caution</title>
 		<link>https://indianexpress.com/article/opinion/columns/india-china-eu-freeze-tariffs-donald-trump-xi-jinping-10186476/</link>
 		
@@ -3804,44 +3842,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/express-view-Copy-18.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/express-view-Copy-18.jpg" medium="image">
 			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>SC staying precedential effect of Bombay HC acquittals in train blast case is worrying</title>
-		<link>https://indianexpress.com/article/opinion/columns/sc-staying-precedential-effect-of-bombay-hc-acquittals-in-train-blast-case-is-worrying-10158199/</link>
-		
-		<dc:creator><![CDATA[Raju Ramachandran]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 01:11:40 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10158199</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10158199</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/Mumbai-train-blasts-1600_725a93_20250729194402.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/Mumbai-train-blasts-1600_725a93_20250729194402.jpg" medium="image">
-			<media:title type="html">Mumbai-train-blasts-1600_725a93_20250729194402.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What state finances tell us about the economy</title>
-		<link>https://indianexpress.com/article/opinion/columns/what-state-finances-tell-us-about-the-economy-10158159/</link>
-		
-		<dc:creator><![CDATA[Aditi Nayar]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 01:00:18 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10158159</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10158159</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/money-illustration.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/money-illustration.jpg" medium="image">
-			<media:title type="html">money illustration</media:title>
 		</media:content>
 	</item>
 	</channel>
