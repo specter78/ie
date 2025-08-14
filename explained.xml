@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 13 Aug 2025 19:39:28 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 14 Aug 2025 01:09:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The importance of Chief of the Pakistan Army Syed Asim Munir</title>
+		<link>https://indianexpress.com/article/explained/explained-global/the-importance-of-chief-of-the-pakistan-army-syed-asim-munir-10187755/</link>
+		
+		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
+		<pubDate>Thu, 14 Aug 2025 01:15:18 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10187755</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10187755</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/Asim-Munir-e.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/Asim-Munir-e.jpg" medium="image">
+			<media:title type="html">Pakistan-US-Militant Group</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why returning sterilised dogs to streets is key to ABC’s success</title>
 		<link>https://indianexpress.com/article/explained/why-returning-sterilised-dogs-to-streets-is-key-to-abcs-success-10187160/</link>
 		
@@ -1547,28 +1566,28 @@
 			<media:title type="html">HimmatShahHead</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/05.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 48 x 13 x 13 inches Image courtesy of Anant Art, New Delhi.</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/08/07.jpg?resize=600,575" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 22 x 15 x 3 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/08/01_Himmat-Shah-Tirthankar.jpg?resize=405,600" medium="image">
 			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
+		<media:content url="https://images.indianexpress.com/2025/08/05.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 48 x 13 x 13 inches Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/08/04.jpg?resize=401,600" medium="image">
 			<media:title type="html">Himmat Shah Untitled (2013), Bronze, 11 x 4.2 x 7 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/07.jpg?resize=600,575" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 22 x 15 x 3 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4047,25 +4066,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/Pahalgam-2.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/Pahalgam-2.jpg" medium="image">
 			<media:title type="html">Security personnel inspect the site following the Pahalgam terrorist attack</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>China This Week &#124; Xi-Jaishankar meeting, Nvidia’s Jensen Huang in Beijing, and GDP data</title>
-		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-xi-jaishankar-nvidia-jensen-huang-gdp-10135386/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Fri, 18 Jul 2025 15:57:35 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10135386</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10135386</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/china-this-week-jaishankar-xi.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/china-this-week-jaishankar-xi.jpg" medium="image">
-			<media:title type="html">EAM Jaishankar meets China President Xi Jinping in Beijing</media:title>
 		</media:content>
 	</item>
 	</channel>
