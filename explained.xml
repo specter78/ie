@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 15 Aug 2025 09:02:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 15 Aug 2025 10:14:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What is the difference between civil &#038; criminal cases?</title>
+		<link>https://indianexpress.com/article/explained/explained-law/difference-civil-criminal-cases-10191186/</link>
+		
+		<dc:creator><![CDATA[Vineet Bhalla]]></dc:creator>
+		<pubDate>Fri, 15 Aug 2025 10:14:41 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10191186</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10191186</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/BombayCivilSessionsCourt.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/BombayCivilSessionsCourt.jpg" medium="image">
+			<media:title type="html">BombayCivil&#38;SessionsCourt</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>All about Candace Owens, the controversial political commentator being sued by French President Macron</title>
 		<link>https://indianexpress.com/article/explained/explained-global/candace-owens-controversy-politics-trump-macron-france-10190845/</link>
 		
@@ -1762,8 +1781,20 @@
 			<media:title type="html">HimmatShahHead</media:title>
 		</media:content>
 
+		<media:content url="https://images.indianexpress.com/2025/08/07.jpg?resize=600,575" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 22 x 15 x 3 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
 		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
 			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/01_Himmat-Shah-Tirthankar.jpg?resize=405,600" medium="image">
+			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/05.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 48 x 13 x 13 inches Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/08/04.jpg?resize=401,600" medium="image">
@@ -1772,18 +1803,6 @@
 
 		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
 			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/08/05.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 48 x 13 x 13 inches Image courtesy of Anant Art, New Delhi.</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/08/07.jpg?resize=600,575" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 22 x 15 x 3 inches Image courtesy of Anant Art, New Delhi.</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/08/01_Himmat-Shah-Tirthankar.jpg?resize=405,600" medium="image">
-			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4041,25 +4060,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/Untitled-design-1-12.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/Untitled-design-1-12.jpg" medium="image">
 			<media:title type="html">Ind vs Pak WCL</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Unpacking controversy over alleged demolition of Satyajit Ray’s ancestral home in Bangladesh</title>
-		<link>https://indianexpress.com/article/explained/unpacking-controversy-alleged-demolition-of-satyajit-rays-ancestral-home-bangladesh-10137076/</link>
-		
-		<dc:creator><![CDATA[Atri Mitra]]></dc:creator>
-		<pubDate>Sun, 20 Jul 2025 01:05:36 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10137076</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10137076</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/RAYS.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/RAYS.jpg" medium="image">
-			<media:title type="html">RAYS</media:title>
 		</media:content>
 	</item>
 	</channel>
