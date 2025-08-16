@@ -10,10 +10,10 @@
 
 <channel>
 	<title>Opinion | The Indian Express</title>
-	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://indianexpress.com/section/opinion/feed/?_=7604" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 16 Aug 2025 01:58:40 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Aug 2025 04:07:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -48,7 +48,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>SC ordering EC to publish details of 65 lakh deleted voters during on Bihar SIR is welcome</title>
+		<title>SC ordering EC to publish details of 65 lakh deleted voters during Bihar SIR is welcome</title>
 		<link>https://indianexpress.com/article/opinion/editorials/sc-ordering-ec-to-publish-details-of-65-lakh-deleted-voters-during-on-bihar-sir-is-welcome-10191905/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
