@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 18 Aug 2025 01:15:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Aug 2025 07:30:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -86,7 +86,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Taylor Swift&#8217;s new album has &#8216;Portofino Orange Glitter&#8217; theme: What is this colour, linked to an Italian village</title>
+		<title>Taylor Swift&#8217;s new album has &#8216;Portofino Orange Glitter&#8217; theme: what is this colour</title>
 		<link>https://indianexpress.com/article/explained/everyday-explainers/taylor-swift-new-album-portofino-orange-glitter-theme-10194920/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -2102,16 +2102,16 @@
 			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 22 x 15 x 3 inches Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/08/04.jpg?resize=401,600" medium="image">
 			<media:title type="html">Himmat Shah Untitled (2013), Bronze, 11 x 4.2 x 7 inches Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/08/01_Himmat-Shah-Tirthankar.jpg?resize=405,600" medium="image">
 			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/08/05.jpg?resize=401,600" medium="image">
