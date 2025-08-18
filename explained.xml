@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 17 Aug 2025 15:25:52 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 18 Aug 2025 01:15:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Mossad chief visits Qatar: Why this gulf state is the new hub of deals and diplomacy</title>
+		<link>https://indianexpress.com/article/explained/explained-global/qatar-why-hub-of-deals-and-diplomacy-10195284/</link>
+		
+		<dc:creator><![CDATA[Sudhanshu Mishra]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2025 01:20:09 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10195284</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10195284</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/israel-protest-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/israel-protest-1600.jpg" medium="image">
+			<media:title type="html">Israel Palestinians</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How right-wing outcry influenced US pausing visitor visas for Gazans</title>
 		<link>https://indianexpress.com/article/explained/explained-global/gaza-visas-children-laura-loomer-israel-us-10195056/</link>
 		
@@ -2083,6 +2102,10 @@
 			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
+		<media:content url="https://images.indianexpress.com/2025/08/07.jpg?resize=600,575" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 22 x 15 x 3 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
 		<media:content url="https://images.indianexpress.com/2025/08/05.jpg?resize=401,600" medium="image">
 			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 48 x 13 x 13 inches Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
@@ -2091,16 +2114,12 @@
 			<media:title type="html">Himmat Shah Untitled (2013), Bronze, 11 x 4.2 x 7 inches Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/07.jpg?resize=600,575" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 22 x 15 x 3 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
 			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4045,25 +4064,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/Japan_Election_Explainer_17271-4ae15-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/Japan_Election_Explainer_17271-4ae15-1.jpg" medium="image">
 			<media:title type="html">Japan Election Explainer</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: What happens when the Vice-President resigns mid-term</title>
-		<link>https://indianexpress.com/article/explained/what-happens-vice-president-resigns-mid-term-10141171/</link>
-		
-		<dc:creator><![CDATA[Ritika Chopra]]></dc:creator>
-		<pubDate>Tue, 22 Jul 2025 02:17:49 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10141171</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10141171</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/VP-dhankar.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/VP-dhankar.jpg" medium="image">
-			<media:title type="html">VP dhankar</media:title>
 		</media:content>
 	</item>
 	</channel>
