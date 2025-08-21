@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 21 Aug 2025 01:41:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Aug 2025 05:58:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Sona Comstar: Inside the power struggle after Sunjay Kapur’s sudden death</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/sona-comstar-power-struggle-sunjay-kapur-death-10202197/</link>
+		
+		<dc:creator><![CDATA[George Mathew]]></dc:creator>
+		<pubDate>Thu, 21 Aug 2025 05:58:34 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10202197</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10202197</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/economics-sunjay.png" />
+		<media:content url="https://images.indianexpress.com/2025/08/economics-sunjay.png" medium="image">
+			<media:title type="html">economics-sunjay</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What Uttarakhand’s Bill to govern minority educational institution says</title>
 		<link>https://indianexpress.com/article/explained/what-uttarakhands-bill-to-govern-minority-educational-institution-says-10201681/</link>
 		
@@ -2448,12 +2467,16 @@
 			<media:title type="html">HimmatShahHead</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/04.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2013), Bronze, 11 x 4.2 x 7 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
+		<media:content url="https://images.indianexpress.com/2025/08/01_Himmat-Shah-Tirthankar.jpg?resize=405,600" medium="image">
+			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/04.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2013), Bronze, 11 x 4.2 x 7 inches Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/08/05.jpg?resize=401,600" medium="image">
@@ -2464,12 +2487,8 @@
 			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 22 x 15 x 3 inches Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/08/01_Himmat-Shah-Tirthankar.jpg?resize=405,600" medium="image">
-			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
+		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4037,25 +4056,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/impeachment-yashwant-varma.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/impeachment-yashwant-varma.jpg" medium="image">
 			<media:title type="html">MPs submit notices for removal of Justice Varma to LS Speaker</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Macrons sue American podcaster: The &#8216;Brigitte is a man&#8217; theory, and a rise in &#8216;transvestigation&#8217;</title>
-		<link>https://indianexpress.com/article/explained/explained-global/macrons-sue-podcaster-brigitte-macron-a-man-transvestigation-10147054/</link>
-		
-		<dc:creator><![CDATA[Sonal Gupta]]></dc:creator>
-		<pubDate>Thu, 24 Jul 2025 11:52:02 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10147054</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10147054</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/Brigitte-Macron-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/Brigitte-Macron-1600.jpg" medium="image">
-			<media:title type="html">France Macron Defamation Suit</media:title>
 		</media:content>
 	</item>
 	</channel>
