@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 25 Aug 2025 09:44:40 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Aug 2025 10:37:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Ban on Sci-Hub, Libgen goes against the essence of free knowledge</title>
+		<link>https://indianexpress.com/article/opinion/columns/sci-hub-ban-libgen-ban-in-india-hc-on-sci-hub-10210444/</link>
+		
+		<dc:creator><![CDATA[Abhik Bhattacharya]]></dc:creator>
+		<pubDate>Mon, 25 Aug 2025 10:37:52 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10210444</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10210444</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/Image-25-08-25-at-4.00-PM.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/Image-25-08-25-at-4.00-PM.jpg" medium="image">
+			<media:title type="html">Sci Hub</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Pour over? Botanicals? The story of how Indians became coffee and alcohol nerds</title>
 		<link>https://indianexpress.com/article/opinion/columns/story-of-how-indians-became-coffee-and-alcohol-nerds-10210338/</link>
 		
@@ -3815,25 +3834,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/Opinon2_10th-Aug.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/Opinon2_10th-Aug.jpg" medium="image">
 			<media:title type="html">Opinon2_10th-Aug</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>History Headline: Shibu Soren and the moral arc of the republic</title>
-		<link>https://indianexpress.com/article/opinion/columns/shibu-soren-and-the-moral-arc-of-the-republic-10180308/</link>
-		
-		<dc:creator><![CDATA[Rakesh Batabyal]]></dc:creator>
-		<pubDate>Sun, 10 Aug 2025 01:30:16 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10180308</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10180308</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/Opinon4_10th-Aug.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/Opinon4_10th-Aug.jpg" medium="image">
-			<media:title type="html">Opinon4_10th-Aug</media:title>
 		</media:content>
 	</item>
 	</channel>
