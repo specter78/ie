@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 26 Aug 2025 02:35:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 26 Aug 2025 04:58:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Two warships from 2 shipbuilders: Features and legacy of INS Udaygiri and INS Himgiri, to be commissioned into the Indian Navy</title>
+		<link>https://indianexpress.com/article/explained/warships-navy-features-legacy-ins-udaygiri-himgiri-comission-10211850/</link>
+		
+		<dc:creator><![CDATA[Sushant Kulkarni]]></dc:creator>
+		<pubDate>Tue, 26 Aug 2025 04:58:25 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10211850</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10211850</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/ins-himgiri-udaygiri.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/08/ins-himgiri-udaygiri.jpeg" medium="image">
+			<media:title type="html">ins himgiri udaygiri</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Could we soon have space-based solar panels? Not really</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/could-we-soon-have-space-based-solar-panels-not-really-10211527/</link>
 		
@@ -3146,20 +3165,12 @@
 			<media:title type="html">HimmatShahHead</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/01_Himmat-Shah-Tirthankar.jpg?resize=405,600" medium="image">
-			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/08/04.jpg?resize=401,600" medium="image">
 			<media:title type="html">Himmat Shah Untitled (2013), Bronze, 11 x 4.2 x 7 inches Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
+		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/08/05.jpg?resize=401,600" medium="image">
@@ -3168,6 +3179,14 @@
 
 		<media:content url="https://images.indianexpress.com/2025/08/07.jpg?resize=600,575" medium="image">
 			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 22 x 15 x 3 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/01_Himmat-Shah-Tirthankar.jpg?resize=405,600" medium="image">
+			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4057,25 +4076,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/nigeria-economy.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/nigeria-economy.jpg" medium="image">
 			<media:title type="html">nigeria economy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Gazans are starving, falling sick, and dying. Why has the UN not declared a &#8216;famine&#8217; in the war-torn land yet?</title>
-		<link>https://indianexpress.com/article/explained/explained-global/why-has-the-un-not-declared-a-famine-in-gaza-10155033/</link>
-		
-		<dc:creator><![CDATA[Ariba]]></dc:creator>
-		<pubDate>Mon, 28 Jul 2025 11:45:28 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10155033</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10155033</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/Gaza-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/Gaza-1600.jpg" medium="image">
-			<media:title type="html">APTOPIX Israel Palestinians</media:title>
 		</media:content>
 	</item>
 	</channel>
