@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 27 Aug 2025 10:57:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 Aug 2025 11:22:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,45 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Why Trump aides want to change H-1B visa program</title>
+		<title>Flood situation in Punjab: All about the state&#8217;s rivers, dams and headworks</title>
+		<link>https://indianexpress.com/article/explained/punjab-flood-situation-state-rivers-dams-headworks-10214540/</link>
+		
+		<dc:creator><![CDATA[Raakhi Jagga]]></dc:creator>
+		<pubDate>Wed, 27 Aug 2025 11:22:02 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10214540</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10214540</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/Sutlej-flooding.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/Sutlej-flooding.jpg" medium="image">
+			<media:title type="html">Sutlej flooding</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>SpaceX’s Starship completes critical test flight: Everything you need to know about the world’s largest rocket</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/spacex-starship-test-flight-10214525/</link>
+		
+		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
+		<pubDate>Wed, 27 Aug 2025 11:10:35 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10214525</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10214525</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/starship.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/starship.jpg" medium="image">
+			<media:title type="html">SpaceX Starship Launch</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>H-1B visa changes: Why Trump aides want to change H-1B visa program</title>
 		<link>https://indianexpress.com/article/explained/explained-global/why-trump-aides-h-1b-visa-program-10214484/</link>
 		
 		<dc:creator><![CDATA[Arjun Sengupta, Aggam Walia]]></dc:creator>
@@ -3397,16 +3435,12 @@
 			<media:title type="html">HimmatShahHead</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
-		</media:content>
-
-		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
-			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
-		</media:content>
-
 		<media:content url="https://images.indianexpress.com/2025/08/07.jpg?resize=600,575" medium="image">
 			<media:title type="html">Himmat Shah Untitled (2019), Bronze, 22 x 15 x 3 inches Image courtesy of Anant Art, New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/01_Himmat-Shah-Tirthankar.jpg?resize=405,600" medium="image">
+			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
 		<media:content url="https://images.indianexpress.com/2025/08/05.jpg?resize=401,600" medium="image">
@@ -3417,8 +3451,12 @@
 			<media:title type="html">Himmat Shah Untitled (2013), Bronze, 11 x 4.2 x 7 inches Image courtesy of Anant Art, New Delhi.</media:title>
 		</media:content>
 
-		<media:content url="https://images.indianexpress.com/2025/08/01_Himmat-Shah-Tirthankar.jpg?resize=405,600" medium="image">
-			<media:title type="html">Himmat Shah Tirthankar (2005) Terracotta Exhibited at Excavations: Evocations, a solo showcase of terracotta sculptures, by Anant Art in 2005. Image courtesy of Anant Art, New Delhi.</media:title>
+		<media:content url="https://images.indianexpress.com/2025/08/08.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Untitled (2014), Bronze, 28 x 12 x 12 inches Image courtesy of Anant Art, New Delhi</media:title>
+		</media:content>
+
+		<media:content url="https://images.indianexpress.com/2025/08/06-1.jpg?resize=401,600" medium="image">
+			<media:title type="html">Himmat Shah Christ (2017), Bronze, 88.5 x 48.8 x 31.6 inches Image courtesy of Anant Art, New Delhi</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4006,44 +4044,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/Japan_Pacific_Tsunami_96837-6813b.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/Japan_Pacific_Tsunami_96837-6813b.jpg" medium="image">
 			<media:title type="html">Japan Pacific Tsunami</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why has Delhi HC criticised the law capping rents in Delhi as unjust, and called it anachronistic?</title>
-		<link>https://indianexpress.com/article/explained/explained-law/delhi-hc-law-capping-rents-unjust-anachronistic-10159305/</link>
-		
-		<dc:creator><![CDATA[Devansh Mittal]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 10:40:49 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10159305</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10159305</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/Delhi-rent-cap-law.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/Delhi-rent-cap-law.jpg" medium="image">
-			<media:title type="html">Delhi rent cap law</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Kamchatka in Russia is especially vulnerable to massive earthquakes</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/kamchatka-russia-vulnerable-massive-earthquakes-10158857/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 30 Jul 2025 06:41:52 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10158857</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10158857</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/Russia-quake.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/Russia-quake.jpg" medium="image">
-			<media:title type="html">Russia quake</media:title>
 		</media:content>
 	</item>
 	</channel>
