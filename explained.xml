@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 31 Aug 2025 16:26:40 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 31 Aug 2025 19:10:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -67,7 +67,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>China This Week &#124; All about the Modi-Xi meeting in China</title>
+		<title>China This Week &#124; All about the Modi-Xi meeting in Tianjin</title>
 		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-modi-xi-meeting-china-highlights-10222580/</link>
 		
 		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
@@ -85,7 +85,7 @@
 			<media:title type="html">Modi Xi SCO</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/08/Modi-XI-SCO-2.jpeg?resize=717,405" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/08/Modi-XI-SCO-2.jpeg" medium="image">
 			<media:title type="html">The meeting underway in Tianjin, China. </media:title>
 		</media:content>
 	</item>
