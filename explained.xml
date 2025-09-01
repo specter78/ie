@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 01 Sep 2025 06:26:50 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Sep 2025 12:12:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Earthquake in Afghanistan kills 800 people: Why the quake was so deadly</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/earthquake-afghanistan-10224285/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 01 Sep 2025 12:12:05 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10224285</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10224285</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/earthquake.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/earthquake.jpg" medium="image">
+			<media:title type="html">Afghanistan Earthquake</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The ‘noise’ in April-June GDP: Taking a closer look at the numbers</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/the-noise-in-april-june-gdp-numbers-10224236/</link>
+		
+		<dc:creator><![CDATA[Siddharth Upasani]]></dc:creator>
+		<pubDate>Mon, 01 Sep 2025 12:09:49 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10224236</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10224236</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/gdp-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/gdp-1600.jpg" medium="image">
+			<media:title type="html">Gross domestic product concept</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: The scramble for fertilisers</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/the-scramble-for-fertilisers-10222977/</link>
 		
@@ -4006,48 +4044,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/omar.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/omar.jpg" medium="image">
 			<media:title type="html">omar</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>From delivering summary justice against landlords to fighting for Jharkhand statehood: political journey of Shibu Soren</title>
-		<link>https://indianexpress.com/article/explained/from-delivering-summary-justice-against-landlords-to-fighting-for-jharkhand-statehood-political-journey-of-shibu-soren-10169901/</link>
-		
-		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 01:45:37 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10169901</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10169901</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/sibhu-soren.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/sibhu-soren.jpg" medium="image">
-			<media:title type="html">sibhu soren</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/08/ch1393121.jpg?resize=453,600" medium="image">
-			<media:title type="html">Shibu Soren</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Six years after Article 370 abrogation, where J&#038;K stands on economy, security, tourism and more</title>
-		<link>https://indianexpress.com/article/explained/six-years-after-article-370-abrogation-where-does-jk-stand-10169941/</link>
-		
-		<dc:creator><![CDATA[Deeptiman Tiwary]]></dc:creator>
-		<pubDate>Tue, 05 Aug 2025 01:30:13 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10169941</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10169941</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/The-abrogation-of-Article-370-by-Parliament-on-August-5-2019-was-upheld-by-the-Supreme-Court-in-2023.-Express-explained.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/The-abrogation-of-Article-370-by-Parliament-on-August-5-2019-was-upheld-by-the-Supreme-Court-in-2023.-Express-explained.jpg" medium="image">
-			<media:title type="html">The abrogation of Article 370 by Parliament on August 5, 2019 was upheld by the Supreme Court in 2023. Express explained</media:title>
 		</media:content>
 	</item>
 	</channel>
