@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 02 Sep 2025 08:37:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Sep 2025 11:58:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -308,8 +308,8 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10224190</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/weapons3-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/weapons3-1.jpg" medium="image">
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/weapons3-1-e1756814298982.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/weapons3-1-e1756814298982.jpg" medium="image">
 			<media:title type="html">Weapons</media:title>
 		</media:content>
 	</item>
