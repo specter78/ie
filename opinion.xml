@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 03 Sep 2025 08:49:56 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Sep 2025 11:21:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The India-Fiji story: In the next chapter, the three key areas of focus</title>
+		<link>https://indianexpress.com/article/opinion/columns/india-fiji-modi-narendra-sitiveni-rabuka-10227963/</link>
+		
+		<dc:creator><![CDATA[Shruti Mittal]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2025 11:21:04 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10227963</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10227963</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/India_Fiji-e1756898500447.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/India_Fiji-e1756898500447.jpg" medium="image">
+			<media:title type="html">India_Fiji</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>In not standing for Javed Akhtar’s right to free speech, what West Bengal government reveals about itself</title>
 		<link>https://indianexpress.com/article/opinion/columns/javed-akhtars-free-speech-west-bengal-mamata-banerjee-10227688/</link>
 		
@@ -3807,25 +3826,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/Opinion5_20th-Aug.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/Opinion5_20th-Aug.jpg" medium="image">
 			<media:title type="html">Opinion5_20th-Aug</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>SC success in increasing case disposal rate can serve as blueprint</title>
-		<link>https://indianexpress.com/article/opinion/columns/sc-success-increasing-case-disposal-rate-blueprint-10199484/</link>
-		
-		<dc:creator><![CDATA[Kriti Sharma]]></dc:creator>
-		<pubDate>Wed, 20 Aug 2025 01:37:25 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10199484</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10199484</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/Opinion4_20th-Aug.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/Opinion4_20th-Aug.jpg" medium="image">
-			<media:title type="html">Opinion4_20th-Aug</media:title>
 		</media:content>
 	</item>
 	</channel>
