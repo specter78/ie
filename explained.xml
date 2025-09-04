@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 04 Sep 2025 07:02:28 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Sep 2025 07:54:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>US ICE agency gets access to spyware ‘graphite’: What is it?</title>
+		<title>What are particularly vulnerable tribal groups, which the govt wants to be counted separately in the Census?</title>
+		<link>https://indianexpress.com/article/explained/particularly-vulnerable-tribal-groups-pvtg-census-10229611/</link>
+		
+		<dc:creator><![CDATA[Nikhil Ghanekar]]></dc:creator>
+		<pubDate>Thu, 04 Sep 2025 07:34:36 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10229611</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10229611</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/baiga-pvtg.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/baiga-pvtg.jpg" medium="image">
+			<media:title type="html">baiga pvtg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>US immigration agency ICE gets access to spyware ‘graphite’: What is it?</title>
 		<link>https://indianexpress.com/article/explained/explained-global/us-ice-agency-gets-access-to-spyware-graphite-what-is-it-10229029/</link>
 		
 		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
@@ -4021,25 +4040,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/Jordan_Israel_Palestinians_Gaza_99238-49ea6.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/Jordan_Israel_Palestinians_Gaza_99238-49ea6.jpg" medium="image">
 			<media:title type="html">Jordan Israel Palestinians Gaza</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Gangster Abu Salem seeks early release: The maths behind his 25-year prison term</title>
-		<link>https://indianexpress.com/article/explained/explained-law/abu-salem-free-case-jail-maharashtra-10176123/</link>
-		
-		<dc:creator><![CDATA[Sadaf Modak]]></dc:creator>
-		<pubDate>Thu, 07 Aug 2025 13:42:56 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10176123</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10176123</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/abu-salem.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/abu-salem.jpg" medium="image">
-			<media:title type="html">abu salem</media:title>
 		</media:content>
 	</item>
 	</channel>
