@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 06 Sep 2025 02:36:35 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Sep 2025 05:44:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>China’s massive military parade, and capabilities and concerns it displayed</title>
+		<title>Explained: China’s massive military parade, and capabilities and concerns it displayed</title>
 		<link>https://indianexpress.com/article/explained/explained-global/chinas-massive-military-parade-and-capabilities-and-concerns-it-displayed-10232984/</link>
 		
 		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
@@ -70,7 +70,7 @@
 		<title>Story of US ‘dept of war’, the new name Trump has for DoD</title>
 		<link>https://indianexpress.com/article/explained/explained-global/story-of-u-s-dept-of-war-the-new-name-trump-plans-for-dod-10232985/</link>
 		
-		<dc:creator><![CDATA[Explained Desk]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Sat, 06 Sep 2025 01:45:25 +0000</pubDate>
 		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10232985</guid>
 
