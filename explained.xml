@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 09 Sep 2025 23:25:52 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Sep 2025 01:51:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,45 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Nepal Gen Z Protest: Why is Kathmandu burning?</title>
+		<link>https://indianexpress.com/article/explained/explained-global/nepal-gen-z-protest-why-is-kathmandu-burning-10240449/</link>
+		
+		<dc:creator><![CDATA[Yubaraj Ghimire]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2025 01:30:46 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10240449</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10240449</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/An-aerial-view-of-smoke-rising-from-the-Federal-Parliament-of-Nepal-in-Kathmandu-after-it-was-set-on-fire-during-anti-government-protests-on-Tuesday.-PTI-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/An-aerial-view-of-smoke-rising-from-the-Federal-Parliament-of-Nepal-in-Kathmandu-after-it-was-set-on-fire-during-anti-government-protests-on-Tuesday.-PTI-1.jpg" medium="image">
+			<media:title type="html">An aerial view of smoke rising from the Federal Parliament of Nepal, in Kathmandu, after it was set on fire during anti-government protests on Tuesday. PTI 1</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/Nepal-Protest-3-1.jpg" medium="image">
+			<media:title type="html">A protester celebrates standing at the top of the Singha Durbar, the seat of Nepal&#039;s government&#039;s various ministries and offices, after it was set on fire during a protest against social media ban and corruption in Kathmandu, Nepal, Tuesday, Sept. 9, 2025. (AP Photo/Niranjan Shrestha)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/AP25252447710001_e3937a.jpg" medium="image">
+			<media:title type="html">Why is Kathmandu burning?</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/AP25252464024434.jpg" medium="image">
+			<media:title type="html">Protesters celebrate standing at the top of the Singha Durbar, the seat of Nepal&#039;s government&#039;s various ministries and offices, after it was set on fire during a protest against social media ban and corruption in Kathmandu, Nepal, Tuesday, Sept. 9, 2025. (AP Photo/Niranjan Shrestha)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/Nepal-Protest-5.jpg" medium="image">
+			<media:title type="html">Protesters take selfies and celebrate at the Singha Durbar, the seat of Nepal&#039;s government&#039;s various ministries and offices, after it was set on fire during a protest against social media ban and corruption in Kathmandu, Nepal, Tuesday, Sept. 9, 2025. (AP Photo/Niranjan Shrestha)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/17.jpeg" medium="image">
+			<media:title type="html">Why is Kathmandu burning?</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Scientists uncover hidden freshwater under sea floor: What are offshore aquifers and why are they significant?</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/freshwater-sea-floor-offshore-aquifers-10239958/</link>
 		
@@ -4029,25 +4068,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/jellyfish.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/jellyfish.jpg" medium="image">
 			<media:title type="html">jellyfish</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Little to gain, lots to lose: Where Ukraine stands ahead of Trump-Putin meet</title>
-		<link>https://indianexpress.com/article/explained/explained-global/little-to-gain-lots-to-lose-where-ukraine-stands-ahead-of-trump-putin-meet-10186943/</link>
-		
-		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
-		<pubDate>Wed, 13 Aug 2025 10:58:21 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10186943</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10186943</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/Zelenskyy_864540.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/Zelenskyy_864540.jpg" medium="image">
-			<media:title type="html">Zelenskyy_864540</media:title>
 		</media:content>
 	</item>
 	</channel>
