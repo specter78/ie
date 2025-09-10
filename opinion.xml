@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 10 Sep 2025 01:56:15 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Sep 2025 06:01:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Trump’s tariffs: A test of solidarity at BRICS, the club of the sanctioned</title>
+		<link>https://indianexpress.com/article/opinion/columns/trumps-tariffs-brics-sanctions-putin-xi-jinping-10241038/</link>
+		
+		<dc:creator><![CDATA[Soumya Bhowmick]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2025 05:59:25 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10241038</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10241038</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/EAM-S-Jaishankar-and-other-BRICS-leaders-including-Chinese-President-Xi-Jinping-Russia-President-Vladimir-Putin-and-Brazil-President-Lula-da-Silva-during-the-virtual-summit.-PTI.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/EAM-S-Jaishankar-and-other-BRICS-leaders-including-Chinese-President-Xi-Jinping-Russia-President-Vladimir-Putin-and-Brazil-President-Lula-da-Silva-during-the-virtual-summit.-PTI.jpg" medium="image">
+			<media:title type="html">EAM S Jaishankar and other BRICS leaders, including Chinese President Xi Jinping, Russia President Vladimir Putin and Brazil President Lula da Silva during the virtual summit. PTI</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>C P Radhakrishnan’s job as new V-P is to restore balance, dignity to the Rajya Sabha</title>
+		<link>https://indianexpress.com/article/opinion/columns/c-p-radhakrishnan-vice-president-rajya-sabha-chairperson-jagdeep-dhankar-10241000/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2025 05:37:50 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10241000</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10241000</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/Radhakrishnan_7cdce3.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/Radhakrishnan_7cdce3.jpg" medium="image">
+			<media:title type="html">NDA&#039;s Vice Presidential candidate C.P. Radhakrishnan wins the Vice Presidential Election 2025</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Bill on removal of ministers — bad in law, liable to misuse</title>
 		<link>https://indianexpress.com/article/opinion/columns/bill-on-removal-of-ministers-bad-in-law-liable-to-misuse-10240299/</link>
 		
@@ -42,9 +80,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10240299</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/rajya-sabha-1_20250827221719_20250909173802.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/rajya-sabha-1_20250827221719_20250909173802.jpg" medium="image">
-			<media:title type="html">rajya-sabha-1_20250827221719_20250909173802.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/OPinion5_10th-Sept.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/OPinion5_10th-Sept.jpg" medium="image">
+			<media:title type="html">OPinion5_10th-Sept</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -61,9 +99,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10240297</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/Container-Ship-Trade_20250907193109_20250909172820.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/Container-Ship-Trade_20250907193109_20250909172820.jpg" medium="image">
-			<media:title type="html">Container-Ship-Trade_20250907193109_20250909172820.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/OPinion4_10th-Sept.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/OPinion4_10th-Sept.jpg" medium="image">
+			<media:title type="html">OPinion4_10th-Sept</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -80,9 +118,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10240298</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/oped-illustration-5.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/oped-illustration-5.jpg" medium="image">
-			<media:title type="html">oped illustration</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/OPinion3_10th-Sept.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/OPinion3_10th-Sept.jpg" medium="image">
+			<media:title type="html">OPinion3_10th-Sept</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -105,7 +143,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Anuparna Roy in Venice: Purulia to Palestine</title>
+		<title>Anuparna Roy&#8217;s journey to Venice: Purulia to Palestine, via Mumbai</title>
 		<link>https://indianexpress.com/article/opinion/editorials/anuparna-roy-in-venice-purulia-to-palestine-10240247/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -175,9 +213,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10239750</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/3_20250909122920-e1757420992898.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/3_20250909122920-e1757420992898.jpg" medium="image">
-			<media:title type="html">Nepal protests</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/OPinion1_10th-Sept.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/OPinion1_10th-Sept.jpg" medium="image">
+			<media:title type="html">OPinion1_10th-Sept</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -314,7 +352,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Anjana Krishna-Ajit Pawar incident shows what happens when the police is left free to enforce the law</title>
+		<title>Anjana Krishna-Ajit Pawar incident shows why we need police reforms so urgently</title>
 		<link>https://indianexpress.com/article/opinion/columns/anjana-krishna-ajit-pawar-incident-shows-what-happens-when-the-police-is-left-free-to-enforce-the-law-10239023/</link>
 		
 		<dc:creator><![CDATA[Prakash Singh]]></dc:creator>
@@ -483,9 +521,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10237721</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/US-Open-4_20250908123135.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/US-Open-4_20250908123135.jpg" medium="image">
-			<media:title type="html">US-Open-4_20250908123135.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/OPinion2_10th-Sept.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/OPinion2_10th-Sept.jpg" medium="image">
+			<media:title type="html">OPinion2_10th-Sept</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3792,44 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/aug25-12.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/aug25-12.jpg" medium="image">
 			<media:title type="html">Russian oil deliveries scheduled for September and October would give a clearer picture on the impact of Trump’s tariff tantrums over India’s hefty imports of Russian crude.</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>August 27, 1985, Forty Years Ago: Lokpal Bill</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/august-27-1985-forty-years-ago-lokpal-bill-10213358/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 04:46:06 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10213358</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10213358</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/express-archive-13.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/express-archive-13.jpg" medium="image">
-			<media:title type="html">express archive</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>To help India&#8217;s economy, unleash the power sector</title>
-		<link>https://indianexpress.com/article/opinion/columns/to-help-indias-economy-unleash-the-power-sector-10213341/</link>
-		
-		<dc:creator><![CDATA[Abhishek Anand, Praveen Ravi, Navneeraj Sharma, Arvind Subramanian]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 01:12:21 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10213341</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10213341</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/Opinion3_27th-Aug.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/Opinion3_27th-Aug.jpg" medium="image">
-			<media:title type="html">Opinion3_27th-Aug</media:title>
 		</media:content>
 	</item>
 	</channel>
