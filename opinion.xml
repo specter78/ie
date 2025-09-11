@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 11 Sep 2025 11:11:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Sep 2025 13:51:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Europe’s panic over Russian drones in Poland is not without reason</title>
+		<link>https://indianexpress.com/article/opinion/columns/europe-russia-drones-poland-putin-nato-tusk-trump-10244133/</link>
+		
+		<dc:creator><![CDATA[Rajan Kumar]]></dc:creator>
+		<pubDate>Thu, 11 Sep 2025 13:51:56 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10244133</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10244133</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/Poland-Russia-3.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/Poland-Russia-3.jpg" medium="image">
+			<media:title type="html">Poland-Russia (3)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>By resisting censorship and corruption, Nepal’s youth is reminding political elites that a constitution belongs not to rulers but to citizens</title>
 		<link>https://indianexpress.com/article/opinion/columns/nepal-youth-is-reminding-elites-constitution-belongs-to-citizens-10243621/</link>
 		
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/Raanjhanaa_7e3671_20250828071840.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/Raanjhanaa_7e3671_20250828071840.jpg" medium="image">
 			<media:title type="html">Raanjhanaa</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why fans are over the moon about the Taylor Swift-Travis Kelce engagement</title>
-		<link>https://indianexpress.com/article/opinion/columns/why-fans-are-over-the-moon-about-the-taylor-swift-travis-kelce-engagement-10215922/</link>
-		
-		<dc:creator><![CDATA[Shraddha Pandey]]></dc:creator>
-		<pubDate>Thu, 28 Aug 2025 06:53:52 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10215922</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10215922</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/swift-engagement_20250828065003.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/swift-engagement_20250828065003.jpg" medium="image">
-			<media:title type="html">Taylor Swift-Travis Kelce engagement</media:title>
 		</media:content>
 	</item>
 	</channel>
