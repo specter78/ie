@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 13 Sep 2025 06:59:54 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Sep 2025 07:24:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The promises of ‘Lokah 1’: Feminism, a dive into local lore, and a Malayalam cinematic universe</title>
+		<link>https://indianexpress.com/article/opinion/columns/promise-lokah-1-feminism-local-lore-malayalam-cinematic-universe-10247409/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 13 Sep 2025 07:24:40 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10247409</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10247409</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/lokah-1.png" />
+		<media:content url="https://images.indianexpress.com/2025/09/lokah-1.png" medium="image">
+			<media:title type="html">lokah (1)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Great Nicobar Project: A crucial peg in the Viksit Bharat vision</title>
 		<link>https://indianexpress.com/article/opinion/columns/great-nicobar-project-a-crucial-peg-in-the-viksit-bharat-vision-10246663/</link>
 		
@@ -3823,25 +3842,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/Where-theres-an-e-will-copy.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/Where-theres-an-e-will-copy.jpg" medium="image">
 			<media:title type="html">Where there’s an e-will copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express View: The Bhagwat doctrine</title>
-		<link>https://indianexpress.com/article/opinion/editorials/express-view-the-bhagwat-doctrine-10219411/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 30 Aug 2025 01:40:45 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10219411</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10219411</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/edit_2a94c2.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/edit_2a94c2.jpg" medium="image">
-			<media:title type="html">edit_2a94c2</media:title>
 		</media:content>
 	</item>
 	</channel>
