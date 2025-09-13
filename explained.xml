@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 13 Sep 2025 05:03:37 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Sep 2025 06:55:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -49,6 +49,10 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/GUN_SHOW_1.jpg?resize=600,338" medium="image">
 			<media:title type="html">US gun violence, gun violence, America gun violence, Charlie Kirk, Charlie Kirk shot, Charlie Kirk firing, Charlie Kirk Donald Trump, Charlie Kirk News, Charlie Kirk Turning Point USA, Turning Point USA, Turning Point USA Trump, Indian express explained, explained news, current affairs</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/GunData.jpg" medium="image">
+			<media:title type="html">GunData</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/GUNS-BACKGROUND-CHECKS.jpg?resize=600,400" medium="image">
