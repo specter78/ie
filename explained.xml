@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 15 Sep 2025 13:52:48 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 15 Sep 2025 14:46:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Trump hints at TikTok deal with China: What to know about the app&#8217;s criticisms</title>
+		<link>https://indianexpress.com/article/explained/everyday-explainers/tiktok-deal-us-china-trump-10251771/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 13:57:24 +0000</pubDate>
+		<category><![CDATA[Everyday Explainers]]></category><category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10251771</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10251771</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/tiktok.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/tiktok.jpg" medium="image">
+			<media:title type="html">tiktok</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Bank of England places stablecoin transaction limits: What are stablecoins, their risks?</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/stablecoins-risks-bank-of-england-transaction-limits-10251751/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Mon, 15 Sep 2025 13:52:57 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10251751</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10251751</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/stablecoins-explained.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/stablecoins-explained.jpg" medium="image">
+			<media:title type="html">stablecoins explained</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Emmy Awards 2025: From 1949 to 2025, the journey of 76 years</title>
 		<link>https://indianexpress.com/article/explained/explained-culture/the-emmy-awards-journey-of-76-years-10251607/</link>
 		
@@ -4036,44 +4074,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/08/mithi-river.jpg?resize=600,367" medium="image">
 			<media:title type="html">Mumbai rains</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>3 new cases of ‘brain-eating amoeba’ in Kerala: What you should know</title>
-		<link>https://indianexpress.com/article/explained/explained-health/brain-eating-amoeba-meaning-kerala-case-symptoms-10198678/</link>
-		
-		<dc:creator><![CDATA[Shaju Philip]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 11:27:52 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Health]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10198678</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10198678</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/Naegleria_fowleri_1040x454.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/Naegleria_fowleri_1040x454.jpg" medium="image">
-			<media:title type="html">Naegleria fowleri kerala</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Russia or Ukraine: Who does Crimea belong to?</title>
-		<link>https://indianexpress.com/article/explained/explained-global/russia-ukraine-crimea-10198474/</link>
-		
-		<dc:creator><![CDATA[Sonal Gupta]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 09:52:48 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10198474</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10198474</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/UKRAINE-CRIMEA-ASSESS-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/UKRAINE-CRIMEA-ASSESS-1.jpg" medium="image">
-			<media:title type="html">Unmarked Russian soldiers guard a seized Ukrainian military base in Perevalnoe, Crimea, March 6, 2014. (Sergey Ponomarev/The New York Times)</media:title>
 		</media:content>
 	</item>
 	</channel>
