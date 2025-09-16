@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 16 Sep 2025 02:06:36 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Sep 2025 11:58:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Govt employees can opt for UPS till September 30: What is this new pension scheme</title>
+		<link>https://indianexpress.com/article/explained/govt-employees-ups-september-30-new-pension-scheme-1025337-10253378/</link>
+		
+		<dc:creator><![CDATA[Damini Nath]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2025 11:52:45 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10253378</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10253378</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/pension-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/pension-1600.jpg" medium="image">
+			<media:title type="html">Saving money concept preset by Male hand putting money coin stac</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Trump hints at TikTok deal with China: What to know about the app&#8217;s criticisms</title>
 		<link>https://indianexpress.com/article/explained/everyday-explainers/tiktok-deal-us-china-trump-10251771/</link>
 		
@@ -4051,29 +4070,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/T-N-Seshan-3col.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/T-N-Seshan-3col.jpg" medium="image">
 			<media:title type="html">T N Seshan-3col</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Mumbai heavy rainfall 2025: Why city is witnessing wettest August in 5 years</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/mumbai-rain-rainiest-august-in-5-years-why-10198739/</link>
-		
-		<dc:creator><![CDATA[Nayonika Bose]]></dc:creator>
-		<pubDate>Tue, 19 Aug 2025 11:41:44 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10198739</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10198739</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/mumbai-rains-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/mumbai-rains-1600.jpg" medium="image">
-			<media:title type="html">mumbai rains 1600</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/08/mithi-river.jpg?resize=600,367" medium="image">
-			<media:title type="html">Mumbai rains</media:title>
 		</media:content>
 	</item>
 	</channel>
