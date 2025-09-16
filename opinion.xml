@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 16 Sep 2025 06:06:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Sep 2025 06:51:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>A cancelled show won the Emmy. And that’s the whole story</title>
+		<link>https://indianexpress.com/article/opinion/columns/a-cancelled-show-won-the-emmy-and-thats-the-whole-story-10252836/</link>
+		
+		<dc:creator><![CDATA[Stela Dey]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2025 06:51:25 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10252836</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10252836</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/colbert-late-show_20250916064542.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/colbert-late-show_20250916064542.jpg" medium="image">
+			<media:title type="html">colbert-late-show_20250916064542.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>As India embraces AI, how and why the young must be protected</title>
+		<link>https://indianexpress.com/article/opinion/columns/india-ai-chatgpt-openai-mental-health-10252769/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2025 06:37:39 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10252769</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10252769</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/ChatGPT-Suicide.png" />
+		<media:content url="https://images.indianexpress.com/2025/08/ChatGPT-Suicide.png" medium="image">
+			<media:title type="html">ChatGPT Suicide</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Mansukh Mandaviya writes:The Narendra Modi model, from Gujarat to Bharat</title>
 		<link>https://indianexpress.com/article/opinion/columns/mansukh-mandaviya-writesthe-narendra-modi-model-from-gujarat-to-bharat-10252162/</link>
 		
@@ -3804,44 +3842,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/express-view-Copy-2.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/express-view-Copy-2.jpg" medium="image">
 			<media:title type="html">express view - Copy (2)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Punjab needs immediate relief and rehabilitation. But floods also pose a bigger challenge</title>
-		<link>https://indianexpress.com/article/opinion/editorials/punjab-needs-immediate-relief-and-rehabilitation-but-floods-also-pose-a-bigger-challenge-10224976/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 02 Sep 2025 01:15:12 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10224976</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10224976</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/express-view-Copy-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/express-view-Copy-1.jpg" medium="image">
-			<media:title type="html">express view - Copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Resurgence of horror films reflects anxiety of the times</title>
-		<link>https://indianexpress.com/article/opinion/editorials/resurgence-of-horror-films-reflects-anxiety-of-the-times-10224953/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 02 Sep 2025 01:12:12 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10224953</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10224953</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/express-view-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/express-view-1.jpg" medium="image">
-			<media:title type="html">express view</media:title>
 		</media:content>
 	</item>
 	</channel>
