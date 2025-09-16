@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 16 Sep 2025 07:32:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Sep 2025 10:02:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Recognising a Palestinian state may not stop Israel’s onslaught. But it still matters</title>
+		<link>https://indianexpress.com/article/opinion/columns/recognising-a-palestinian-state-may-not-stop-israels-onslaught-but-it-still-matters-10253161/</link>
+		
+		<dc:creator><![CDATA[Saptarshi Basak]]></dc:creator>
+		<pubDate>Tue, 16 Sep 2025 10:02:05 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10253161</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10253161</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/gaza-building-attack_20250916095615.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/gaza-building-attack_20250916095615.jpg" medium="image">
+			<media:title type="html">Palestinian state</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>One ‘like’, many consequences: Rethinking defamation in the digital age</title>
 		<link>https://indianexpress.com/article/opinion/columns/defamation-abhijit-iyer-mitra-gargi-rawat-10252884/</link>
 		
@@ -3823,25 +3842,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/OPinion3_2nd-Sept.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/OPinion3_2nd-Sept.jpg" medium="image">
 			<media:title type="html">OPinion3_2nd-Sept</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>On China, let&#8217;s do a reality check</title>
-		<link>https://indianexpress.com/article/opinion/columns/on-china-lets-do-a-reality-check-10224993/</link>
-		
-		<dc:creator><![CDATA[Manav Sachdeva]]></dc:creator>
-		<pubDate>Tue, 02 Sep 2025 01:25:50 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10224993</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10224993</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/OPinion4_2nd-Sept.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/OPinion4_2nd-Sept.jpg" medium="image">
-			<media:title type="html">OPinion4_2nd-Sept</media:title>
 		</media:content>
 	</item>
 	</channel>
