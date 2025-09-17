@@ -10,10 +10,10 @@
 
 <channel>
 	<title>Opinion | The Indian Express</title>
-	<atom:link href="https://indianexpress.com/section/opinion/feed/?_=7604" rel="self" type="application/rss+xml" />
+	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 17 Sep 2025 12:59:07 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Sep 2025 15:08:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1188,7 +1188,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Forty Years Ago: New anti-dowry act, a toxic gas leak</title>
+		<title>September 13, 1985, Forty Years Ago: New anti-dowry act, a toxic gas leak</title>
 		<link>https://indianexpress.com/article/opinion/40-years-ago/forty-years-ago-new-anti-dowry-act-a-toxic-gas-leak-10246598/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
