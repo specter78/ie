@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 19 Sep 2025 08:55:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Sep 2025 09:46:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -87,6 +87,10 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/US-employment-and-inflation.jpg" medium="image">
 			<media:title type="html">US employment and inflation.</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/US-GDP-growth.jpeg?resize=600,364" medium="image">
+			<media:title type="html">US GDP growth.</media:title>
 		</media:content>
 	</item>
 		<item>
