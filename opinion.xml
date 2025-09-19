@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 19 Sep 2025 13:56:39 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Sep 2025 14:31:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Popular protests across South Asia are a wake-up call for governments in the region</title>
+		<link>https://indianexpress.com/article/opinion/columns/nepal-gen-z-protests-gen-z-movement-prime-minister-oli-10259934/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 19 Sep 2025 14:31:17 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10259934</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10259934</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/nepal2-3col.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/nepal2-3col.jpg" medium="image">
+			<media:title type="html">Nepal Protest</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Indian economy shows resilience amidst global turbulence</title>
 		<link>https://indianexpress.com/article/opinion/columns/indian-economy-slowdown-reslience-global-economy-10259888/</link>
 		
@@ -3823,25 +3842,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/express-archive-3.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/express-archive-3.jpg" medium="image">
 			<media:title type="html">express archive</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>GST 2.0 is a timely reform</title>
-		<link>https://indianexpress.com/article/opinion/columns/gst-2-0-is-a-timely-reform-10230899/</link>
-		
-		<dc:creator><![CDATA[Aditi Nayar]]></dc:creator>
-		<pubDate>Fri, 05 Sep 2025 02:15:21 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10230899</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10230899</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/A-TIMELY-REFORM-copy.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/A-TIMELY-REFORM-copy.jpg" medium="image">
-			<media:title type="html">A TIMELY REFORM copy</media:title>
 		</media:content>
 	</item>
 	</channel>
