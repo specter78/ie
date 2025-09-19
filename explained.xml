@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 19 Sep 2025 04:52:22 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Sep 2025 06:00:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Nvidia&#8217;s $5 billion stake in Intel marks a dramatic change of fortune. But will it help the beleaguered chipmaker?</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/nvidia-5-billion-stake-intel-impact-10258875/</link>
+		
+		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
+		<pubDate>Fri, 19 Sep 2025 06:00:20 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10258875</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10258875</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/nvidia-intel.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/nvidia-intel.jpg" medium="image">
+			<media:title type="html">nvidia intel</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>ExplainSpeaking: Understanding US Fed’s dual mandate dilemma through 6 quotes from Jerome Powell</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/explainspeaking-understanding-us-feds-dual-mandate-dilemma-through-6-quotes-from-jerome-powell-10258307/</link>
 		
@@ -42,9 +61,13 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10258307</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/federal-reserve1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/federal-reserve1.jpg" medium="image">
-			<media:title type="html">federal-reserve1</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/FED-POLICY.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/FED-POLICY.jpg" medium="image">
+			<media:title type="html">Jerome Powell, Chair of the Federal Reserve, speaks at a press conference at the Federal Reserve, in Washington,  July 30, 2025. (Caroline Gutman/The New York Times)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/US-employment-and-inflation.jpg" medium="image">
+			<media:title type="html">US employment and inflation.</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4023,25 +4046,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/sergio-gor-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/sergio-gor-1600.jpg" medium="image">
 			<media:title type="html">Sergio Gor, director of the White House Presidential Personnel Office, delivers remarks during the Kennedy Center Board Dinner, at the White House in Washington on May 19, 2025. (Eric Lee/The New York Times)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What Jimmy Lai’s Hong Kong trial reveals about Beijing’s changing approach</title>
-		<link>https://indianexpress.com/article/explained/explained-global/jimmy-lai-hong-kong-trial-china-law-10208542/</link>
-		
-		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
-		<pubDate>Sun, 24 Aug 2025 11:14:39 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10208542</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10208542</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/Jimmy_Lai_Chee-ying.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/Jimmy_Lai_Chee-ying.jpg" medium="image">
-			<media:title type="html">Jimmy_Lai_Chee-ying</media:title>
 		</media:content>
 	</item>
 	</channel>
