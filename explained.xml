@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 21 Sep 2025 02:12:50 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 Sep 2025 03:06:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Centre looks to simplify QCO framework: why QCOs are notified, criticisms</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/centre-simplify-qco-framework-10261635/</link>
+		
+		<dc:creator><![CDATA[Harikishan Sharma]]></dc:creator>
+		<pubDate>Sun, 21 Sep 2025 02:39:52 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10261635</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10261635</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/BIS.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/BIS.jpg" medium="image">
+			<media:title type="html">BIS</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>No way out of Moscow: Why Indian oil companies’ $1.4 billion worth of dividends are stuck in Russia</title>
 		<link>https://indianexpress.com/article/explained/no-way-out-moscow-why-indian-oil-companies-billion-dividends-stuck-russia-10262150/</link>
 		
@@ -4019,25 +4038,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/albanese-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/albanese-1600.jpg" medium="image">
 			<media:title type="html">Australia Iran</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Scientists discover a rare quadruple star system in the Milky Way: Why is this significant?</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/scientists-rare-quadruple-star-10212925/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 26 Aug 2025 13:18:36 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10212925</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10212925</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/QUADRUPLE-STAR-SYSTEM.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/QUADRUPLE-STAR-SYSTEM.jpg" medium="image">
-			<media:title type="html">An artist’s impression of a star system, UPM J1040−3551, against the backdrop of the Milky Way as observed by Gaia, provided by Jiaxin Zhong/Zenghua Zhang. (Jiaxin Zhong/Zenghua Zhang via The New York Times)</media:title>
 		</media:content>
 	</item>
 	</channel>
