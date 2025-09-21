@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 21 Sep 2025 07:07:03 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 Sep 2025 07:48:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -293,8 +293,8 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10260284</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/sa-Pakistan-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/sa-Pakistan-1.jpg" medium="image">
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/sa-Pakistan-1-e1758441815751.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/sa-Pakistan-1-e1758441815751.jpg" medium="image">
 			<media:title type="html">Pakistan Saudi Arabia</media:title>
 		</media:content>
 	</item>
