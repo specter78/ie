@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 21 Sep 2025 04:19:55 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 Sep 2025 04:54:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -49,11 +49,11 @@
 	</item>
 		<item>
 		<title>No way out of Moscow: Why Indian oil companies’ $1.4 billion worth of dividends are stuck in Russia</title>
-		<link>https://indianexpress.com/article/explained/no-way-out-moscow-why-indian-oil-companies-billion-dividends-stuck-russia-10262150/</link>
+		<link>https://indianexpress.com/article/explained/explained-economics/no-way-out-moscow-why-indian-oil-companies-billion-dividends-stuck-russia-10262150/</link>
 		
 		<dc:creator><![CDATA[Sukalp Sharma]]></dc:creator>
 		<pubDate>Sun, 21 Sep 2025 02:10:30 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10262150</guid>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10262150</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -61,9 +61,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10262150</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/crude.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/crude.jpg" medium="image">
-			<media:title type="html">crude</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/explained-eco.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/explained-eco.jpg" medium="image">
+			<media:title type="html">explained eco</media:title>
 		</media:content>
 	</item>
 		<item>
