@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 22 Sep 2025 03:52:55 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Sep 2025 04:53:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -104,11 +104,11 @@
 			<media:title type="html">modi gst</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/GST-prices-list-one.jpg?resize=322,600" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/GST-prices-list-one.jpg" medium="image">
 			<media:title type="html">gst RATES</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/GST-TWO.jpg?resize=381,600" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/GST-TWO.jpg" medium="image">
 			<media:title type="html">GST rates</media:title>
 		</media:content>
 	</item>
