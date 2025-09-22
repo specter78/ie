@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 22 Sep 2025 08:41:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Sep 2025 09:58:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>On Agrasen Jayanti, what to know about the revered figure of Maharaja Agrasen</title>
+		<link>https://indianexpress.com/article/explained/everyday-explainers/maharaja-agrasen-jayanti-history-aggarwals-10264462/</link>
+		
+		<dc:creator><![CDATA[Raakhi Jagga]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 09:27:01 +0000</pubDate>
+		<category><![CDATA[Everyday Explainers]]></category><category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10264462</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10264462</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/maharaja-agrasen.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/maharaja-agrasen.jpg" medium="image">
+			<media:title type="html">12th Aggarwal Vaishya Yuvak-Yuvti Parichiye Sammelan</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Adani Power hits 20% upper circuit post stock split: What it means, how shareholders benefit</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/adani-power-upper-circuit-post-stock-split-10264435/</link>
+		
+		<dc:creator><![CDATA[Hitesh Vyas]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2025 09:25:15 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10264435</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10264435</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/adani-1600.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/09/adani-1600.jpeg" medium="image">
+			<media:title type="html">adani 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why Trump has again demanded control over Afghanistan’s Bagram air base</title>
 		<link>https://indianexpress.com/article/explained/explained-global/trump-bagram-afghanistan-significance-china-10263287/</link>
 		
@@ -4008,44 +4046,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/Trump-Greenland.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/Trump-Greenland.jpg" medium="image">
 			<media:title type="html">Trump Greenland</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Flood situation in Punjab: All about the state&#8217;s rivers, dams and headworks</title>
-		<link>https://indianexpress.com/article/explained/punjab-flood-situation-state-rivers-dams-headworks-10214540/</link>
-		
-		<dc:creator><![CDATA[Raakhi Jagga]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 11:22:02 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10214540</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10214540</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/Sutlej-flooding.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/Sutlej-flooding.jpg" medium="image">
-			<media:title type="html">Sutlej flooding</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>SpaceX’s Starship completes critical test flight: Everything you need to know about the world’s largest rocket</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/spacex-starship-test-flight-10214525/</link>
-		
-		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
-		<pubDate>Wed, 27 Aug 2025 11:10:35 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10214525</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10214525</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/starship.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/starship.jpg" medium="image">
-			<media:title type="html">SpaceX Starship Launch</media:title>
 		</media:content>
 	</item>
 	</channel>
