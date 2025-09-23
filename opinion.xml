@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 23 Sep 2025 10:03:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Sep 2025 12:04:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Madhya Pradesh&#8217;s Navratri non-veg ban undermines its own history</title>
+		<link>https://indianexpress.com/article/opinion/columns/madhya-pradesh-navratri-meat-ban-fish-ban-madhya-pradesh-10266673/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2025 11:44:28 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10266673</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10266673</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/meat-sale.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/08/meat-sale.jpg" medium="image">
+			<media:title type="html">Madhya Pradesh meat ban in Navratri</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Banning caste rallies won&#8217;t create a casteless society</title>
 		<link>https://indianexpress.com/article/opinion/columns/caste-rallies-ban-uttar-pradesh-yogi-adityanath-10266475/</link>
 		
@@ -333,7 +352,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>The Ba***ds of Bollywood: Aryan Khan’s meta debut takes aim at everything sacred in Bollywood</title>
+		<title>The Ba***ds of Bollywood: What makes Aryan Khan laugh?</title>
 		<link>https://indianexpress.com/article/opinion/columns/bads-of-bollywood-aryan-khan-debut-bollywood-srk-shah-rukh-johar-10264160/</link>
 		
 		<dc:creator><![CDATA[Shalini Langer]]></dc:creator>
@@ -3819,25 +3838,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/thakur_20250908190847.png" />
 		<media:content url="https://images.indianexpress.com/2025/09/thakur_20250908190847.png" medium="image">
 			<media:title type="html">thakur_20250908190847.png</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>September 9, 1985, Forty Years Ago: Electoral Ordinance</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/september-9-1985-forty-years-ago-electoral-ordinance-10238297/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 09 Sep 2025 02:02:26 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10238297</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10238297</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/express-archive-5.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/express-archive-5.jpg" medium="image">
-			<media:title type="html">express archive</media:title>
 		</media:content>
 	</item>
 	</channel>
