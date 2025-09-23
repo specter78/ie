@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 22 Sep 2025 21:49:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 23 Sep 2025 02:03:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>UP bans caste-based political rallies, public signs: The HC ruling behind it</title>
+		<link>https://indianexpress.com/article/explained/explained-law/up-bans-caste-based-political-rallies-hc-ruling-10265061/</link>
+		
+		<dc:creator><![CDATA[Bhupendra Pandey, Vineet Bhalla]]></dc:creator>
+		<pubDate>Tue, 23 Sep 2025 00:56:30 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10265061</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10265061</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/Allahabad-High-Court-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/Allahabad-High-Court-1600.jpg" medium="image">
+			<media:title type="html">Allahabad-High-Court 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: 3 key takeaways from Charlie Kirk’s memorial service</title>
 		<link>https://indianexpress.com/article/explained/explained-global/takeaways-charlie-kirk-memorial-service-10265015/</link>
 		
@@ -99,9 +118,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10264788</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/Modi-GST-2.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/Modi-GST-2.jpg" medium="image">
-			<media:title type="html">Modi GST 2</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/grocery-store.png" />
+		<media:content url="https://images.indianexpress.com/2025/09/grocery-store.png" medium="image">
+			<media:title type="html">grocery-store</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4003,25 +4022,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/The-Thursday-Murder-Club.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/The-Thursday-Murder-Club.jpg" medium="image">
 			<media:title type="html">The-Thursday-Murder-Club</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: The H-1B visa debate in the US</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/explained-the-h-1b-visa-debate-in-the-us-10215185/</link>
-		
-		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
-		<pubDate>Thu, 28 Aug 2025 01:26:30 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10215185</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10215185</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/Lutnick-3col2.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/Lutnick-3col2.jpg" medium="image">
-			<media:title type="html">Lutnick-3col2</media:title>
 		</media:content>
 	</item>
 	</channel>
