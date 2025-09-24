@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 24 Sep 2025 05:59:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Sep 2025 08:01:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Saudi-Pak defence pact: Can India counter Pakistan’s growing influence in the Muslim world?</title>
+		<link>https://indianexpress.com/article/opinion/columns/saudi-pakistan-defence-pact-india-muslim-world-modi-sharif-10268366/</link>
+		
+		<dc:creator><![CDATA[Shaikh Mujibur Rehman]]></dc:creator>
+		<pubDate>Wed, 24 Sep 2025 07:51:11 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10268366</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10268366</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/AP09_18_2025_000172B-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/AP09_18_2025_000172B-1.jpg" medium="image">
+			<media:title type="html">AP09_18_2025_000172B (1)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Who’s my neighbour: When body becomes the border: Wheelchair changed the way I looked at my neighbours</title>
 		<link>https://indianexpress.com/article/opinion/columns/whos-my-neighbour-disability-disability-rights-neighbourhood-10268070/</link>
 		
@@ -118,9 +137,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10267424</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/doctor-759-4_583e32_20250904192756_20250916141704_20250923182710.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/doctor-759-4_583e32_20250904192756_20250916141704_20250923182710.jpg" medium="image">
-			<media:title type="html">doctor-759-4_583e32_20250904192756_20250916141704_20250923182710.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/Opinion5_24th-Sept.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/Opinion5_24th-Sept.jpg" medium="image">
+			<media:title type="html">Opinion5_24th-Sept</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -137,9 +156,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10267472</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/AdobeStock_81027351-1-scaled-1-1300x813-1_20250923183009.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/AdobeStock_81027351-1-scaled-1-1300x813-1_20250923183009.jpg" medium="image">
-			<media:title type="html">VISA</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/Opinion4_24th-Sept.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/Opinion4_24th-Sept.jpg" medium="image">
+			<media:title type="html">Opinion4_24th-Sept</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -156,9 +175,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10267473</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/oped-illustration-11.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/oped-illustration-11.jpg" medium="image">
-			<media:title type="html">oped illustration</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/Opinion3_24th-Sept.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/Opinion3_24th-Sept.jpg" medium="image">
+			<media:title type="html">Opinion3_24th-Sept</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -194,9 +213,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10267422</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/china_206dfc.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/china_206dfc.jpg" medium="image">
-			<media:title type="html">china_206dfc</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/Opinion1_24th-Sept.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/Opinion1_24th-Sept.jpg" medium="image">
+			<media:title type="html">Opinion1_24th-Sept</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -612,9 +631,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10264160</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/aryan-khan-11.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/aryan-khan-11.jpg" medium="image">
-			<media:title type="html">aryan khan</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/Opinion2_24th-Sept.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/Opinion2_24th-Sept.jpg" medium="image">
+			<media:title type="html">Opinion2_24th-Sept</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3819,25 +3838,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/express-view-Copy-7.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/express-view-Copy-7.jpg" medium="image">
 			<media:title type="html">express view - Copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express View: Quake in Nepal</title>
-		<link>https://indianexpress.com/article/opinion/editorials/express-view-quake-in-nepal-10240250/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 10 Sep 2025 01:49:26 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10240250</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10240250</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/express-view-Copy-2-5.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/express-view-Copy-2-5.jpg" medium="image">
-			<media:title type="html">express view - Copy (2)</media:title>
 		</media:content>
 	</item>
 	</channel>
