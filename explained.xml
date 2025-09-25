@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 25 Sep 2025 03:53:18 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Sep 2025 04:11:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What made Super Typhoon Ragasa so intense?</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/what-made-super-typhoon-ragasa-intense-10270097/</link>
+		
+		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 04:10:58 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10270097</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10270097</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/Hong_Kong_Asia_Typhoon_45538-d56a3.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/Hong_Kong_Asia_Typhoon_45538-d56a3.jpg" medium="image">
+			<media:title type="html">Hong Kong Asia Typhoon</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>In Karnataka HC’s rejection of X plea against Sahyog, 3 red lines for social media</title>
 		<link>https://indianexpress.com/article/explained/karnataka-hc-rejection-x-plea-sahyog-red-lines-social-media-10269942/</link>
 		
@@ -3979,25 +3998,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/blue-dragon.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/blue-dragon.jpg" medium="image">
 			<media:title type="html">Exif_JPEG_PICTURE</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Punjab floods: All about the Ghaggar river, why it is prone to devastating floods</title>
-		<link>https://indianexpress.com/article/explained/punjab-ghaggar-river-floods-10220343/</link>
-		
-		<dc:creator><![CDATA[Raakhi Jagga]]></dc:creator>
-		<pubDate>Sat, 30 Aug 2025 08:50:51 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10220343</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10220343</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/Ghaggar-flooding.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/Ghaggar-flooding.jpg" medium="image">
-			<media:title type="html">Ghaggar flooding</media:title>
 		</media:content>
 	</item>
 	</channel>
