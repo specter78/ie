@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 24 Sep 2025 23:12:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Sep 2025 01:57:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>In Karnataka HC’s rejection of X plea against Sahyog, 3 red lines for social media</title>
+		<link>https://indianexpress.com/article/explained/karnataka-hc-rejection-x-plea-sahyog-red-lines-social-media-10269942/</link>
+		
+		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 01:57:00 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10269942</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10269942</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/Sahyog-takeaways.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/Sahyog-takeaways.jpg" medium="image">
+			<media:title type="html">Sahyog takeaways</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>&#8216;Trump sees China as economic rival, not in geopolitical sense…in this vision, India no longer enjoys priority&#8217;</title>
+		<link>https://indianexpress.com/article/explained/explained-global/interview-tellis-trump-china-economic-rival-geopolitical-india-10269244/</link>
+		
+		<dc:creator><![CDATA[Ritika Chopra]]></dc:creator>
+		<pubDate>Thu, 25 Sep 2025 01:01:30 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10269244</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10269244</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/Trump-Tellis-interview.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/Trump-Tellis-interview.jpg" medium="image">
+			<media:title type="html">Trump Tellis interview</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why Karnataka HC upheld Union govt&#8217;s Sahyog portal, rejected X’s challenge</title>
 		<link>https://indianexpress.com/article/explained/explained-law/karnataka-hc-sahyog-portal-x-challenge-10269277/</link>
 		
@@ -3960,48 +3998,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/Ghaggar-flooding.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/Ghaggar-flooding.jpg" medium="image">
 			<media:title type="html">Ghaggar flooding</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Modi travels on Shinkansen: How iconic bullet train design was inspired by a kingfisher’s beak</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/modi-shinkansen-kingfishers-beak-10220290/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 30 Aug 2025 08:26:12 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10220290</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10220290</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/Shinkansen.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/Shinkansen.jpg" medium="image">
-			<media:title type="html">Shinkansen</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/08/Shinkansen_map_202405_en.png?resize=392,405" medium="image">
-			<media:title type="html">Shinkansen Map (as of 2024). Wikimedia Commons</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why anti-Zionism should not be equated with anti-Semitism</title>
-		<link>https://indianexpress.com/article/explained/explained-global/anti-zionism-anti-semitism-10219321/</link>
-		
-		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
-		<pubDate>Sat, 30 Aug 2025 02:40:29 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10219321</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10219321</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/netanyahu_65b9ad.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/netanyahu_65b9ad.jpg" medium="image">
-			<media:title type="html">Mideast Wars Israel Lebanon</media:title>
 		</media:content>
 	</item>
 	</channel>
