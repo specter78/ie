@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 26 Sep 2025 03:15:51 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Sep 2025 05:10:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Explained: The javelin’s arc</title>
+		<title>With recent World Athletics Championships, breaking down the science of the javelin</title>
 		<link>https://indianexpress.com/article/explained/explained-sports/explained-the-javelins-arc-10271650/</link>
 		
 		<dc:creator><![CDATA[Nihal Koshie]]></dc:creator>
@@ -47,12 +47,12 @@
 			<media:title type="html">World Athletics Championships</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/Screenshot-2025-09-26-054752.jpg" medium="image">
-			<media:title type="html">Explained: The javelin’s arc</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/Javelin-grips.jpg" medium="image">
+			<media:title type="html">Javelin grips</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/Screenshot-2025-09-26-054814.jpg" medium="image">
-			<media:title type="html">Explained: The javelin’s arc</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/How-to-throw-a-javelin.jpg" medium="image">
+			<media:title type="html">How to throw a javelin</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -75,7 +75,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>‘Neeraj is a speed thrower, needs to return to his strengths’: Javelin legend Uwe Hohn</title>
+		<title>Where Neeraj Chopra, Arshad Nadeem and others need to improve: Javelin legend Uwe Hohn explains</title>
 		<link>https://indianexpress.com/article/explained/explained-sports/neeraj-is-a-speed-thrower-needs-to-return-to-his-strengths-javelin-legend-uwe-hohn-10271678/</link>
 		
 		<dc:creator><![CDATA[Nihal Koshie]]></dc:creator>
