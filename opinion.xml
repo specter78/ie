@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 28 Sep 2025 12:05:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 28 Sep 2025 12:54:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>From the Opinions Editor &#124; Can artificial rain quell Delhi’s pollution? Experiments in capital must be backed by science</title>
+		<link>https://indianexpress.com/article/opinion/columns/delhi-pollution-artificial-rain-winter-10276755/</link>
+		
+		<dc:creator><![CDATA[Kaushik Das Gupta]]></dc:creator>
+		<pubDate>Sun, 28 Sep 2025 12:54:23 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10276755</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10276755</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/delhi-pollution.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/delhi-pollution.jpg" medium="image">
+			<media:title type="html">delhi pollution</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How Bengal’s rain — and the bhadralok’s petrichor — goes down the drain</title>
 		<link>https://indianexpress.com/article/opinion/columns/bengals-rain-bhadraloks-petrichor-drain-10276420/</link>
 		
@@ -3807,25 +3826,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/The-critic-is-at-sea-copy.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/The-critic-is-at-sea-copy.jpg" medium="image">
 			<media:title type="html">The critic is at sea copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>After Israel&#8217;s Qatar strike, the big questions for the region</title>
-		<link>https://indianexpress.com/article/opinion/columns/after-qatar-an-isolated-israel-10246662/</link>
-		
-		<dc:creator><![CDATA[Anju Gupta]]></dc:creator>
-		<pubDate>Sat, 13 Sep 2025 02:15:52 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10246662</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10246662</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/Doha-strike-and-the-day-after-copy.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/Doha-strike-and-the-day-after-copy.jpg" medium="image">
-			<media:title type="html">Doha strike and the day after copy</media:title>
 		</media:content>
 	</item>
 	</channel>
