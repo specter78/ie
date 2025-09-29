@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 29 Sep 2025 06:57:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 29 Sep 2025 08:13:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -86,7 +86,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Anti-immigrant sentiments in UK could be a lightning rod for myriad sentiments, but they normalise racism</title>
+		<title>UK anti-immigration protests are about a lot of things, but they&#8217;re normalising racism</title>
 		<link>https://indianexpress.com/article/opinion/columns/anti-immigrant-sentiments-in-uk-normalise-racism-10277667/</link>
 		
 		<dc:creator><![CDATA[Rohan Manoj]]></dc:creator>
@@ -916,8 +916,8 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10270980</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/PTI09_24_2025_000152B.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/PTI09_24_2025_000152B.jpg" medium="image">
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/PTI09_24_2025_000152B-e1759133625383.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/PTI09_24_2025_000152B-e1759133625383.jpg" medium="image">
 			<media:title type="html">Protests in Ladakh</media:title>
 		</media:content>
 	</item>
