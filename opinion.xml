@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 01 Oct 2025 08:08:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Oct 2025 08:18:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>India has a growing older population. We must focus on productive ageing</title>
+		<link>https://indianexpress.com/article/opinion/columns/international-old-persons-day-old-care-older-people-care-for-old-10281887/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 01 Oct 2025 08:18:25 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10281887</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10281887</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/08/health-prasun-e1759306623340.png" />
+		<media:content url="https://images.indianexpress.com/2025/08/health-prasun-e1759306623340.png" medium="image">
+			<media:title type="html">health-prasun</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>By conducting SIR successfully in Bihar, EC has upheld institutional autonomy and democracy</title>
 		<link>https://indianexpress.com/article/opinion/columns/bihar-sir-electoral-rolls-rjd-lalu-prasad-bihar-ec-10281876/</link>
 		
@@ -3807,25 +3826,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/WAR11id.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/WAR11id.jpg" medium="image">
 			<media:title type="html">WAR11id</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>On PM Modi&#8217;s birthday, a card from India&#8217;s first village</title>
-		<link>https://indianexpress.com/article/opinion/columns/on-pm-modis-birthday-a-card-from-indias-first-village-10254069/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 17 Sep 2025 01:34:02 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10254069</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10254069</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/WhatsApp-Image-2025-09-16-at-23.59.15_bf1159dd.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/WhatsApp-Image-2025-09-16-at-23.59.15_bf1159dd.jpg" medium="image">
-			<media:title type="html">WhatsApp Image 2025-09-16 at 23.59.15_bf1159dd</media:title>
 		</media:content>
 	</item>
 	</channel>
