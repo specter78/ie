@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 02 Oct 2025 23:17:33 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Oct 2025 01:54:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Trump&#8217;s executive order assuring US support to Qatar is significant</title>
+		<link>https://indianexpress.com/article/explained/explained-global/trump-executive-order-us-qatar-significance-10284000/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 01:50:18 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10284000</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10284000</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/US-Qatar.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/US-Qatar.jpg" medium="image">
+			<media:title type="html">US Qatar</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Explained &#124; As H-1B costs soar in US, other global alternatives opening up for Indian talent</title>
+		<link>https://indianexpress.com/article/explained/new-h-1b-fee-other-job-options-stem-tech-india-10283951/</link>
+		
+		<dc:creator><![CDATA[Divya A]]></dc:creator>
+		<pubDate>Fri, 03 Oct 2025 01:00:54 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10283951</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10283951</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/us-h-1b.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/us-h-1b.jpg" medium="image">
+			<media:title type="html">us h-1b</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>As RSS turns 100, how chief guest Kovind traced its &#8216;Ambedkarwadi&#8217; character</title>
 		<link>https://indianexpress.com/article/explained/explained-politics/rss-turns-100-chief-guest-kovind-ambedkarwadi-10283980/</link>
 		
@@ -3972,44 +4010,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/A-still-from-the-inauguration-ceremony-of-the-Indian-Union-Muslim-League-IUML-national-headquarters-in-New-Delhi.-Screengrab-Express.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/A-still-from-the-inauguration-ceremony-of-the-Indian-Union-Muslim-League-IUML-national-headquarters-in-New-Delhi.-Screengrab-Express.jpg" medium="image">
 			<media:title type="html">A still from the inauguration ceremony of the Indian Union Muslim League (IUML) national headquarters, in New Delhi. (Screengrab Express)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>India gets its first indigenous microprocessor: What are semiconductor chips and why are they significant?</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/india-microprocessor-semiconductor-chips-10238040/</link>
-		
-		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
-		<pubDate>Tue, 09 Sep 2025 03:15:07 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10238040</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10238040</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/SEMICONDUCTORS.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/SEMICONDUCTORS.jpg" medium="image">
-			<media:title type="html">SEMICONDUCTORS</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Vice President Election 2025: Process to elect Vice President of India, who can contest, powers, perks</title>
-		<link>https://indianexpress.com/article/explained/vice-president-elected-10238113/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 09 Sep 2025 02:00:48 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10238113</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10238113</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/vice-presidential-elections.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/09/vice-presidential-elections.jpeg" medium="image">
-			<media:title type="html">vice presidential elections</media:title>
 		</media:content>
 	</item>
 	</channel>
