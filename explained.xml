@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 03 Oct 2025 01:54:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Oct 2025 04:32:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -42,12 +42,12 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10284277</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Market.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/Market.jpg" medium="image">
-			<media:title type="html">Market</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/GDP-column.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/GDP-column.jpg" medium="image">
+			<media:title type="html">GDP column</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/10/ConsumerSentiment.png?resize=433,405" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/10/ConsumerSentiment.png" medium="image">
 			<media:title type="html">Consumer Sentiment</media:title>
 		</media:content>
 	</item>
