@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 05 Oct 2025 08:37:14 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Oct 2025 10:33:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,48 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>After earliest monsoon onset in 75 years, why Mumbai is poised for a delayed withdrawal</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/mumbai-delayed-withdrawal-monsoon-rain-forecast-october-10289174/</link>
+		
+		<dc:creator><![CDATA[Nayonika Bose]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2025 10:33:46 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10289174</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10289174</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/mumbai-monsoon.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/10/mumbai-monsoon.jpeg" medium="image">
+			<media:title type="html">mumbai monsoon</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Darjeeling rain leads to deaths: Why landslides are so deadly for India</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/darjeeling-rain-landslides-deadly-for-india-10289158/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sun, 05 Oct 2025 10:19:10 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10289158</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10289158</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/darjeeling-rain-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/darjeeling-rain-1600.jpg" medium="image">
+			<media:title type="html">Landslides in Darjeeling</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/10/rain-darjeeling-160.jpeg?resize=600,455" medium="image">
+			<media:title type="html">Darjeeling</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Two mega IPOs hit the market as others wait on the sidelines: Should investors subscribe?</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/lg-tata-capital-ipo-investors-subscribe-analysis-10288768/</link>
 		
@@ -3968,44 +4010,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/Vivekananda.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/Vivekananda.jpg" medium="image">
 			<media:title type="html">Vivekananda</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Autism risk: Is Paracetamol safe to take during pregnancy?</title>
-		<link>https://indianexpress.com/article/explained/explained-health/autism-risk-is-paracetamol-safe-to-take-during-pregnancy-10242646/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 01:40:34 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Health]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10242646</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10242646</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/pregnancy-pixabay-inside-image-11.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/pregnancy-pixabay-inside-image-11.jpg" medium="image">
-			<media:title type="html">pregnancy-pixabay-inside-image-11</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Israel&#8217;s attack on Doha: why it was carried out, possible fallout</title>
-		<link>https://indianexpress.com/article/explained/israels-attack-on-doha-why-it-was-carried-out-possible-fallout-10242645/</link>
-		
-		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
-		<pubDate>Thu, 11 Sep 2025 01:34:31 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10242645</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10242645</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/Qatar_Israel_Hamas-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/Qatar_Israel_Hamas-1.jpg" medium="image">
-			<media:title type="html">Qatar Israel Hamas</media:title>
 		</media:content>
 	</item>
 	</channel>
