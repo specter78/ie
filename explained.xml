@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 08 Oct 2025 01:26:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Oct 2025 03:21:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>As UK PM Starmer arrives, an overview of India-UK ties</title>
+		<link>https://indianexpress.com/article/explained/starmer-visit-status-of-india-uk-ties-areas-to-build-on-10293886/</link>
+		
+		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 03:21:06 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10293886</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10293886</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/uk_trade-Lead-4col1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/uk_trade-Lead-4col1.jpg" medium="image">
+			<media:title type="html">uk_trade-Lead-4col1</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How Supreme Court verdict upheld equal inheritance rights for tribal women</title>
 		<link>https://indianexpress.com/article/explained/explained-law/supreme-court-equal-inheritance-tribal-women-10293414/</link>
 		
@@ -3963,25 +3982,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/Explained-Tractor-1600.jpg?resize=600,422" medium="image">
 			<media:title type="html">tractor</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>China This Week &#124; How China reacted to Nepal, why Trump threatened tariffs, and how world sees China</title>
-		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-nepal-reaction-tariffs-global-opinion-10249805/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Sun, 14 Sep 2025 14:37:44 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10249805</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10249805</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/china-tarker-21.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/china-tarker-21.jpg" medium="image">
-			<media:title type="html">China CIFTIS</media:title>
 		</media:content>
 	</item>
 	</channel>
