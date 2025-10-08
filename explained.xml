@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 08 Oct 2025 06:49:14 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Oct 2025 07:54:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>F&#038;O trading continues to draw in retail investors, despite SEBI flagging risks involved. Here&#8217;s why</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/fo-trading-retail-investors-sebi-regulator-risks-10294617/</link>
+		
+		<dc:creator><![CDATA[Hitesh Vyas]]></dc:creator>
+		<pubDate>Wed, 08 Oct 2025 07:26:23 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10294617</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10294617</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/FO-sebi.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/FO-sebi.jpg" medium="image">
+			<media:title type="html">FO sebi</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Renewables edge out coal as world&#8217;s biggest source of electricity: Many positives, some concerns</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/renewables-edge-out-coal-as-worlds-biggest-source-of-electricity-many-positives-some-concerns-10294591/</link>
 		
@@ -3959,25 +3978,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/09/protest.jpg" medium="image">
 			<media:title type="html">Subject of recent protest, history of Kolhan tribe’s Manki-Munda system</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: Issues in SC hearings on timeline for the President and Governors to assent to Bills</title>
-		<link>https://indianexpress.com/article/explained/explained-law/sc-presidential-reference-10250235/</link>
-		
-		<dc:creator><![CDATA[Apurva Vishwanath]]></dc:creator>
-		<pubDate>Mon, 15 Sep 2025 01:37:09 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10250235</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10250235</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/President-Droupadi-Murmu-being-received-by-Tamil-Nadu-Governor-R-N-Ravi-and-Chief-Minister-M-K-Stalin-at-the-Chennai-Airport-in-August-2023.-TN-Raj-Bhavan.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/President-Droupadi-Murmu-being-received-by-Tamil-Nadu-Governor-R-N-Ravi-and-Chief-Minister-M-K-Stalin-at-the-Chennai-Airport-in-August-2023.-TN-Raj-Bhavan.jpg" medium="image">
-			<media:title type="html">President Droupadi Murmu being received by Tamil Nadu Governor R N Ravi and Chief Minister M K Stalin at the Chennai Airport in August 2023. TN Raj Bhavan</media:title>
 		</media:content>
 	</item>
 	</channel>
