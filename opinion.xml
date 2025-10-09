@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 09 Oct 2025 11:20:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Oct 2025 13:11:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How rankings and metrics are killing the idea of the teacher</title>
+		<link>https://indianexpress.com/article/opinion/columns/how-ranking-metrics-are-idea-teacher-10297437/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 09 Oct 2025 13:11:29 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10297437</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10297437</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/ch1327433.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/ch1327433.jpg" medium="image">
+			<media:title type="html">ch1327433</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Starmer-Modi talks: Beyond trade, India-UK partnership must turn to migration, talent</title>
+		<link>https://indianexpress.com/article/opinion/columns/starmer-modi-talks-beyond-trade-india-uk-partnership-10297408/</link>
+		
+		<dc:creator><![CDATA[Soumya Bhowmick]]></dc:creator>
+		<pubDate>Thu, 09 Oct 2025 12:54:16 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10297408</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10297408</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/Starmer-1_20251009125057.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/Starmer-1_20251009125057.jpg" medium="image">
+			<media:title type="html">Starmer and Modi</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>History shows why Ladakh needs careful handling</title>
 		<link>https://indianexpress.com/article/opinion/columns/ladakh-sonam-wangchuk-sixth-schedule-10297186/</link>
 		
@@ -3787,44 +3825,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/oped-illustration-12.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/oped-illustration-12.jpg" medium="image">
 			<media:title type="html">oped illustration</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Dickie Bird, an umpire of the players and the people</title>
-		<link>https://indianexpress.com/article/opinion/editorials/dickie-bird-umpire-players-people-10269653/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 25 Sep 2025 01:39:47 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10269653</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10269653</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/express-view-17.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/express-view-17.jpg" medium="image">
-			<media:title type="html">express view</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Unity in diversity: This is what Banu Mushtaq&#8217;s presence at Mysuru Dasara upholds</title>
-		<link>https://indianexpress.com/article/opinion/editorials/mysuru-dasara-banu-mushtaq-pluralism-secularism-10269657/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 25 Sep 2025 01:39:13 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10269657</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10269657</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/express-view-Copy-19.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/express-view-Copy-19.jpg" medium="image">
-			<media:title type="html">express view - Copy</media:title>
 		</media:content>
 	</item>
 	</channel>
