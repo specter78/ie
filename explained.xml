@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 10 Oct 2025 09:06:55 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Oct 2025 10:27:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Bihar’s economy needs jobs and investments, but can it afford pre-poll sops?</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/bihar-economy-elections-jobs-investment-status-check-10299092/</link>
+		
+		<dc:creator><![CDATA[Siddharth Upasani]]></dc:creator>
+		<pubDate>Fri, 10 Oct 2025 10:24:50 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10299092</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10299092</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/bihar.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/bihar.jpg" medium="image">
+			<media:title type="html">Voter awareness mural in Patna</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why the SC said age limit under surrogacy law cannot be applied retrospectively</title>
 		<link>https://indianexpress.com/article/explained/explained-law/sc-age-limit-surrogacy-law-10298933/</link>
 		
@@ -3999,25 +4018,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/ant-1.5col.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/ant-1.5col.jpg" medium="image">
 			<media:title type="html">ant -1.5col</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Stephen Miran: Trump tariff architect, now in US Fed</title>
-		<link>https://indianexpress.com/article/explained/explained-global/stephen-miran-trump-tariff-architect-now-in-us-fed-10256410/</link>
-		
-		<dc:creator><![CDATA[Harish Damodaran]]></dc:creator>
-		<pubDate>Thu, 18 Sep 2025 01:38:01 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10256410</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10256410</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/SENATE-FED-GOV-2col1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/SENATE-FED-GOV-2col1.jpg" medium="image">
-			<media:title type="html">Stephen Miran, one of President Donald TrumpÕs top economic advisers, at a hearing before the Senate Banking, Housing and Urban Affairs Committee on his nomination to be a member of the Board of Governors of the Federal Reserve, on Capitol Hill in Washin</media:title>
 		</media:content>
 	</item>
 	</channel>
