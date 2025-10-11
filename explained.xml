@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 11 Oct 2025 07:47:08 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 11 Oct 2025 08:44:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>After Nepal and the Philippines, why have youth-led protests rocked Morocco and Madagascar?</title>
+		<link>https://indianexpress.com/article/explained/explained-global/nepal-philippines-youth-protests-morocco-madagascar-10300879/</link>
+		
+		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
+		<pubDate>Sat, 11 Oct 2025 08:44:30 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10300879</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10300879</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/Untitled-design-9-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/Untitled-design-9-1.jpg" medium="image">
+			<media:title type="html">Untitled design-9</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Is a market crash looming? AI-fuelled rally in US stocks could unwind, impending bust could singe global markets</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/market-crash-ai-fuelled-crash-10300762/</link>
 		
@@ -4003,25 +4022,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/saudi-pak-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/saudi-pak-1600.jpg" medium="image">
 			<media:title type="html">saudi pak 1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>With ‘Jimmy Kimmel Live!’ taken off air, a brief history of late-night TV shows</title>
-		<link>https://indianexpress.com/article/explained/explained-global/jimmy-kimmel-off-air-history-late-night-tv-10257535/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Thu, 18 Sep 2025 11:45:51 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10257535</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10257535</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/Untitled-design-21.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/Untitled-design-21.jpg" medium="image">
-			<media:title type="html">Kimmel</media:title>
 		</media:content>
 	</item>
 	</channel>
