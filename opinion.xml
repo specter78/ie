@@ -10,10 +10,10 @@
 
 <channel>
 	<title>Opinion | The Indian Express</title>
-	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://indianexpress.com/section/opinion/feed/?_=7604" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 12 Oct 2025 10:01:06 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Oct 2025 15:30:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Vandita Mishra writes: In Bihar’s election, can the contest remain old if a new player comes?</title>
+		<link>https://indianexpress.com/article/opinion/columns/bihar-assembly-election-rjd-mahagathbandhan-prashant-kishor-10302969/</link>
+		
+		<dc:creator><![CDATA[Vandita Mishra]]></dc:creator>
+		<pubDate>Sun, 12 Oct 2025 15:24:33 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10302969</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10302969</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/prashant-kishor-3.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/prashant-kishor-3.jpg" medium="image">
+			<media:title type="html">prashant kishor (3)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Trump deserved the Nobel Peace Prize as much as anyone. Here’s why</title>
 		<link>https://indianexpress.com/article/opinion/columns/donald-trump-deserved-nobel-peace-prize-maria-corina-machado-10302316/</link>
 		
@@ -3806,25 +3825,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/flood-12.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/flood-12.jpg" medium="image">
 			<media:title type="html">Cloudburst in Uttarkashi</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>An inclusive patriotism</title>
-		<link>https://indianexpress.com/article/opinion/editorials/at-a-concert-in-malaysia-diljit-dosanjh-reminds-audience-of-the-power-of-culture-to-bring-people-together-10273735/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 27 Sep 2025 01:57:20 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10273735</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10273735</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/edit_12de47.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/edit_12de47.jpg" medium="image">
-			<media:title type="html">edit_12de47</media:title>
 		</media:content>
 	</item>
 	</channel>
