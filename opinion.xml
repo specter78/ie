@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 18 Oct 2025 07:52:21 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Oct 2025 08:50:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Closing an FD shouldn&#8217;t be this hard. But my bank disagrees</title>
+		<link>https://indianexpress.com/article/opinion/columns/closing-fd-fixed-deposit-bank-investment-internet-banking-10314274/</link>
+		
+		<dc:creator><![CDATA[Zainab Sulaiman]]></dc:creator>
+		<pubDate>Sat, 18 Oct 2025 08:49:54 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10314274</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10314274</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/investment-7591-3_20251018084228.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/investment-7591-3_20251018084228.jpg" medium="image">
+			<media:title type="html">investment-7591-3_20251018084228.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Caste, religion and hate: The questions ‘Homebound’ makes us face</title>
 		<link>https://indianexpress.com/article/opinion/columns/homebound-caste-religion-hate-neeraj-ghaywan-dalit-muslim-10314177/</link>
 		
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/edit_706c67.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/edit_706c67.jpg" medium="image">
 			<media:title type="html">edit_706c67</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Zubeen Garg became a symbol of unity in a divided Assam</title>
-		<link>https://indianexpress.com/article/opinion/columns/how-zubeen-garg-became-a-symbol-of-unity-in-a-divided-assam-10285920/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 03 Oct 2025 13:14:35 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10285920</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10285920</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Zubeen-Garg-5_20250925200619_20251003130443.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/Zubeen-Garg-5_20250925200619_20251003130443.jpg" medium="image">
-			<media:title type="html">Zubeen-Garg-5_20250925200619_20251003130443.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
