@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 19 Oct 2025 23:46:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Oct 2025 01:55:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Explained: The private sector problem</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/the-private-sector-problem-10316790/</link>
+		
+		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2025 01:45:58 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10316790</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10316790</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/India-private-sector.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/India-private-sector.jpg" medium="image">
+			<media:title type="html">India private sector</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/10/private-sector-investments.jpg?resize=600,305" medium="image">
+			<media:title type="html">private sector</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: The Modi government’s post-Diwali farm challenge</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/post-diwali-farm-sector-challenge-inflation-10316639/</link>
 		
@@ -4043,25 +4066,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/Greenland-Denmark-PM.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/Greenland-Denmark-PM.jpg" medium="image">
 			<media:title type="html">Greenland Denmark PM</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Agni-P missile test: All you need to know about the successful rail-based launch</title>
-		<link>https://indianexpress.com/article/explained/launched-from-train-why-agni-p-missile-test-is-significant-10271032/</link>
-		
-		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
-		<pubDate>Thu, 25 Sep 2025 12:20:36 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10271032</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10271032</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/agni-5.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/09/agni-5.jpeg" medium="image">
-			<media:title type="html">agni 5</media:title>
 		</media:content>
 	</item>
 	</channel>
