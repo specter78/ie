@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 21 Oct 2025 03:47:28 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Oct 2025 06:05:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Asrani, the Everyman whose presence lit up every film</title>
+		<link>https://indianexpress.com/article/opinion/columns/asrani-bollywood-rajesh-khanna-amitabh-bachchan-10318432/</link>
+		
+		<dc:creator><![CDATA[Shubhra Gupta]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2025 06:05:45 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10318432</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10318432</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2022/12/asrani-hrishikesh-mukherjee.jpg" />
+		<media:content url="https://images.indianexpress.com/2022/12/asrani-hrishikesh-mukherjee.jpg" medium="image">
+			<media:title type="html">asrani hrishikesh mukherjee</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>With 2030 Commonwealth Games, India’s chance to be a sporting destination</title>
 		<link>https://indianexpress.com/article/opinion/editorials/with-2030-commonwealth-games-indias-chance-to-be-a-sporting-destination-10317946/</link>
 		
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/education.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/education.jpg" medium="image">
 			<media:title type="html">education</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Trump&#8217;s plan has forced a deal between Israel and Hamas but keep a close eye on disruptor-in-chief Netanyahu</title>
-		<link>https://indianexpress.com/article/opinion/columns/trumps-plan-for-gaza-moves-the-needle-watch-out-for-netanyahu-israel-10289648/</link>
-		
-		<dc:creator><![CDATA[Saptarshi Basak]]></dc:creator>
-		<pubDate>Sun, 05 Oct 2025 16:31:53 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10289648</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10289648</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Trump_US_Israel_97549-5f637-1_20251005162926.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/Trump_US_Israel_97549-5f637-1_20251005162926.jpg" medium="image">
-			<media:title type="html">Netanyahu and Trump</media:title>
 		</media:content>
 	</item>
 	</channel>
