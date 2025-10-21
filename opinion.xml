@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 21 Oct 2025 08:31:27 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Oct 2025 09:49:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why are more children turning to private tuition</title>
+		<link>https://indianexpress.com/article/opinion/columns/private-tuition-indian-academic-system-coaching-centres-10318799/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 21 Oct 2025 09:49:20 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10318799</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10318799</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/03/coaching-center.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/03/coaching-center.jpg" medium="image">
+			<media:title type="html">coaching center</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Amidst celebration of Maoists’ surrender, let’s not forget the sacrifice of our police personnel</title>
 		<link>https://indianexpress.com/article/opinion/columns/maoists-surrender-crpf-police-commemoration-day-10318515/</link>
 		
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/oped-illustration-4.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/oped-illustration-4.jpg" medium="image">
 			<media:title type="html">oped illustration</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Overindulgence in carbohydrates and low protein intake are contributing to India’s obesity crisis</title>
-		<link>https://indianexpress.com/article/opinion/editorials/overindulgence-in-carbohydrates-and-low-protein-intake-are-contributing-to-indias-obesity-crisis-10289826/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 06 Oct 2025 01:43:06 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10289826</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10289826</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/express-view-3.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/express-view-3.jpg" medium="image">
-			<media:title type="html">express view</media:title>
 		</media:content>
 	</item>
 	</channel>
