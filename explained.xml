@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 24 Oct 2025 05:41:31 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Oct 2025 08:42:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>PM Modi invokes Karpoori Thakur in Bihar: Why the former CM matters today, explained in 3 points</title>
+		<link>https://indianexpress.com/article/explained/explained-politics/karpoori-thakur-bihar-elections-significance-modi-10324260/</link>
+		
+		<dc:creator><![CDATA[Yashee]]></dc:creator>
+		<pubDate>Fri, 24 Oct 2025 08:41:51 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10324260</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10324260</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/karpoori-thakur-bihar-modi.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/karpoori-thakur-bihar-modi.jpg" medium="image">
+			<media:title type="html">PM Modi in Bihar</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>On countries becoming more debt-ridden, and why that has far-reaching consequences</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/public-debt-gdp-deficit-meaning-rise-impact-10323853/</link>
 		
@@ -4039,25 +4058,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/09/UN-IRAN-SANCTIONS-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/09/UN-IRAN-SANCTIONS-1600.jpg" medium="image">
 			<media:title type="html">President Masoud Pezeshkian of Iran arrives to address  the 80th session of the United Nations General Assembly at United Nations headquarters, on Wednesday, Sept. 24, 2025. (Dave Sanders/The New York Times)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How a new MGNREGA amendment pushes for spending on water conservation projects</title>
-		<link>https://indianexpress.com/article/explained/mgnrega-amendment-water-blocks-works-10276632/</link>
-		
-		<dc:creator><![CDATA[Harikishan Sharma]]></dc:creator>
-		<pubDate>Mon, 29 Sep 2025 01:00:40 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10276632</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10276632</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/nreg.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/09/nreg.jpg" medium="image">
-			<media:title type="html">nreg</media:title>
 		</media:content>
 	</item>
 	</channel>
