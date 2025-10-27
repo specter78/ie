@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 27 Oct 2025 01:36:53 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Oct 2025 05:09:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>An Expert Explains: Painting targets on cancer cells</title>
+		<title>Google AI model helps unmask cancer cells to the immune system: Lead scientist explains breakthrough</title>
 		<link>https://indianexpress.com/article/explained/an-expert-explains-painting-targets-on-cancer-cells-10328578/</link>
 		
 		<dc:creator><![CDATA[Kaunain Sheriff M]]></dc:creator>
