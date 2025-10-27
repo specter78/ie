@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 27 Oct 2025 04:20:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Oct 2025 06:08:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>2025 Nobel Prize for medicine reveals the significance of immunology. India has work to do</title>
+		<link>https://indianexpress.com/article/opinion/columns/2025-nobel-prize-for-medicine-immunology-10329276/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 27 Oct 2025 06:08:07 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10329276</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10329276</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/medicine-prize_20251027060352-e1761545058288.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/medicine-prize_20251027060352-e1761545058288.jpg" medium="image">
+			<media:title type="html">Nobel Prize in medicine/immunology</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Creating discord between religious communities with ‘unsaid words’? Allahabad HC decision is anti-free speech</title>
 		<link>https://indianexpress.com/article/opinion/editorials/discord-religious-communities-unsaid-words-allahabad-hc-anti-free-speech-10328459/</link>
 		
@@ -3815,25 +3834,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/RSS-march_c895b4.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/RSS-march_c895b4.jpg" medium="image">
 			<media:title type="html">RSS-march_c895b4</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>With new Great Game, India must engage with the Taliban and Kabul</title>
-		<link>https://indianexpress.com/article/opinion/columns/with-new-great-game-india-must-engage-with-the-taliban-and-kabul-10300022/</link>
-		
-		<dc:creator><![CDATA[Vivek Katju]]></dc:creator>
-		<pubDate>Sat, 11 Oct 2025 01:40:07 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10300022</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10300022</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/taliban-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/taliban-1.jpg" medium="image">
-			<media:title type="html">taliban (1)</media:title>
 		</media:content>
 	</item>
 	</channel>
