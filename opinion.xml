@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 28 Oct 2025 10:36:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Oct 2025 13:47:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Who belongs in America? Zohran Mamdani&#8217;s openness, J D Vance’s fear-mongering tell the story of a divided nation</title>
+		<link>https://indianexpress.com/article/opinion/columns/zohran-mamdani-jd-vance-donald-trump-america-fear-migrantion-10332288/</link>
+		
+		<dc:creator><![CDATA[Pooja Pillai]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2025 13:47:29 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10332288</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10332288</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/world-3-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/world-3-2.jpg" medium="image">
+			<media:title type="html">world (3)</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Indore sexual harassment incident shows again how the system keeps failing women in India</title>
+		<link>https://indianexpress.com/article/opinion/columns/indore-sexual-harassment-women-safety-australia-womens-team-10332280/</link>
+		
+		<dc:creator><![CDATA[Meeran Chadha Borwankar]]></dc:creator>
+		<pubDate>Tue, 28 Oct 2025 13:34:38 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10332280</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10332280</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/women-safety-1200_20251028132934.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/women-safety-1200_20251028132934.jpg" medium="image">
+			<media:title type="html">women-safety-1200_20251028132934.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>India must participate in the International Stabilisation Force in Gaza. But some lessons need to be kept in mind</title>
 		<link>https://indianexpress.com/article/opinion/columns/india-international-stabilisation-force-in-gaza-israel-10331505/</link>
 		
@@ -3800,44 +3838,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/Exam-1_b494ab_20251012175843.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/Exam-1_b494ab_20251012175843.jpg" medium="image">
 			<media:title type="html">Exam</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>October 13, 1985, Forty Years Ago: Plot to Kill PM</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/october-13-1985-forty-years-ago-plot-to-kill-pm-10303188/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 02:33:31 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10303188</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10303188</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/express-archives-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/express-archives-1.jpg" medium="image">
-			<media:title type="html">express archives</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Developed world is building walls. India’s answer lies in scale, skill and self-reliance</title>
-		<link>https://indianexpress.com/article/opinion/columns/developed-world-is-building-walls-indias-answer-lies-in-scale-skill-and-self-reliance-10303095/</link>
-		
-		<dc:creator><![CDATA[Hardeep S Puri]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 02:32:14 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10303095</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10303095</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/oped-illustration-7.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/oped-illustration-7.jpg" medium="image">
-			<media:title type="html">oped illustration</media:title>
 		</media:content>
 	</item>
 	</channel>
