@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 29 Oct 2025 00:38:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Oct 2025 02:04:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,82 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Philip Pullman&#8217;s The Book of Dust trilogy comes to an end. Like all great tales, this ending too is bittersweet</title>
+		<link>https://indianexpress.com/article/opinion/editorials/philip-pullmans-the-book-of-dust-trilogy-comes-to-an-end-like-all-great-tales-this-ending-too-is-bittersweet-10332724/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 02:00:37 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10332724</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10332724</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/edit_824686.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/edit_824686.jpg" medium="image">
+			<media:title type="html">edit_824686</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Yogendra Yadav writes on nation-wide SIR: Exclusionary exercise masquerading as reform</title>
+		<link>https://indianexpress.com/article/opinion/columns/yogendra-yadav-writes-on-nation-wide-sir-exclusionary-exercise-masquerading-as-reform-10332726/</link>
+		
+		<dc:creator><![CDATA[Yogendra Yadav]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 01:52:42 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10332726</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10332726</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/SIR29id.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/SIR29id.jpg" medium="image">
+			<media:title type="html">SIR29id</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Urban planning in India is restricted to land-use planning. This needs to change</title>
+		<link>https://indianexpress.com/article/opinion/columns/urban-planning-in-india-is-restricted-to-land-use-planning-this-needs-to-change-10332727/</link>
+		
+		<dc:creator><![CDATA[B V R Subrahmanyam, O P Agarwal]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 01:39:45 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10332727</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10332727</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/smart-cities-7591.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/smart-cities-7591.jpg" medium="image">
+			<media:title type="html">smart-cities-7591</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Trump&#8217;s visit to Asia: Pacts with Southeast Asian nations show US&#8217;s need to counter China&#8217;s control over critical-mineral supply chains</title>
+		<link>https://indianexpress.com/article/opinion/editorials/trumps-visit-to-asia-pacts-with-southeast-asian-nations-show-uss-need-to-counter-chinas-control-over-critical-mineral-supply-chains-10332723/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 01:39:34 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10332723</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10332723</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/edit_6309a0.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/edit_6309a0.jpg" medium="image">
+			<media:title type="html">edit_6309a0</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>A more inclusive SIR</title>
 		<link>https://indianexpress.com/article/opinion/editorials/a-more-inclusive-sir-10332722/</link>
 		
@@ -45,6 +121,25 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/edit_efb485.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/edit_efb485.jpg" medium="image">
 			<media:title type="html">edit_efb485</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Robert Badinter&#8217;s humanism, opposition to death penalty, will inspire generations to come</title>
+		<link>https://indianexpress.com/article/opinion/columns/robert-badinters-humanism-opposition-to-death-penalty-will-inspire-generations-to-come-10332728/</link>
+		
+		<dc:creator><![CDATA[Ashwani Kumar]]></dc:creator>
+		<pubDate>Wed, 29 Oct 2025 01:31:47 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10332728</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10332728</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/gavelll.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/gavelll.jpg" medium="image">
+			<media:title type="html">gavelll</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3743,101 +3838,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/mamata-banerjee-6_20251013112458.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/mamata-banerjee-6_20251013112458.jpg" medium="image">
 			<media:title type="html">mamata-banerjee-6_20251013112458.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Diane Keaton’s awkward, vulnerable, human characters changed how women are seen on screen</title>
-		<link>https://indianexpress.com/article/opinion/columns/diane-keaton-died-god-father-annie-hall-10304486/</link>
-		
-		<dc:creator><![CDATA[Anusree K C]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 11:26:10 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10304486</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10304486</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/diane-keaton-1600-e1760354613972.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/diane-keaton-1600-e1760354613972.jpg" medium="image">
-			<media:title type="html">diane keaton-1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>On the cough syrup row, we need to zoom out — and look at commercial drivers</title>
-		<link>https://indianexpress.com/article/opinion/columns/on-the-cough-syrup-row-we-need-to-zoom-out-10304445/</link>
-		
-		<dc:creator><![CDATA[Rajib Dasgupta]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 11:11:59 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10304445</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10304445</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/cough-syrup-3_20251007073459_20251013110711.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/cough-syrup-3_20251007073459_20251013110711.jpg" medium="image">
-			<media:title type="html">cough syrup</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Karnataka’s menstrual leave policy: The problem isn’t periods. It’s that workplaces are built for men</title>
-		<link>https://indianexpress.com/article/opinion/columns/karnataka-menstrual-leave-policy-rights-women-sexism-10304204/</link>
-		
-		<dc:creator><![CDATA[Paromita Chakrabarti]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 09:27:32 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10304204</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10304204</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Opinion5_15th-Oct.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/Opinion5_15th-Oct.jpg" medium="image">
-			<media:title type="html">Opinion5_15th-Oct</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Muttaqi in Delhi: Is India inching towards recognition of Afghanistan’s Taliban government?</title>
-		<link>https://indianexpress.com/article/opinion/columns/muttaqi-delhi-india-afghanistan-taliban-jaishankar-10303977/</link>
-		
-		<dc:creator><![CDATA[Shashank Maheshwari]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 07:27:27 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10303977</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10303977</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/jaishankar-muttaqi.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/jaishankar-muttaqi.jpg" medium="image">
-			<media:title type="html">Jaishankar, Amir Khan Muttaqi hold bilateral talks</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>20 years of RTI: Once a revolutionary mechanism of accountability, now a cautionary tale</title>
-		<link>https://indianexpress.com/article/opinion/columns/20-years-after-rti-right-to-information-modi-government-upa-10303920/</link>
-		
-		<dc:creator><![CDATA[Pawan Khera]]></dc:creator>
-		<pubDate>Mon, 13 Oct 2025 06:55:23 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10303920</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10303920</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/10/Untitled-design-24-2-e1760338632948.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/10/Untitled-design-24-2-e1760338632948.jpg" medium="image">
-			<media:title type="html">RTI Act 2005</media:title>
 		</media:content>
 	</item>
 	</channel>
