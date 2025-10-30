@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 30 Oct 2025 09:57:38 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Oct 2025 10:30:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Explained: Evolution of Punjab’s districts, with the possibility of Anandpur Sahib becoming one</title>
+		<link>https://indianexpress.com/article/explained/punjab-district-creation-history-anandpur-sahib-10335906/</link>
+		
+		<dc:creator><![CDATA[Raakhi Jagga]]></dc:creator>
+		<pubDate>Thu, 30 Oct 2025 10:29:44 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10335906</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10335906</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/punjab_804715.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/punjab_804715.jpg" medium="image">
+			<media:title type="html">punjab_804715</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Recalling the history of Shaniwar Wada, home to Baji Rao I and Mastani</title>
 		<link>https://indianexpress.com/article/explained/history-shaniwar-wada-home-baji-rao-i-mastani-10335843/</link>
 		
@@ -4031,29 +4050,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/Sabarimala-gold.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/Sabarimala-gold.jpg" medium="image">
 			<media:title type="html">Sabarimala gold</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The importance of Sir Creek: Why India &#038; Pakistan have failed to solve border dispute</title>
-		<link>https://indianexpress.com/article/explained/importance-sir-creek-india-pakistan-10287571/</link>
-		
-		<dc:creator><![CDATA[Divya A]]></dc:creator>
-		<pubDate>Sat, 04 Oct 2025 12:09:38 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10287571</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10287571</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/SirCreek.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/SirCreek.jpg" medium="image">
-			<media:title type="html">SirCreek</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/10/Screenshot-2025-10-04-at-4.31.13-PM-e1759578658758.png?resize=402,405" medium="image">
-			<media:title type="html">Sir Creek Map</media:title>
 		</media:content>
 	</item>
 	</channel>
