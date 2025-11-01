@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 01 Nov 2025 10:50:20 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 01 Nov 2025 12:02:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Burevestnik missile: How Russia’s new nuclear powered weapon can change the arms race</title>
+		<link>https://indianexpress.com/article/explained/explained-global/burevestnik-missile-russia-10340161/</link>
+		
+		<dc:creator><![CDATA[Richa Shrivastava]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2025 12:02:12 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10340161</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10340161</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Untitled-design-15.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Untitled-design-15.jpg" medium="image">
+			<media:title type="html">Untitled design-15</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How scientific is cloud seeding as a method to tackle air pollution?</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/cloud-seeding-air-pollution-10340086/</link>
+		
+		<dc:creator><![CDATA[Gufran Beig]]></dc:creator>
+		<pubDate>Sat, 01 Nov 2025 11:07:18 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10340086</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10340086</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/India_Pollution_65718-65965.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/India_Pollution_65718-65965.jpg" medium="image">
+			<media:title type="html">India Pollution</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What Kerala&#8217;s declaration of eradicating extreme poverty really means</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/kerala-eradicating-extreme-poverty-meaning-10340008/</link>
 		
@@ -4020,44 +4058,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/Nobel-Prize-in-Physiology.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/Nobel-Prize-in-Physiology.jpg" medium="image">
 			<media:title type="html">Nobel Prize in Physiology</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>More twins being born? Why studying twinning rate is important</title>
-		<link>https://indianexpress.com/article/explained/explained-health/twinning-rate-10291177/</link>
-		
-		<dc:creator><![CDATA[Kaunain Sheriff M]]></dc:creator>
-		<pubDate>Mon, 06 Oct 2025 12:34:57 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Health]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10291177</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10291177</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/twins-870103.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/twins-870103.jpg" medium="image">
-			<media:title type="html">twins-870103</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Nobel Prize in Medicine out: What exactly have the winners done, why it matters</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/nobel-prize-in-medicine-what-exactly-have-winners-done-10291086/</link>
-		
-		<dc:creator><![CDATA[Yashee]]></dc:creator>
-		<pubDate>Mon, 06 Oct 2025 11:35:24 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10291086</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10291086</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/nobel-prize-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/nobel-prize-1600.jpg" medium="image">
-			<media:title type="html">Nobel Medicine</media:title>
 		</media:content>
 	</item>
 	</channel>
