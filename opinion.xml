@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 03 Nov 2025 06:23:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 03 Nov 2025 09:47:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Kerala’s ‘eradication’ of extreme poverty is more managerial than transformative</title>
+		<link>https://indianexpress.com/article/opinion/columns/keralas-eradication-of-extreme-poverty-10343370/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 03 Nov 2025 09:47:50 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10343370-10343370/</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10343370</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/vijayan_efdd34_20251103094404.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/vijayan_efdd34_20251103094404.jpg" medium="image">
+			<media:title type="html">Kerala Chief Minister Pinarayi Vijayan/extreme poverty</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>There’s no place for Usha Vance in her husband’s America — or for my family and me</title>
 		<link>https://indianexpress.com/article/opinion/columns/no-place-for-usha-vance-in-her-husbands-america-christian-nationalism-10342968/</link>
 		
@@ -3826,25 +3845,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/edit_0ceffd.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/edit_0ceffd.jpg" medium="image">
 			<media:title type="html">edit_0ceffd</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>J&#038;K has an elected government. It needs to be a state</title>
-		<link>https://indianexpress.com/article/opinion/editorials/jk-elected-government-needs-state-10313622/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 18 Oct 2025 01:20:05 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10313622</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10313622</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/edit_902847.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/edit_902847.jpg" medium="image">
-			<media:title type="html">edit_902847</media:title>
 		</media:content>
 	</item>
 	</channel>
