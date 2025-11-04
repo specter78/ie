@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 04 Nov 2025 11:37:46 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Nov 2025 13:20:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Gurgaon’s new traffic rule: Manners before management</title>
+		<link>https://indianexpress.com/article/opinion/columns/gurgaons-new-traffic-rule-manners-before-management-10345762/</link>
+		
+		<dc:creator><![CDATA[Shobhit Mahajan]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 13:03:16 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10345762</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10345762</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/traffic_20251104125953.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/traffic_20251104125953.jpg" medium="image">
+			<media:title type="html">traffic police</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Amid rising US-China Competition in Southeast Asia, India’s Act East policy faces new dynamics</title>
+		<link>https://indianexpress.com/article/opinion/columns/amid-rising-us-china-competition-in-southeast-asia-indias-act-east-policy-faces-new-dynamics-10345670/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 04 Nov 2025 12:34:14 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10345670</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10345670</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/jaishankar-modi_20251104122142.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/jaishankar-modi_20251104122142.jpg" medium="image">
+			<media:title type="html">india&#039;s china strategy</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Trump’s directive to resume nuclear weapons testing reflects his poor understanding of the arms race</title>
 		<link>https://indianexpress.com/article/opinion/columns/trumps-directive-to-resume-nuclear-weapons-testing-china-russia-10345507/</link>
 		
@@ -3807,44 +3845,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/express-archive-11.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/express-archive-11.jpg" medium="image">
 			<media:title type="html">express archive</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Hope is at the heart of Diwali stories, old and new</title>
-		<link>https://indianexpress.com/article/opinion/columns/hope-is-at-the-heart-of-diwali-stories-old-and-new-10316795/</link>
-		
-		<dc:creator><![CDATA[Devapriya Roy]]></dc:creator>
-		<pubDate>Mon, 20 Oct 2025 02:04:51 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10316795</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10316795</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/diwali-2-1_20251019185922.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/diwali-2-1_20251019185922.jpg" medium="image">
-			<media:title type="html">diwali-2-1_20251019185922.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The real question behind the US-China rivalry</title>
-		<link>https://indianexpress.com/article/opinion/columns/the-real-question-behind-the-us-china-rivalry-10316794/</link>
-		
-		<dc:creator><![CDATA[Manoj Pant]]></dc:creator>
-		<pubDate>Mon, 20 Oct 2025 02:04:48 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10316794</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10316794</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/US-1-15_20251017124050_20251019185609.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/US-1-15_20251017124050_20251019185609.jpg" medium="image">
-			<media:title type="html">US-1-15_20251017124050_20251019185609.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
