@@ -10,7 +10,7 @@
 
 <channel>
 	<title>Explained | The Indian Express</title>
-	<atom:link href="https://indianexpress.com/section/explained/feed/?_=7600" rel="self" type="application/rss+xml" />
+	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
 	<lastBuildDate>Fri, 07 Nov 2025 10:59:45 +0000</lastBuildDate>
