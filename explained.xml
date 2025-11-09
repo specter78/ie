@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 09 Nov 2025 08:42:29 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Nov 2025 10:02:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Explained: Proposed changes to Panjab University, now withdrawn by the Centre after criticism</title>
+		<link>https://indianexpress.com/article/explained/changes-panjab-university-education-ministry-withdraw-10355230/</link>
+		
+		<dc:creator><![CDATA[Abhinaya Harigovind]]></dc:creator>
+		<pubDate>Sun, 09 Nov 2025 09:58:23 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10355230</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10355230</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/panjab-university.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/11/panjab-university.jpeg" medium="image">
+			<media:title type="html">panjab university</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>25 years of Uttarakhand: History, causes behind statehood movement, how new state is faring vs UP</title>
+		<link>https://indianexpress.com/article/explained/explained-politics/uttarakhand-foundation-history-causes-statehood-10355235/</link>
+		
+		<dc:creator><![CDATA[Aiswarya Raj]]></dc:creator>
+		<pubDate>Sun, 09 Nov 2025 09:53:19 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10355235</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10355235</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Pauri-protest-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Pauri-protest-1600.jpg" medium="image">
+			<media:title type="html">Pauri protest 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why Hungary, unlike India, got a pass on US sanctions for Russian oil</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/hungary-us-sanctions-russia-oil-india-impact-10354804/</link>
 		
@@ -3984,44 +4022,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/west-indies-vs-india.jpeg" />
 		<media:content url="https://images.indianexpress.com/2025/10/west-indies-vs-india.jpeg" medium="image">
 			<media:title type="html">west indies vs india</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Delhi court frames charges against Lalu in IRCTC case: What to know, other cases against him</title>
-		<link>https://indianexpress.com/article/explained/lalu-irctc-case-charges-recall-cases-10306422/</link>
-		
-		<dc:creator><![CDATA[Nirbhay Thakur]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 11:07:02 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10306422</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10306422</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Lalu-IRCTC.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/Lalu-IRCTC.jpg" medium="image">
-			<media:title type="html">Lalu IRCTC</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Trump to attend signing of Thailand-Cambodia ceasefire deal: Recalling the conflict</title>
-		<link>https://indianexpress.com/article/explained/explained-global/trump-signing-thailand-cambodia-ceasefire-deal-recall-10306401/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 14 Oct 2025 10:48:52 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10306401</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10306401</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Thai-Cambodia.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/Thai-Cambodia.jpg" medium="image">
-			<media:title type="html">Thai Cambodia</media:title>
 		</media:content>
 	</item>
 	</channel>
