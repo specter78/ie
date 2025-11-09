@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 09 Nov 2025 17:01:57 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 09 Nov 2025 20:40:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>COP30 begins today in Brazil: Limited outcomes so far, focus on implementation</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/cop30-begins-today-in-brazil-limited-outcomes-so-far-focus-on-implementation-10355977/</link>
+		
+		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
+		<pubDate>Sun, 09 Nov 2025 22:50:16 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10355977</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10355977</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Developing-nations-are-unhappy-over-insufficient-climate-finance-from-developed-countries.-AP.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Developing-nations-are-unhappy-over-insufficient-climate-finance-from-developed-countries.-AP.jpg" medium="image">
+			<media:title type="html">Developing nations are unhappy over insufficient climate finance from developed countries. AP</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Bihar CMs &#124; Satyendra Narayan Sinha: Brought in as part of big Congress reshuffle, couldn&#8217;t make major impact</title>
 		<link>https://indianexpress.com/article/explained/explained-politics/satyendra-narayan-sinha-congress-bihar-chief-minister-10355779/</link>
 		
@@ -4003,25 +4022,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/deforestation.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/deforestation.jpg" medium="image">
 			<media:title type="html">FILE PHOTO: Drone footage shows deforestation in Brazilian Amazon</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What the UK&#8217;s ‘spy’ saga says about its complex ties with China</title>
-		<link>https://indianexpress.com/article/explained/explained-global/what-uk-espionage-saga-says-about-its-complex-ties-with-china-10307277/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Wed, 15 Oct 2025 01:30:11 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10307277</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10307277</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/xi-DC-expl-3col1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/xi-DC-expl-3col1.jpg" medium="image">
-			<media:title type="html">Prime Minister Keir Starmer attends the G20 Summit in Brazil</media:title>
 		</media:content>
 	</item>
 	</channel>
