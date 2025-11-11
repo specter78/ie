@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 11 Nov 2025 10:17:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Nov 2025 13:39:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>While protesting against air pollution at India Gate, it became clear to me: For the state, citizens are not the priority</title>
+		<link>https://indianexpress.com/article/opinion/columns/protesting-against-air-pollution-at-india-gate-10359666/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 11 Nov 2025 13:38:57 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10359666</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10359666</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Delhi-pollution-protest-1_20251110132426_20251111133451.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Delhi-pollution-protest-1_20251110132426_20251111133451.jpg" medium="image">
+			<media:title type="html">india gate air pollution protest</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>For a country that believes in non-violence, SC order on stray dogs should be unacceptable</title>
 		<link>https://indianexpress.com/article/opinion/columns/supreme-court-order-on-stray-dogs-should-be-unacceptable-10358694/</link>
 		
@@ -3822,29 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/08/pinarayi-vijayan_20250830143250.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/08/pinarayi-vijayan_20250830143250.jpg" medium="image">
 			<media:title type="html">pinarayi-vijayan_20250830143250.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Kafka&#8217;s curse, Murakami&#8217;s mercy: A tale of two Samsas and their humanity</title>
-		<link>https://indianexpress.com/article/opinion/columns/kafka-laszlo-krasznahorkai-murakami-nobel-prize-in-literature-10330025/</link>
-		
-		<dc:creator><![CDATA[Stela Dey]]></dc:creator>
-		<pubDate>Mon, 27 Oct 2025 11:52:19 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10330025</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10330025</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Murakami-Kafka-Laszlo.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/Murakami-Kafka-Laszlo.jpg" medium="image">
-			<media:title type="html">Murakami Kafka Laszlo</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/10/Metamorphosis.jpg?resize=600,338" medium="image">
-			<media:title type="html">The Metamorphosis by Franz Kafka </media:title>
 		</media:content>
 	</item>
 	</channel>
