@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 12 Nov 2025 01:22:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 12 Nov 2025 03:30:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,45 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>&#8216;Vande Mataram&#8217; and &#8216;Amar sonar Bangla&#8217;: Two songs, one imagination</title>
+		<title>40 years ago November 12, 1985: PM on terrorism</title>
+		<link>https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-november-12-1985-pm-on-terrorism-10360092/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 01:22:45 +0000</pubDate>
+		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10360092</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10360092</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/express-archive-7.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/express-archive-7.jpg" medium="image">
+			<media:title type="html">express archive</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Red Fort blast is a reminder: Terror&#8217;s new footprint is an urgent challenge</title>
+		<link>https://indianexpress.com/article/opinion/editorials/red-fort-blast-is-a-reminder-terrors-new-footprint-is-an-urgent-challenge-10360104/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 01:21:31 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10360104</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10360104</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/express-view-Copy-Copy-4.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/express-view-Copy-Copy-4.jpg" medium="image">
+			<media:title type="html">express view - Copy - Copy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>&#8216;Vande Mataram&#8217; and &#8216;Amar sonar Bangla&#8217; share similar imagination of &#8216;mother&#8217;. They don&#8217;t deserve different treatment</title>
 		<link>https://indianexpress.com/article/opinion/columns/vande-mataram-and-amar-sonar-bangla-two-songs-one-imagination-10360057/</link>
 		
 		<dc:creator><![CDATA[Abhik Bhattacharya]]></dc:creator>
@@ -45,6 +83,101 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/NATION31id_b6e31c_20251111183010.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/NATION31id_b6e31c_20251111183010.jpg" medium="image">
 			<media:title type="html">NATION31id_b6e31c_20251111183010.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>India&#8217;s intellectual elite has never made any effort to understand the RSS&#8217;s appeal. The loss is theirs</title>
+		<link>https://indianexpress.com/article/opinion/columns/indias-intellectual-elite-has-never-made-any-effort-to-understand-the-rsss-appeal-the-loss-is-theirs-10360138/</link>
+		
+		<dc:creator><![CDATA[Dr Rakesh Sinha]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 01:09:30 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10360138</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10360138</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/RSS_0e5f86_20251111185419.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/RSS_0e5f86_20251111185419.jpg" medium="image">
+			<media:title type="html">RSS_0e5f86_20251111185419.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>In David Szalay’s Booker Prize-winning novel ‘Flesh’, the ways of men</title>
+		<link>https://indianexpress.com/article/opinion/editorials/in-david-szalays-booker-prize-winning-novel-flesh-the-ways-of-men-10360091/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 01:08:43 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10360091</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10360091</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/express-view-Copy-9.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/express-view-Copy-9.jpg" medium="image">
+			<media:title type="html">express view - Copy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Warren Buffett, Oracle of Omaha, steps away. His successor has a tough job</title>
+		<link>https://indianexpress.com/article/opinion/editorials/warren-buffett-oracle-of-omaha-steps-away-his-successor-has-a-tough-job-10360105/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 00:55:33 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10360105</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10360105</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/express-view-Copy-2-7.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/express-view-Copy-2-7.jpg" medium="image">
+			<media:title type="html">express view - Copy (2)</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>COP 30 is a moment for action, not aspiration</title>
+		<link>https://indianexpress.com/article/opinion/columns/cop-30-is-a-moment-for-action-not-aspiration-10360139/</link>
+		
+		<dc:creator><![CDATA[Anjal Prakash]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 00:49:39 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10360139</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10360139</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/climate-change_20251111185651.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/climate-change_20251111185651.jpg" medium="image">
+			<media:title type="html">climate-change_20251111185651.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Supreme Court’s order on stray dogs is inhumane, anti-science and anti-law</title>
+		<link>https://indianexpress.com/article/opinion/columns/supreme-courts-order-on-stray-dogs-is-inhumane-anti-science-and-anti-law-10360135/</link>
+		
+		<dc:creator><![CDATA[Maneka Gandhi]]></dc:creator>
+		<pubDate>Wed, 12 Nov 2025 00:43:16 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10360135</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10360135</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/oped-illustration-stary-dogs.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/oped-illustration-stary-dogs.jpg" medium="image">
+			<media:title type="html">oped illustration stary dogs</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3708,139 +3841,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2024/09/Red-sea.jpg" />
 		<media:content url="https://images.indianexpress.com/2024/09/Red-sea.jpg" medium="image">
 			<media:title type="html">Shipping</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Louvre heist, a dapper detective and some bad casting</title>
-		<link>https://indianexpress.com/article/opinion/editorials/louvre-heist-a-dapper-detective-and-some-bad-casting-10330735/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 01:59:40 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10330735</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10330735</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/edit_08f4c6.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/edit_08f4c6.jpg" medium="image">
-			<media:title type="html">edit_08f4c6</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express View on Indore harassment and minister Kailash Vijayvargiya: Her space, her right</title>
-		<link>https://indianexpress.com/article/opinion/editorials/express-view-on-indore-harassment-and-minister-kailash-vijayvargiya-her-space-her-right-10330734/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 01:59:38 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10330734</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10330734</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/edit_d867d5.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/edit_d867d5.jpg" medium="image">
-			<media:title type="html">edit_d867d5</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Naseeruddin Shah writes on Satish Shah: D’Mello, tu to gaya!</title>
-		<link>https://indianexpress.com/article/opinion/columns/naseeruddin-shah-writes-on-satish-shah-dmello-tu-to-gaya-10330732/</link>
-		
-		<dc:creator><![CDATA[Naseeruddin Shah]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 01:59:33 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10330732</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10330732</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Opinion4_28th-Oct.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/Opinion4_28th-Oct.jpg" medium="image">
-			<media:title type="html">Opinion4_28th-Oct</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How BJP differs from dynastic parties</title>
-		<link>https://indianexpress.com/article/opinion/columns/how-bjp-differs-from-dynastic-parties-10330731/</link>
-		
-		<dc:creator><![CDATA[Hardeep S Puri]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 01:59:30 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10330731</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10330731</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Opinion3_28th-Oct.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/Opinion3_28th-Oct.jpg" medium="image">
-			<media:title type="html">Opinion3_28th-Oct</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Express View: India shouldn’t be worried by Pakistan-US ties</title>
-		<link>https://indianexpress.com/article/opinion/editorials/express-view-india-shouldnt-be-worried-by-pakistan-us-ties-10330733/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 01:36:35 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10330733</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10330733</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/edit_f5a998.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/edit_f5a998.jpg" medium="image">
-			<media:title type="html">edit_f5a998</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Bihar’s economy has turned around. Now, invest in people, institutions</title>
-		<link>https://indianexpress.com/article/opinion/columns/bihars-economy-has-turned-around-now-invest-in-people-institutions-10330730/</link>
-		
-		<dc:creator><![CDATA[N K Singh]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 01:35:28 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10330730</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10330730</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Opinion1_28th-Oct.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/Opinion1_28th-Oct.jpg" medium="image">
-			<media:title type="html">Opinion1_28th-Oct</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>October 28, 1985, Forty Years Ago: Pakistan N-plan</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/october-28-1985-forty-years-ago-pakistan-n-plan-10330752/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 28 Oct 2025 01:11:28 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10330752</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10330752</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/28-Oct-1985_IE_001.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/28-Oct-1985_IE_001.jpg" medium="image">
-			<media:title type="html">Indian Express</media:title>
 		</media:content>
 	</item>
 	</channel>
