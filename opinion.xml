@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 13 Nov 2025 07:19:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Nov 2025 11:30:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>For answers to the Red Fort blast, don’t just look at Pakistan, probe terrorist modules operating in the country</title>
+		<link>https://indianexpress.com/article/opinion/columns/red-fort-blast-pakistan-india-delhi-blast-jaish-e-mohammed-10363161/</link>
+		
+		<dc:creator><![CDATA[Vappala Balachandran]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2025 11:29:35 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10363161</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10363161</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Debris-being-removed-a-day-after-an-explosion-ripped-through-a-car-near-the-Red-Fort-on-Tuesday.-PRAVEEN-KHANNA_20251112231354.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Debris-being-removed-a-day-after-an-explosion-ripped-through-a-car-near-the-Red-Fort-on-Tuesday.-PRAVEEN-KHANNA_20251112231354.jpg" medium="image">
+			<media:title type="html">Debris-being-removed-a-day-after-an-explosion-ripped-through-a-car-near-the-Red-Fort-on-Tuesday.-PRAVEEN-KHANNA_20251112231354.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Migrants powered Bihar’s historic turnout. They may shape the electoral outcome as well</title>
+		<link>https://indianexpress.com/article/opinion/columns/bihar-elections-2025-migrants-women-nitish-kumar-tejashwi-yadav-10363113/</link>
+		
+		<dc:creator><![CDATA[S Irudaya Rajan]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2025 11:11:28 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10363113</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10363113</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/07/1000952515-e1753173673510.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/07/1000952515-e1753173673510.jpg" medium="image">
+			<media:title type="html">Bihar assembly elections</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Surendra Koli’s acquittal and the lessons of Nithari: Haste and public pressure cannot offer justice</title>
 		<link>https://indianexpress.com/article/opinion/columns/nithari-killings-surendra-koli-acquittal-nithari-investigation-10362733/</link>
 		
@@ -121,6 +159,10 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/malala.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/malala.jpg" medium="image">
 			<media:title type="html">malala</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/Greta-and-Malala.jpg?resize=600,338" medium="image">
+			<media:title type="html">Pakistani education activist Malala Yousafzai and Swedish climate activist Greta Thunberg at Oxford. (X@Malala) </media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3803,44 +3845,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/Untitled-design-30.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/Untitled-design-30.jpg" medium="image">
 			<media:title type="html">Trump Xi</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What happens if the AI bubble bursts?</title>
-		<link>https://indianexpress.com/article/opinion/columns/openai-ai-bubble-bursts-chatgpt-sam-altman-10334153/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 29 Oct 2025 11:54:03 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10334153</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10334153</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Artificial-Intelligence-Pixabay.png" />
-		<media:content url="https://images.indianexpress.com/2025/10/Artificial-Intelligence-Pixabay.png" medium="image">
-			<media:title type="html">Artificial Intelligence Pixabay</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>India’s healthcare system is leaning too heavily on volunteers and contractual workers for essential services</title>
-		<link>https://indianexpress.com/article/opinion/columns/indias-healthcare-system-is-leaning-on-asha-anganwadi-workers-10334003/</link>
-		
-		<dc:creator><![CDATA[Anand Krishnan]]></dc:creator>
-		<pubDate>Wed, 29 Oct 2025 10:43:39 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10334003</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10334003</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/asha-workers_20251029103725.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/asha-workers_20251029103725.jpg" medium="image">
-			<media:title type="html">asha workers, healthcare</media:title>
 		</media:content>
 	</item>
 	</channel>
