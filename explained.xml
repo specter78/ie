@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 14 Nov 2025 10:55:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Nov 2025 12:02:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -99,9 +99,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10365214</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Germany.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Germany.jpg" medium="image">
-			<media:title type="html">Canada G7</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Germany_Politics_85144-e3a82.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Germany_Politics_85144-e3a82.jpg" medium="image">
+			<media:title type="html">Germany Politics</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/TABLE.jpg?resize=600,502" medium="image">
