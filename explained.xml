@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 14 Nov 2025 15:36:08 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 15 Nov 2025 02:50:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How 27th Amendment cements Pakistan Army’s stranglehold over power</title>
+		<link>https://indianexpress.com/article/explained/explained-global/27th-amendment-pakistan-army-power-10366081/</link>
+		
+		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
+		<pubDate>Sat, 15 Nov 2025 01:01:51 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10366081</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10366081</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Asim-Munir-Supreme-leader.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Asim-Munir-Supreme-leader.jpg" medium="image">
+			<media:title type="html">Asim Munir Supreme leader</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Bihar election 2025 result explained: What worked for Nitish Kumar and NDA; what didn&#8217;t for Tejashwi and Mahagathbandhan</title>
 		<link>https://indianexpress.com/article/explained/explained-politics/bihar-election-2025-result-explained-bjp-nitish-tejashwi-reasons-10366167/</link>
 		
@@ -3975,25 +3994,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/dhami-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/dhami-1600.jpg" medium="image">
 			<media:title type="html">Uttarakhand Chief Minister Pushkar Singh Dhami visits and addres</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>SC asks Centre, CBI, Haryana to respond in a &#8216;digital arrests&#8217; case: the problem, what courts have said earlier</title>
-		<link>https://indianexpress.com/article/explained/explained-law/sc-digital-arrest-case-the-problem-10317468/</link>
-		
-		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
-		<pubDate>Mon, 20 Oct 2025 08:53:08 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10317468</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10317468</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/SC-1600.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/10/SC-1600.jpeg" medium="image">
-			<media:title type="html">SC 1600</media:title>
 		</media:content>
 	</item>
 	</channel>
