@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 17 Nov 2025 13:42:35 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Nov 2025 16:59:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -203,12 +203,12 @@
 			<media:title type="html">india farmers</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/table-1-horz.jpg" medium="image">
-			<media:title type="html">Indian farm exports outperform – despite Trump tariffs</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/agricultural-export-table.jpeg" medium="image">
+			<media:title type="html">India’s leading agricultural export </media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/table-2-horz.jpg" medium="image">
-			<media:title type="html">Indian farm exports outperform – despite Trump tariffs</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/agr-export.jpeg" medium="image">
+			<media:title type="html">exports</media:title>
 		</media:content>
 	</item>
 		<item>
