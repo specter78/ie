@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 17 Nov 2025 04:16:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 17 Nov 2025 06:12:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>$2.6 bn in 2024, $15 bn by 2035: Growing unchecked, no guardrails</title>
+		<link>https://indianexpress.com/article/explained/crypto-currency-coin-laundry-unchecked-guardrails-10370130/</link>
+		
+		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2025 06:12:29 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10370130</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10370130</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/cryto-explained-1600.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/11/cryto-explained-1600.jpeg" medium="image">
+			<media:title type="html">cryto explained 1600</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why Rhesus Monkeys need protection – ‘They play key role in dynamics of nature’</title>
+		<link>https://indianexpress.com/article/explained/why-rhesus-monkeys-need-protection-they-play-key-role-in-dynamics-of-nature-10367921/</link>
+		
+		<dc:creator><![CDATA[Nikhil Ghanekar]]></dc:creator>
+		<pubDate>Mon, 17 Nov 2025 05:30:43 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10367921</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10367921</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Untitled-design-3.png" />
+		<media:content url="https://images.indianexpress.com/2025/11/Untitled-design-3.png" medium="image">
+			<media:title type="html">Untitled design (3)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Indian farm exports outperform – despite Trump tariffs</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/indian-farm-exports-outperform-despite-trump-tariffs-10369650/</link>
 		
@@ -3960,44 +3998,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/CHINA-ECON-3.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/CHINA-ECON-3.jpg" medium="image">
 			<media:title type="html">Shoppers at an outlet mall in Guangzhou, China, April 7, 2025. (Qilai Shen/The New York Times)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>As India looks to mandate AI content labelling, examining the growing menace of deepfakes</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/india-ai-content-social-media-labelling-deepfakes-10322107/</link>
-		
-		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
-		<pubDate>Thu, 23 Oct 2025 06:50:20 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10322107</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10322107</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/social-media-AI.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/social-media-AI.jpg" medium="image">
-			<media:title type="html">social media AI</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The consumption problem: Chinese Communist Party’s annual meet amid sub-5% growth</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/consumption-problem-chinese-communist-party-annual-meet-10321154/</link>
-		
-		<dc:creator><![CDATA[Siddharth Upasani]]></dc:creator>
-		<pubDate>Thu, 23 Oct 2025 01:33:47 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10321154</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10321154</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/china.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/china.jpg" medium="image">
-			<media:title type="html">FILE PHOTO: New Politburo Standing Committee members in Beijing</media:title>
 		</media:content>
 	</item>
 	</channel>
