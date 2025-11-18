@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 18 Nov 2025 08:06:46 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Nov 2025 09:14:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>ECI orders &#8216;special revision&#8217; of voter list in Assam: What is this process, and why is it being conducted?</title>
+		<link>https://indianexpress.com/article/explained/special-revision-voter-list-assam-10372274/</link>
+		
+		<dc:creator><![CDATA[Sukrita Baruah]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 09:12:39 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10372274</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10372274</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/ECI_0886fe.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/ECI_0886fe.jpg" medium="image">
+			<media:title type="html">ECI_0886fe</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>As India celebrates National Newborn Week, a look at how Kerala achieved its IMR milestone</title>
+		<link>https://indianexpress.com/article/explained/india-national-newborn-week-kerala-imr-10372228/</link>
+		
+		<dc:creator><![CDATA[Chithira N Raju]]></dc:creator>
+		<pubDate>Tue, 18 Nov 2025 08:32:06 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10372228</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10372228</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Kerala-newborns.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Kerala-newborns.jpg" medium="image">
+			<media:title type="html">Kerala newborns</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Human activities &#038; coastal habitat degradation: Why India’s sea cows are under threat</title>
 		<link>https://indianexpress.com/article/explained/india-sea-cows-threat-10372190/</link>
 		
@@ -3964,44 +4002,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/Par-4col1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/Par-4col1.jpg" medium="image">
 			<media:title type="html">LS Hall at New Parliament House</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Story of Rani Chennamma, Kittur queen who stood up to the British</title>
-		<link>https://indianexpress.com/article/explained/explained-history/rani-chennamma-kittur-10324770/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 24 Oct 2025 12:46:53 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10324770</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10324770</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/Sculpture_of_Rani_Chennamma.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/Sculpture_of_Rani_Chennamma.jpg" medium="image">
-			<media:title type="html">Sculpture_of_Rani_Chennamma</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The other massive pendency in Indian courts: Why it can take years to obtain ‘execution petitions’</title>
-		<link>https://indianexpress.com/article/explained/explained-law/pendency-courts-execution-petitions-supreme-court-data-10324597/</link>
-		
-		<dc:creator><![CDATA[Vineet Bhalla]]></dc:creator>
-		<pubDate>Fri, 24 Oct 2025 11:38:11 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10324597</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10324597</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/legal-pendencies.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/legal-pendencies.jpg" medium="image">
-			<media:title type="html">legal pendencies</media:title>
 		</media:content>
 	</item>
 	</channel>
