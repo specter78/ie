@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 21 Nov 2025 16:19:10 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Nov 2025 21:49:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Missing piece in manufacturing, execution needs political hardsell</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/missing-piece-in-manufacturing-execution-needs-political-hardsell-10379174/</link>
+		
+		<dc:creator><![CDATA[Aanchal Magazine, Anil Sasi]]></dc:creator>
+		<pubDate>Fri, 21 Nov 2025 22:30:08 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10379174</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10379174</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/MSME-4col1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/MSME-4col1.jpg" medium="image">
+			<media:title type="html">MSME-4col1</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Turkish football’s darkest hour: 1,000 players and 149 referees face betting allegations</title>
 		<link>https://indianexpress.com/article/explained/explained-sports/1000-turkish-football-players-and-149-referees-face-betting-allegations-10378838/</link>
 		
@@ -4003,25 +4022,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/amazon-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/amazon-1600.jpg" medium="image">
 			<media:title type="html">amazon 1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How aspiring migrants to foreign countries are getting duped in Tehran</title>
-		<link>https://indianexpress.com/article/explained/aspiring-migrants-duped-10332166/</link>
-		
-		<dc:creator><![CDATA[Anju Agnihotri Chaba]]></dc:creator>
-		<pubDate>Wed, 29 Oct 2025 03:03:34 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10332166</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10332166</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/04/ch1814202.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/04/ch1814202.jpg" medium="image">
-			<media:title type="html">Canada</media:title>
 		</media:content>
 	</item>
 	</channel>
