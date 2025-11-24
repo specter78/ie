@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 23 Nov 2025 15:31:41 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 23 Nov 2025 16:03:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>From gene modification to genome editing – India’s journey</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/from-gene-modification-to-genome-editing-indias-journey-10382129/</link>
+		
+		<dc:creator><![CDATA[Harish Damodaran]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 00:30:25 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10382129</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10382129</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Untitled-design-17-1.png" />
+		<media:content url="https://images.indianexpress.com/2025/11/Untitled-design-17-1.png" medium="image">
+			<media:title type="html">Untitled design (17)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-23-at-8.58.48-PM.jpeg?resize=600,324" medium="image">
+			<media:title type="html">Traits targeted for genome editing in major crops</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What is the Centre’s Higher Education Commission of India Bill 2025, to be tabled in Winter Session</title>
 		<link>https://indianexpress.com/article/explained/everyday-explainers/what-is-the-centres-higher-education-commission-of-india-bill-2025-10382060/</link>
 		
@@ -3971,29 +3994,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/10/LALU-4col1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/10/LALU-4col1.jpg" medium="image">
 			<media:title type="html">LALU-4col1</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: With Halloween around the corner, the many mysterious meanings of black cats</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/halloween-black-cats-mystery-superstitions-good-luck-10336451/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 31 Oct 2025 01:30:40 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10336451</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10336451</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/10/halloween_e25cc0.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/10/halloween_e25cc0.jpg" medium="image">
-			<media:title type="html">halloween</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/10/Maneki_neko_at_Asasuka.jpg?resize=600,450" medium="image">
-			<media:title type="html">A Maneki neko in Japan. </media:title>
 		</media:content>
 	</item>
 	</channel>
