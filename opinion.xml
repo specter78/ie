@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 24 Nov 2025 06:15:03 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Nov 2025 07:00:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>India&#8217;s AI governance blueprint is Global South’s best bet. Here&#8217;s why</title>
+		<link>https://indianexpress.com/article/opinion/columns/indias-ai-governance-blueprint-is-global-souths-best-bet-heres-why-10382948/</link>
+		
+		<dc:creator><![CDATA[Subimal Bhattacharjee, Samayeta Bal]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 07:00:44 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10382948</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10382948</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/OnePlus-8_20251124065756.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/OnePlus-8_20251124065756.jpg" medium="image">
+			<media:title type="html">AI governance guidelines</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Sachchidanand Sinha&#8217;s death has snapped the last living link of the Lohia stream of socialism</title>
+		<link>https://indianexpress.com/article/opinion/columns/sachchidanand-sinha-death-last-living-link-of-the-lohia-stream-10382923/</link>
+		
+		<dc:creator><![CDATA[Anand Kumar]]></dc:creator>
+		<pubDate>Mon, 24 Nov 2025 06:43:38 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10382923</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10382923</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/sacchidanand-sinha_20251124063709.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/sacchidanand-sinha_20251124063709.jpg" medium="image">
+			<media:title type="html">Sachchidanand Sinha</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>No nation deserves Ukraine&#8217;s fate: A war it cannot win, a peace it cannot accept</title>
 		<link>https://indianexpress.com/article/opinion/columns/russia-ukraine-war-donald-trump-28-point-peace-plan-putin-zelenskyy-10382843/</link>
 		
@@ -80,9 +118,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10382289</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/film-theatre_20251103231530_20251123190706.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/film-theatre_20251103231530_20251123190706.jpg" medium="image">
-			<media:title type="html">film-theatre_20251103231530_20251123190706.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion7_24th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion7_24th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion7_24th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -99,9 +137,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10382283</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/oped-illustration-11.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/oped-illustration-11.jpg" medium="image">
-			<media:title type="html">oped illustration</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion4_24th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion4_24th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion4_24th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -156,9 +194,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10382257</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/ram-temple.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/ram-temple.jpg" medium="image">
-			<media:title type="html">ram temple</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion2_24th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion2_24th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion2_24th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -175,9 +213,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10382256</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/modi-and-nitish_20251123183919.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/modi-and-nitish_20251123183919.jpg" medium="image">
-			<media:title type="html">modi-and-nitish_20251123183919.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion1_24th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion1_24th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion1_24th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -232,9 +270,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10382285</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Gen-AI_20251123190431.png" />
-		<media:content url="https://images.indianexpress.com/2025/11/Gen-AI_20251123190431.png" medium="image">
-			<media:title type="html">Gen-AI_20251123190431.png</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion6_24th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion6_24th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion6_24th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3787,44 +3825,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/Calcutta-HC-2_20251110065843.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/Calcutta-HC-2_20251110065843.jpg" medium="image">
 			<media:title type="html">Bengal migrant workers</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What happens when we mistake human creativity for AI</title>
-		<link>https://indianexpress.com/article/opinion/columns/ai-sam-altman-chatgpt-amd-nvidia-10356475/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 10 Nov 2025 06:22:05 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10356475</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10356475</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/ai-job-rules.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/ai-job-rules.jpg" medium="image">
-			<media:title type="html">ai-job-rules</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Women need POSH protections in political parties. SC must understand this</title>
-		<link>https://indianexpress.com/article/opinion/columns/posh-visakha-guidelines-sexual-harassment-political-parties-10356440/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 10 Nov 2025 05:51:24 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10356440</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10356440</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/08/posh-sexual-harassment-.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/08/posh-sexual-harassment-.jpg" medium="image">
-			<media:title type="html">posh sexual harassment</media:title>
 		</media:content>
 	</item>
 	</channel>
