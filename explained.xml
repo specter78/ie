@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 25 Nov 2025 10:08:55 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Nov 2025 10:48:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Canada&#8217;s new citizenship-by-descent law: Recognition of &#8216;Lost Canadians&#8217;, impact on Indians</title>
+		<link>https://indianexpress.com/article/explained/explained-global/canada-citizenship-descent-law-lost-canadians-impact-india-10385233/</link>
+		
+		<dc:creator><![CDATA[Manraj Grewal Sharma]]></dc:creator>
+		<pubDate>Tue, 25 Nov 2025 10:48:10 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10385233</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10385233</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Canada-citizenship-descent.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Canada-citizenship-descent.jpg" medium="image">
+			<media:title type="html">Canada citizenship descent</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How the climate summit COP30 in Brazil shone the spotlight on &#8216;mutirão&#8217;</title>
 		<link>https://indianexpress.com/article/explained/explained-global/cop30-climate-summit-brazil-mutirao-10385051/</link>
 		
@@ -67,7 +86,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Hayli Gubbi eruption: volcanic ash and the grave risk it poses to aviation safety</title>
+		<title>Hayli Gubbi eruption: volcanic ash and the grave risk it poses to aviation safety, explained</title>
 		<link>https://indianexpress.com/article/explained/hayli-gubbi-eruption-aviation-safety-10384966/</link>
 		
 		<dc:creator><![CDATA[Sukalp Sharma]]></dc:creator>
@@ -3975,25 +3994,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/BholaPaswanShastri.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/BholaPaswanShastri.jpg" medium="image">
 			<media:title type="html">BholaPaswanShastri</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>AP Venkateswara Temple Stampede: Why stampedes frequently tend to unfold in India</title>
-		<link>https://indianexpress.com/article/explained/ap-venkateswara-temple-stampede-why-frequently-india-10340175/</link>
-		
-		<dc:creator><![CDATA[Anil Sasi, Anagha Jayakumar]]></dc:creator>
-		<pubDate>Sat, 01 Nov 2025 12:20:47 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10340175</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10340175</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Kasibugga-Stampede.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Kasibugga-Stampede.jpg" medium="image">
-			<media:title type="html">Kasibugga Stampede</media:title>
 		</media:content>
 	</item>
 	</channel>
