@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 26 Nov 2025 05:55:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Nov 2025 08:04:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Children cannot raise themselves. Society, parents and teachers should jointly bear the responsibility</title>
+		<title>Indian Constitution@76: Why constitutional morality is essential for democracy</title>
+		<link>https://indianexpress.com/article/opinion/columns/indian-constitution-turns-76-democracy-constituent-assembly-10386916/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 07:33:43 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10386916</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10386916</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Indian-Constitution_20251125191009.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Indian-Constitution_20251125191009.jpg" medium="image">
+			<media:title type="html">Indian-Constitution_20251125191009.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Children cannot raise themselves. Society, parents and teachers must jointly bear the responsibility</title>
 		<link>https://indianexpress.com/article/opinion/columns/delhi-school-children-suicide-delhi-kid-metro-suicide-parents-children-10386754/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -80,9 +99,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10386120</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/oped-illustratiopn.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/oped-illustratiopn.jpg" medium="image">
-			<media:title type="html">oped illustratiopn</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion5_26th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion5_26th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion5_26th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -118,9 +137,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10386121</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/relationship-2_20251125193719.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/relationship-2_20251125193719.jpg" medium="image">
-			<media:title type="html">relationship-2_20251125193719.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion7_26th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion7_26th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion7_26th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -156,9 +175,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10386125</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/constitution.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/constitution.jpg" medium="image">
-			<media:title type="html">constitution</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion4_26th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion4_26th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion4_26th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -194,9 +213,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10386022</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Indian-Constitution_20251125191009.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Indian-Constitution_20251125191009.jpg" medium="image">
-			<media:title type="html">Indian-Constitution_20251125191009.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion2_26th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion2_26th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion2_26th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -213,16 +232,16 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10385967</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/US_0e4311_20251125191205.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/US_0e4311_20251125191205.jpg" medium="image">
-			<media:title type="html">US_0e4311_20251125191205.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion1_26th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion1_26th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion1_26th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
 		<title>Why the &#8216;don&#8217;t misuse antibiotics&#8217; campaign doesn&#8217;t work</title>
 		<link>https://indianexpress.com/article/opinion/columns/why-the-dont-misuse-antibiotics-campaign-doesnt-work-10385501/</link>
 		
-		<dc:creator><![CDATA[Rajib Dasgupta]]></dc:creator>
+		<dc:creator><![CDATA[Rajib Dasgupta, Rishiraj Bhagawati]]></dc:creator>
 		<pubDate>Tue, 25 Nov 2025 12:32:44 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10385501</guid>
 
@@ -251,9 +270,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10384912</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Malaysia-social-media_20251125073723.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Malaysia-social-media_20251125073723.jpg" medium="image">
-			<media:title type="html">Australia social media crackdown</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion3_26th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion3_26th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion3_26th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -327,9 +346,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10384706</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/school-children-delhi-pollution.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/school-children-delhi-pollution.jpg" medium="image">
-			<media:title type="html">school children-delhi pollution</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion6_26th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion6_26th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion6_26th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3806,25 +3825,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/supreme-court-3-1_e44358.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/supreme-court-3-1_e44358.jpg" medium="image">
 			<media:title type="html">supreme-court-3-1_e44358</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>We shouldn’t have to wait for GRAP-3 to tackle pollution in Delhi</title>
-		<link>https://indianexpress.com/article/opinion/columns/we-shouldnt-have-to-wait-for-grap-3-to-tackle-pollution-in-delhi-10360762/</link>
-		
-		<dc:creator><![CDATA[Trishna Sarkar]]></dc:creator>
-		<pubDate>Wed, 12 Nov 2025 06:15:39 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10360762</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10360762</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/pollution-Delhi_20251112061054.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/pollution-Delhi_20251112061054.jpg" medium="image">
-			<media:title type="html">grap-3</media:title>
 		</media:content>
 	</item>
 	</channel>
