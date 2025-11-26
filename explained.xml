@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 25 Nov 2025 13:30:00 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Nov 2025 01:44:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Rupee rebounds from historic lows: What is supporting the currency?</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/rupee-rebound-historic-low-10385633/</link>
+		
+		<dc:creator><![CDATA[Hitesh Vyas]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 01:32:18 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10385633</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10385633</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/RBI-rupee.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/RBI-rupee.jpg" medium="image">
+			<media:title type="html">RBI rupee</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Tejas crash: Need for &#038; risks in high-performance  air manoeuvres</title>
+		<link>https://indianexpress.com/article/explained/tejas-crash-need-for-risks-in-high-performance-air-manoeuvres-10386103/</link>
+		
+		<dc:creator><![CDATA[Diptendu Choudhury]]></dc:creator>
+		<pubDate>Wed, 26 Nov 2025 01:30:40 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10386103</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10386103</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Dubai-plane-crash1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Dubai-plane-crash1.jpg" medium="image">
+			<media:title type="html">Dubai-plane-crash1</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Study detects uranium in breast milk: Its findings, why experts have questioned its validity</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/study-uranium-breast-milk-findings-experts-validity-10385428/</link>
 		
@@ -3956,44 +3994,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/LVM3-explainer.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/LVM3-explainer.jpg" medium="image">
 			<media:title type="html">LVM3 explainer</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Chief Ministers of Bihar &#124; Harihar Singh: The CM who resigned before even his Cabinet was allotted portfolios</title>
-		<link>https://indianexpress.com/article/explained/explained-politics/chief-ministers-of-bihar-harihar-singh-the-cm-who-resigned-before-even-his-cabinet-was-allotted-portfolios-10340710/</link>
-		
-		<dc:creator><![CDATA[Shyamlal Yadav]]></dc:creator>
-		<pubDate>Sun, 02 Nov 2025 01:30:47 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10340710</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10340710</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/1000153916.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/1000153916.jpg" medium="image">
-			<media:title type="html">1000153916</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: ISRO’s record-breaking LVM-3 Mission today, and what it means for India’s future space flights</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/heaviest-satellite-to-be-launched-from-india-10340866/</link>
-		
-		<dc:creator><![CDATA[Anonna Dutt]]></dc:creator>
-		<pubDate>Sat, 01 Nov 2025 21:37:28 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10340866</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10340866</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/sat-ISRO-3cols1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/sat-ISRO-3cols1.jpg" medium="image">
-			<media:title type="html">sat ISRO-3cols1</media:title>
 		</media:content>
 	</item>
 	</channel>
