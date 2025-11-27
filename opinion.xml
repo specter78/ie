@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 27 Nov 2025 07:04:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Nov 2025 08:13:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,48 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>We the People of India’s cities: Realising the vision of a free and equal democracy</title>
+		<link>https://indianexpress.com/article/opinion/columns/indian-constitution-at-76-urbanity-democracy-indias-vision-10389018/</link>
+		
+		<dc:creator><![CDATA[Aravind Unni]]></dc:creator>
+		<pubDate>Thu, 27 Nov 2025 08:13:17 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10389018</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10389018</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/road-5col.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/road-5col.jpg" medium="image">
+			<media:title type="html">Constitution and urbanity</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>In Bihar, women didn’t swing the election. But the cost of the myth is pushing India towards fiscal disaster</title>
+		<link>https://indianexpress.com/article/opinion/bihar-women-swing-election-cost-myth-india-fiscal-disaster-10388888/</link>
+		
+		<dc:creator><![CDATA[Praveen Chakravarty]]></dc:creator>
+		<pubDate>Thu, 27 Nov 2025 07:27:07 +0000</pubDate>
+		<category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10388888</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10388888</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/nitish-kumar-2-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/nitish-kumar-2-1.jpg" medium="image">
+			<media:title type="html">NDA legislature meeting in Bihar</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/Photo-2025-11-27T123028.435.jpg?resize=600,338" medium="image">
+			<media:title type="html">Bihar state election</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why India’s Constitution has survived the test of the time, even as those of its neighbours failed</title>
 		<link>https://indianexpress.com/article/opinion/columns/india-constitution-ambedkar-kesavananda-bharati-10388862/</link>
 		
@@ -80,9 +122,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10388174</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/psychological-disorders_20251126190328.png" />
-		<media:content url="https://images.indianexpress.com/2025/11/psychological-disorders_20251126190328.png" medium="image">
-			<media:title type="html">psychological-disorders_20251126190328.png</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Photo-2025-11-27T131332.938.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Photo-2025-11-27T131332.938.jpg" medium="image">
+			<media:title type="html">Photo - 2025-11-27T131332.938</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -99,9 +141,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10388173</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/oped-illustration-12.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/oped-illustration-12.jpg" medium="image">
-			<media:title type="html">oped illustration</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Photo-2025-11-27T130357.513.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Photo-2025-11-27T130357.513.jpg" medium="image">
+			<media:title type="html">Photo - 2025-11-27T130357.513</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -175,9 +217,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10388142</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Guru-Tegh-Bahadur-martyrdom_20251126184610.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Guru-Tegh-Bahadur-martyrdom_20251126184610.jpg" medium="image">
-			<media:title type="html">Guru-Tegh-Bahadur-martyrdom_20251126184610.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Photo-2025-11-27T131057.035.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Photo-2025-11-27T131057.035.jpg" medium="image">
+			<media:title type="html">Photo - 2025-11-27T131057.035</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -213,9 +255,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10388122</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/mum-teachers_20251126184345.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/mum-teachers_20251126184345.jpg" medium="image">
-			<media:title type="html">mum-teachers_20251126184345.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Photo-2025-11-27T130839.825.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Photo-2025-11-27T130839.825.jpg" medium="image">
+			<media:title type="html">Photo - 2025-11-27T130839.825</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3723,9 +3765,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10363161</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2023/08/Untitled-design-2023-08-18T095419.536.jpg" />
-		<media:content url="https://images.indianexpress.com/2023/08/Untitled-design-2023-08-18T095419.536.jpg" medium="image">
-			<media:title type="html">Taj Mahal Palace hotel, Mumbai</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion7_27th-Nov.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/Opinion7_27th-Nov.jpg" medium="image">
+			<media:title type="html">Opinion7_27th-Nov</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3783,44 +3825,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/ai_20251113063332.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/ai_20251113063332.jpg" medium="image">
 			<media:title type="html">AI in ed-tech</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What Trump’s recent reception of Syria’s Ahmed al-Sharaa reveals about America</title>
-		<link>https://indianexpress.com/article/opinion/columns/donald-trump-al-sharaa-us-syria-meeting-us-taliban-10362595/</link>
-		
-		<dc:creator><![CDATA[Manav Sachdeva]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 06:07:19 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10362595</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10362595</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/US-6-6.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/US-6-6.jpg" medium="image">
-			<media:title type="html">Syria -US meeting</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>In the age of AI, blueprint for Viksit Bharat needs a fix-it</title>
-		<link>https://indianexpress.com/article/opinion/columns/ai-age-it-growth-indias-growth-story-digital-india-10362530/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 05:34:23 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10362530</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10362530</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/06/oped-illustration-12.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/06/oped-illustration-12.jpg" medium="image">
-			<media:title type="html">oped illustration</media:title>
 		</media:content>
 	</item>
 	</channel>
