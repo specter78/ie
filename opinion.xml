@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 27 Nov 2025 08:13:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Nov 2025 08:19:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Indian nationalists learnt from Macaulay to give it back to them. What we must learn from it</title>
+		<link>https://indianexpress.com/article/opinion/columns/indian-nationalists-learnt-from-macaulay-to-give-it-back-to-them-10389032/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 27 Nov 2025 08:19:03 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10389032</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10389032</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/macaulay-1600_20251127081324.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/macaulay-1600_20251127081324.jpg" medium="image">
+			<media:title type="html">macaulay</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>We the People of India’s cities: Realising the vision of a free and equal democracy</title>
 		<link>https://indianexpress.com/article/opinion/columns/indian-constitution-at-76-urbanity-democracy-indias-vision-10389018/</link>
 		
@@ -3806,25 +3825,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/nithari-killing-koli.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/nithari-killing-koli.jpg" medium="image">
 			<media:title type="html">nithari killing-koli</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Ed-tech companies are stealing our children’s data — and their joy for learning</title>
-		<link>https://indianexpress.com/article/opinion/columns/ed-tech-companies-stealing-children-data-joy-for-learning-10362644/</link>
-		
-		<dc:creator><![CDATA[Ramanand]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 06:39:58 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10362644</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10362644</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/ai_20251113063332.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/ai_20251113063332.jpg" medium="image">
-			<media:title type="html">AI in ed-tech</media:title>
 		</media:content>
 	</item>
 	</channel>
