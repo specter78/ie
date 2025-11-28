@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 27 Nov 2025 15:23:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Nov 2025 01:50:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Sanjaya Baru writes: Without great powers on board, G20 is adrift</title>
+		<link>https://indianexpress.com/article/opinion/columns/sanjay-baru-writes-without-great-powers-on-board-g20-is-adrift-10390186/</link>
+		
+		<dc:creator><![CDATA[Sanjaya Baru]]></dc:creator>
+		<pubDate>Fri, 28 Nov 2025 01:35:18 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10390186</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10390186</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/g2000_20251123223208_20251127205615.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/11/g2000_20251123223208_20251127205615.jpg" medium="image">
+			<media:title type="html">g2000_20251123223208_20251127205615.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Suicide is the leading cause of death among India’s youth. Preventing it requires a new playbook, not more surveillance</title>
 		<link>https://indianexpress.com/article/opinion/columns/suicide-is-the-leading-cause-of-death-among-india-youth-10389739/</link>
 		
@@ -3806,25 +3825,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion7_27th-Nov.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/Opinion7_27th-Nov.jpg" medium="image">
 			<media:title type="html">Opinion7_27th-Nov</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Migrants powered Bihar’s historic turnout. They may shape the electoral outcome as well</title>
-		<link>https://indianexpress.com/article/opinion/columns/bihar-elections-2025-migrants-women-nitish-kumar-tejashwi-yadav-10363113/</link>
-		
-		<dc:creator><![CDATA[S Irudaya Rajan]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 11:11:28 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10363113</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10363113</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/07/1000952515-e1753173673510.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/07/1000952515-e1753173673510.jpg" medium="image">
-			<media:title type="html">Bihar assembly elections</media:title>
 		</media:content>
 	</item>
 	</channel>
