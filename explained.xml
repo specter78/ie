@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 29 Nov 2025 13:57:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Nov 2025 14:18:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Higher penalty, regulating quality for sale and import – What the new Seeds Bill proposes</title>
+		<link>https://indianexpress.com/article/explained/higher-penalty-regulating-quality-for-sale-and-import-what-the-new-seeds-bill-proposes-10393339/</link>
+		
+		<dc:creator><![CDATA[Harikishan Sharma]]></dc:creator>
+		<pubDate>Sat, 29 Nov 2025 14:18:48 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10393339</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10393339</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/11/Untitled-design-29-3.png" />
+		<media:content url="https://images.indianexpress.com/2025/11/Untitled-design-29-3.png" medium="image">
+			<media:title type="html">Untitled design (29)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How SC brought down curtains on Sterling Group bank fraud case</title>
 		<link>https://indianexpress.com/article/explained/explained-law/how-sc-brought-down-curtains-on-sterling-group-bank-fraud-case-10393207/</link>
 		
@@ -4023,25 +4042,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/Rob-Jetten.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/Rob-Jetten.jpg" medium="image">
 			<media:title type="html">Netherlands Election</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Zohran Mamdani&#8217;s win: What it means for Democrats, Republicans, and Indians in New York</title>
-		<link>https://indianexpress.com/article/explained/explained-global/zohran-mamdani-win-democrats-republicans-indians-new-york-10347658/</link>
-		
-		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
-		<pubDate>Wed, 05 Nov 2025 11:03:30 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10347658</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10347658</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/zohran-mamdani-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/zohran-mamdani-1600.jpg" medium="image">
-			<media:title type="html">Election 2025 Mayor New York</media:title>
 		</media:content>
 	</item>
 	</channel>
