@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 01 Dec 2025 12:07:36 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 01 Dec 2025 14:48:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Adults are destroying the future of children in India</title>
+		<link>https://indianexpress.com/article/opinion/columns/adults-are-destroying-the-future-of-children-in-india-10396422/</link>
+		
+		<dc:creator><![CDATA[Dev Nath Pathak]]></dc:creator>
+		<pubDate>Mon, 01 Dec 2025 14:48:04 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10396422</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10396422</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/Untitled-design-2025-12-01T201415.811.png" />
+		<media:content url="https://images.indianexpress.com/2025/12/Untitled-design-2025-12-01T201415.811.png" medium="image">
+			<media:title type="html">Untitled design - 2025-12-01T201415.811</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Which disabilities does the government see? The strange case of recognition without rights</title>
 		<link>https://indianexpress.com/article/opinion/columns/disabilities-government-rights-disability-reservation-autism-10395937/</link>
 		
@@ -3806,25 +3825,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/mamdani-nyt-2.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/mamdani-nyt-2.jpg" medium="image">
 			<media:title type="html">Mayor-elect of New York City Zohran Mamdani greets people after speaking at the Labor Breakfast organized by Somos Inc., the NY Senate Puerto Rican/Hispanic Task Force, and the NY Labor Council for Latin American Advancement at the Somos conference in San Juan, Puerto Rico, Saturday, November 8, 2025. (Erika P. Rodrguez/The New York Times)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>In Bangladesh, continuing turmoil, a verdict foretold</title>
-		<link>https://indianexpress.com/article/opinion/columns/in-bangladesh-continuing-turmoil-a-verdict-foretold-10369606/</link>
-		
-		<dc:creator><![CDATA[Sreeradha Datta]]></dc:creator>
-		<pubDate>Mon, 17 Nov 2025 05:09:46 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10369606</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10369606</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/WhatsApp-Image-2025-06-06-at-7.31.19-PM_20251116181756.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/11/WhatsApp-Image-2025-06-06-at-7.31.19-PM_20251116181756.jpeg" medium="image">
-			<media:title type="html">Muhammad Yunus</media:title>
 		</media:content>
 	</item>
 	</channel>
