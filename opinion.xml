@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 02 Dec 2025 05:36:35 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 02 Dec 2025 07:02:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>NCERT’s introduction to the Constitution is confusing. Young minds deserve better</title>
+		<link>https://indianexpress.com/article/opinion/columns/ncerts-introduction-to-the-constitution-is-confusing-10397454/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 02 Dec 2025 06:47:10 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10397454</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10397454</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/constitution_20251202064134.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/constitution_20251202064134.jpg" medium="image">
+			<media:title type="html">constitution</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>With the decision to wind up UNAIDS by next year, the 2030 global AIDS-free target looks increasingly fragile</title>
+		<link>https://indianexpress.com/article/opinion/columns/unaids-2030-global-aids-free-target-looks-increasingly-fragile-10397425/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 02 Dec 2025 06:28:21 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10397425</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10397425</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/aids_20251202062525.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/aids_20251202062525.jpg" medium="image">
+			<media:title type="html">unaids</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>40 years ago December 2, 1985: PM on tech import norms</title>
 		<link>https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-december-2-1985-pm-on-tech-import-norms-10396786/</link>
 		
@@ -593,8 +631,8 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10392556</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2023/09/african-union.jpg" />
-		<media:content url="https://images.indianexpress.com/2023/09/african-union.jpg" medium="image">
+		<media:thumbnail url="https://images.indianexpress.com/2023/09/african-union-e1764658203484.jpg" />
+		<media:content url="https://images.indianexpress.com/2023/09/african-union-e1764658203484.jpg" medium="image">
 			<media:title type="html">african union</media:title>
 		</media:content>
 	</item>
@@ -3787,44 +3825,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/express-archive-8.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/express-archive-8.jpg" medium="image">
 			<media:title type="html">express archive</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>It’s time to fix climate finance. India has  shown the way</title>
-		<link>https://indianexpress.com/article/opinion/columns/its-time-to-fix-climate-finance-india-has-shown-the-way-10371426/</link>
-		
-		<dc:creator><![CDATA[Bhupender Yadav]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 01:43:01 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10371426</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10371426</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/market.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/market.jpg" medium="image">
-			<media:title type="html">market</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Hasina death sentence is a travesty of justice</title>
-		<link>https://indianexpress.com/article/opinion/editorials/hasina-death-sentence-is-a-travesty-of-justice-10371398/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 01:42:58 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10371398</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10371398</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/express-view-Copy-Copy-7.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/express-view-Copy-Copy-7.jpg" medium="image">
-			<media:title type="html">express view - Copy - Copy</media:title>
 		</media:content>
 	</item>
 	</channel>
