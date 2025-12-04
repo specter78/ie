@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Critics of Modi’s cultural swaraj don’t get the irony</title>
+		<link>https://indianexpress.com/article/opinion/columns/critics-of-modis-cultural-swaraj-dont-get-the-irony-10400931/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 04 Dec 2025 04:44:39 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10400931</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10400931</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/pm-modi-rng_20251123000347_20251203201225.jpeg" />
+		<media:content url="https://images.indianexpress.com/2025/12/pm-modi-rng_20251123000347_20251203201225.jpeg" medium="image">
+			<media:title type="html">pm-modi-rng_20251123000347_20251203201225.jpeg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>When we give up hope for our children</title>
 		<link>https://indianexpress.com/article/opinion/columns/when-we-give-up-hope-for-our-children-10400946/</link>
 		
@@ -3810,25 +3829,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/neighbour-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/neighbour-1.jpg" medium="image">
 			<media:title type="html">neighbour (1)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>From Bangladesh to Mexico, one lesson: Gen Z has power. It needs patience</title>
-		<link>https://indianexpress.com/article/opinion/columns/nepal-gen-z-protests-bangladesh-seikh-hasina-mexico-gen-z-10373940/</link>
-		
-		<dc:creator><![CDATA[Sudhanshu Mishra]]></dc:creator>
-		<pubDate>Wed, 19 Nov 2025 06:42:18 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10373940</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10373940</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/09/WhatsApp-Image-2025-09-08-at-2.53.10-PM-1-1.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/09/WhatsApp-Image-2025-09-08-at-2.53.10-PM-1-1.jpeg" medium="image">
-			<media:title type="html">Gen Z protests, Nepal</media:title>
 		</media:content>
 	</item>
 	</channel>
