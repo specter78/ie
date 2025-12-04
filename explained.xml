@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 04 Dec 2025 12:13:56 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Dec 2025 13:14:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Bombay HC called Thane&#8217;s crucial Ghodbunder Road &#8216;worst nightmare&#8217;</title>
+		<link>https://indianexpress.com/article/explained/why-bombay-hc-called-thanes-crucial-ghodbunder-road-worst-nightmares-10402360/</link>
+		
+		<dc:creator><![CDATA[Omkar Gokhale, Nayonika Bose]]></dc:creator>
+		<pubDate>Thu, 04 Dec 2025 12:41:57 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10402360</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10402360</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/godhbunder-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/godhbunder-1600.jpg" medium="image">
+			<media:title type="html">godhbunder 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>As Virat Kohli scores back-to-back tons, why is dew hogging headlines along?</title>
 		<link>https://indianexpress.com/article/explained/explained-sports/why-is-dew-hogging-headlines-along-with-virat-kohlis-twin-tons-10401934/</link>
 		
@@ -3995,29 +4014,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/supreme-court-tribunals.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/supreme-court-tribunals.jpg" medium="image">
 			<media:title type="html">supreme court tribunals</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Iraqi is voting for a new Parliament. Here’s what to know</title>
-		<link>https://indianexpress.com/article/explained/explained-global/iraq-elections-militias-us-iran-middle-east-10358792/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 11 Nov 2025 07:22:04 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10358792</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10358792</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Iraq_Election_26872-9453a.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Iraq_Election_26872-9453a.jpg" medium="image">
-			<media:title type="html">Iraq Election</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/Iraq_Elections_59951-a7218.jpg?resize=600,400" medium="image">
-			<media:title type="html">Iraqi Prime Minister Mohammed Shia al-Sudani arrives to his political block campaign&#039;s rally before the parliamentary elections in Baghdad, Iraq, Friday, Nov. 7, 2025</media:title>
 		</media:content>
 	</item>
 	</channel>
