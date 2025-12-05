@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 05 Dec 2025 07:13:28 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Dec 2025 07:55:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,41 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>GDP: Amid the rupee&#8217;s fall, how investors are shunning the Indian economy</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/gdp-falling-rupee-investors-shunning-indian-economy-10403641/</link>
+		
+		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
+		<pubDate>Fri, 05 Dec 2025 07:41:06 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10403641</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10403641</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/ch1443687.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/ch1443687.jpg" medium="image">
+			<media:title type="html">ch1443687</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/GDP-Capital-flows-CHART-1.jpg" medium="image">
+			<media:title type="html">CHART 1</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/GDP-Cap-flows-CHART-2.jpg" medium="image">
+			<media:title type="html">CHART 2</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/GDP-Cap-flows-CHART-3.jpg" medium="image">
+			<media:title type="html"> CHART 3</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/GDP-FPI-CHART-4.jpg" medium="image">
+			<media:title type="html">CHART 4</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>As Trump targets Somalis, a brief history of their migration to the US</title>
 		<link>https://indianexpress.com/article/explained/explained-global/as-trump-targets-somalis-a-brief-history-of-their-migration-to-the-us-10403045/</link>
 		
@@ -3995,25 +4030,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/delhi-car-blast.jpeg" />
 		<media:content url="https://images.indianexpress.com/2025/11/delhi-car-blast.jpeg" medium="image">
 			<media:title type="html">delhi car blast</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Bombay HC upholds life term in Pallavi Purkayastha murder: What does life imprisonment and imprisonment till remainder of life mean?</title>
-		<link>https://indianexpress.com/article/explained/explained-law/bombay-hc-rigorous-imprisonment-life-pallavi-purkayastha-murder-10359289/</link>
-		
-		<dc:creator><![CDATA[Sadaf Modak]]></dc:creator>
-		<pubDate>Tue, 11 Nov 2025 11:19:38 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10359289</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10359289</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Pallavi-Purkayastha-murderer.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Pallavi-Purkayastha-murderer.jpg" medium="image">
-			<media:title type="html">Pallavi Purkayastha murderer</media:title>
 		</media:content>
 	</item>
 	</channel>
