@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 08 Dec 2025 09:12:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Dec 2025 10:53:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Vande Mataram: What Gandhi, Tagore, Jinnah said about the song</title>
+		<link>https://indianexpress.com/article/explained/explained-history/vande-mataram-gandhi-tagore-jinnah-10409126/</link>
+		
+		<dc:creator><![CDATA[Yashee]]></dc:creator>
+		<pubDate>Mon, 08 Dec 2025 10:51:25 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10409126</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10409126</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/protest-vande-matram-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/protest-vande-matram-1600.jpg" medium="image">
+			<media:title type="html">Congress activists protest in Kolkata</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Thailand launches strikes into Cambodia: What is the conflict, and the temple at its midst</title>
 		<link>https://indianexpress.com/article/explained/explained-global/thailand-strikes-cambodia-conflict-temple-10408880/</link>
 		
@@ -4015,25 +4034,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/CHART-2-1.jpg?resize=600,354" medium="image">
 			<media:title type="html">Chart 2</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>From ‘national song’ to ‘modern anthem’ – the journey of Vande Mataram</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/from-national-song-to-modern-anthem-the-journey-of-vande-mataram-10363865/</link>
-		
-		<dc:creator><![CDATA[Suanshu Khurana]]></dc:creator>
-		<pubDate>Thu, 13 Nov 2025 13:25:00 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10363865</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10363865</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Untitled-design-2.png" />
-		<media:content url="https://images.indianexpress.com/2025/11/Untitled-design-2.png" medium="image">
-			<media:title type="html">Untitled design (2)</media:title>
 		</media:content>
 	</item>
 	</channel>
