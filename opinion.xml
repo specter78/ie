@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 09 Dec 2025 03:32:34 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Dec 2025 06:43:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Lack of competition and market dominance led to IndiGo crisis. Indian aviation industry must learn from it</title>
+		<link>https://indianexpress.com/article/opinion/columns/market-dominance-indigo-crisis-indian-aviation-air-india-10410550/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 09 Dec 2025 06:43:16 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10410550</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10410550</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/IndiGo_3eaac8.png" />
+		<media:content url="https://images.indianexpress.com/2025/12/IndiGo_3eaac8.png" medium="image">
+			<media:title type="html">IndiGo_3eaac8</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>India can’t have STEM without roots — it needs more than just scientists on top</title>
 		<link>https://indianexpress.com/article/opinion/columns/india-cant-have-stem-without-roots-it-needs-more-than-just-scientists-on-top-10409828/</link>
 		
@@ -3815,25 +3834,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion5_24th-Nov.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/Opinion5_24th-Nov.jpg" medium="image">
 			<media:title type="html">Opinion5_24th-Nov</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How middle-class India got priced out of movies</title>
-		<link>https://indianexpress.com/article/opinion/columns/how-middle-class-india-got-priced-out-of-movies-10382289/</link>
-		
-		<dc:creator><![CDATA[Kritika Mehta]]></dc:creator>
-		<pubDate>Mon, 24 Nov 2025 01:49:51 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10382289</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10382289</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Opinion7_24th-Nov.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Opinion7_24th-Nov.jpg" medium="image">
-			<media:title type="html">Opinion7_24th-Nov</media:title>
 		</media:content>
 	</item>
 	</channel>
