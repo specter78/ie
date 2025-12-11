@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 11 Dec 2025 09:11:53 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Dec 2025 09:59:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>How Nehru, not Patel, become India’s first PM: The politics behind the 1946 Congress vote</title>
+		<title>How Nehru, not Patel, became India’s first PM: The politics behind the 1946 Congress vote</title>
 		<link>https://indianexpress.com/article/explained/explained-history/nehru-patel-first-pm-congress-10414706/</link>
 		
 		<dc:creator><![CDATA[Adrija Roychowdhury]]></dc:creator>
@@ -67,7 +67,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Explained Interview &#124; What China’s record $1 trillion trade surplus says about its economy, and the world</title>
+		<title>China trade imbalance 2025: China’s $1 trillion trade surplus as much ‘sign of imbalance as it is of strength’: an expert explains</title>
 		<link>https://indianexpress.com/article/explained/explained-global/explained-interview-china-record-1-trillion-trade-surplus-impact-trade-10414467/</link>
 		
 		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
@@ -102,6 +102,10 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/china-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/china-1600.jpg" medium="image">
 			<media:title type="html">China Economic Dialogue</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/CHINA-EXPORTS.jpg?resize=375,600" medium="image">
+			<media:title type="html">China’s customs agency announced on Monday that the country’s accumulated trade surplus reached $1.08 trillion through November. (NYT)</media:title>
 		</media:content>
 	</item>
 		<item>
