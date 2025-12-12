@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 11 Dec 2025 16:50:50 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Dec 2025 02:15:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Taking stock of Syria, a year after the civil war ended</title>
+		<link>https://indianexpress.com/article/explained/explained-global/taking-stock-of-syria-a-year-after-the-civil-war-ended-10415878/</link>
+		
+		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
+		<pubDate>Fri, 12 Dec 2025 02:13:39 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10415878</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10415878</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/sharaa-3col1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/sharaa-3col1.jpg" medium="image">
+			<media:title type="html">Ahmad al-Sharaa, Syria’s new president, in Damascus, Syria, April 9, 2025. (Daniel Berehulak /The New York Times)</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Numbers hide domestic weaknesses: Imports, consumption, currency</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/numbers-hide-domestic-weaknesses-imports-consumption-currency-10415879/</link>
+		
+		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
+		<pubDate>Fri, 12 Dec 2025 01:35:49 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10415879</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10415879</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/export-port-5col1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/export-port-5col1.jpg" medium="image">
+			<media:title type="html">Trucks are loaded with containers at Yangluo Port, a domestic and international freight harbor on the Yangtze River, in Wuhan, China, May 23, 2025. (Gilles Sabri/The New York Times)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What the new $1 million ‘Trump Gold Card’ visa programme entails</title>
 		<link>https://indianexpress.com/article/explained/explained-global/new-trump-gold-card-10414911/</link>
 		
@@ -3972,48 +4010,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/Nowgam-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/Nowgam-1600.jpg" medium="image">
 			<media:title type="html">Family members pay floral tribute during the wreath-laying ceremony for the deceased victims</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: Trump ends ties with long-term MAGA ally Marjorie Taylor Greene</title>
-		<link>https://indianexpress.com/article/explained/explained-global/trump-ties-maga-ally-marjorie-taylor-greene-10370465/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 17 Nov 2025 09:06:26 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10370465</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10370465</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Trump-MTG.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Trump-MTG.jpg" medium="image">
-			<media:title type="html">Trump MTG</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained &#124; Amid poor guardrails, Indian crypto market stood at $2.6 bn in 2024, could grow to $15 bn by 2035</title>
-		<link>https://indianexpress.com/article/explained/crypto-currency-coin-laundry-unchecked-guardrails-10370130/</link>
-		
-		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
-		<pubDate>Mon, 17 Nov 2025 06:12:29 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10370130</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10370130</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/cryto-explained-1600.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/11/cryto-explained-1600.jpeg" medium="image">
-			<media:title type="html">cryto explained 1600</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/crypto-cases-explained.jpg?resize=600,517" medium="image">
-			<media:title type="html">crypto cases</media:title>
 		</media:content>
 	</item>
 	</channel>
