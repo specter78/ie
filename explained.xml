@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 12 Dec 2025 23:38:23 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 13 Dec 2025 02:39:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Maharashtra is planning an overhaul of its rent control &#8216;pagdi&#8217; system</title>
+		<link>https://indianexpress.com/article/explained/why-maharashtra-is-planning-an-overhaul-of-its-rent-control-pagdi-system-10417720/</link>
+		
+		<dc:creator><![CDATA[Vallabh Ozarkar]]></dc:creator>
+		<pubDate>Sat, 13 Dec 2025 01:32:19 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10417720</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10417720</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/shinde-4cole.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/shinde-4cole.jpg" medium="image">
+			<media:title type="html">shinde-4cole</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: IMF puts 11 new conditions on Pakistan to avail loan, says risks have reduced as tensions with India have waned</title>
 		<link>https://indianexpress.com/article/explained/explained-global/imf-puts-11-new-conditions-on-pakistan-to-avail-loan-all-you-need-to-know-10417003/</link>
 		
@@ -3995,33 +4014,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/Hidma-explainer.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/Hidma-explainer.jpg" medium="image">
 			<media:title type="html">Hidma explainer</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Epstein Files Transparency Act: What are the Epstein Files, and how is Trump linked?</title>
-		<link>https://indianexpress.com/article/explained/explained-global/house-vote-trump-reversed-release-epstein-files-10371785/</link>
-		
-		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
-		<pubDate>Tue, 18 Nov 2025 06:08:14 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10371785</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10371785</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Trump-Epstein-Files-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Trump-Epstein-Files-1.jpg" medium="image">
-			<media:title type="html">Trump Epstein Files</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/Maxwell_Epstein_Clinton_1993.jpg?resize=600,473" medium="image">
-			<media:title type="html">Former President Bill Clinton shaking hands with Jeffrey Epstein as Ghislaine Maxwell looks on (Wikimedia Commons)</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/Trump-in-Epstein-emails.jpg?resize=600,400" medium="image">
-			<media:title type="html">Trump in Epstein emails</media:title>
 		</media:content>
 	</item>
 	</channel>
