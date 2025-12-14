@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 14 Dec 2025 06:52:57 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 14 Dec 2025 07:56:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>MahaCrimeOS AI: What is it and how will it change crime investigation in Maharashtra?</title>
+		<title>Satya Nadella launches MahaCrimeOS AI: How will it change crime investigation in Maharashtra?</title>
 		<link>https://indianexpress.com/article/explained/mahacrimeos-ai-maharashtra-10418600/</link>
 		
 		<dc:creator><![CDATA[Ankita Deshkar]]></dc:creator>
@@ -65,6 +65,10 @@
 		<media:content url="https://images.indianexpress.com/2025/12/vote-poll-1.jpg" medium="image">
 			<media:title type="html">vote poll-1</media:title>
 		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/West-Bengal-enumeration-discrepencies.jpg" medium="image">
+			<media:title type="html">West Bengal enumeration discrepancies.</media:title>
+		</media:content>
 	</item>
 		<item>
 		<title>Kerala local body polls &#124; Congress-led UDF set to win, first-ever BJP Mayor: 3 takeaways</title>
@@ -86,7 +90,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Climate change, deforestation, rapid urbanisation: What made Cyclones Ditwah &#038; Senyar so deadly?</title>
+		<title>3 factors that made Cyclones Ditwah &#038; Senyar so deadly</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/cyclones-ditwah-senyar-10418543/</link>
 		
 		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
