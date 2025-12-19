@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 19 Dec 2025 10:55:28 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Dec 2025 12:09:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,33 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Trump reclassifying cannabis is major milestone in legalisation push</title>
+		<link>https://indianexpress.com/article/explained/explained-global/why-trump-reclassifying-cannabis-is-major-milestone-in-legalisation-push-10429006/</link>
+		
+		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
+		<pubDate>Fri, 19 Dec 2025 12:09:19 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10429006</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10429006</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/Marijuana-Trump.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/Marijuana-Trump.jpg" medium="image">
+			<media:title type="html">Marijuana-Trump</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/Just-Say-No2.jpg?resize=606,405" medium="image">
+			<media:title type="html">Nancy Reagan with children taking part in a &#034;Just Say No&#034; walk at the Washington Monument in 1988. Ronald Reagan Presidential Library</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/Just_say_no_4647883256.jpg?resize=257,405" medium="image">
+			<media:title type="html">A &#039;Just Say No&#039; campaign poster from the 1980s. National Library of Medicine</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How states regulate private school fees and where the new Delhi law fits in</title>
 		<link>https://indianexpress.com/article/explained/explained-law/state-private-school-fees-delhi-law-10428874/</link>
 		
@@ -4023,25 +4050,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/Gandhi_Bhawan_Chandigarh.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/Gandhi_Bhawan_Chandigarh.jpg" medium="image">
 			<media:title type="html">Gandhi_Bhawan,_Chandigarh</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Labour codes: What changes for workers and employers</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/labour-codes-what-changes-for-workers-and-employers-10382411/</link>
-		
-		<dc:creator><![CDATA[Aanchal Magazine]]></dc:creator>
-		<pubDate>Mon, 24 Nov 2025 01:37:22 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10382411</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10382411</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/labor-laws.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/labor-laws.jpg" medium="image">
-			<media:title type="html">labor laws</media:title>
 		</media:content>
 	</item>
 	</channel>
