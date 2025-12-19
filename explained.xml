@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 18 Dec 2025 23:23:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Dec 2025 03:01:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>India-Russia logistics agreement, with eye on Arctic, Indo-Pacific</title>
+		<link>https://indianexpress.com/article/explained/india-russia-logistics-agreement-with-eye-on-arctic-indo-pacific-10427803/</link>
+		
+		<dc:creator><![CDATA[Divya A]]></dc:creator>
+		<pubDate>Fri, 19 Dec 2025 01:46:09 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10427803</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10427803</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/put-ModiPutin-4col1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/put-ModiPutin-4col1.jpg" medium="image">
+			<media:title type="html">put-ModiPutin-4col1</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Bondi Beach attack: The Islamic State’s long shadow on Australia</title>
+		<link>https://indianexpress.com/article/explained/bondi-beach-attack-the-islamic-states-long-shadow-on-australia-10427806/</link>
+		
+		<dc:creator><![CDATA[Deeptiman Tiwary, Shubhajit Roy]]></dc:creator>
+		<pubDate>Fri, 19 Dec 2025 01:30:13 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10427806</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10427806</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/Bondi-beach-1-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/Bondi-beach-1-1.jpg" medium="image">
+			<media:title type="html">Australia Shooting</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: How to separate BS VI-compliant private vehicles from the older ones</title>
 		<link>https://indianexpress.com/article/explained/explained-how-to-separate-bs-vi-compliant-private-vehicles-from-the-older-ones-10427887/</link>
 		
@@ -3996,44 +4034,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/Moss.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/Moss.jpg" medium="image">
 			<media:title type="html">Moss</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: How Marjorie Taylor Greene has received a rough education in MAGA Politics</title>
-		<link>https://indianexpress.com/article/explained/explained-global/marjorie-taylor-greene-rough-education-maga-politics-10381674/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sun, 23 Nov 2025 09:41:43 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10381674</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10381674</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/HOUSE-GREENE-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/HOUSE-GREENE-1600.jpg" medium="image">
-			<media:title type="html">Rep. Marjorie Taylor Greene (R-Ga.) walks down the Capitol steps to her news conference outside the U.S. Capitol in Washington on Friday, Feb. 5, 2021, the day after the House voted to remove her from her committee assignments. (Anna Moneymaker/The New Yo</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How India’s juvenile justice system is failing its children</title>
-		<link>https://indianexpress.com/article/explained/explained-law/how-indias-juvenile-justice-system-is-failing-its-children-10381687/</link>
-		
-		<dc:creator><![CDATA[Vineet Bhalla]]></dc:creator>
-		<pubDate>Sun, 23 Nov 2025 09:40:34 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10381687</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10381687</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Untitled-design-14-2.png" />
-		<media:content url="https://images.indianexpress.com/2025/11/Untitled-design-14-2.png" medium="image">
-			<media:title type="html">Untitled design (14)</media:title>
 		</media:content>
 	</item>
 	</channel>
