@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 21 Dec 2025 04:59:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 Dec 2025 06:38:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>8.2% GDP growth, but monthly data doesn’t tell the same story</title>
+		<title>Despite India’s 8.2% GDP growth, why monthly data doesn’t tell the same story</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/gdp-growth-monthly-data-story-10431288/</link>
 		
 		<dc:creator><![CDATA[Siddharth Upasani]]></dc:creator>
@@ -48,7 +48,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>TikTok announces JV to divest US business from Chinese parent: How deal sidesteps US ban</title>
+		<title>How TikTok’s deal to divest US business from Chinese parent is taking shape</title>
 		<link>https://indianexpress.com/article/explained/explained-global/tiktok-divest-us-business-ban-10430577/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -181,7 +181,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Delhi worry: Anti-India current in Bangladesh, will violence derail February polls?</title>
+		<title>New Delhi’s worry: Amid anti-India current in Bangladesh, will violence derail February polls?</title>
 		<link>https://indianexpress.com/article/explained/delhi-worry-anti-india-current-will-violence-derail-february-polls-10429644/</link>
 		
 		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
