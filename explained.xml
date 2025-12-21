@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 21 Dec 2025 10:02:50 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 Dec 2025 10:34:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -86,7 +86,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Despite India’s 8.2% GDP growth, why monthly data doesn’t tell the same story</title>
+		<title>Despite 8.2% GDP growth, why doesn’t it seem so based on monthly data</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/gdp-growth-monthly-data-story-10431288/</link>
 		
 		<dc:creator><![CDATA[Siddharth Upasani]]></dc:creator>
