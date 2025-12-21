@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 20 Dec 2025 17:08:18 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 Dec 2025 03:00:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,82 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Admire the work, question the power</title>
+		<link>https://indianexpress.com/article/opinion/columns/admire-the-work-question-the-power-10431014/</link>
+		
+		<dc:creator><![CDATA[Anu Raghunathan]]></dc:creator>
+		<pubDate>Sun, 21 Dec 2025 02:22:02 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10431014</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10431014</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/lab.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/lab.jpg" medium="image">
+			<media:title type="html">lab</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Under PM Nehru, India’s first Atomic Energy Act</title>
+		<link>https://indianexpress.com/article/opinion/columns/under-pm-nehru-indias-first-atomic-energy-act-10431033/</link>
+		
+		<dc:creator><![CDATA[Chakshu Roy]]></dc:creator>
+		<pubDate>Sun, 21 Dec 2025 01:41:06 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10431033</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10431033</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/TIFRAC-4col.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/TIFRAC-4col.jpg" medium="image">
+			<media:title type="html">TIFRAC-4col</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Tavleen Singh writes: Why this Christmas season makes me nostalgic for the old India</title>
+		<link>https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-cancel-christmas-10431009/</link>
+		
+		<dc:creator><![CDATA[Tavleen Singh]]></dc:creator>
+		<pubDate>Sun, 21 Dec 2025 01:39:28 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10431009</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10431009</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/Bolivia_Christmas_Parade_84319-de6d0_20251220225521.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/Bolivia_Christmas_Parade_84319-de6d0_20251220225521.jpg" medium="image">
+			<media:title type="html">Bolivia_Christmas_Parade_84319-de6d0_20251220225521.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>P Chidambaram writes: The second killing of Mahatma Gandhi</title>
+		<link>https://indianexpress.com/article/opinion/columns/p-chidambaram-writes-the-second-killing-of-mahatma-gandhi-10431034/</link>
+		
+		<dc:creator><![CDATA[P Chidambaram]]></dc:creator>
+		<pubDate>Sun, 21 Dec 2025 01:34:07 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10431034</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10431034</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/oppprotest-4cols_4ee29c.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/oppprotest-4cols_4ee29c.jpg" medium="image">
+			<media:title type="html">oppprotest-4cols_4ee29c</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What Nitish Kumar hijab row reveals about agency, gender and religion</title>
 		<link>https://indianexpress.com/article/opinion/what-nitish-kumar-hijab-row-reveals-about-agency-gender-and-religion-10430749/</link>
 		
@@ -3754,82 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/foot.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/foot.jpg" medium="image">
 			<media:title type="html">foot</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>New labour codes are a win-win for workers and employers</title>
-		<link>https://indianexpress.com/article/opinion/columns/new-labour-codes-are-a-win-win-for-workers-and-employers-10404982/</link>
-		
-		<dc:creator><![CDATA[Shamika Ravi]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 01:36:18 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10404982</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10404982</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/LBR06id.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/LBR06id.jpg" medium="image">
-			<media:title type="html">LBR06id</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Putin&#8217;s Delhi visit: Economy is the new lynchpin of Indo-Russian ties</title>
-		<link>https://indianexpress.com/article/opinion/editorials/putins-delhi-visit-economy-is-the-new-lynchpin-of-indo-russian-ties-10404954/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 01:35:57 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10404954</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10404954</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/edit.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/edit.jpg" medium="image">
-			<media:title type="html">edit</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>For Putin, a political win; for India, a stable partner</title>
-		<link>https://indianexpress.com/article/opinion/columns/for-putin-a-political-win-for-india-a-stable-partner-10404951/</link>
-		
-		<dc:creator><![CDATA[Shyam Saran]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 01:35:52 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10404951</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10404951</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/modi-putin-DPR-PMOANI-Photo_20251205182709.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/modi-putin-DPR-PMOANI-Photo_20251205182709.jpg" medium="image">
-			<media:title type="html">modi-putin-DPR-PMOANI-Photo_20251205182709.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Forty years ago, December 6, 1985: SAARC declaration</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/forty-years-ago-december-6-1985-saarc-declaration-10404950/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 01:30:50 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10404950</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10404950</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/06-Dec-1985_IE_001.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/06-Dec-1985_IE_001.jpg" medium="image">
-			<media:title type="html">Indian Express</media:title>
 		</media:content>
 	</item>
 	</channel>
