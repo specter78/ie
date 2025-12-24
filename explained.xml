@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 24 Dec 2025 07:39:34 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Dec 2025 08:33:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -47,11 +47,11 @@
 			<media:title type="html">Fed</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/gdp3q25-ini-chart-hp.png?resize=600,551" medium="image">
-			<media:title type="html">US real GDP</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/US-economy-growth-01.jpg?resize=600,234" medium="image">
+			<media:title type="html">US economy</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/gdp3q25-ini-chart-02.png?resize=600,266" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/US-economy-growth-02.jpg?resize=600,256" medium="image">
 			<media:title type="html">US economy</media:title>
 		</media:content>
 	</item>
