@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 24 Dec 2025 11:10:28 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Dec 2025 12:37:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Endorsing Aravallis definition is flawed. Legal errors can be amended, but ecological destruction cannot</title>
+		<link>https://indianexpress.com/article/opinion/columns/aravallis-ecological-supreme-court-mining-10437112/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 24 Dec 2025 12:31:48 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10437112</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10437112</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/Illegal-mining-is-a-major-concern-in-the-Aravalli-range.-Tashi.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/Illegal-mining-is-a-major-concern-in-the-Aravalli-range.-Tashi.jpg" medium="image">
+			<media:title type="html">Illegal mining is a major concern in the Aravalli range. Tashi</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How India used the International Solar Alliance to show its diplomatic heft and create a new market</title>
 		<link>https://indianexpress.com/article/opinion/columns/india-international-solar-alliance-paris-pact-global-south-10436799/</link>
 		
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/Express-view-Copy.jpeg" />
 		<media:content url="https://images.indianexpress.com/2025/12/Express-view-Copy.jpeg" medium="image">
 			<media:title type="html">Express-view - Copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Kerala case has a silver lining, breaks a silence</title>
-		<link>https://indianexpress.com/article/opinion/editorials/kerala-case-has-a-silver-lining-breaks-a-silence-10411861/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 10 Dec 2025 01:53:44 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10411861</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10411861</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Express-view-Copy-3.jpeg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Express-view-Copy-3.jpeg" medium="image">
-			<media:title type="html">Express-view - Copy (3)</media:title>
 		</media:content>
 	</item>
 	</channel>
