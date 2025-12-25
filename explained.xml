@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 25 Dec 2025 06:46:12 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Dec 2025 08:02:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>India may soon get 4 new regional airlines, but here’s why their success isn’t guaranteed</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/india-new-airlines-al-hindi-flyexpress-10438294/</link>
+		
+		<dc:creator><![CDATA[Sukalp Sharma]]></dc:creator>
+		<pubDate>Thu, 25 Dec 2025 07:23:52 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10438294</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10438294</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/new-airline.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/new-airline.jpg" medium="image">
+			<media:title type="html">new airline</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why the Aravallis matter for the climate, air, and water of north India plains</title>
 		<link>https://indianexpress.com/article/explained/the-great-wall-in-the-north-why-the-aravallis-matter-10437728/</link>
 		
@@ -84,9 +103,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10437299</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/navi-mumbai-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/navi-mumbai-1600.jpg" medium="image">
-			<media:title type="html">Navi Mumbai International Airport</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/adani-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/adani-1600.jpg" medium="image">
+			<media:title type="html">adani 1600</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4015,25 +4034,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/11/HDn-Indian-Railways-02.jpg?resize=600,377" medium="image">
 			<media:title type="html">Railways</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why is Iran boycotting the 2026 FIFA World Cup draw in the United States next week?</title>
-		<link>https://indianexpress.com/article/explained/explained-sports/iran-2026-fifa-world-cup-draw-10393501/</link>
-		
-		<dc:creator><![CDATA[Shankar Narayan]]></dc:creator>
-		<pubDate>Sun, 30 Nov 2025 03:16:49 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sports]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10393501</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10393501</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Untitled-design-23-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Untitled-design-23-1.jpg" medium="image">
-			<media:title type="html">Untitled design-23</media:title>
 		</media:content>
 	</item>
 	</channel>
