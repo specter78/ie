@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 24 Dec 2025 14:29:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 25 Dec 2025 02:49:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,48 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The great wall in the North: Why the Aravallis matter</title>
+		<link>https://indianexpress.com/article/explained/the-great-wall-in-the-north-why-the-aravallis-matter-10437728/</link>
+		
+		<dc:creator><![CDATA[Nikhil Ghanekar]]></dc:creator>
+		<pubDate>Thu, 25 Dec 2025 01:54:24 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10437728</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10437728</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/aravalliTashi-5col1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/aravalliTashi-5col1.jpg" medium="image">
+			<media:title type="html">aravalliTashi-5col1</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How VB – G RAM G Act, which replaces MGNREGA, affects states’ finances</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/how-new-vb-g-ram-g-act-affects-states-finances-10437630/</link>
+		
+		<dc:creator><![CDATA[Avani Kapur, Laavanya Tamang]]></dc:creator>
+		<pubDate>Thu, 25 Dec 2025 01:00:16 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10437630</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10437630</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/NREGA.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/NREGA.jpg" medium="image">
+			<media:title type="html">NREGA</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/MGNREGA.jpeg?resize=600,390" medium="image">
+			<media:title type="html">MGNREGA</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Navi Mumbai airport begins ops tomorrow: Meets key needs, but challenges remain</title>
 		<link>https://indianexpress.com/article/explained/navi-mumbai-airport-routes-features-challenges-10437299/</link>
 		
@@ -3992,44 +4034,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/11/Untitled-design-23-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/11/Untitled-design-23-1.jpg" medium="image">
 			<media:title type="html">Untitled design-23</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Africa’s forests transformed from carbon sink to carbon source: Why does it matter?</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/africa-forests-carbon-source-10393218/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sun, 30 Nov 2025 02:26:08 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10393218</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10393218</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Untitled-design-22-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Untitled-design-22-1.jpg" medium="image">
-			<media:title type="html">Untitled design-22</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Higher penalty, regulating quality for sale and import – What the new Seeds Bill proposes</title>
-		<link>https://indianexpress.com/article/explained/higher-penalty-regulating-quality-for-sale-and-import-what-the-new-seeds-bill-proposes-10393339/</link>
-		
-		<dc:creator><![CDATA[Harikishan Sharma]]></dc:creator>
-		<pubDate>Sat, 29 Nov 2025 14:18:48 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10393339</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10393339</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Untitled-design-29-3.png" />
-		<media:content url="https://images.indianexpress.com/2025/11/Untitled-design-29-3.png" medium="image">
-			<media:title type="html">Untitled design (29)</media:title>
 		</media:content>
 	</item>
 	</channel>
