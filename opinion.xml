@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 27 Dec 2025 09:23:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Dec 2025 10:45:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Rising attacks on Christians in India are not good for its global image</title>
+		<link>https://indianexpress.com/article/opinion/columns/rising-attacks-on-christians-in-india-are-not-good-for-its-global-image-10441912/</link>
+		
+		<dc:creator><![CDATA[M.P. Nathanael]]></dc:creator>
+		<pubDate>Sat, 27 Dec 2025 10:44:57 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10441912</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10441912</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/Photo-2025-12-25T131552.679_20251227103731.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/Photo-2025-12-25T131552.679_20251227103731.jpg" medium="image">
+			<media:title type="html">christians</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>The wondrous, ordinary world of Vinod Kumar Shukla</title>
 		<link>https://indianexpress.com/article/opinion/columns/the-wondrous-ordinary-world-of-vinod-kumar-shukla-10441622/</link>
 		
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/Supreme-Court-3_20251212113521.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/Supreme-Court-3_20251212113521.jpg" medium="image">
 			<media:title type="html">Supreme-Court-3_20251212113521.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>‘Nagarik’ — a practice in understatement, an ode to Ritwik Ghatak’s unceasing protest</title>
-		<link>https://indianexpress.com/article/opinion/columns/ritiwik-ghatak-nagarik-meghe-dhaka-tara-subarnanrekha-10416949/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 11:25:22 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10416949</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10416949</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/Ritwik-Ghatak.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/Ritwik-Ghatak.jpg" medium="image">
-			<media:title type="html">Ritwik Ghatak</media:title>
 		</media:content>
 	</item>
 	</channel>
