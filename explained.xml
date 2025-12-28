@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 27 Dec 2025 11:50:42 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Dec 2025 14:06:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,47 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Global South taking the brunt of climate disasters: How extreme weather events impacted the world in 2025</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/cost-climate-disasters-2025-10442171/</link>
+		
+		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
+		<pubDate>Sun, 28 Dec 2025 00:59:27 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10442171</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10442171</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/Untitled-design-25-4.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/Untitled-design-25-4.jpg" medium="image">
+			<media:title type="html">Untitled design-25</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/Screenshot-2025-12-27-at-7.33.35-PM.png?resize=467,600" medium="image">
+			<media:title type="html">climate disasters</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Myanmar’s first elections since 2021 are being termed a ‘sham’. Here is why</title>
+		<link>https://indianexpress.com/article/explained/explained-global/myanmar-election-parties-military-conflict-history-10441763/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sun, 28 Dec 2025 00:30:32 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10441763</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10441763</post-id>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/Suu-kyi-khawmu-campaign.jpg?resize=553,405" medium="image">
+			<media:title type="html">Aung San Suu Kyi during a 2012 election campaign. </media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Behind Israel&#8217;s recognition of Somaliland, strategic, geopolitical interests at work</title>
 		<link>https://indianexpress.com/article/explained/explained-global/israel-recognition-somaliland-strategic-geopolitical-interests-10441988/</link>
 		
@@ -4024,44 +4065,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/train.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/train.jpg" medium="image">
 			<media:title type="html">train</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Nishant Agarwal espionage case: Allegations of data leak, life term quashed</title>
-		<link>https://indianexpress.com/article/explained/nishant-agarwal-espionage-quashed-10398419/</link>
-		
-		<dc:creator><![CDATA[Ankita Deshkar]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 13:15:02 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10398419</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10398419</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Nishant-Agarwal-case.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Nishant-Agarwal-case.jpg" medium="image">
-			<media:title type="html">Nishant-Agarwal case</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Cyber slavery hubs in Myanmar, Cambodia: How Indians have fallen prey to jobs racket</title>
-		<link>https://indianexpress.com/article/explained/cyber-slavery-hubs-myanmar-cambodia-indian-jobseekers-10397924/</link>
-		
-		<dc:creator><![CDATA[Alok Singh]]></dc:creator>
-		<pubDate>Tue, 02 Dec 2025 11:56:51 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10397924</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10397924</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Cyber-slavery.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Cyber-slavery.jpg" medium="image">
-			<media:title type="html">Cyber slavery</media:title>
 		</media:content>
 	</item>
 	</channel>
