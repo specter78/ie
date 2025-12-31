@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 31 Dec 2025 10:46:36 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 31 Dec 2025 11:56:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why silver surfed a 160% wave in 2025</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/why-silver-surfed-a-160-wave-in-2025-10448500/</link>
+		
+		<dc:creator><![CDATA[Siddharth Upasani]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2025 11:33:08 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10448500</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10448500</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/SILVER.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/SILVER.jpg" medium="image">
+			<media:title type="html">SILVER</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why gig workers are striking on New Year&#8217;s eve, calling for a ban on 10-minute deliveries</title>
 		<link>https://indianexpress.com/article/explained/gig-workers-striking-new-year-eve-10448057/</link>
 		
@@ -4099,25 +4118,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/GDP-FPI-CHART-4.jpg" medium="image">
 			<media:title type="html">CHART 4</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>As Trump targets Somalis, a brief history of their migration to the US</title>
-		<link>https://indianexpress.com/article/explained/explained-global/as-trump-targets-somalis-a-brief-history-of-their-migration-to-the-us-10403045/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 05 Dec 2025 02:00:31 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10403045</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10403045</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Ilhan-Omar1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Ilhan-Omar1.jpg" medium="image">
-			<media:title type="html">Rep. Ilhan Omar (D-Minn.) questions witnesses during a House Committee on Education and the Workforce hearing on Columbia University’s response to antisemitism on Capitol Hill in Washington, April 17, 2024. (Amanda Andrade-Rhoades/The New York Times)</media:title>
 		</media:content>
 	</item>
 	</channel>
