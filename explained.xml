@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 01 Jan 2026 05:19:32 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 01 Jan 2026 06:02:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>With a record year for primary markets rekindling the OFS vs IPO debate, signals of a maturing market</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/record-year-india-primary-markets-ipo-investors-10449632/</link>
+		
+		<dc:creator><![CDATA[Sandeep Singh, Anil Sasi]]></dc:creator>
+		<pubDate>Thu, 01 Jan 2026 05:59:42 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10449632</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10449632</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/stocks.jpeg" />
+		<media:content url="https://images.indianexpress.com/2026/01/stocks.jpeg" medium="image">
+			<media:title type="html">stocks</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Portland Frog: The cultural reinvention of the amphibian, now as a symbol of resistance</title>
 		<link>https://indianexpress.com/article/explained/explained-culture/portland-frog-cultural-reinvention-resistance-10448776/</link>
 		
@@ -4087,25 +4106,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/IMG_20251123_114350.jpg?resize=516,405" medium="image">
 			<media:title type="html">Peter Gade teaching his double action shot to kids in Siri Fort Complex, New Delhi. (ExpressPhoto/Pritish Raj)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What is Pantone, and why does it crown a ‘Colour of the Year’ every December?</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/pantone-colour-year-cloud-dancer-10405430/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 06 Dec 2025 05:23:07 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10405430</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10405430</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Pantone-COTY.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Pantone-COTY.jpg" medium="image">
-			<media:title type="html">Pantone COTY</media:title>
 		</media:content>
 	</item>
 	</channel>
