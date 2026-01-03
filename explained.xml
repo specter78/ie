@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 03 Jan 2026 09:48:04 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 03 Jan 2026 12:49:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Before explosions in Venezuela&#8217;s Caracas, months of tensions over drugs, and an old US interest — oil</title>
+		<title>US Strikes Venezuela: From bus driver to Chavez&#8217;s right hand and authoritarian dictator: Who is Nicolas Maduro?</title>
+		<link>https://indianexpress.com/article/explained/explained-global/who-is-nicolas-maduro-10453648/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 03 Jan 2026 12:30:44 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10453648</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10453648</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/venezuela.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/venezuela.jpg" medium="image">
+			<media:title type="html">Venezuela US</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>US Strikes Venezuela: Before explosions in Venezuela&#8217;s Caracas, months of tensions over drugs, and an old US interest — oil</title>
 		<link>https://indianexpress.com/article/explained/explained-global/explosions-venezuela-us-10453263/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -4087,25 +4106,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/cheetah-case.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/cheetah-case.jpg" medium="image">
 			<media:title type="html">cheetah case</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How the Muslim League and the Congress viewed Vande Mataram</title>
-		<link>https://indianexpress.com/article/explained/explained-history/congress-muslim-league-vande-mataram-10409197/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 08 Dec 2025 11:28:06 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10409197</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10409197</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Untitled-design.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Untitled-design.jpg" medium="image">
-			<media:title type="html">Jinnah Nehru Vande Mataram</media:title>
 		</media:content>
 	</item>
 	</channel>
