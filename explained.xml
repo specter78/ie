@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 06 Jan 2026 17:17:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 07 Jan 2026 00:51:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>On wrong side of the law: Delhi Traffic officers explain why they’re cracking down</title>
+		<link>https://indianexpress.com/article/explained/on-wrong-side-of-the-law-delhi-traffic-officers-explain-why-theyre-cracking-down-10459249/</link>
+		
+		<dc:creator><![CDATA[Alok Singh]]></dc:creator>
+		<pubDate>Wed, 07 Jan 2026 00:45:09 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10459249</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10459249</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/delhi-road-5col.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/delhi-road-5col.jpg" medium="image">
+			<media:title type="html">delhi road-5col</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>An Expert Explains the LAC issue: ‘The Chinese are using ambiguity on the LAC… as a major pressure point against us’</title>
+		<link>https://indianexpress.com/article/explained/china-lac-arunachal-pradesh-claims-history-border-expert-10458694/</link>
+		
+		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
+		<pubDate>Wed, 07 Jan 2026 00:30:15 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10458694</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10458694</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/LAC-explained.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/LAC-explained.jpg" medium="image">
+			<media:title type="html">LAC explained</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>SC hands Adani Power a major victory: Why govt cannot tax SEZ electricity as a ‘foreign import’</title>
 		<link>https://indianexpress.com/article/explained/explained-law/sc-adani-power-govt-sez-electricity-foreign-import-10458677/</link>
 		
@@ -4060,48 +4098,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/gold-card.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/gold-card.jpg" medium="image">
 			<media:title type="html">gold card</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: Importance of the recently inaugurated Shyok tunnel in Ladakh</title>
-		<link>https://indianexpress.com/article/explained/shyok-tunnel-ladakh-defence-significance-10414883/</link>
-		
-		<dc:creator><![CDATA[Amrita Nayak Dutta]]></dc:creator>
-		<pubDate>Thu, 11 Dec 2025 10:59:47 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10414883</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10414883</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/shyok-tunnel.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/shyok-tunnel.jpg" medium="image">
-			<media:title type="html">A view of newly inaugurated 920m Cut &#38; Cover Shyok Tunnel in Leh</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/DSDBO-road.jpg" medium="image">
-			<media:title type="html">DSDBO road.</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Nehru, not Patel, became India’s first PM: The politics behind the 1946 Congress vote</title>
-		<link>https://indianexpress.com/article/explained/explained-history/nehru-patel-first-pm-congress-10414706/</link>
-		
-		<dc:creator><![CDATA[Adrija Roychowdhury]]></dc:creator>
-		<pubDate>Thu, 11 Dec 2025 08:54:47 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10414706</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10414706</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/patelnehru2.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/patelnehru2.jpg" medium="image">
-			<media:title type="html">patelnehru2</media:title>
 		</media:content>
 	</item>
 	</channel>
