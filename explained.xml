@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 08 Jan 2026 07:58:15 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Jan 2026 08:33:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>US leaves India-headquartered International Solar Alliance after Trump order: What to know</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/us-leaves-india-headquartered-international-solar-alliance-trump-10461781/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 08 Jan 2026 08:21:10 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10461781</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10461781</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Untitled-design.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Untitled-design.jpg" medium="image">
+			<media:title type="html">International Solar Alliance</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How demand for ST status has turned into a political battle in poll-bound Assam</title>
 		<link>https://indianexpress.com/article/explained/explained-politics/st-status-assam-10461386/</link>
 		
@@ -4071,33 +4090,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/Chinese_captives_in_Nanking.jpg?resize=600,395" medium="image">
 			<media:title type="html">Chinese prisoners in Nanjing.</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>GDP: What&#8217;s the link between inequality and public education?</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/inequality-public-education-10416910/</link>
-		
-		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
-		<pubDate>Fri, 12 Dec 2025 11:03:46 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10416910</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10416910</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/inequality.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/inequality.jpg" medium="image">
-			<media:title type="html">Slums and high-rise buildings are seen in Mumbai</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/GDP-chart-1-inc-1.jpg?resize=600,308" medium="image">
-			<media:title type="html">inequality</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/GDP-CHART-2-edu-2.jpg?resize=600,290" medium="image">
-			<media:title type="html">inequality</media:title>
 		</media:content>
 	</item>
 	</channel>
