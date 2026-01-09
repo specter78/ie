@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 09 Jan 2026 04:17:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 09 Jan 2026 08:20:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Gig workers write: This is why those Deepinder Goyal calls &#8216;miscreants&#8217; go on strike</title>
+		<link>https://indianexpress.com/article/opinion/columns/gig-workers-blinkit-zomato-gig-economy-deepinder-goyal-10463959/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 09 Jan 2026 08:20:11 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10463959</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10463959</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/09/blinkit-4.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/09/blinkit-4.jpg" medium="image">
+			<media:title type="html">blinkit delivery partner viral video</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Gig workers srike: There are no easy villains or answers</title>
 		<link>https://indianexpress.com/article/opinion/columns/gig-workers-srike-there-are-no-easy-villains-or-answers-10463145/</link>
 		
@@ -3835,25 +3854,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/07/NRI-searches-for-jobs-in-India.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/07/NRI-searches-for-jobs-in-India.jpg" medium="image">
 			<media:title type="html">NRI searches for jobs in India</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What UP government’s attempt to withdraw cases against Akhlaq case accused tells us about state’s bias</title>
-		<link>https://indianexpress.com/article/opinion/columns/mohammad-akhlaq-lynching-uttar-pradesh-prosecution-cow-vigilantism-10438412/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 25 Dec 2025 08:22:17 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10438412</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10438412</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Akhlaq-murder_20251225082053.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Akhlaq-murder_20251225082053.jpg" medium="image">
-			<media:title type="html">Akhlaq-murder_20251225082053.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
