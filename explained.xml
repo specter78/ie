@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 12 Jan 2026 07:11:59 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Jan 2026 08:10:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why the criminal investigation into Fed Chair Jerome Powell sends a chilling message</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/investigation-fed-chair-jerome-powell-effect-10468779/</link>
+		
+		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
+		<pubDate>Mon, 12 Jan 2026 07:30:42 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10468779</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10468779</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Jerome-Powell-Fed-chair.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Jerome-Powell-Fed-chair.jpg" medium="image">
+			<media:title type="html">Jerome Powell Fed chair</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>The ‘heavy’ attraction of Venezuela’s viscous, sticky crude for world’s largest oil producer US</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/venezuela-viscous-sticky-crude-attraction-for-us-10468096/</link>
 		
@@ -61,9 +80,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10468243</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Farmer-Kokchand-Sahu-holding-an-Orobanche-weed-plant-from-his-mustard-field-in-Haryanas-Sirsa-district.-special-arrangement.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Farmer-Kokchand-Sahu-holding-an-Orobanche-weed-plant-from-his-mustard-field-in-Haryanas-Sirsa-district.-special-arrangement.jpg" medium="image">
-			<media:title type="html">Farmer Kokchand Sahu holding an Orobanche weed plant from his mustard field in Haryana’s Sirsa district. special arrangement</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Untitled-design-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Untitled-design-2.jpg" medium="image">
+			<media:title type="html">Weed mustard</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/edible-oil-suppy-horz.jpg" medium="image">
@@ -4059,25 +4078,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/Hong_Kong_Jimmy_Lai.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/Hong_Kong_Jimmy_Lai.jpg" medium="image">
 			<media:title type="html">Hong Kong Jimmy Lai Profile</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Bondi Beach shooting may lead to another reckoning in Australia over guns</title>
-		<link>https://indianexpress.com/article/explained/explained-global/australia-shored-up-gun-laws-after-96-tragedy-it-faces-a-fresh-reckoning-10422166/</link>
-		
-		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
-		<pubDate>Tue, 16 Dec 2025 04:41:26 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10422166</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10422166</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Police-officers-near-the-site-of-the-Bondi-Beach-shooting.-AP-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Police-officers-near-the-site-of-the-Bondi-Beach-shooting.-AP-1.jpg" medium="image">
-			<media:title type="html">Police officers near the site of the Bondi Beach shooting. AP 1</media:title>
 		</media:content>
 	</item>
 	</channel>
