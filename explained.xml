@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 12 Jan 2026 08:10:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Jan 2026 08:43:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -917,6 +917,10 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-05-at-17.11.55.jpeg?resize=400,600" medium="image">
 			<media:title type="html">Shabina and Saima, the wife and daughter of the 2020 Delhi riots accused Mohammad Saleem Khan, who got bail from Supreme Court on Monday, at their home in New Delhi. (Express photo by Praveen Khanna)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/Delhi-riots-case-timeline.jpg" medium="image">
+			<media:title type="html">Delhi riots case timeline</media:title>
 		</media:content>
 	</item>
 		<item>
