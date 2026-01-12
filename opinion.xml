@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 12 Jan 2026 09:32:26 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 12 Jan 2026 10:51:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -635,9 +635,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10464589</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2024/01/wild-tusker.jpg" />
-		<media:content url="https://images.indianexpress.com/2024/01/wild-tusker.jpg" medium="image">
-			<media:title type="html">wild tusker</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/shankar-elephant-1_20260112103715.png" />
+		<media:content url="https://images.indianexpress.com/2026/01/shankar-elephant-1_20260112103715.png" medium="image">
+			<media:title type="html">shankar-elephant-1_20260112103715.png</media:title>
 		</media:content>
 	</item>
 		<item>
