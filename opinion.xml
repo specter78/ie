@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 13 Jan 2026 09:59:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Jan 2026 11:00:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>C Raja Mohan writes: Modi-Merz engagement was about sketching a new strategic geography — &#8216;Indo-Europe&#8217;</title>
+		<link>https://indianexpress.com/article/opinion/columns/c-raja-mohan-narendra-modi-friedrich-merz-germany-indo-europe-10471173/</link>
+		
+		<dc:creator><![CDATA[C. Raja Mohan]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2026 11:00:54 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10471173</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10471173</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Kite_20260113105749.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Kite_20260113105749.jpg" medium="image">
+			<media:title type="html">Kite_20260113105749.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Greenlanders are not chess pieces. Any attempt to &#8216;buy&#8217; or &#8216;occupy&#8217; Greenland revives memories of imperial arrogance</title>
 		<link>https://indianexpress.com/article/opinion/columns/greenland-us-annexation-oil-minerals-denmark-china-russia-10470689/</link>
 		
@@ -3823,29 +3842,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/Kuldeep-Sengar_20251229132000.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/Kuldeep-Sengar_20251229132000.jpg" medium="image">
 			<media:title type="html">Kuldeep-Sengar_20251229132000.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Brigitte Bardot’s revolution of the self</title>
-		<link>https://indianexpress.com/article/opinion/columns/brigitte-bardot-revolution-sex-symbol-france-me-too-movement-10445095/</link>
-		
-		<dc:creator><![CDATA[Aishwarya Khosla]]></dc:creator>
-		<pubDate>Mon, 29 Dec 2025 12:20:08 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10445095</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10445095</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Opinion7_31st-Dec.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Opinion7_31st-Dec.jpg" medium="image">
-			<media:title type="html">Opinion7_31st-Dec</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/Marianne-de-la-Republique.jpg?resize=600,338" medium="image">
-			<media:title type="html">Marianne de la République. (Source: boutiquesdemusees.fr/)</media:title>
 		</media:content>
 	</item>
 	</channel>
