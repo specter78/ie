@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 14 Jan 2026 06:16:51 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 14 Jan 2026 06:58:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>In SC&#8217;s split verdict on corruption law, judges disagree on shielding honest officers vs unmasking the corrupt</title>
+		<link>https://indianexpress.com/article/explained/explained-law/sc-split-verdict-on-corruption-law-10472794/</link>
+		
+		<dc:creator><![CDATA[Vineet Bhalla]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2026 06:58:25 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10472794</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10472794</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Supreme-court-3.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Supreme-court-3.jpg" medium="image">
+			<media:title type="html">Supreme court</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What the US could do in Iran, and what India will watch out for</title>
 		<link>https://indianexpress.com/article/explained/explained-global/what-us-could-do-in-iran-india-stakes-10472646/</link>
 		
@@ -4059,25 +4078,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/Bitcoin-crash.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/Bitcoin-crash.jpg" medium="image">
 			<media:title type="html">Bitcoin crash</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>National Herald case: Why special court ruled against ED</title>
-		<link>https://indianexpress.com/article/explained/explained-law/national-herald-case-why-special-court-ruled-against-ed-10425998/</link>
-		
-		<dc:creator><![CDATA[Apurva Vishwanath]]></dc:creator>
-		<pubDate>Thu, 18 Dec 2025 01:30:30 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10425998</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10425998</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/RahulSonia2-3col1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/RahulSonia2-3col1.jpg" medium="image">
-			<media:title type="html">RahulSonia2-3col1</media:title>
 		</media:content>
 	</item>
 	</channel>
