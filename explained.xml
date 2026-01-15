@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 15 Jan 2026 13:45:26 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 15 Jan 2026 14:43:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Wikipedia at 25: Of collective knowledge and fault lines deepened by AI</title>
+		<link>https://indianexpress.com/article/explained/explained-culture/wikipedia-birthday-information-origins-10476077/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 15 Jan 2026 14:43:21 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10476077</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10476077</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Wikipedia.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Wikipedia.jpg" medium="image">
+			<media:title type="html">Wikipedia</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Ganga Expressway nearing inauguration: What the BJP hopes it will do for UP</title>
 		<link>https://indianexpress.com/article/explained/ganga-expressway-inauguration-date-details-bjp-cost-10475766/</link>
 		
@@ -4055,25 +4074,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/CHART-2-changes-in-stock-indices-in-since-december-2024-.jpg?resize=600,420" medium="image">
 			<media:title type="html">rupee</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>As SC re-examines Harish Rana case, recalling India&#8217;s law on euthanasia and landmark cases</title>
-		<link>https://indianexpress.com/article/explained/explained-law/harish-rana-supreme-court-euthanasia-law-10428605/</link>
-		
-		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
-		<pubDate>Fri, 19 Dec 2025 08:57:04 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10428605</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10428605</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/euthanasia.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/euthanasia.jpg" medium="image">
-			<media:title type="html">Closeup of hand with IV tube</media:title>
 		</media:content>
 	</item>
 	</channel>
