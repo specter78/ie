@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 16 Jan 2026 14:00:42 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Jan 2026 15:11:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -219,8 +219,8 @@
 			<media:title type="html">basmati-eco</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/basmat-exports.jpg?resize=472,600" medium="image">
-			<media:title type="html">India&#039;s basmati rice exports to Iran</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/INDIAS-BASMATI-EXPORTS-TO-IRAN.jpg?resize=600,473" medium="image">
+			<media:title type="html">Basmati exports to Iran</media:title>
 		</media:content>
 	</item>
 		<item>
