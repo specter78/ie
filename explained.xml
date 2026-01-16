@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 16 Jan 2026 09:12:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Jan 2026 09:42:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>As Machado presents the Nobel to Trump, can the Peace Prize be transferred?</title>
+		<link>https://indianexpress.com/article/explained/machado-nobel-trump-transfer-10477558/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2026 09:42:40 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10477558</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10477558</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Trump-Nobel.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Trump-Nobel.jpg" medium="image">
+			<media:title type="html">Venezuelan Nobel Peace Prize winner presents her medal to Trump</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/Trump-Machado-Nobel.jpg?resize=542,600" medium="image">
+			<media:title type="html">@WhiteHouse/X via PTI Photo.</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>SC’s ruling against Tiger Global in Flipkart stake sale could have consequences for Indian startups</title>
 		<link>https://indianexpress.com/article/explained/explained-law/sc-ruling-tiger-global-startups-10477317/</link>
 		
@@ -4047,29 +4070,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/gavel-IE3.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/gavel-IE3.jpg" medium="image">
 			<media:title type="html">gavel-IE3</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>SHANTI Bill: How India is overhauling its nuclear power sector</title>
-		<link>https://indianexpress.com/article/explained/shanti-bill-how-india-is-overhauling-its-nuclear-power-sector-10429495/</link>
-		
-		<dc:creator><![CDATA[Pratyush Deep]]></dc:creator>
-		<pubDate>Sat, 20 Dec 2025 01:35:28 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10429495</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10429495</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Nuclear_Power-madras.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Nuclear_Power-madras.jpg" medium="image">
-			<media:title type="html">India Nuclear Power</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/Features-of-the-SHANTI-Bill.jpg" medium="image">
-			<media:title type="html">Features of the SHANTI Bill.</media:title>
 		</media:content>
 	</item>
 	</channel>
