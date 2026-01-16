@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 16 Jan 2026 06:41:02 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 16 Jan 2026 08:09:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>SC’s ruling against Tiger Global in Flipkart stake sale could have consequences for Indian startups</title>
+		<link>https://indianexpress.com/article/explained/explained-law/sc-ruling-tiger-global-startups-10477317/</link>
+		
+		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2026 08:02:59 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10477317</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10477317</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/flipkart.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/flipkart.jpg" medium="image">
+			<media:title type="html">flipkart</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>An Expert Explains: How China may be reading the US military action in Venezuela</title>
 		<link>https://indianexpress.com/article/explained/explained-global/expert-explains-china-strategy-us-military-venezuela-maduro-10475096/</link>
 		
@@ -4051,25 +4070,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/Features-of-the-SHANTI-Bill.jpg" medium="image">
 			<media:title type="html">Features of the SHANTI Bill.</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>New Delhi’s worry: Amid anti-India current in Bangladesh, will violence derail February polls?</title>
-		<link>https://indianexpress.com/article/explained/delhi-worry-anti-india-current-will-violence-derail-february-polls-10429644/</link>
-		
-		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
-		<pubDate>Fri, 19 Dec 2025 23:44:53 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10429644</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10429644</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/bangladesh-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/bangladesh-1.jpg" medium="image">
-			<media:title type="html">Bangladesh Politics</media:title>
 		</media:content>
 	</item>
 	</channel>
