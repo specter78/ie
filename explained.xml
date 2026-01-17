@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 17 Jan 2026 13:50:44 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 17 Jan 2026 14:15:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Digital open universities in Punjab: A look at AAP govt’s new policy for online education</title>
+		<title>‘Digital open universities’ launched in Punjab for private players: How will they operate — and will the govt fund them?</title>
 		<link>https://indianexpress.com/article/explained/digital-open-universities-punjab-10479787/</link>
 		
 		<dc:creator><![CDATA[Divya Goyal]]></dc:creator>
