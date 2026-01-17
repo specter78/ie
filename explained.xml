@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 17 Jan 2026 05:26:46 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 17 Jan 2026 13:05:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Bengaluru-Mysuru Infrastructure Corridor: Why Karnataka HC has asked the state govt to scrap the project</title>
+		<link>https://indianexpress.com/article/explained/bengaluru-mysuru-infrastructure-corridor-10479714/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 17 Jan 2026 13:05:15 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10479714</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10479714</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Untitled-design-35.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Untitled-design-35.jpg" medium="image">
+			<media:title type="html">Untitled design-35</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Can South Korea turn the page with Yoon Suk Yeol in prison?</title>
 		<link>https://indianexpress.com/article/explained/explained-global/korea-yoon-suk-yeol-prison-10478203/</link>
 		
@@ -4063,25 +4082,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/armytraining.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/armytraining.jpg" medium="image">
 			<media:title type="html">armytraining</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Seven elephants die in train hit in Assam: How such accidents can be prevented</title>
-		<link>https://indianexpress.com/article/explained/how-elephants-can-be-protected-from-train-hits-10431606/</link>
-		
-		<dc:creator><![CDATA[Arjun Sengupta]]></dc:creator>
-		<pubDate>Sun, 21 Dec 2025 09:54:59 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10431606</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10431606</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/India_Elephants_Accident-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/India_Elephants_Accident-1600.jpg" medium="image">
-			<media:title type="html">India Elephants Accident</media:title>
 		</media:content>
 	</item>
 	</channel>
