@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 19 Jan 2026 01:02:50 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Jan 2026 03:09:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,82 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>40 years ago January 19, 1986: Wrangling over Chandigarh</title>
+		<link>https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-january-19-1986-wrangling-over-chandigarh-10481699/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 02:45:21 +0000</pubDate>
+		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10481699</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10481699</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/express-archive-40-years-ago-19-jan-1986.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/express-archive-40-years-ago-19-jan-1986.jpg" medium="image">
+			<media:title type="html">express archive 40 years ago 19 jan 1986</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>For government&#8217;s reform drive to succeed, rationalise agri subsidies</title>
+		<link>https://indianexpress.com/article/opinion/columns/for-governments-reform-drive-to-succeed-rationalise-agri-subsidies-10481697/</link>
+		
+		<dc:creator><![CDATA[Ashok Gulati]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 02:45:18 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10481697</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10481697</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Pusa-44-banned-in-Punjab_20250525182828_20250612031753_20260108082030_20260118193637.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Pusa-44-banned-in-Punjab_20250525182828_20250612031753_20260108082030_20260118193637.jpg" medium="image">
+			<media:title type="html">farmers</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Punjab&#8217;s AAP govt should stop hounding the messenger</title>
+		<link>https://indianexpress.com/article/opinion/editorials/punjabs-aap-govt-should-stop-hounding-the-messenger-10481696/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 02:45:16 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10481696</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10481696</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Express-view-Copy-13.jpeg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Express-view-Copy-13.jpeg" medium="image">
+			<media:title type="html">Express-view - Copy</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Trump&#8217;s Greenland push needs a pushback from Europe</title>
+		<link>https://indianexpress.com/article/opinion/editorials/trumps-greenland-push-needs-a-pushback-from-europe-10481695/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 19 Jan 2026 02:45:14 +0000</pubDate>
+		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10481695</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10481695</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Express-view-Copy-3-11.jpeg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Express-view-Copy-3-11.jpeg" medium="image">
+			<media:title type="html">Express-view - Copy (3)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>J Sai Deepak writes &#124; Patent rights and public health: What are Bharat’s options?</title>
 		<link>https://indianexpress.com/article/opinion/columns/j-sai-deepak-writes-patent-rights-and-public-health-what-are-bharats-options-10481705/</link>
 		
@@ -3770,82 +3846,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/DOGS03id-R.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/DOGS03id-R.jpg" medium="image">
 			<media:title type="html">DOGS03id-R</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Ram Madhav writes: In 2026, two opportunities for India to prove critics wrong, showcase democracy</title>
-		<link>https://indianexpress.com/article/opinion/columns/ram-madhav-writes-head-in-2026-two-opportunities-for-india-to-prove-critics-wrong-showcase-democracy-10452459/</link>
-		
-		<dc:creator><![CDATA[Ram Madhav]]></dc:creator>
-		<pubDate>Sat, 03 Jan 2026 01:45:45 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10452459</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10452459</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/2-JAN-OPEN-2nd-ILLU.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/2-JAN-OPEN-2nd-ILLU.jpg" medium="image">
-			<media:title type="html">2 JAN OPEN 2nd ILLU</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Telecom sector needs a larger number of strong players</title>
-		<link>https://indianexpress.com/article/opinion/editorials/telecom-sector-needs-a-larger-number-of-strong-players-10452455/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 03 Jan 2026 01:45:39 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10452455</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10452455</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/edit_b4da7b.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/01/edit_b4da7b.jpeg" medium="image">
-			<media:title type="html">edit_b4da7b</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Indore tragedy points to rot in urban governance</title>
-		<link>https://indianexpress.com/article/opinion/editorials/indore-tragedy-points-to-rot-in-urban-governance-10452453/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 03 Jan 2026 01:38:25 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10452453</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10452453</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/edit_803113.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/01/edit_803113.jpeg" medium="image">
-			<media:title type="html">edit_803113</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Energy transition will need more than chasing the sun and harnessing the wind</title>
-		<link>https://indianexpress.com/article/opinion/columns/energy-transition-will-need-more-than-chasing-the-sun-and-harnessing-the-wind-10452456/</link>
-		
-		<dc:creator><![CDATA[Shefali Khanna]]></dc:creator>
-		<pubDate>Sat, 03 Jan 2026 01:37:41 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10452456</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10452456</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/solar-1-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/solar-1-1.jpg" medium="image">
-			<media:title type="html">solar-1 (1)</media:title>
 		</media:content>
 	</item>
 	</channel>
