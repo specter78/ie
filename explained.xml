@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 20 Jan 2026 12:12:59 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 20 Jan 2026 13:09:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Who bears the burden of Trump’s tariffs? Nearly every American, according to new study</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/trump-tariffs-burden-american-study-10485047/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Tue, 20 Jan 2026 13:07:42 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10485047</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10485047</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Trump-tariff-burden.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Trump-tariff-burden.jpg" medium="image">
+			<media:title type="html">Trump tariff burden</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>In justifying Greenland bid, why Trump cited the Indian Ocean island of Diego Garcia</title>
 		<link>https://indianexpress.com/article/explained/explained-global/greenland-trump-indian-ocean-island-diego-garcia-uk-10484849/</link>
 		
@@ -4059,25 +4078,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/US-economy-growth-02.jpg?resize=600,256" medium="image">
 			<media:title type="html">US economy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Assam&#8217;s Karbi Anglong violence: Immediate trigger and historical background of dispute</title>
-		<link>https://indianexpress.com/article/explained/assam-karbi-anglong-violence-trigger-background-10436264/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 24 Dec 2025 06:14:12 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10436264</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10436264</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/karbi-anglong-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/karbi-anglong-1600.jpg" medium="image">
-			<media:title type="html">Violence in Assam&#039;s West Karbi Anglong</media:title>
 		</media:content>
 	</item>
 	</channel>
