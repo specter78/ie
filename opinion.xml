@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 21 Jan 2026 10:49:23 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Jan 2026 11:33:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>India has lagged on breast cancer screenings. Now, an opportunity to leapfrog</title>
+		<link>https://indianexpress.com/article/opinion/columns/india-has-lagged-on-breast-cancer-screenings-now-an-opportunity-10486934/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2026 11:33:50 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10486934</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10486934</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/breast-cancer_20260121112935.png" />
+		<media:content url="https://images.indianexpress.com/2026/01/breast-cancer_20260121112935.png" medium="image">
+			<media:title type="html">breast cancer</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>At World Book Fair, a crowd loots books. It&#8217;s about Instagram, not the written word</title>
 		<link>https://indianexpress.com/article/opinion/columns/at-world-book-fair-a-crowd-loots-books-its-about-instagram-not-the-written-word-10486760/</link>
 		
@@ -3819,29 +3838,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/VENEZUELA-MADURO_20260106062005.gif" />
 		<media:content url="https://images.indianexpress.com/2026/01/VENEZUELA-MADURO_20260106062005.gif" medium="image">
 			<media:title type="html">VENEZUELA-MADURO_20260106062005.gif</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>SIR could roll back decades of progress in women’s political participation</title>
-		<link>https://indianexpress.com/article/opinion/columns/sir-could-roll-back-decades-of-progress-in-womens-political-participation-10457286/</link>
-		
-		<dc:creator><![CDATA[Rahul Shastri, Yogendra Yadav]]></dc:creator>
-		<pubDate>Tue, 06 Jan 2026 01:24:01 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10457286</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10457286</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Opinion4_6th-Jan.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Opinion4_6th-Jan.jpg" medium="image">
-			<media:title type="html">Opinion4_6th-Jan</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/sir-II.jpg" medium="image">
-			<media:title type="html">SIR could roll back decades of progress in women’s political participation</media:title>
 		</media:content>
 	</item>
 	</channel>
