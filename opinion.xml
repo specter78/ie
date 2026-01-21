@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 21 Jan 2026 07:58:22 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 21 Jan 2026 09:39:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Sanjaya Baru writes: Carney’s manifesto for our times</title>
+		<link>https://indianexpress.com/article/opinion/columns/canada-pm-mark-carney-davos-speech-trump-nato-greenland-tariffs-10486432/</link>
+		
+		<dc:creator><![CDATA[Sanjaya Baru]]></dc:creator>
+		<pubDate>Wed, 21 Jan 2026 09:39:48 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10486432</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10486432</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/carney-1600_20260121093528.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/carney-1600_20260121093528.jpg" medium="image">
+			<media:title type="html">Carney</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>In Noida techie death, the only hero was not from police or government. It was Moninder, the gig worker</title>
 		<link>https://indianexpress.com/article/opinion/columns/in-noida-techie-death-the-only-hero-was-moninder-gig-worker-10486433/</link>
 		
@@ -3823,25 +3842,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/06-Jan-1986_IE_001-40-years-ago.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/06-Jan-1986_IE_001-40-years-ago.jpg" medium="image">
 			<media:title type="html">06 Jan 1986_IE_001 40 years ago</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Inflation has been low. That’s not necessarily a good thing</title>
-		<link>https://indianexpress.com/article/opinion/columns/inflation-has-been-low-thats-not-necessarily-a-good-thing-10457276/</link>
-		
-		<dc:creator><![CDATA[Madan Sabnavis]]></dc:creator>
-		<pubDate>Tue, 06 Jan 2026 01:12:41 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10457276</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10457276</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Opinion3_6th-Jan.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Opinion3_6th-Jan.jpg" medium="image">
-			<media:title type="html">Opinion3_6th-Jan</media:title>
 		</media:content>
 	</item>
 	</channel>
