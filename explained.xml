@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 21 Jan 2026 21:00:55 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Jan 2026 03:31:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,48 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>One-tenth of Indian passport-holders now have e-passports. What’s so special about these?</title>
+		<link>https://indianexpress.com/article/explained/one-tenth-of-indian-passport-holders-now-have-e-passports-whats-so-special-about-these-10487536/</link>
+		
+		<dc:creator><![CDATA[Divya A]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2026 01:35:17 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10487536</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10487536</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/passport_4ff6de.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/passport_4ff6de.jpg" medium="image">
+			<media:title type="html">Passport</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why Punjab farmers want security fence moved closer to border with Pakistan</title>
+		<link>https://indianexpress.com/article/explained/why-punjab-farmers-want-security-fence-moved-closer-to-border-with-pakistan-10487846/</link>
+		
+		<dc:creator><![CDATA[Kanchan Vasdev]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2026 01:25:28 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10487846</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10487846</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Why-Punjab-farmers-want-security-fence-moved-closer-to-border-with-Pakistan.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Why-Punjab-farmers-want-security-fence-moved-closer-to-border-with-Pakistan.jpg" medium="image">
+			<media:title type="html">Farmers stand facing the border with Pakistan at Kakar village in Amritsar sector.</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/punjb-apak-border-horz.jpg" medium="image">
+			<media:title type="html">Why Punjab farmers want security fence moved closer to border with Pakistan</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>‘When America booms, the entire world booms’: Takeaways from Trump&#8217;s speech at Davos</title>
 		<link>https://indianexpress.com/article/explained/explained-global/donald-trump-davos-takeaways-10487788/</link>
 		
@@ -4012,48 +4054,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/CPI-Leaders.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/CPI-Leaders.jpg" medium="image">
 			<media:title type="html">CPI-Leaders</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>With Peanuts in its kitty, Sony takes another step towards entertainment domination</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/peanuts-sony-entertainment-domination-10438789/</link>
-		
-		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
-		<pubDate>Thu, 25 Dec 2025 13:19:04 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10438789</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10438789</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Sony-Snoopy-acquisition.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Sony-Snoopy-acquisition.jpg" medium="image">
-			<media:title type="html">Sony Snoopy acquisition</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/Snoopy-first-appearance.jpg?resize=600,121" medium="image">
-			<media:title type="html">Snoopy first appeared in the October 4, 1950 comic as a puppy. (Peanuts)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Unnao rape case: Why Delhi HC suspended Sengar&#8217;s sentence, said ex-MLA wasn&#8217;t public servant</title>
-		<link>https://indianexpress.com/article/explained/explained-law/unnao-rape-case-delhi-hc-sengars-sentence-suspended-10438851/</link>
-		
-		<dc:creator><![CDATA[Sohini Ghosh]]></dc:creator>
-		<pubDate>Thu, 25 Dec 2025 13:03:17 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10438851</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10438851</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/Sengar-Delhi-HC.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/Sengar-Delhi-HC.jpg" medium="image">
-			<media:title type="html">Sengar Delhi HC</media:title>
 		</media:content>
 	</item>
 	</channel>
