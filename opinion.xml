@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 22 Jan 2026 08:07:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Jan 2026 09:51:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Victoria Beckham is finding out, &#8216;rishton ke bhi roop badaltein hai&#8217;. And airing saas-bahu drama in public has a cost</title>
+		<link>https://indianexpress.com/article/opinion/columns/victoria-beckham-brooklyn-david-beckham-saas-bahu-family-indian-10488682/</link>
+		
+		<dc:creator><![CDATA[Aishwarya Khosla]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2026 09:45:19 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10488682</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10488682</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/victoria-beckham.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/victoria-beckham.jpg" medium="image">
+			<media:title type="html">victoria beckham</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>ICC, India and Bangladesh standoff has one clear loser: The fans</title>
+		<link>https://indianexpress.com/article/opinion/columns/icc-bangladesh-india-t20-tournament-ipl-10488686/</link>
+		
+		<dc:creator><![CDATA[Sourabh Roy]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2026 09:38:24 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10488686</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10488686</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/bangladesh-phil-simmons-ap_20260104160341.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/bangladesh-phil-simmons-ap_20260104160341.jpg" medium="image">
+			<media:title type="html">bangladesh cricket</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Post-PhD trauma: We are treated as a bunch of ‘overqualified’ but ‘inexperienced’ lot. This must change</title>
 		<link>https://indianexpress.com/article/opinion/columns/phd-indian-academi-university-caste-bias-10488286/</link>
 		
@@ -3800,44 +3838,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/express-archive-2.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/express-archive-2.jpg" medium="image">
 			<media:title type="html">express archive</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>To save the Aravallis, think like a mountain</title>
-		<link>https://indianexpress.com/article/opinion/columns/to-save-the-aravallis-think-like-a-mountain-10459124/</link>
-		
-		<dc:creator><![CDATA[Gurudas Nulkar]]></dc:creator>
-		<pubDate>Wed, 07 Jan 2026 02:42:45 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10459124</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10459124</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Photo-2026-01-07T154031.423.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Photo-2026-01-07T154031.423.jpg" medium="image">
-			<media:title type="html">Photo - 2026-01-07T154031.423</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Remembering Lt Gen Srinivas Kumar Sinha — soldier, scholar, liberal</title>
-		<link>https://indianexpress.com/article/opinion/columns/remembering-lt-gen-srinivas-kumar-sinha-soldier-scholar-liberal-10459171/</link>
-		
-		<dc:creator><![CDATA[Syed Ata Hasnain]]></dc:creator>
-		<pubDate>Wed, 07 Jan 2026 02:42:40 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10459171</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10459171</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Photo-2026-01-07T154115.835.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Photo-2026-01-07T154115.835.jpg" medium="image">
-			<media:title type="html">Photo - 2026-01-07T154115.835</media:title>
 		</media:content>
 	</item>
 	</channel>
