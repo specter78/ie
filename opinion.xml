@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 22 Jan 2026 04:13:02 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 22 Jan 2026 05:15:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Middle power diplomacy: Is US threat forcing Canada to fall back on China?</title>
+		<link>https://indianexpress.com/article/opinion/columns/canada-china-ties-davos-us-threat-mark-carney-xi-jinping-10488165/</link>
+		
+		<dc:creator><![CDATA[Sneha Bhagat]]></dc:creator>
+		<pubDate>Thu, 22 Jan 2026 05:02:12 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10488165</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10488165</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Mark-Carney.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Mark-Carney.jpg" medium="image">
+			<media:title type="html">Mark Carney</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Lessons from Davos: Trump is a bully and appeasement policy doesn’t work with him</title>
 		<link>https://indianexpress.com/article/opinion/columns/donald-trump-davos-world-economic-forum-greenland-eu-10488055/</link>
 		
@@ -3819,25 +3838,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/Photo-2026-01-07T153935.450.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/Photo-2026-01-07T153935.450.jpg" medium="image">
 			<media:title type="html">Photo - 2026-01-07T153935.450</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>CBAM is a trade barrier. Government must lend exporters a hand</title>
-		<link>https://indianexpress.com/article/opinion/editorials/cbam-is-a-trade-barrier-government-must-lend-exporters-a-hand-10459121/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 07 Jan 2026 02:41:38 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10459121</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10459121</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Express-view-Copy-2-3.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Express-view-Copy-2-3.jpeg" medium="image">
-			<media:title type="html">Express-view - Copy (2)</media:title>
 		</media:content>
 	</item>
 	</channel>
