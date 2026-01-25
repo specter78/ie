@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 25 Jan 2026 08:27:59 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 25 Jan 2026 09:25:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -42,8 +42,8 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10493624</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/sinners.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/sinners.jpg" medium="image">
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/sinners_094452.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/sinners_094452.jpg" medium="image">
 			<media:title type="html">Sinners</media:title>
 		</media:content>
 	</item>
