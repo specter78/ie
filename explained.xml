@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 27 Jan 2026 05:51:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Jan 2026 08:13:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What’s in a name? In Beckham vs Beckham, it’s the issue of trademark</title>
+		<link>https://indianexpress.com/article/explained/explained-law/brooklyn-beckham-family-dispute-trademark-trademark-10496594/</link>
+		
+		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
+		<pubDate>Tue, 27 Jan 2026 08:06:08 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10496594</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10496594</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Beckham.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Beckham.jpg" medium="image">
+			<media:title type="html">Beckham</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Explained: UGC’s new regulations to deal with caste-based discrimination and the opposition to them</title>
+		<link>https://indianexpress.com/article/explained/ugc-new-regulation-controversy-10496730/</link>
+		
+		<dc:creator><![CDATA[Abhinaya Harigovind, Shyamlal Yadav]]></dc:creator>
+		<pubDate>Tue, 27 Jan 2026 07:35:47 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10496730</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10496730</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/ugc_738d7e.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/ugc_738d7e.jpg" medium="image">
+			<media:title type="html">UGC</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>India-EU FTA: Why EU’s ever-growing regulations are India&#8217;s biggest challenge &#038; deal needs to address them</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/india-eu-fta-regulations-biggest-challenge-10496423/</link>
 		
@@ -336,6 +374,10 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/Untitled-design-1-3.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/Untitled-design-1-3.jpg" medium="image">
 			<media:title type="html">Zhang Youxia</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/What-the-CMC-looks-like-now.jpg" medium="image">
+			<media:title type="html">What the CMC looks like now</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3996,44 +4038,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/12/sairang.jpg?resize=600,450" medium="image">
 			<media:title type="html">An inspection car sets off from Sairang station to Bairabi in Mizoram. Text and photo by Dheeraj Mishra *** Local Caption *** Big Picture: An inspection car sets off from Sairang station to Bairabi in Mizoram. Photo: Dheeraj Mishra</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Yearender &#124; Law: Before top court in 2026, matters of religion, citizenship, liberty</title>
-		<link>https://indianexpress.com/article/explained/explained-law/before-top-court-in-2026-matters-of-religion-citizenship-liberty-10449204/</link>
-		
-		<dc:creator><![CDATA[Apurva Vishwanath]]></dc:creator>
-		<pubDate>Thu, 01 Jan 2026 01:35:26 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10449204</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10449204</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Law-yearender.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Law-yearender.jpg" medium="image">
-			<media:title type="html">Law yearender</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>As gig workers strike on Dec 31, how countries have acted on their rights — and where India stands</title>
-		<link>https://indianexpress.com/article/explained/as-gig-workers-strike-on-dec-31-how-countries-have-acted-on-their-rights-and-where-india-stands-10448753/</link>
-		
-		<dc:creator><![CDATA[Vineet Bhalla]]></dc:creator>
-		<pubDate>Wed, 31 Dec 2025 13:37:25 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10448753</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10448753</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/12/delivery.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/12/delivery.jpg" medium="image">
-			<media:title type="html">Gig workers nationwide strike</media:title>
 		</media:content>
 	</item>
 	</channel>
