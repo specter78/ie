@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 27 Jan 2026 05:15:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 27 Jan 2026 05:51:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -123,8 +123,12 @@
 			<media:title type="html">Dedollarisation gold price</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/Dedollarisation_3f3252.jpg" medium="image">
-			<media:title type="html">Global central banks holding fewer US dollars than before (IMF)</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/Screenshot-2026-01-27-at-11.10.21-AM.jpeg?resize=600,274" medium="image">
+			<media:title type="html">Global central banks are now holding few US Dollars than before</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/Screenshot-2026-01-27-at-11.11.53-AM.jpeg?resize=578,600" medium="image">
+			<media:title type="html">Central bank gold purchases </media:title>
 		</media:content>
 	</item>
 		<item>
