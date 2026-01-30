@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 30 Jan 2026 14:00:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 30 Jan 2026 14:36:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Udit Misra writes: Economic Survey says India’s potential GDP growth will rise, but key drivers show mixed record</title>
+		<title>Udit Misra writes: Why the Economic Survey has upped India&#8217;s potential growth rate</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/udit-misra-potential-gdp-growth-economic-survey-predictions-10503941/</link>
 		
 		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
@@ -47,8 +47,8 @@
 			<media:title type="html">Economic Survey 2025-26 press conference</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-30-at-18.51.28.jpeg?resize=600,318" medium="image">
-			<media:title type="html">Potential GDP growth.</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/growth-factors.jpg?resize=600,319" medium="image">
+			<media:title type="html">Potential GDP growth. (Economic survey figures)</media:title>
 		</media:content>
 	</item>
 		<item>
