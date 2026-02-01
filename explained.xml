@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Across world, exiled Tibetans vote today to shortlist their leaders: Why the election matters</title>
+		<link>https://indianexpress.com/article/explained/tibet-elections-today-10504989/</link>
+		
+		<dc:creator><![CDATA[Varinder Bhatia]]></dc:creator>
+		<pubDate>Sun, 01 Feb 2026 01:00:42 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10504989</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10504989</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/01/Tibetan-parliament.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/01/Tibetan-parliament.jpg" medium="image">
+			<media:title type="html">Tibetan parliament</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>US court to decide if Instagram, YouTube are designed to increase social media addiction</title>
 		<link>https://indianexpress.com/article/explained/explained-law/instagram-youtube-design-social-media-addiction-10505139/</link>
 		
@@ -4003,25 +4022,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/assam_9b980c.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/assam_9b980c.jpg" medium="image">
 			<media:title type="html">assam_9b980c</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Iran protests reflect simmering economic pain, and a familiar anger against the regime</title>
-		<link>https://indianexpress.com/article/explained/explained-global/iran-protests-economic-pain-10460867/</link>
-		
-		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
-		<pubDate>Thu, 08 Jan 2026 03:00:08 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10460867</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10460867</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Iran_Protests_Explainer.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Iran_Protests_Explainer.jpg" medium="image">
-			<media:title type="html">Iran Protests Explainer</media:title>
 		</media:content>
 	</item>
 	</channel>
