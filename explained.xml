@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 01 Feb 2026 15:24:23 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Feb 2026 00:59:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,56 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>ExplainSpeaking: Making sense of the Budget, and what it means for the economy</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/explainspeaking-budget-2026-10507738/</link>
+		
+		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2026 00:48:54 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10507738</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10507738</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/ExplainSpeaking-Budget.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/ExplainSpeaking-Budget.jpg" medium="image">
+			<media:title type="html">ExplainSpeaking Budget</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/EXPLAINSPEAKING-CHART-1.jpg.jpeg?resize=600,477" medium="image">
+			<media:title type="html">Expenditure cuts, the cost of fiscal discipline</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/EXPLAINSPEAKING-CHART-2.jpg.jpeg?resize=600,490" medium="image">
+			<media:title type="html">Govt has increasingly switched to capex</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/EXPLAINSPEAKING-CHART-3.jpg.jpeg?resize=600,508" medium="image">
+			<media:title type="html">Govt cut borrowings, leaves much more for private firms</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Trump tariff shadow: Budget addresses US demands, backs vulnerable sectors</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/trump-tariff-shadow-budget-addresses-us-demands-backs-vulnerable-sectors-10508121/</link>
+		
+		<dc:creator><![CDATA[Ravi Dutta Mishra, Soumyarendra Barik]]></dc:creator>
+		<pubDate>Mon, 02 Feb 2026 00:15:42 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10508121</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10508121</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Nirmala-1600_20260201211504.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Nirmala-1600_20260201211504.jpg" medium="image">
+			<media:title type="html">Nirmala-1600_20260201211504.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Union Budget 2026: Experiences, medical tourism, job creation part of big tourism push</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/union-budget-2026-tourism-10507789/</link>
 		
@@ -3972,44 +4022,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/Untitled-design-33.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/Untitled-design-33.jpg" medium="image">
 			<media:title type="html">Untitled design-33</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>From Kolkata to Goa: How Rs 2,742 cr coal scam funds allegedly fueled I-PAC’s election machine</title>
-		<link>https://indianexpress.com/article/explained/kolkata-goa-coal-scam-funds-i-pac-election-10465650/</link>
-		
-		<dc:creator><![CDATA[Sweety Kumari]]></dc:creator>
-		<pubDate>Sat, 10 Jan 2026 07:12:26 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10465650</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10465650</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Bengal-ED-raid-protest.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Bengal-ED-raid-protest.jpg" medium="image">
-			<media:title type="html">Bengal ED raid protest</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why the fight of a Kerala ‘Ex-Muslim’ against YouTube copyright strikes matters for online free speech</title>
-		<link>https://indianexpress.com/article/explained/explained-law/kerala-ex-muslim-youtube-10465621/</link>
-		
-		<dc:creator><![CDATA[Vineet Bhalla]]></dc:creator>
-		<pubDate>Sat, 10 Jan 2026 06:20:28 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10465621</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10465621</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Untitled-design-32.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Untitled-design-32.jpg" medium="image">
-			<media:title type="html">Untitled design-32</media:title>
 		</media:content>
 	</item>
 	</channel>
