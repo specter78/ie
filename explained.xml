@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 03 Feb 2026 11:08:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Feb 2026 11:57:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -47,16 +47,16 @@
 			<media:title type="html">DCF 1.0</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-03-at-15.25.46.jpeg?resize=600,291" medium="image">
-			<media:title type="html">Table 1. </media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/Trade-deal-tables-01.jpg?resize=600,573" medium="image">
+			<media:title type="html">Table 1.</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/Table-2.jpg?resize=600,251" medium="image">
-			<media:title type="html">Table 2</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/Trade-deal-tables-02.jpg?resize=600,457" medium="image">
+			<media:title type="html">Table 2.</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/Table-3.jpg?resize=600,404" medium="image">
-			<media:title type="html">Table 3</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/Trade-deal-tables-03.jpg?resize=529,600" medium="image">
+			<media:title type="html">Table 3. </media:title>
 		</media:content>
 	</item>
 		<item>
