@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 03 Feb 2026 07:46:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Feb 2026 09:55:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How does the trade deal with the US affect India&#8217;s macroeconomic outlook?  </title>
+		<link>https://indianexpress.com/article/explained/explained-economics/india-us-trade-deal-macro-outlook-10511052/</link>
+		
+		<dc:creator><![CDATA[Ravi Dutta Mishra]]></dc:creator>
+		<pubDate>Tue, 03 Feb 2026 09:55:37 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10511052</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10511052</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/moditrump.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/moditrump.jpg" medium="image">
+			<media:title type="html">India, US trade deal</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: Hyderabad Metro expansion, set to connect airport, CM Revanth Reddy&#8217;s Bharat Future City, and more</title>
 		<link>https://indianexpress.com/article/explained/hyderabad-metro-expansion-airport-phase-2-route-details-10510746/</link>
 		
@@ -3995,29 +4014,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/SC-Explained-2.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/SC-Explained-2.jpg" medium="image">
 			<media:title type="html">SC Explained</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Behind ISRO rocket&#8217;s second straight failure is a third-stage problem</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/isro-second-failure-third-stage-pslv-c62-10469438/</link>
-		
-		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
-		<pubDate>Mon, 12 Jan 2026 13:37:48 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10469438</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10469438</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/isro-pslv-fail.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/isro-pslv-fail.jpg" medium="image">
-			<media:title type="html">ISRO launches PSLV-C62</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/isro-pslv-launch.jpg?resize=600,316" medium="image">
-			<media:title type="html">ISRO scientists and engineers monitor the successful lift-off of the PSLV-C62/EOS-N1 mission from the mission control room at Satish Dhawan Space Centre (SDSC-SHAR), in Sriharikota on Monday. </media:title>
 		</media:content>
 	</item>
 	</channel>
