@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 05 Feb 2026 10:15:35 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Feb 2026 11:12:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>FTA with EU strengthens India domestically, regionally and globally</title>
+		<link>https://indianexpress.com/article/opinion/columns/india-eu-fta-us-donald-trump-indias-trade-agreement-fta-10515400/</link>
+		
+		<dc:creator><![CDATA[Sumit Ganguly]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2026 11:12:07 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10515400</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10515400</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/india-eu-fta-mou.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/india-eu-fta-mou.jpg" medium="image">
+			<media:title type="html">india-eu-fta</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>START is over. Will a new nuclear arms race between the US and Russia take off?</title>
+		<link>https://indianexpress.com/article/opinion/columns/start-is-over-nuclear-arms-race-us-russia-iran-10515304/</link>
+		
+		<dc:creator><![CDATA[Saptarshi Basak]]></dc:creator>
+		<pubDate>Thu, 05 Feb 2026 10:32:39 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10515304</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10515304</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/US-UKRAINE-15-6_20260205102940-e1770287632731.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/US-UKRAINE-15-6_20260205102940-e1770287632731.jpg" medium="image">
+			<media:title type="html">START expiration, nuclear weapons</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Ethnic faultlines in Manipur still run deep. Yumnam Khemchand Singh has his task cut out</title>
 		<link>https://indianexpress.com/article/opinion/columns/yumnam-khemchand-singh-manipur-cm-manipur-conflict-ethnic-faultlines-10515276/</link>
 		
@@ -3796,44 +3834,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2025/12/Photo-2025-12-21T113301.567.jpg" />
 		<media:content url="https://images.indianexpress.com/2025/12/Photo-2025-12-21T113301.567.jpg" medium="image">
 			<media:title type="html">Photo - 2025-12-21T113301.567</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Middle power diplomacy: Is US threat forcing Canada to fall back on China?</title>
-		<link>https://indianexpress.com/article/opinion/columns/canada-china-ties-davos-us-threat-mark-carney-xi-jinping-10488165/</link>
-		
-		<dc:creator><![CDATA[Sneha Bhagat]]></dc:creator>
-		<pubDate>Thu, 22 Jan 2026 05:02:12 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10488165</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10488165</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Mark-Carney.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Mark-Carney.jpg" medium="image">
-			<media:title type="html">Mark Carney</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Lessons from Davos: Trump is a bully and appeasement policy doesn’t work with him</title>
-		<link>https://indianexpress.com/article/opinion/columns/donald-trump-davos-world-economic-forum-greenland-eu-10488055/</link>
-		
-		<dc:creator><![CDATA[Rajan Kumar]]></dc:creator>
-		<pubDate>Thu, 22 Jan 2026 04:02:15 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10488055</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10488055</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Switzerland-Davos-Trump.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Switzerland-Davos-Trump.jpg" medium="image">
-			<media:title type="html">Switzerland Davos Trump</media:title>
 		</media:content>
 	</item>
 	</channel>
