@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 05 Feb 2026 07:13:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Feb 2026 08:24:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -99,9 +99,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10514217</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/rupee-illustration.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/rupee-illustration.jpg" medium="image">
-			<media:title type="html">rupee illustration</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Opinion4_5th-Feb.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Opinion4_5th-Feb.jpg" medium="image">
+			<media:title type="html">Opinion4_5th-Feb</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -137,9 +137,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10514220</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/oped-illustration.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/oped-illustration.jpg" medium="image">
-			<media:title type="html">oped illustration</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Opinion3_5th-Feb.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Opinion3_5th-Feb.jpg" medium="image">
+			<media:title type="html">Opinion3_5th-Feb</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -156,9 +156,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10514208</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/IND16id_20260204202433.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/IND16id_20260204202433.jpg" medium="image">
-			<media:title type="html">IND16id_20260204202433.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Opinion5_5th-Feb-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Opinion5_5th-Feb-1.jpg" medium="image">
+			<media:title type="html">Opinion5_5th-Feb (1)</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -251,9 +251,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10514193</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Andre-Beteille-sociologist_20260204201412.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Andre-Beteille-sociologist_20260204201412.jpg" medium="image">
-			<media:title type="html">Andre-Beteille-sociologist_20260204201412.jpg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Opinion_5th-Feb.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Opinion_5th-Feb.jpg" medium="image">
+			<media:title type="html">Opinion_5th-Feb</media:title>
 		</media:content>
 	</item>
 		<item>
