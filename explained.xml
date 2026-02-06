@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 06 Feb 2026 14:54:54 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Feb 2026 15:33:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -122,9 +122,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10516796</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/RussiaOil.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/RussiaOil.jpg" medium="image">
-			<media:title type="html">The Grand Aniva tanker is loaded at a liquefied natural gas terminal south of Yuzhno-Sakhalinsk, on Sakhalin Island in RussiaÕs Far East, Sept. 28, 2021. (The New York Times)</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/ex-OilB-5col.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/ex-OilB-5col.jpg" medium="image">
+			<media:title type="html">Russian oil</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/nAYARA-eNERGY.jpg" medium="image">
