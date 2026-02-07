@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 07 Feb 2026 08:55:37 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Feb 2026 09:58:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,10 +29,48 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why did the proposed alliance between Kerala’s Nair and Ezhava outfits fail?</title>
+		<link>https://indianexpress.com/article/explained/explained-politics/kerala-nair-ezhava-outfit-alliance-10519076/</link>
+		
+		<dc:creator><![CDATA[Saniya Raahath]]></dc:creator>
+		<pubDate>Sat, 07 Feb 2026 09:41:40 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10519076</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10519076</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/NSS-SNDP.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/NSS-SNDP.jpg" medium="image">
+			<media:title type="html">NSS SNDP</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Indian students can again hope to study in Canada. But living there will be a distant dream</title>
+		<link>https://indianexpress.com/article/explained/indian-students-can-again-hope-to-study-in-canada-but-living-there-will-be-a-distant-dream-10519070/</link>
+		
+		<dc:creator><![CDATA[Vidheesha Kuntamalla]]></dc:creator>
+		<pubDate>Sat, 07 Feb 2026 09:25:57 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10519070</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10519070</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/ex-canada-indian-students-joydeep-pal-unsplash.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/ex-canada-indian-students-joydeep-pal-unsplash.jpg" medium="image">
+			<media:title type="html">ex-canada indian students-joydeep-pal-unsplash</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Trump order announces rollback of 25% additional tariffs: What it says India has &#8216;committed to&#8217;</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/us-tariff-rollback-announced-10519012/</link>
 		
-		<dc:creator><![CDATA[Ravi Dutta Mishra]]></dc:creator>
+		<dc:creator><![CDATA[Ravi Dutta Mishra, Sukalp Sharma]]></dc:creator>
 		<pubDate>Sat, 07 Feb 2026 08:55:35 +0000</pubDate>
 		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10519012</guid>
 
@@ -3968,48 +4006,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/INDIAS-EXPORT-SLOWDOWN.jpg?resize=600,526" medium="image">
 			<media:title type="html">INDIA&#039;S EXPORT SLOWDOWN</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Ahmedabad Air India crash: Why pilot grouping objected to probe agency summoning captain’s nephew</title>
-		<link>https://indianexpress.com/article/explained/air-india-crash-probe-notice-captain-nephew-aaib-10477843/</link>
-		
-		<dc:creator><![CDATA[Sukalp Sharma]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 13:51:42 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10477843</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10477843</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Air-India-crash-probe.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Air-India-crash-probe.jpg" medium="image">
-			<media:title type="html">Air India crash probe</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/Air-India-crash.jpg" medium="image">
-			<media:title type="html">The tail end of the AI 171 stuck on top of the hostel building of BJMC. Express Photo by Bhupendra Rana 13.06.2025</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Supreme Court wants government to consider a ‘Romeo-Juliet’ exception in POCSO Act</title>
-		<link>https://indianexpress.com/article/explained/explained-law/why-supreme-court-wants-government-to-consider-a-romeo-juliet-exception-in-pocso-act-10477523/</link>
-		
-		<dc:creator><![CDATA[Vineet Bhalla]]></dc:creator>
-		<pubDate>Fri, 16 Jan 2026 10:40:53 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10477523</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10477523</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Supreme-court-5.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Supreme-court-5.jpg" medium="image">
-			<media:title type="html">Supreme court</media:title>
 		</media:content>
 	</item>
 	</channel>
