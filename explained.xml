@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 07 Feb 2026 12:23:29 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Feb 2026 13:20:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why is the sighting of two tigers in Andhra Pradesh and Telangana worrying officials and people?</title>
+		<link>https://indianexpress.com/article/explained/tigers-andhra-pradesh-telangana-sighting-10519492/</link>
+		
+		<dc:creator><![CDATA[Sreenivas Janyala]]></dc:creator>
+		<pubDate>Sat, 07 Feb 2026 13:05:50 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10519492</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10519492</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/tiger-TG.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/tiger-TG.jpg" medium="image">
+			<media:title type="html">tiger TG</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>AI Impact Summit 2026: India aims for a larger share of the AI pie</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/india-ai-impact-summit-2026-risks-10519368/</link>
 		
@@ -3979,25 +3998,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/Kaziranga-National-Corridor.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/Kaziranga-National-Corridor.jpg" medium="image">
 			<media:title type="html">Kaziranga National Corridor</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Uttarakhand to Himachal to J&#038;K, why this winter feels snowless</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/uttarakhand-to-himachal-to-jk-why-this-winter-feels-snowless-10478541/</link>
-		
-		<dc:creator><![CDATA[Aiswarya Raj, Anjali Marar]]></dc:creator>
-		<pubDate>Sat, 17 Jan 2026 00:00:37 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10478541</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10478541</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/gulmarg-e.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/gulmarg-e.jpg" medium="image">
-			<media:title type="html">Security Personnel conduct disaster drill in Gulmarg ahead of Republic Day 2026</media:title>
 		</media:content>
 	</item>
 	</channel>
