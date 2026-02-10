@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 10 Feb 2026 10:38:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Feb 2026 12:48:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,63 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How gold rally is affecting small jewellers, as big players turn to innovation</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/gold-rally-impact-small-jewellers-10524767/</link>
+		
+		<dc:creator><![CDATA[Akash Mandal]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2026 12:40:49 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10524767</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10524767</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/gold-jewellery.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/gold-jewellery.jpg" medium="image">
+			<media:title type="html">gold jewellery</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>India is set to get two new telescopes and upgrade one in Ladakh. Here’s how it will be a game-changer for astronomy</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/india-ladakh-telescopes-astronomy-union-budget-10524715/</link>
+		
+		<dc:creator><![CDATA[Anjali Marar]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2026 12:36:23 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10524715</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10524715</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/ex-Ladakh_HCT-expl-scitech.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/ex-Ladakh_HCT-expl-scitech.jpg" medium="image">
+			<media:title type="html">ex-Ladakh_HCT-expl scitech</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why farmer unions have called for a strike against US-India trade deal framework</title>
+		<link>https://indianexpress.com/article/explained/farmers-strike-protests-us-india-trade-deal-concerns-10524416/</link>
+		
+		<dc:creator><![CDATA[Raakhi Jagga]]></dc:creator>
+		<pubDate>Tue, 10 Feb 2026 11:38:12 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10524416</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10524416</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/farmers-protests.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/farmers-protests.jpg" medium="image">
+			<media:title type="html">farmers protests</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why Mumbai&#8217;s new mayor will be the least empowered countrywide despite 150 years of reforms</title>
 		<link>https://indianexpress.com/article/explained/mumbai-mayor-least-empowered-10524456/</link>
 		
@@ -3941,63 +3998,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/eknathshinde.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/eknathshinde.jpg" medium="image">
 			<media:title type="html">eknathshinde</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Tiger Global case: How Supreme Court drew a line between treaty benefits and tax dues</title>
-		<link>https://indianexpress.com/article/explained/explained-law/tiger-global-case-supreme-court-10484178/</link>
-		
-		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
-		<pubDate>Tue, 20 Jan 2026 07:43:47 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10484178</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10484178</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/supremecourt.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/supremecourt.jpg" medium="image">
-			<media:title type="html">supremecourt</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why SC held that ‘substantial completion’ of real estate project is no defence against insolvency proceedings</title>
-		<link>https://indianexpress.com/article/explained/explained-law/sc-real-estate-project-completion-insolvency-10484087/</link>
-		
-		<dc:creator><![CDATA[Vineet Bhalla]]></dc:creator>
-		<pubDate>Tue, 20 Jan 2026 06:51:33 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10484087</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10484087</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/SC-1600.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/01/SC-1600.jpeg" medium="image">
-			<media:title type="html">SC 1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>India explores setting up data embassy in UAE: What is it, role it could play</title>
-		<link>https://indianexpress.com/article/explained/explained-global/india-explores-setting-up-data-embassy-in-uae-10483502/</link>
-		
-		<dc:creator><![CDATA[Divya A]]></dc:creator>
-		<pubDate>Tue, 20 Jan 2026 01:35:57 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10483502</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10483502</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/al-nahyan-modi-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/al-nahyan-modi-1600.jpg" medium="image">
-			<media:title type="html">Prime Minister Narendra Modi welcomes the President of the United Arab Emirates</media:title>
 		</media:content>
 	</item>
 	</channel>
