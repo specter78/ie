@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 11 Feb 2026 07:11:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Feb 2026 08:05:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>China’s message via Jimmy Lai is that if Hong Kong has to survive, its people will have to accept Xi’s diktats</title>
+		<link>https://indianexpress.com/article/opinion/columns/china-message-via-jimmy-lai-sentencing-hong-kong-10526204/</link>
+		
+		<dc:creator><![CDATA[Gunjan Singh]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2026 07:59:16 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10526204</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10526204</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/US-1-14_20260211075103.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/US-1-14_20260211075103.jpg" medium="image">
+			<media:title type="html">Jimmy Lai</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How the Supreme Court turned menstrual hygiene into a constitutional right</title>
 		<link>https://indianexpress.com/article/opinion/columns/supreme-court-turned-menstrual-hygiene-into-a-constitutional-right-10525962/</link>
 		
@@ -374,7 +393,7 @@
 		<title>Mohan Bhagwat presents a vision that doesn&#8217;t erase diversity, it gives identity a shared cultural grammar</title>
 		<link>https://indianexpress.com/article/opinion/columns/mohan-bhagwat-presents-a-vision-that-doesnt-erase-diversity-it-gives-identity-a-shared-cultural-grammar-10523349/</link>
 		
-		<dc:creator><![CDATA[Shashank Joshi]]></dc:creator>
+		<dc:creator><![CDATA[Shashank R Joshi]]></dc:creator>
 		<pubDate>Tue, 10 Feb 2026 05:15:15 +0000</pubDate>
 		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10523349</guid>
 
@@ -3807,25 +3826,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/express-archive-12.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/express-archive-12.jpg" medium="image">
 			<media:title type="html">express archive</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Secular TMC vs communal BJP &#8212; the Bengali voter is trapped in a political binary. It is time to move on</title>
-		<link>https://indianexpress.com/article/opinion/columns/tmc-mamata-banerjee-bjp-west-bengal-elections-ed-raid-10498474/</link>
-		
-		<dc:creator><![CDATA[Abhik Bhattacharya]]></dc:creator>
-		<pubDate>Wed, 28 Jan 2026 04:17:18 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10498474</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10498474</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Mamata-4coleee.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Mamata-4coleee.jpg" medium="image">
-			<media:title type="html">Mamata-4coleee</media:title>
 		</media:content>
 	</item>
 	</channel>
