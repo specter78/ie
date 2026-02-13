@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 13 Feb 2026 11:00:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 13 Feb 2026 13:15:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What happens when Trump’s America steps back on climate — and what India must do</title>
+		<link>https://indianexpress.com/article/opinion/columns/trumps-america-climate-change-india-epa-ef-10530655/</link>
+		
+		<dc:creator><![CDATA[Vaibhav Chaturvedi]]></dc:creator>
+		<pubDate>Fri, 13 Feb 2026 13:14:39 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10530655</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10530655</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/10/climate-change-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/10/climate-change-1.jpg" medium="image">
+			<media:title type="html">climate-change 1</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>In the return of West Asia, India cannot remain on the margins</title>
 		<link>https://indianexpress.com/article/opinion/columns/return-of-west-asia-middle-east-india-us-europe-trump-modi-saudi-arabia-qatar-10530380/</link>
 		
@@ -124,7 +143,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>For India’s power sector, lessons for Assam</title>
+		<title>For India’s power sector, lessons from Assam</title>
 		<link>https://indianexpress.com/article/opinion/columns/for-indias-power-sector-lessons-for-assam-10529333/</link>
 		
 		<dc:creator><![CDATA[Ravi Kota]]></dc:creator>
@@ -3807,25 +3826,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/economy_6a99d2_20260129200318.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/economy_6a99d2_20260129200318.jpg" medium="image">
 			<media:title type="html">economy_6a99d2_20260129200318.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Coco Gauff is right. Sports may be commercial, but players deserve their privacy</title>
-		<link>https://indianexpress.com/article/opinion/editorials/coco-gauff-is-right-sports-may-be-commercial-but-players-deserve-their-privacy-10502291/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 30 Jan 2026 02:03:59 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10502291</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10502291</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Express-view-Copy-22.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Express-view-Copy-22.jpeg" medium="image">
-			<media:title type="html">Express-view - Copy</media:title>
 		</media:content>
 	</item>
 	</channel>
