@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 14 Feb 2026 10:47:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Feb 2026 16:28:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Is Usman Tariq&#8217;s bowling action legal? Here&#8217;s what you need to know</title>
+		<link>https://indianexpress.com/article/explained/explained-sports/pak-spinner-usman-tariq-action-10532562/</link>
+		
+		<dc:creator><![CDATA[Shankar Narayan]]></dc:creator>
+		<pubDate>Sat, 14 Feb 2026 16:24:53 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sports]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10532562</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10532562</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/usman1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/usman1.jpg" medium="image">
+			<media:title type="html">ICC Men&#039;s T20 WC 2026: IND vs PAK-Training</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>The four unsung stanzas of Vande Mataram: Why govt directive on singing full National Song has kicked up a storm</title>
 		<link>https://indianexpress.com/article/explained/explained-history/the-four-unsung-stanzas-of-vande-mataram-why-govt-directive-on-singing-full-national-song-has-kicked-up-a-storm-10532108/</link>
 		
@@ -4007,25 +4026,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/Trump-Always-Chickens-Out.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/Trump-Always-Chickens-Out.jpg" medium="image">
 			<media:title type="html">Trump Always Chickens Out</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Denmark came to control Greenland: A brief history</title>
-		<link>https://indianexpress.com/article/explained/explained-global/denmark-control-greenland-history-10492744/</link>
-		
-		<dc:creator><![CDATA[Sonal Gupta]]></dc:creator>
-		<pubDate>Sat, 24 Jan 2026 13:31:49 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10492744</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10492744</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Untitled-design-38-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Untitled-design-38-1.jpg" medium="image">
-			<media:title type="html">Untitled design-38</media:title>
 		</media:content>
 	</item>
 	</channel>
