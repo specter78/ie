@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 16 Feb 2026 11:43:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Feb 2026 13:09:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Can ED seize assets related to non-scheduled offences under PMLA? SC to weigh in</title>
+		<link>https://indianexpress.com/article/explained/explained-law/supreme-court-ed-assets-pmla-10535285/</link>
+		
+		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
+		<pubDate>Mon, 16 Feb 2026 13:09:37 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10535285</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10535285</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Supreme-Court-3.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Supreme-Court-3.jpg" medium="image">
+			<media:title type="html">Supreme Court</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Expert Explains &#124; Why high-quality cameras matter for India’s Space ambitions</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/expert-explains-space-satellite-space-situational-awareness-10535009/</link>
 		
@@ -3963,33 +3982,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/Winter_Weather_Ohio_15670-d35c1.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/Winter_Weather_Ohio_15670-d35c1.jpg" medium="image">
 			<media:title type="html">Winter Weather Ohio</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Month before Xi Jinping&#8217;s purge of China&#8217;s top general, Pentagon flagged removal of officers, said it triggered &#8216;uncertainty&#8217;</title>
-		<link>https://indianexpress.com/article/explained/explained-global/xi-jinping-purge-general-china-pentagon-10495544/</link>
-		
-		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
-		<pubDate>Mon, 26 Jan 2026 10:16:58 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10495544</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10495544</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/PLA-.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/PLA-.jpg" medium="image">
-			<media:title type="html">PLA</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/Pentagon-report.jpg" medium="image">
-			<media:title type="html">A page from the Pentagon&#039;s report</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/01/Pentagon-report-screenshot.jpg" medium="image">
-			<media:title type="html">A page from the Pentagon&#039;s report.</media:title>
 		</media:content>
 	</item>
 	</channel>
