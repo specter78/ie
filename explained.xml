@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 17 Feb 2026 08:15:25 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Feb 2026 08:56:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>BharatGPT creator explains: ‘Lack of Maths PhDs a genuine problem for India, but not key for building AI solutions’</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/bharatgpt-creator-explains-india-ai-prospects-10536549/</link>
+		
+		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2026 08:54:32 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10536549</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10536549</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/ai_27698d.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/ai_27698d.jpg" medium="image">
+			<media:title type="html">India AI Impact Summit 2026</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>SC rejects gangster Abu Salem&#8217;s plea for early release: The 25-year prison term under question</title>
+		<link>https://indianexpress.com/article/explained/explained-law/supreme-court-abu-salem-early-release-the-25-years-10536482/</link>
+		
+		<dc:creator><![CDATA[Sadaf Modak]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2026 08:33:52 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10536482</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10536482</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Abu-Salem-premature-release.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Abu-Salem-premature-release.jpg" medium="image">
+			<media:title type="html">Abu Salem premature release</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why the new Digital Personal Data Protection Act faces a constitutional challenge in the Supreme Court</title>
 		<link>https://indianexpress.com/article/explained/explained-law/data-protection-act-challenge-supreme-court-10536413/</link>
 		
@@ -3936,44 +3974,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/ugc_738d7e.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/ugc_738d7e.jpg" medium="image">
 			<media:title type="html">UGC</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>India-EU FTA: Why EU’s ever-growing regulations are India&#8217;s biggest challenge &#038; deal needs to address them</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/india-eu-fta-regulations-biggest-challenge-10496423/</link>
-		
-		<dc:creator><![CDATA[Ravi Dutta Mishra]]></dc:creator>
-		<pubDate>Tue, 27 Jan 2026 04:50:52 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10496423</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10496423</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/India-EU-1600.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/01/India-EU-1600.jpeg" medium="image">
-			<media:title type="html">India EU 1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How geo-economic shifts revived India–EU trade talks and nudged it across the finish line</title>
-		<link>https://indianexpress.com/article/explained/how-geo-economic-shifts-revived-india-eu-trade-talks-nudged-across-finish-line-10496374/</link>
-		
-		<dc:creator><![CDATA[Ravi Dutta Mishra]]></dc:creator>
-		<pubDate>Tue, 27 Jan 2026 04:26:30 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10496374</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10496374</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Ursula-Modi-1600.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Ursula-Modi-1600.jpeg" medium="image">
-			<media:title type="html">Ursula Modi 1600</media:title>
 		</media:content>
 	</item>
 	</channel>
