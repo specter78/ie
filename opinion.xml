@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 17 Feb 2026 06:21:50 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Feb 2026 07:40:46 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>In China, engineers are given PhDs for products. Is that the way forward for India?</title>
+		<link>https://indianexpress.com/article/opinion/columns/in-china-engineers-are-given-phds-for-products-india-10536331/</link>
+		
+		<dc:creator><![CDATA[Kishore Paknikar]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2026 07:40:45 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10536331</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10536331</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/US-10-2_20260217073844.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/US-10-2_20260217073844.jpg" medium="image">
+			<media:title type="html">US-10-2_20260217073844.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>As Tarique Rahman takes charge in Dhaka, five things India and Bangladesh may do to improve ties</title>
+		<link>https://indianexpress.com/article/opinion/columns/five-things-india-and-bangladesh-may-do-to-improve-ties-10536209/</link>
+		
+		<dc:creator><![CDATA[Amit Ranjan]]></dc:creator>
+		<pubDate>Tue, 17 Feb 2026 06:54:08 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10536209</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10536209</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Khaleda-Zia-funeral-Jaishankar_20260217065043.png" />
+		<media:content url="https://images.indianexpress.com/2026/02/Khaleda-Zia-funeral-Jaishankar_20260217065043.png" medium="image">
+			<media:title type="html">Khaleda-Zia-funeral-Jaishankar_20260217065043.png</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>At the UN, India must remain firm and unsentimental about the Indus Waters Treaty</title>
 		<link>https://indianexpress.com/article/opinion/columns/india-pakistan-indus-waters-treaty-war-pulwama-attack-unsc-10536150/</link>
 		
@@ -3788,44 +3826,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/Godse_20260202174236.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/Godse_20260202174236.jpg" medium="image">
 			<media:title type="html">Godse_20260202174236.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>In Balochistan, rule of violence and a Pakistan where government has no accountability</title>
-		<link>https://indianexpress.com/article/opinion/editorials/in-balochistan-rule-of-violence-and-a-pakistan-where-government-has-no-accountability-10509837/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 03 Feb 2026 02:42:40 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10509837</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10509837</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Express-view-Copy-3.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Express-view-Copy-3.jpeg" medium="image">
-			<media:title type="html">Express-view - Copy (3)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Who is development really for? Ask Delhi&#8217;s pigeons</title>
-		<link>https://indianexpress.com/article/opinion/columns/who-is-development-really-for-ask-delhis-pigeons-10509875/</link>
-		
-		<dc:creator><![CDATA[Olly Mohanta]]></dc:creator>
-		<pubDate>Tue, 03 Feb 2026 02:42:38 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10509875</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10509875</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/feature-image-24_20260202174651.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/feature-image-24_20260202174651.jpg" medium="image">
-			<media:title type="html">feature-image-24_20260202174651.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
