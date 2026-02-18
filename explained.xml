@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 18 Feb 2026 13:38:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Feb 2026 15:24:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,33 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>As NGT clears Great Nicobar project, a look at its strategic importance and ecological fallout</title>
+		<link>https://indianexpress.com/article/explained/as-ngt-clears-great-nicobar-project-a-look-at-its-strategic-importance-and-ecological-fallout-10539365/</link>
+		
+		<dc:creator><![CDATA[Nikhil Ghanekar]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2026 14:29:53 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10539365</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10539365</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Great-Nicobar.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Great-Nicobar.jpg" medium="image">
+			<media:title type="html">Great Nicobar</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/great-nicobar-1.jpg?resize=600,600" medium="image">
+			<media:title type="html">Great Nicobar</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/ex-NICOBAR_MEGAPOD-3col.jpg?resize=600,400" medium="image">
+			<media:title type="html">Nicobar megapode</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>SC to hear review petitions to 2018 Sabarimala judgement in April: A timeline of the case</title>
 		<link>https://indianexpress.com/article/explained/sabarimala-women-entry-supreme-court-review-10539322/</link>
 		
@@ -3955,25 +3982,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/Dario-Amodei.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/Dario-Amodei.jpg" medium="image">
 			<media:title type="html">Dario Amodei</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How shifting trade winds nudged India-EU talks across finish line</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/how-shifting-trade-winds-nudged-india-eu-talks-across-finish-line-10498211/</link>
-		
-		<dc:creator><![CDATA[Ravi Dutta Mishra]]></dc:creator>
-		<pubDate>Wed, 28 Jan 2026 01:53:00 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10498211</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10498211</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/India-EU_0030c7_20260127201130.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/India-EU_0030c7_20260127201130.jpg" medium="image">
-			<media:title type="html">India-EU_0030c7_20260127201130.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
