@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 18 Feb 2026 08:36:13 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Feb 2026 10:34:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Can Indian IT bridge the AI ‘deployment gap’? Infosys chief says that&#8217;s possible, as software major ties up with Anthropic</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/can-indian-it-bridge-the-ai-deployment-gap-infosys-chief-says-thats-possible-as-software-major-ties-up-with-anthropic-10538687/</link>
+		
+		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
+		<pubDate>Wed, 18 Feb 2026 10:34:10 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10538687</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10538687</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/nilekani.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/nilekani.jpg" medium="image">
+			<media:title type="html">nilekani</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Climate to civic bodies, how Kerala&#8217;s pioneering Urban Policy looks to define its urbanisation journey</title>
 		<link>https://indianexpress.com/article/explained/kerala-urban-policy-first-in-country-10538573/</link>
 		
@@ -3955,25 +3974,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/India-EU-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/India-EU-1.jpg" medium="image">
 			<media:title type="html">MoUs and Joint Press Statements at Hyderabad House</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What the India-EU FTA signals about bilateral ties, and the message it sends</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/what-the-india-eu-fta-signals-about-bilateral-ties-10497533/</link>
-		
-		<dc:creator><![CDATA[Shubhajit Roy]]></dc:creator>
-		<pubDate>Tue, 27 Jan 2026 12:58:01 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10497533</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10497533</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/EU-Modi-leaders-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/EU-Modi-leaders-1600.jpg" medium="image">
-			<media:title type="html">EU Modi leaders 1600</media:title>
 		</media:content>
 	</item>
 	</channel>
