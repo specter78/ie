@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 18 Feb 2026 15:24:28 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Feb 2026 02:03:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Kunal Kamra summoned by Privileges Committee: What are its powers?</title>
+		<link>https://indianexpress.com/article/explained/kunal-kamra-maharashtra-privileges-committee-10539471/</link>
+		
+		<dc:creator><![CDATA[Abhinav Chakraborty]]></dc:creator>
+		<pubDate>Thu, 19 Feb 2026 01:52:51 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10539471</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10539471</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Kamra-Privilege.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Kamra-Privilege.jpg" medium="image">
+			<media:title type="html">Kamra Privilege</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>As NGT clears Great Nicobar project, a look at its strategic importance and ecological fallout</title>
 		<link>https://indianexpress.com/article/explained/as-ngt-clears-great-nicobar-project-a-look-at-its-strategic-importance-and-ecological-fallout-10539365/</link>
 		
@@ -3963,25 +3982,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/Karnataka-HC-4.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/Karnataka-HC-4.jpg" medium="image">
 			<media:title type="html">Karnataka HC</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Anthropic CEO Amodei’s warning about &#8216;AI destroying humanity in the future&#8217; is a distraction</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/anthropic-ceo-amodei-ai-humanity-warning-distraction-10497656/</link>
-		
-		<dc:creator><![CDATA[Alind Chauhan]]></dc:creator>
-		<pubDate>Wed, 28 Jan 2026 02:03:29 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10497656</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10497656</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Dario-Amodei.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Dario-Amodei.jpg" medium="image">
-			<media:title type="html">Dario Amodei</media:title>
 		</media:content>
 	</item>
 	</channel>
