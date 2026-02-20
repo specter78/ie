@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 20 Feb 2026 02:09:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Feb 2026 05:01:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What happens when the dead don&#8217;t log off?</title>
+		<link>https://indianexpress.com/article/opinion/columns/what-happens-when-the-dead-dont-log-off-10541949/</link>
+		
+		<dc:creator><![CDATA[Sonal Gupta]]></dc:creator>
+		<pubDate>Fri, 20 Feb 2026 05:01:28 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10541949</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10541949</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Meta-AI-patent_20260220045813.png" />
+		<media:content url="https://images.indianexpress.com/2026/02/Meta-AI-patent_20260220045813.png" medium="image">
+			<media:title type="html">Meta-AI-patent_20260220045813.png</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>40 years ago February 20, 1986: Violence erupts in Punjab</title>
 		<link>https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-february-20-1986-violence-erupts-in-punjab-10541535/</link>
 		
@@ -3807,25 +3826,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/Express-view-Copy-6.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/02/Express-view-Copy-6.jpeg" medium="image">
 			<media:title type="html">Express-view - Copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Ghaziabad minors’ suicides point to an urgent need for policy to respond to loneliness</title>
-		<link>https://indianexpress.com/article/opinion/editorials/ghaziabad-minors-suicides-point-to-an-urgent-need-for-policy-to-respond-to-loneliness-10516139/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 06 Feb 2026 01:36:36 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10516139</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10516139</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Express-view-Copy-3-3.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Express-view-Copy-3-3.jpeg" medium="image">
-			<media:title type="html">Express-view - Copy (3)</media:title>
 		</media:content>
 	</item>
 	</channel>
