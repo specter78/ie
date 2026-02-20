@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 20 Feb 2026 10:12:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Feb 2026 11:19:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Oil prices hit 6-month high: How US-Iran tensions could disrupt global supplies, with stakes for India</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/oil-prices-high-us-iran-tensions-risk-india-impact-10542757/</link>
+		
+		<dc:creator><![CDATA[Sukalp Sharma]]></dc:creator>
+		<pubDate>Fri, 20 Feb 2026 11:19:43 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10542757</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10542757</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/iran-oil.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/iran-oil.jpg" medium="image">
+			<media:title type="html">Iran Drill</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2025/06/Strait_of_Hormuz-1600.jpg?resize=600,477" medium="image">
+			<media:title type="html">Strait of Hormuz map</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>For Pakistan, more friends abroad, more fires at home. For New Delhi, a problem. Here&#8217;s why</title>
 		<link>https://indianexpress.com/article/explained/explained-global/pakistan-friends-abroad-terror-attacks-new-delhi-a-problem-10542549/</link>
 		
@@ -45,6 +68,14 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/Pakistan_Bombing-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/Pakistan_Bombing-1600.jpg" medium="image">
 			<media:title type="html">Pakistan Bombing</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/Austria_Pakistan-1600.jpg?resize=600,400" medium="image">
+			<media:title type="html">Shehbaz</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/Asim-Munir-1600.jpeg?resize=600,333" medium="image">
+			<media:title type="html">Asim Munir</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -3979,25 +4010,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/pune-cycle.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/pune-cycle.jpg" medium="image">
 			<media:title type="html">pune cycle</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why rupee’s stability ‘becomes a casualty’ due to India’s goods trade deficit, dependence on FPIs: Economic Survey</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/rupee-exchange-rate-reasons-trade-fpi-economic-survey-10501267/</link>
-		
-		<dc:creator><![CDATA[Ravi Dutta Mishra]]></dc:creator>
-		<pubDate>Thu, 29 Jan 2026 09:07:21 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10501267</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10501267</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/rupee-economic-survey.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/rupee-economic-survey.jpg" medium="image">
-			<media:title type="html">rupee economic survey</media:title>
 		</media:content>
 	</item>
 	</channel>
