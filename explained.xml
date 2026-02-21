@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 21 Feb 2026 06:08:17 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Feb 2026 07:08:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What are Section 122 tariffs and how will they differ from Trump&#8217;s earlier tariffs?</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/section-122-trump-tariffs-10543984/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Sat, 21 Feb 2026 06:30:27 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10543984</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10543984</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Section-122.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Section-122.jpg" medium="image">
+			<media:title type="html">Section 122</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How will Trump&#8217;s new 10% tariffs work and what&#8217;s next for the world?</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/new-trump-tariffs-meaning-10543882/</link>
 		
@@ -105,7 +124,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>US Supreme Court strikes down Trump’s tariffs: What happens now, and could a refund to countries be on the table?</title>
+		<title>US Supreme Court strikes down Trump’s tariffs: Could refunds to countries be on the table?</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/us-supreme-court-trump-tariffs-illegal-india-trade-10543377/</link>
 		
 		<dc:creator><![CDATA[Anagha Jayakumar, Siddharth Upasani]]></dc:creator>
@@ -3999,25 +4018,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/01/UGC_95809c.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/01/UGC_95809c.jpg" medium="image">
 			<media:title type="html">UGC_95809c</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: Gandhi’s ideal of Gram Swaraj, and why true devolution of power to villages has yet to happen</title>
-		<link>https://indianexpress.com/article/explained/congress-president-kharge-recalled-gandhis-gram-swaraj-but-no-indian-village-matches-that-ideal-today-heres-why-10502422/</link>
-		
-		<dc:creator><![CDATA[Shyamlal Yadav]]></dc:creator>
-		<pubDate>Fri, 30 Jan 2026 00:30:03 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10502422</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10502422</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/01/Gandhi-1-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/01/Gandhi-1-1.jpg" medium="image">
-			<media:title type="html">Gandhi 1 (1)</media:title>
 		</media:content>
 	</item>
 	</channel>
