@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 22 Feb 2026 06:58:42 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Feb 2026 07:26:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,8 +29,8 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Despite US tariff hike to 15%, most countries better off: Where India, others stand</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/despite-us-tariff-hike-to-15-most-countries-better-off-where-india-others-stand-10545595/</link>
+		<title>Despite US tariffs hike to 15%, most countries better off: Where India, others stand</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/us-tariffs-hike-to-15-where-india-others-stand-10545595/</link>
 		
 		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
 		<pubDate>Sun, 22 Feb 2026 06:58:40 +0000</pubDate>
