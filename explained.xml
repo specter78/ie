@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 23 Feb 2026 05:42:29 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Feb 2026 07:00:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>IDFC First Bank&#8217;s Rs590-crore fraud: Why it highlights governance lapses</title>
+		<title>IDFC First Bank&#8217;s Rs 590-crore fraud: Why it highlights governance lapses</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/idfc-first-banks-rs-590-crore-10546960/</link>
 		
 		<dc:creator><![CDATA[George Mathew]]></dc:creator>
