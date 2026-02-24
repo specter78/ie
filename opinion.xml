@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 24 Feb 2026 09:13:40 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Feb 2026 13:10:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Will global applause for Boong make a difference for indie movies?</title>
+		<link>https://indianexpress.com/article/opinion/columns/boong-bafta-manipur-lakshmipriya-devi-award-cinema-10549883/</link>
+		
+		<dc:creator><![CDATA[Alaka Sahani]]></dc:creator>
+		<pubDate>Tue, 24 Feb 2026 13:10:29 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10549883</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10549883</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Boong-director-Lakshmipriya-Devi-with-producers-from-left-Alan-McAlex-Farhan-Akhtar-and-Ritesh-Sidhwani-in-London-Sunday.-AP_20260224130055.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Boong-director-Lakshmipriya-Devi-with-producers-from-left-Alan-McAlex-Farhan-Akhtar-and-Ritesh-Sidhwani-in-London-Sunday.-AP_20260224130055.jpg" medium="image">
+			<media:title type="html">Boong-director-Lakshmipriya-Devi-with-producers-from-left-Alan-McAlex-Farhan-Akhtar-and-Ritesh-Sidhwani-in-London-Sunday.-AP_20260224130055.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Devuji’s surrender is a step towards ending Maoism. But the path ahead is critical</title>
 		<link>https://indianexpress.com/article/opinion/columns/devuji-surrender-maoism-amit-shah-maoism-over-india-security-10548782/</link>
 		
@@ -3807,25 +3826,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/oped-illustration-1.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/02/oped-illustration-1.jpeg" medium="image">
 			<media:title type="html">oped illustration</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Mohan Bhagwat presents a vision that doesn&#8217;t erase diversity, it gives identity a shared cultural grammar</title>
-		<link>https://indianexpress.com/article/opinion/columns/mohan-bhagwat-presents-a-vision-that-doesnt-erase-diversity-it-gives-identity-a-shared-cultural-grammar-10523349/</link>
-		
-		<dc:creator><![CDATA[Shashank R Joshi]]></dc:creator>
-		<pubDate>Tue, 10 Feb 2026 05:15:15 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10523349</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10523349</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Mohan-Bhagwat-2_20251221233027_20260207202448_20260209211247.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Mohan-Bhagwat-2_20251221233027_20260207202448_20260209211247.jpg" medium="image">
-			<media:title type="html">Mohan-Bhagwat-2_20251221233027_20260207202448_20260209211247.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
