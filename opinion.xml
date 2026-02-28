@@ -10,7 +10,7 @@
 
 <channel>
 	<title>Opinion | The Indian Express</title>
-	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://indianexpress.com/section/opinion/feed/?_=8345" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
 	<lastBuildDate>Sat, 28 Feb 2026 03:32:24 +0000</lastBuildDate>
