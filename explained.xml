@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 01 Mar 2026 12:12:24 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 01 Mar 2026 13:16:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,48 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Behind Khamenei killing protests in Kashmir, its centuries-old ties with Iran</title>
+		<link>https://indianexpress.com/article/explained/explained-history/khamenei-killing-protests-kashmir-iran-ties-10559607/</link>
+		
+		<dc:creator><![CDATA[Bashaarat Masood]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2026 13:03:58 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10559607</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10559607</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/ex-khamenei-srinagar_expl-hist.jpeg" />
+		<media:content url="https://images.indianexpress.com/2026/03/ex-khamenei-srinagar_expl-hist.jpeg" medium="image">
+			<media:title type="html">ex-khamenei-srinagar_expl hist</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>As Iran vs US-Israel expands to West Asia, a look at Indians who live in the Gulf region</title>
+		<link>https://indianexpress.com/article/explained/explained-global/iran-vs-us-israel-west-asia-indians-gulf-10559572/</link>
+		
+		<dc:creator><![CDATA[Divya A]]></dc:creator>
+		<pubDate>Sun, 01 Mar 2026 12:40:19 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10559572</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10559572</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/ex-Dubai-IranvsUSIsrael_expl-glob.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/ex-Dubai-IranvsUSIsrael_expl-glob.jpg" medium="image">
+			<media:title type="html">Emirates Ramadan</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Dubai_International_Airport_wikimedia.jpg?resize=600,338" medium="image">
+			<media:title type="html">Dubai airport amid Iran vs US-Israel conflict</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Strikes on Tehran decimated Khamenei’s inner circle: Who exactly were they?</title>
 		<link>https://indianexpress.com/article/explained/explained-global/iran-leaders-killed-10559523/</link>
 		
@@ -45,6 +87,10 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/compound.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/compound.jpg" medium="image">
 			<media:title type="html">Iran US Israel</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2023/01/Iran-officials-killed.jpg?resize=600,338" medium="image">
+			<media:title type="html">Aziz Nasirzadeh and Abdolrahim Mousavi</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4060,44 +4106,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2025/01/assam-Umrangso-feat.jpg" medium="image">
 			<media:title type="html">Divers from the Special Forces who retrieved the body told The Indian Express that the first challenge was the depth of the water – approximately 100 feet – inside the 310-feet deep central pit of the mine, and the complete lack of visibility. (Express Photo)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: Why Kunal Kamra approached Bombay HC against Sahyog Portal, amended IT Rules</title>
-		<link>https://indianexpress.com/article/explained/explained-law/explained-kunal-kamra-bombay-hc-sahyog-10519761/</link>
-		
-		<dc:creator><![CDATA[Omkar Gokhale]]></dc:creator>
-		<pubDate>Sun, 08 Feb 2026 01:30:03 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10519761</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10519761</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Kunal-Kamra_85aeac.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Kunal-Kamra_85aeac.jpg" medium="image">
-			<media:title type="html">Kunal-Kamra_85aeac</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Trump effect: Harley-Davidson could make a comeback in India after US deal</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/trump-effect-harley-davidson-could-make-a-comeback-in-india-after-us-deal-10519612/</link>
-		
-		<dc:creator><![CDATA[Ravi Dutta Mishra]]></dc:creator>
-		<pubDate>Sat, 07 Feb 2026 14:55:36 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10519612</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10519612</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/harley.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/harley.jpg" medium="image">
-			<media:title type="html">Road show by Harley Davidson bikers</media:title>
 		</media:content>
 	</item>
 	</channel>
