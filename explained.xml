@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 02 Mar 2026 05:38:43 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 02 Mar 2026 06:24:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,10 +29,56 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How the war in Iran could dent Russia’s aerial dominance in Ukraine</title>
+		<link>https://indianexpress.com/article/explained/explained-global/iran-war-dent-russia-capabilities-ukraine-link-10560576/</link>
+		
+		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 06:22:48 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10560576</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10560576</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/iran-russia-drones.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/iran-russia-drones.jpg" medium="image">
+			<media:title type="html">iran russia drones</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Figure-1-.jpg" medium="image">
+			<media:title type="html">Statistics of the launches of the Shahed-type UAVs during 2025. (Via Institute for Science and International Security)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Figure-2.jpg" medium="image">
+			<media:title type="html">Report of damage in Ukraine. </media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Stock market tanks over 1% as conflict intensifies in Middle East, crude prices surge. Will the impact be long-drawn? </title>
+		<link>https://indianexpress.com/article/explained/stock-market-tanks-conflict-middle-east-crude-prices-surge-10560530/</link>
+		
+		<dc:creator><![CDATA[Akash Mandal]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2026 05:48:03 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10560530</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10560530</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Stock.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Stock.jpg" medium="image">
+			<media:title type="html">Stock</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Expert Explains: &#8216;The Strait of Hormuz is simply too vital an artery to remain closed for too long&#8217;</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/expert-explains-strait-of-hormuz-is-simply-too-vital-an-artery-10560506/</link>
 		
-		<dc:creator><![CDATA[Ajay Singh]]></dc:creator>
+		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
 		<pubDate>Mon, 02 Mar 2026 05:23:46 +0000</pubDate>
 		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10560506</guid>
 
@@ -4088,44 +4134,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/ex-Mugger-crocodile_expl-scitech.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/ex-Mugger-crocodile_expl-scitech.jpg" medium="image">
 			<media:title type="html">ex-Mugger crocodile_expl scitech</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Scientists off Argentina film rare &#8216;phantom&#8217; jellyfish the size of a school bus</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/argentina-phantom-jellyfish-10522973/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 09 Feb 2026 14:19:20 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10522973</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10522973</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/phantom-jelly-fish.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/phantom-jelly-fish.jpg" medium="image">
-			<media:title type="html">phantom jelly fish</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Expert Explains &#124; US-Iran talks: Why both sides are negotiating amid military buildup</title>
-		<link>https://indianexpress.com/article/explained/explained-global/expert-explains-us-iran-talks-10522376/</link>
-		
-		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
-		<pubDate>Mon, 09 Feb 2026 09:18:43 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10522376</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10522376</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/US-Iran-talks.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/US-Iran-talks.jpg" medium="image">
-			<media:title type="html">US Iran talks</media:title>
 		</media:content>
 	</item>
 	</channel>
