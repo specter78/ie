@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 05 Mar 2026 14:17:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Mar 2026 14:42:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Explained: As Mount Abu becomes Abu Raj, the debate over renaming Rajasthan’s only hill station</title>
+		<link>https://indianexpress.com/article/explained/explained-as-mount-abu-becomes-abu-raj-the-debate-over-renaming-rajasthans-only-hill-station-10566513/</link>
+		
+		<dc:creator><![CDATA[Hamza Khan]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2026 14:42:29 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10566513</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10566513</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/mount-abu.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/mount-abu.jpg" medium="image">
+			<media:title type="html">mount-abu</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Guru-Shikhar.jpg?resize=600,309" medium="image">
+			<media:title type="html">Guru Shikhar, the highest point in the Aravalli Range, houses the Guru Dattatreya temple, an incarnation of the Divine Trinity (Brahma, Vishnu and Shiva).</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What are &#8216;gravity bombs&#8217;, which the US is planning to shift to in Iran?</title>
 		<link>https://indianexpress.com/article/explained/explained-global/us-gravity-bombs-iran-10566409/</link>
 		
@@ -4151,25 +4174,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/AgriStack.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/AgriStack.jpg" medium="image">
 			<media:title type="html">AgriStack</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Expert Explains: Does Japanese PM Takaichi’s historic win deal a blow to ties with China? Why some in China say yes</title>
-		<link>https://indianexpress.com/article/explained/explained-global/japan-pm-takaichi-election-win-china-threat-reaction-10528760/</link>
-		
-		<dc:creator><![CDATA[Hemant Adlakha]]></dc:creator>
-		<pubDate>Thu, 12 Feb 2026 11:43:11 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10528760</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10528760</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Untitled-design-7.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Untitled-design-7.jpg" medium="image">
-			<media:title type="html">Japan and China PM President</media:title>
 		</media:content>
 	</item>
 	</channel>
