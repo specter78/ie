@@ -10,10 +10,10 @@
 
 <channel>
 	<title>Opinion | The Indian Express</title>
-	<atom:link href="https://indianexpress.com/section/opinion/feed/?_=7604" rel="self" type="application/rss+xml" />
+	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 05 Mar 2026 00:41:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Mar 2026 02:18:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>40 years ago March 5, 1986: Protest in Parliament</title>
+		<link>https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-march-5-1986-protest-in-parliament-10565042/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2026 01:00:13 +0000</pubDate>
+		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10565042</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10565042</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/express-archive-March-5-1986.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/express-archive-March-5-1986.jpg" medium="image">
+			<media:title type="html">express archive March 5, 1986</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Lesson from Kejriwal case: The powerful must mind the red lines</title>
 		<link>https://indianexpress.com/article/opinion/columns/lesson-from-kejriwal-case-the-powerful-must-mind-the-red-lines-10565058/</link>
 		
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/Express-view-Copy-16.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/02/Express-view-Copy-16.jpeg" medium="image">
 			<media:title type="html">Express-view - Copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The future of education is interconnected. The budget recognises that</title>
-		<link>https://indianexpress.com/article/opinion/columns/the-future-of-education-is-interconnected-the-budget-recognises-that-10539736/</link>
-		
-		<dc:creator><![CDATA[Somak Raychaudhury]]></dc:creator>
-		<pubDate>Thu, 19 Feb 2026 02:12:32 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10539736</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10539736</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/college-students-1_20260218192303.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/college-students-1_20260218192303.jpg" medium="image">
-			<media:title type="html">college-students-1_20260218192303.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
