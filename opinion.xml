@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 05 Mar 2026 07:58:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Mar 2026 10:12:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>West Asia crisis may just be the Black Swan Event that topples the BJP in India</title>
+		<link>https://indianexpress.com/article/opinion/columns/iran-israel-war-pm-modi-bjp-government-toppled-us-modi-relations-10565962/</link>
+		
+		<dc:creator><![CDATA[Ghanshyam Tiwari]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2026 10:12:10 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10565962</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10565962</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Israel-Iran-war-Tehran_20260303080952.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Israel-Iran-war-Tehran_20260303080952.jpg" medium="image">
+			<media:title type="html">Israel-Iran-war-Tehran_20260303080952.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why a US submarine strike on Iranian warship near Sri Lanka is a crisis for Delhi</title>
 		<link>https://indianexpress.com/article/opinion/columns/us-submarine-strike-iran-warship-dena-sri-lanka-india-10565661/</link>
 		
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/express-archive-40-years-ago.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/express-archive-40-years-ago.jpg" medium="image">
 			<media:title type="html">express archive 40 years ago</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>CCI vs WhatsApp is a pivotal battle for India’s digital space</title>
-		<link>https://indianexpress.com/article/opinion/columns/cci-vs-whatsapp-is-a-pivotal-battle-for-indias-digital-space-10539740/</link>
-		
-		<dc:creator><![CDATA[Gaurav Jakhu, Payal Malik, Maria Khan]]></dc:creator>
-		<pubDate>Thu, 19 Feb 2026 02:12:41 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10539740</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10539740</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/digititization.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/digititization.jpg" medium="image">
-			<media:title type="html">digititization</media:title>
 		</media:content>
 	</item>
 	</channel>
