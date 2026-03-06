@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 06 Mar 2026 00:15:32 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 06 Mar 2026 03:48:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,33 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Was US legally right in sinking Iranian ship? The framework that governs maritime conflict</title>
+		<link>https://indianexpress.com/article/explained/sinking-iranian-ship-legal-framework-governs-maritime-conflict-10566859/</link>
+		
+		<dc:creator><![CDATA[Amrita Nayak Dutta, Anagha Jayakumar, Sandeep Singh]]></dc:creator>
+		<pubDate>Fri, 06 Mar 2026 01:30:31 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10566859</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10566859</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Dena-ship-3col1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Dena-ship-3col1.jpg" medium="image">
+			<media:title type="html">Iranian warship IRIS Dena</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/grfx-1.jpg?resize=600,563" medium="image">
+			<media:title type="html">IRIS Dena, IRIS Dena sinking, US Navy torpedo attack, Pete Hegseth Pentagon briefing, MILAN 2026 exercise, International Fleet Review Visakhapatnam, Moudge-class frigate, US Iran conflict 2026, Ayatollah Ali Khamenei death, Mk 48 torpedo, Ohio-class submarine Diego Garcia, Karapitiya Teaching Hospital casualties, Indian Ocean maritime security, USS Pinckney, Sri Lanka search and rescue</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/grfx-2.jpg?resize=600,195" medium="image">
+			<media:title type="html">IRIS Dena, IRIS Dena sinking, US Navy torpedo attack, Pete Hegseth Pentagon briefing, MILAN 2026 exercise, International Fleet Review Visakhapatnam, Moudge-class frigate, US Iran conflict 2026, Ayatollah Ali Khamenei death, Mk 48 torpedo, Ohio-class submarine Diego Garcia, Karapitiya Teaching Hospital casualties, Indian Ocean maritime security, USS Pinckney, Sri Lanka search and rescue</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: As Mount Abu becomes Abu Raj, the debate over renaming Rajasthan’s only hill station</title>
 		<link>https://indianexpress.com/article/explained/explained-as-mount-abu-becomes-abu-raj-the-debate-over-renaming-rajasthans-only-hill-station-10566513/</link>
 		
@@ -52,7 +79,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>What are &#8216;gravity bombs&#8217;, which the US is planning to shift to in Iran?</title>
+		<title>What are &#8216;gravity bombs&#8217; which the US is planning to shift to in Iran?</title>
 		<link>https://indianexpress.com/article/explained/explained-global/us-gravity-bombs-iran-10566409/</link>
 		
 		<dc:creator><![CDATA[Arav Shah]]></dc:creator>
@@ -4155,25 +4182,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/One-of-the-inscriptions-cited-in-the-research.jpg?resize=600,415" medium="image">
 			<media:title type="html">One of the inscriptions cited in the research.</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What is AgriStack, which FM Nirmala Sitharaman has termed as the &#8216;next UPI&#8217;?</title>
-		<link>https://indianexpress.com/article/explained/agristack-sitharaman-next-upi-10528472/</link>
-		
-		<dc:creator><![CDATA[Harikishan Sharma]]></dc:creator>
-		<pubDate>Thu, 12 Feb 2026 12:01:56 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10528472</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10528472</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/AgriStack.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/AgriStack.jpg" medium="image">
-			<media:title type="html">AgriStack</media:title>
 		</media:content>
 	</item>
 	</channel>
