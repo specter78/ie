@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 08 Mar 2026 06:39:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 08 Mar 2026 08:18:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,48 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How Maharashtra’s farm loan waiver could adversely impact credit culture — and farmers themselves</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/farm-loan-waiver-maharashtra-trend-debate-finances-10571053/</link>
+		
+		<dc:creator><![CDATA[George Mathew]]></dc:creator>
+		<pubDate>Sun, 08 Mar 2026 08:18:25 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10571053</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10571053</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Farm-loan-waivers.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Farm-loan-waivers.jpg" medium="image">
+			<media:title type="html">Farm loan waivers</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Andhra Pradesh’s draft population policy: How a shift from ‘population control’ tries to address decline in fertility rates</title>
+		<link>https://indianexpress.com/article/explained/andhra-pradesh-population-management-policy-tfr-10571124/</link>
+		
+		<dc:creator><![CDATA[Sreenivas Janyala]]></dc:creator>
+		<pubDate>Sun, 08 Mar 2026 07:52:35 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10571124</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10571124</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/ex-chandrababu_expl.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/ex-chandrababu_expl.jpg" medium="image">
+			<media:title type="html">Andhra Pradesh Chief Minister N. Chandrababu Naidu speaks at Raisina Dialogue 2026</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/ex-tfr-apvsindia.jpg?resize=600,469" medium="image">
+			<media:title type="html">TFR - Andhra Pradesh vs India</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: The jobs that AI could most certainly replace, as per an Anthropic study</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/jobs-that-ai-could-certainly-replace-anthropic-study-10571054/</link>
 		
@@ -4152,44 +4194,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/Kerala_Paddy_field.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/Kerala_Paddy_field.jpg" medium="image">
 			<media:title type="html">Kerala_Paddy_field</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>C Raja Mohan writes: From rewiring of society to jobs anxiety, the questions looming before AI Summit</title>
-		<link>https://indianexpress.com/article/explained/digital-feudals-state-role-rewiring-society-framing-india-ai-map-10532738/</link>
-		
-		<dc:creator><![CDATA[C. Raja Mohan]]></dc:creator>
-		<pubDate>Sat, 14 Feb 2026 23:47:27 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10532738</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10532738</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/AI-Summit-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/AI-Summit-1.jpg" medium="image">
-			<media:title type="html">AI Summit-1</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Ahead of Ind vs Pak T20, revisiting debate over Usman Tariq&#8217;s bowling action</title>
-		<link>https://indianexpress.com/article/explained/explained-sports/pak-spinner-usman-tariq-action-10532562/</link>
-		
-		<dc:creator><![CDATA[Shankar Narayan]]></dc:creator>
-		<pubDate>Sat, 14 Feb 2026 16:24:53 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sports]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10532562</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10532562</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/usman1.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/usman1.jpg" medium="image">
-			<media:title type="html">ICC Men&#039;s T20 WC 2026: IND vs PAK-Training</media:title>
 		</media:content>
 	</item>
 	</channel>
