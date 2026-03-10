@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 10 Mar 2026 04:57:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Mar 2026 06:21:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,45 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>West Asia war threatens South Asia’s two lifelines — remittances and energy</title>
+		<title>Social media ban for children may be intrusive and hard to enforce</title>
+		<link>https://indianexpress.com/article/opinion/columns/social-media-ban-children-karnataka-social-media-ban-10574120/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 10 Mar 2026 06:00:32 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10574120</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10574120</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/social-media-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/social-media-1600.jpg" medium="image">
+			<media:title type="html">social media</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>A Supreme Court check on Trump’s power — and a lesson for democracies</title>
+		<link>https://indianexpress.com/article/opinion/columns/supreme-court-trump-democracy-10574085/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Tue, 10 Mar 2026 05:39:28 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10574085</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10574085</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2025/12/Supreme-Court-Madras-High-Court-Bail-Order-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2025/12/Supreme-Court-Madras-High-Court-Bail-Order-1.jpg" medium="image">
+			<media:title type="html">Supreme Court Madras High Court Bail Order</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>The cost of West Asia’s war: A looming energy and remittances crisis for South Asia</title>
 		<link>https://indianexpress.com/article/opinion/columns/west-asia-war-india-remittances-energy-hormuz-trump-oil-khamenei-10574030/</link>
 		
 		<dc:creator><![CDATA[Syed Munir Khasru]]></dc:creator>
@@ -3792,44 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/maoist-3_20260223190929.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/maoist-3_20260223190929.jpg" medium="image">
 			<media:title type="html">maoist-3_20260223190929.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Yogendra Yadav writes: India’s new federal compact must be based on principle of non-domination</title>
-		<link>https://indianexpress.com/article/opinion/columns/yogendra-yadav-writes-indias-new-federal-compact-must-be-based-on-principle-of-non-domination-10548244/</link>
-		
-		<dc:creator><![CDATA[Yogendra Yadav]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 01:41:02 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10548244</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10548244</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/constitution-illustration.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/constitution-illustration.jpg" medium="image">
-			<media:title type="html">constitution illustration</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>With surrender of Devuji, Naxalism nears its end. Democracy’s work goes on</title>
-		<link>https://indianexpress.com/article/opinion/columns/with-surrender-of-devuji-naxalism-nears-its-end-democracys-work-goes-on-10548242/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 01:41:00 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10548242</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10548242</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Express-view-Copy-2-12.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Express-view-Copy-2-12.jpeg" medium="image">
-			<media:title type="html">Express-view - Copy (2)</media:title>
 		</media:content>
 	</item>
 	</channel>
