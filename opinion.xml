@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 11 Mar 2026 00:43:59 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Mar 2026 01:36:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,82 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>40 years ago March 11, 1986: Opposition demands J&#038;K probe</title>
+		<link>https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-march-11-1986-opposition-demands-jk-probe-10575470/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2026 01:00:59 +0000</pubDate>
+		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10575470</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10575470</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/express-archive-March-11-1986.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/express-archive-March-11-1986.jpg" medium="image">
+			<media:title type="html">express archive March 11, 1986</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>With a legal cloud over Trump’s tariffs, countries must rethink trade deals</title>
+		<link>https://indianexpress.com/article/opinion/columns/with-a-legal-cloud-over-trumps-tariffs-countries-must-rethink-trade-deals-10575487/</link>
+		
+		<dc:creator><![CDATA[Ajay Srivastava]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2026 00:50:36 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10575487</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10575487</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/oped-illustration-5.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/oped-illustration-5.jpg" medium="image">
+			<media:title type="html">oped illustration</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>In Dubai, missiles overhead, calm on ground</title>
+		<link>https://indianexpress.com/article/opinion/columns/in-dubai-missiles-overhead-calm-on-ground-10575494/</link>
+		
+		<dc:creator><![CDATA[Shivani Sibal]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2026 00:49:19 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10575494</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10575494</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Russia_Iran_Cautious_Stance_20260310190644.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Russia_Iran_Cautious_Stance_20260310190644.jpg" medium="image">
+			<media:title type="html">Russia_Iran_Cautious_Stance_20260310190644.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How Rassundari Devi read &#8212; and wrote &#8212; her way into the world</title>
+		<link>https://indianexpress.com/article/opinion/columns/how-rassundari-devi-read-and-wrote-her-way-into-the-world-10575492/</link>
+		
+		<dc:creator><![CDATA[Mahak Sharma]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2026 00:49:09 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10575492</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10575492</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Rassundari-Devi.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Rassundari-Devi.jpg" medium="image">
+			<media:title type="html">Rassundari Devi</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Taking sides in conflict: Delhi’s past record tells a complicated story</title>
 		<link>https://indianexpress.com/article/opinion/columns/taking-sides-in-conflict-delhis-past-record-tells-a-complicated-story-10575451/</link>
 		
@@ -3754,82 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/oped-illustration-2.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/02/oped-illustration-2.jpeg" medium="image">
 			<media:title type="html">oped illustration</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Edwin Lutyens of Britain might be alien, but Lutyens of Delhi is Indian</title>
-		<link>https://indianexpress.com/article/opinion/columns/edwin-lutyens-of-britain-might-be-alien-but-lutyens-of-delhi-is-indian-10550408/</link>
-		
-		<dc:creator><![CDATA[Fahad Zuberi]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 01:18:49 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10550408</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10550408</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/oped-illustration-1-3.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/oped-illustration-1-3.jpg" medium="image">
-			<media:title type="html">oped illustration 1</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Rajagopalachari, the dissenter, may not have approved of his bust replacing Lutyens’</title>
-		<link>https://indianexpress.com/article/opinion/editorials/rajagopalachari-the-dissenter-may-not-have-approved-of-his-bust-replacing-lutyens-10550378/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 01:13:07 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10550378</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10550378</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Express-view-Copy-3-17.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Express-view-Copy-3-17.jpeg" medium="image">
-			<media:title type="html">Express-view - Copy (3)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Will global applause for Boong make a difference for indie movies?</title>
-		<link>https://indianexpress.com/article/opinion/columns/boong-bafta-manipur-lakshmipriya-devi-award-cinema-10549883/</link>
-		
-		<dc:creator><![CDATA[Alaka Sahani]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 13:10:29 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10549883</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10549883</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Boong-director-Lakshmipriya-Devi-with-producers-from-left-Alan-McAlex-Farhan-Akhtar-and-Ritesh-Sidhwani-in-London-Sunday.-AP_20260224130055.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Boong-director-Lakshmipriya-Devi-with-producers-from-left-Alan-McAlex-Farhan-Akhtar-and-Ritesh-Sidhwani-in-London-Sunday.-AP_20260224130055.jpg" medium="image">
-			<media:title type="html">Boong-director-Lakshmipriya-Devi-with-producers-from-left-Alan-McAlex-Farhan-Akhtar-and-Ritesh-Sidhwani-in-London-Sunday.-AP_20260224130055.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Devuji’s surrender is a step towards ending Maoism. But the path ahead is critical</title>
-		<link>https://indianexpress.com/article/opinion/columns/devuji-surrender-maoism-amit-shah-maoism-over-india-security-10548782/</link>
-		
-		<dc:creator><![CDATA[Sanjiv Krishan Sood]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 11:00:22 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10548782</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10548782</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2025/11/mao-maoist-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2025/11/mao-maoist-1.jpg" medium="image">
-			<media:title type="html">mao maoist</media:title>
 		</media:content>
 	</item>
 	</channel>
