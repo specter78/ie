@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 12 Mar 2026 12:27:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Mar 2026 13:34:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>SC verdict on parental income as OBC creamy layer criterion: What has court said, what changes</title>
+		<link>https://indianexpress.com/article/explained/explained-law/sc-verdict-on-parental-income-as-obc-creamy-layer-10578614/</link>
+		
+		<dc:creator><![CDATA[Shyamlal Yadav]]></dc:creator>
+		<pubDate>Thu, 12 Mar 2026 13:24:06 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10578614</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10578614</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/supreme-court-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/supreme-court-1600.jpg" medium="image">
+			<media:title type="html">supreme court 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why SC ordered a ‘no fault’ compensation policy for Covid vaccine side-effects</title>
 		<link>https://indianexpress.com/article/explained/explained-law/sc-no-fault-compensation-policy-for-covid-vaccine-side-effects-10578294/</link>
 		
@@ -4183,25 +4202,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/Asim-Munir-1600.jpeg?resize=600,333" medium="image">
 			<media:title type="html">Asim Munir</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>India enters Pax Silica: Despite late inclusion, why the US-led grouping still matters for New Delhi</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/india-enters-pax-silica-why-it-matters-10542107/</link>
-		
-		<dc:creator><![CDATA[Pratyush Deep, Ravi Dutta Mishra]]></dc:creator>
-		<pubDate>Fri, 20 Feb 2026 06:48:16 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10542107</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10542107</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Pax-Silica_c23e1f.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Pax-Silica_c23e1f.jpg" medium="image">
-			<media:title type="html">Pax-Silica_c23e1f</media:title>
 		</media:content>
 	</item>
 	</channel>
