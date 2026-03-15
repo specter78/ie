@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 15 Mar 2026 11:11:31 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 15 Mar 2026 12:20:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Amid LPG criticism, PM Modi invokes Nehru: What did he say about India’s economy during the Korean War?</title>
+		<link>https://indianexpress.com/article/explained/explained-history/modi-lpg-criticism-economy-iran-nehru-inflation-korea-10583402/</link>
+		
+		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
+		<pubDate>Sun, 15 Mar 2026 12:02:44 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10583402</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10583402</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/nehru-economy-war.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/nehru-economy-war.jpg" medium="image">
+			<media:title type="html">nehru economy war</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Expert Explains: How Iran&#8217;s response upset US-Israeli calculations, what it means for the Gulf&#8217;s future</title>
 		<link>https://indianexpress.com/article/explained/explained-global/iran-response-upset-us-israeli-calculations-gulf-future-10583338/</link>
 		
@@ -4231,25 +4250,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/ex-kingfisher_expl-law.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/ex-kingfisher_expl-law.jpg" medium="image">
 			<media:title type="html">ex-kingfisher_expl law</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>IDFC First Bank&#8217;s Rs 590-crore fraud: Why it highlights governance lapses</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/idfc-first-banks-rs-590-crore-10546960/</link>
-		
-		<dc:creator><![CDATA[George Mathew]]></dc:creator>
-		<pubDate>Mon, 23 Feb 2026 05:34:50 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10546960</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10546960</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/IDFC_First_Bank-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/IDFC_First_Bank-1600.jpg" medium="image">
-			<media:title type="html">IDFC_First_Bank 1600</media:title>
 		</media:content>
 	</item>
 	</channel>
