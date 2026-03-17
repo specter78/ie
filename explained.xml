@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 17 Mar 2026 01:02:26 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Mar 2026 03:36:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>US assets are under Iran attack, but here&#8217;s why NATO doesn&#8217;t have to answer Trump&#8217;s call</title>
+		<link>https://indianexpress.com/article/explained/explained-global/why-nato-not-joining-us-israel-war-iran-trump-explained-10585203/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2026 01:41:44 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10585203</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10585203</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Trump-NATO-Iran.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Trump-NATO-Iran.jpg" medium="image">
+			<media:title type="html">Trump NATO Iran</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>China This Week &#124; Possible delay in Trump’s China visit, India’s FDI changes, and new Five-Year Plan</title>
 		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-delay-trump-visit-fdi-five-year-plan-10585087/</link>
 		
@@ -86,7 +105,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Explained: The many contentions around the Transgender Protection (Amendment) Bill 2026 tabled in Parliament</title>
+		<title>Transgender Rights Amendment Bill: Key Changes to 2019 Act Explained</title>
 		<link>https://indianexpress.com/article/explained/explained-law/transgender-bill-2026-self-identification-nalsa-explained-10584573/</link>
 		
 		<dc:creator><![CDATA[Parthasarathi Biswas, Anagha Jayakumar]]></dc:creator>
@@ -4227,25 +4246,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/312453.jpg?resize=270,600" medium="image">
 			<media:title type="html">Mumbai musical road</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>After Canada and UK leaders, Germany’s Merz heads to China: What’s driving the visits, despite criticism?</title>
-		<link>https://indianexpress.com/article/explained/explained-global/west-leaders-germany-merz-china-visit-reason-10549160/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Tue, 24 Feb 2026 08:37:08 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10549160</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10549160</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/China-visit-germany.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/China-visit-germany.jpg" medium="image">
-			<media:title type="html">China visit germany</media:title>
 		</media:content>
 	</item>
 	</channel>
