@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 18 Mar 2026 06:32:58 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Mar 2026 07:25:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Content takedown rules explained: Centre may allow multiple ministries to issue blocks</title>
+		<title>Explained: The growing ambit of India’s online censorship mechanism</title>
 		<link>https://indianexpress.com/article/explained/india-content-blocking-rules-decentralised-it-act-10588096/</link>
 		
 		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
