@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 17 Mar 2026 17:19:34 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Mar 2026 04:09:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,56 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Ukraine is helping the US counter Iranian Shahed drones in West Asia</title>
+		<link>https://indianexpress.com/article/explained/explained-global/ukraine-anti-drone-support-us-middle-east-explained-10587835/</link>
+		
+		<dc:creator><![CDATA[Abhinav Chakraborty]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 03:43:50 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10587835</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10587835</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Ukraine-war.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Ukraine-war.jpg" medium="image">
+			<media:title type="html">Ukraine war</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Iran-Shahed-136.jpg?resize=600,338" medium="image">
+			<media:title type="html">House Speaker Mike Johnson (R-La.) speaks during an event hosted by United Against Nuclear Iran where an Iranian Shahed-136 drone was displayed on Capitol Hill in Washington, on Thursday, May 8, 2025. (Rod Lamkey Jr./The New York Times)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/UKRAINE-MIDEAST-4.jpg?resize=600,400" medium="image">
+			<media:title type="html">Russian Shahed</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/LUCAS.jpg?resize=600,338" medium="image">
+			<media:title type="html">LUCAS drones</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why honey bees attack humans and what you should do to protect yourself</title>
+		<link>https://indianexpress.com/article/explained/explained-health/honey-bee-attack-sting-reason-treatment-remedy-10587261/</link>
+		
+		<dc:creator><![CDATA[Shubham Kurale]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2026 01:30:28 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Health]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10587261</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10587261</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/bee-attack.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/bee-attack.jpg" medium="image">
+			<media:title type="html">Closeup shot of a bee on a chamomile flower</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Expert Explains &#124; As war drags into third week, what Iran is looking to achieve</title>
 		<link>https://indianexpress.com/article/explained/explained-global/iran-war-strategy-explained-us-israel-conflict-10587082/</link>
 		
@@ -4200,48 +4250,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/TRUMP-VIRUS-11.jpg?resize=600,400" medium="image">
 			<media:title type="html">Peter Navarro</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Tata Sons: Why Noel Tata has set conditions for Chandrasekaran&#8217;s extension</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/noel-tata-sons-chandrasekaran-extension-10551211/</link>
-		
-		<dc:creator><![CDATA[George Mathew]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 08:27:01 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10551211</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10551211</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Tata-sons.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Tata-sons.jpg" medium="image">
-			<media:title type="html">Tata sons</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/Screenshot-2026-02-26-at-7.51.53-AM.png" medium="image">
-			<media:title type="html">Tata Sons Board</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Being Eileen Gu: The sparkle and shadow around the American representing China in the Winter Olympics</title>
-		<link>https://indianexpress.com/article/explained/explained-sports/eileen-gu-american-representing-china-winter-olympics-10550362/</link>
-		
-		<dc:creator><![CDATA[Shivani Naik]]></dc:creator>
-		<pubDate>Wed, 25 Feb 2026 00:31:27 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sports]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10550362</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10550362</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Eileen-Gu-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Eileen-Gu-1600.jpg" medium="image">
-			<media:title type="html">APTOPIX Milan Cortina Olympics Freestyle Skiing</media:title>
 		</media:content>
 	</item>
 	</channel>
