@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 19 Mar 2026 06:20:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Mar 2026 07:30:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Stock market crashes over 2% on HDFC Bank fall, fuel surge, US Fed hawkish outlook</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/stock-market-crash-sensex-nifty-hdfc-bank-oil-price-surge-10590178/</link>
+		
+		<dc:creator><![CDATA[Akash Mandal]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2026 07:30:00 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10590178</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10590178</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/MSC.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/MSC.jpg" medium="image">
+			<media:title type="html">MSC</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Tariffs, AI, war, oil: what next for Indian stock markets</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/tariffs-ai-war-oil-what-next-for-indian-stock-markets-10589976/</link>
 		
@@ -327,7 +346,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Pakistan strike kills 400 in Kabul: Where is this war headed, what it means for region</title>
+		<title>Pakistan strike kills 400 in Kabul: Why Taliban regime rejects Islamabad&#8217;s urging to act against TTP</title>
 		<link>https://indianexpress.com/article/explained/explained-global/pakistan-strike-kills-400-in-kabul-where-war-headed-10587056/</link>
 		
 		<dc:creator><![CDATA[Yashee]]></dc:creator>
@@ -4223,25 +4242,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/Punch-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/Punch-1600.jpg" medium="image">
 			<media:title type="html">Punch 1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>ED attaches Anil Ambani’s Rs 3,700 crore ‘Abode’: Why ED acted and what Ambani can do now</title>
-		<link>https://indianexpress.com/article/explained/why-enforcement-directorate-attached-anil-ambanis-rs-3700-cr-mumbai-residence-10553837/</link>
-		
-		<dc:creator><![CDATA[Mahender Singh Manral]]></dc:creator>
-		<pubDate>Thu, 26 Feb 2026 12:32:06 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10553837</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10553837</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Anil-Ambani-ED.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Anil-Ambani-ED.jpg" medium="image">
-			<media:title type="html">Anil Ambani ED</media:title>
 		</media:content>
 	</item>
 	</channel>
