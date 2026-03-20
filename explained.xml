@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 20 Mar 2026 07:22:09 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Mar 2026 09:45:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,41 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Graphs, Data and Perspectives: Amid West Asia war, why central banks are between a rock and hard place</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/graphs-data-perspectives-gdp-central-bank-stance-war-10592130/</link>
+		
+		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
+		<pubDate>Fri, 20 Mar 2026 09:45:38 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10592130</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10592130</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Germany_European_Central_Bank_26130-4f770.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Germany_European_Central_Bank_26130-4f770.jpg" medium="image">
+			<media:title type="html">APTOPIX Germany Bundesliga Soccer</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Fed-CHART-1.jpg?resize=600,469" medium="image">
+			<media:title type="html">CHART 1.</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Fed-CHART-2.jpg?resize=600,457" medium="image">
+			<media:title type="html">CHART 2</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/CHART-3-1.jpg?resize=600,436" medium="image">
+			<media:title type="html">CHART 3</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/CHART-4.jpg?resize=600,468" medium="image">
+			<media:title type="html">CHART 4</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>As semaglutide drug patent expires today, what to know about weight loss drug availability</title>
 		<link>https://indianexpress.com/article/explained/explained-health/semaglutide-generics-india-price-brands-availability-10591789/</link>
 		
@@ -4227,29 +4262,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/ex-punjab-farmers_expl.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/ex-punjab-farmers_expl.jpg" medium="image">
 			<media:title type="html">ex-punjab-farmers_expl</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why the Thar just can&#8217;t shake off its growing association with reckless driving</title>
-		<link>https://indianexpress.com/article/explained/explained-thar-reckless-driving-10555369/</link>
-		
-		<dc:creator><![CDATA[Soumyarendra Barik, Anil Sasi]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 09:01:00 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10555369</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10555369</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/thar-goa.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/thar-goa.jpg" medium="image">
-			<media:title type="html">Thar</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/thar-noida-1.jpg?resize=600,373" medium="image">
-			<media:title type="html">Thar crash</media:title>
 		</media:content>
 	</item>
 	</channel>
