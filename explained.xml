@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 20 Mar 2026 09:45:40 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Mar 2026 11:01:40 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,67 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Israel-Iran War: Netanyahu admits South Pars strike, hints conflict may end soon</title>
+		<link>https://indianexpress.com/article/explained/explained-global/israel-iran-war-netanyahu-day-20-statement-10592401/</link>
+		
+		<dc:creator><![CDATA[Divya A]]></dc:creator>
+		<pubDate>Fri, 20 Mar 2026 11:01:40 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10592401</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10592401</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/netanz.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/netanz.jpg" medium="image">
+			<media:title type="html">netanz</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>As Trump makes Pearl Harbour joke, a look at why Japan attacked it in 1941</title>
+		<link>https://indianexpress.com/article/explained/explained-global/as-trump-makes-pearl-harbour-joke-a-look-at-why-japan-attacked-it-in-1941-10592115/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 20 Mar 2026 10:59:45 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10592115</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10592115</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/trumpsanae.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/trumpsanae.jpg" medium="image">
+			<media:title type="html">US Trump Japan</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/pearl-harbour.jpg?resize=600,480" medium="image">
+			<media:title type="html">Pearl Harbour</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Are we measuring global warming wrong: What a new study says, solution it offers</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/measuring-global-warming-wrong-what-a-new-study-says-methane-10592284/</link>
+		
+		<dc:creator><![CDATA[Durwood Zaelke, Zerin Osho]]></dc:creator>
+		<pubDate>Fri, 20 Mar 2026 10:35:53 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10592284</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10592284</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/global-warming-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/global-warming-1600.jpg" medium="image">
+			<media:title type="html">global warming 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Graphs, Data and Perspectives: Amid West Asia war, why central banks are between a rock and hard place</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/graphs-data-perspectives-gdp-central-bank-stance-war-10592130/</link>
 		
@@ -4201,67 +4262,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/modinetanyahu.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/modinetanyahu.jpg" medium="image">
 			<media:title type="html">PM Modi in Israel</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Before ‘corruption in judiciary’, the 15 instances where NCERT textbook revisions went unchallenged</title>
-		<link>https://indianexpress.com/article/explained/ncert-book-revision-corruption-in-judiciary-rare-past-changes-10555556/</link>
-		
-		<dc:creator><![CDATA[Abhinaya Harigovind]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 10:18:07 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10555556</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10555556</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/NCERT-textbooks.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/NCERT-textbooks.jpg" medium="image">
-			<media:title type="html">NCERT textbooks</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2023/04/text.jpg" medium="image">
-			<media:title type="html">References to Gujarat riots purged from social science books for Classes 6-12 </media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Kejriwal, Sisodia were discharged in the CBI case. Now what happens to the ED case?</title>
-		<link>https://indianexpress.com/article/explained/explained-law/kejriwal-sisodia-acquitted-cbi-case-ed-10555538/</link>
-		
-		<dc:creator><![CDATA[Apurva Vishwanath]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 10:08:32 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10555538</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10555538</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/ex-kejriwal-sisodia_expl-law.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/ex-kejriwal-sisodia_expl-law.jpg" medium="image">
-			<media:title type="html">ex-kejriwal-sisodia_expl law</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Rs 270 today, Rs 2,400 tomorrow? Why Punjab is alarmed by Centre’s renewed DBT push for fertiliser subsidy to farmers</title>
-		<link>https://indianexpress.com/article/explained/punjab-farmers-dbt-fertiliser-subsidy-10555411/</link>
-		
-		<dc:creator><![CDATA[Anju Agnihotri Chaba]]></dc:creator>
-		<pubDate>Fri, 27 Feb 2026 09:09:05 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10555411</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10555411</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/ex-punjab-farmers_expl.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/02/ex-punjab-farmers_expl.jpg" medium="image">
-			<media:title type="html">ex-punjab-farmers_expl</media:title>
 		</media:content>
 	</item>
 	</channel>
