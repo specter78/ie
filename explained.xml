@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 21 Mar 2026 04:45:07 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Mar 2026 06:17:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,33 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Heatwaves to hailstorms: Why is March seeing such erratic weather this year?</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/march-2026-weather-explained-10593646/</link>
+		
+		<dc:creator><![CDATA[Anjali Marar]]></dc:creator>
+		<pubDate>Sat, 21 Mar 2026 06:09:36 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10593646</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10593646</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/thunder.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/thunder.jpg" medium="image">
+			<media:title type="html">March rain</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/hail.jpg?resize=600,338" medium="image">
+			<media:title type="html">March rain</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/rain_a7f0e2.jpg?resize=600,338" medium="image">
+			<media:title type="html">March rain</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What to know about the sexual abuse allegations against US rights activist Cesar Chavez</title>
 		<link>https://indianexpress.com/article/explained/explained-global/sexual-abuse-allegations-cesar-chavez-10592469/</link>
 		
@@ -205,7 +232,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Are we measuring global warming wrong: What a new study says, solution it offers</title>
+		<title>Experts Explain &#124; Are we measuring global warming wrong: What a new study says</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/measuring-global-warming-wrong-what-a-new-study-says-methane-10592284/</link>
 		
 		<dc:creator><![CDATA[Durwood Zaelke, Zerin Osho]]></dc:creator>
@@ -259,7 +286,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>As semaglutide drug patent expires today, what to know about weight loss drug availability</title>
+		<title>As semaglutide drug patent expires, what to know about weight loss drug availability</title>
 		<link>https://indianexpress.com/article/explained/explained-health/semaglutide-generics-india-price-brands-availability-10591789/</link>
 		
 		<dc:creator><![CDATA[Anonna Dutt]]></dc:creator>
@@ -4247,29 +4274,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/02/Iran-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/02/Iran-1600.jpg" medium="image">
 			<media:title type="html">Iran Crises: Explosions in the capital as Israel and US announce a pre-emptive strike</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Nehru supported China’s bid for UNSC seat, over offers to India from the US and the USSR</title>
-		<link>https://indianexpress.com/article/explained/explained-history/nehru-support-china-unsc-india-seat-reason-10557161/</link>
-		
-		<dc:creator><![CDATA[Bhaskar Sarma]]></dc:creator>
-		<pubDate>Sat, 28 Feb 2026 08:33:04 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10557161</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10557161</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/02/Nehru.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/02/Nehru.jpeg" medium="image">
-			<media:title type="html">Nehru</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/02/Jawaharlal_Nehru_at_the_UN_General_Assembly_New_York_1948.jpg?resize=476,600" medium="image">
-			<media:title type="html">Jawaharlal Nehru at the UN General Assembly, New York in 1948. </media:title>
 		</media:content>
 	</item>
 	</channel>
