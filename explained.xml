@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 22 Mar 2026 02:15:35 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 22 Mar 2026 06:28:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -47,7 +47,7 @@
 			<media:title type="html">UAE</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/rupee.jpeg?resize=600,511" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/rupee.jpeg" medium="image">
 			<media:title type="html">Rupee</media:title>
 		</media:content>
 	</item>
