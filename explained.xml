@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 22 Mar 2026 22:18:34 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 23 Mar 2026 01:14:16 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>War in West Asia: Decoding deadline, red line in Trump’s new threat to Iran</title>
+		<link>https://indianexpress.com/article/explained/explained-global/war-in-west-asia-decoding-deadline-red-line-in-trumps-new-threat-to-iran-10595747/</link>
+		
+		<dc:creator><![CDATA[Divya A]]></dc:creator>
+		<pubDate>Mon, 23 Mar 2026 00:59:06 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10595747</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10595747</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Satellite-image-from-Planet-Labs-shows-the-Bushehr-Nuclear-Power-Plant-in-Bushehr-Iran-last-year.-AP-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Satellite-image-from-Planet-Labs-shows-the-Bushehr-Nuclear-Power-Plant-in-Bushehr-Iran-last-year.-AP-1.jpg" medium="image">
+			<media:title type="html">Iran US</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/us-iran-oil.jpg" medium="image">
+			<media:title type="html">War in West Asia: Decoding deadline, red line in Trump’s new threat to Iran</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>After fuel, water: With Iran’s threats to desalination plants, understanding the Gulf countries’ dependency</title>
 		<link>https://indianexpress.com/article/explained/iran-threats-desalination-plants-gulf-water-dependency-10595489/</link>
 		
@@ -4259,25 +4282,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/khamenei-karnataka.jpeg?resize=600,419" medium="image">
 			<media:title type="html">Ayatollah Khamenei</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Iran after Khamenei: Who will lead the country, how the successor will be decided</title>
-		<link>https://indianexpress.com/article/explained/explained-global/khamenei-successor-process-10558632/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sun, 01 Mar 2026 04:19:59 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10558632</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10558632</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/khamenei.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/khamenei.jpg" medium="image">
-			<media:title type="html">Iran&#039;s Supreme Leader Ayatollah Ali Khamenei killed in Israeli and U.S. strikes</media:title>
 		</media:content>
 	</item>
 	</channel>
