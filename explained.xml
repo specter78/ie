@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 26 Mar 2026 11:19:11 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 Mar 2026 12:28:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,7 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>How a US jury held Meta, YouTube guilty of adverse product design</title>
+		<title>Social media addiction trial: Why Meta and YouTube were held guilty</title>
 		<link>https://indianexpress.com/article/explained/explained-law/section-230-challenge-why-meta-youtube-lost-us-design-liability-case-10602733/</link>
 		
 		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
@@ -67,7 +67,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Explained: Why Israeli settler violence is again rising in West Bank amid Iran war</title>
+		<title>Explained: Amid Iran war, the rise of Israeli settler violence in West Bank</title>
 		<link>https://indianexpress.com/article/explained/explained-global/israeli-settler-violence-rise-west-bank-iran-10602517/</link>
 		
 		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
