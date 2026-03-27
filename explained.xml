@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 27 Mar 2026 03:53:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Mar 2026 05:44:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -66,7 +66,7 @@
 			<media:title type="html">gold</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/ANZ-Commodity-market-scorecard.jpg?resize=600,219" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/ANZ-Commodity-market-scorecard.jpg?resize=728,266" medium="image">
 			<media:title type="html">Gold</media:title>
 		</media:content>
 
@@ -94,7 +94,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Explained: India’s new climate targets are modest but significant</title>
+		<title>India’s new climate targets are modest, but significant. Here’s why</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/explained-indias-new-climate-targets-are-modest-but-significant-10603408/</link>
 		
 		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
@@ -112,7 +112,7 @@
 			<media:title type="html">climate</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/NDC.jpg?resize=600,228" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/NDC.jpg?resize=728,277" medium="image">
 			<media:title type="html">india climate targets, climate targets, Climate Change, global warming, clean energy, green energy, climate crisis, Indian express explained, explained news, current affairs</media:title>
 		</media:content>
 	</item>
