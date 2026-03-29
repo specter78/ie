@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 29 Mar 2026 00:45:35 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Mar 2026 02:07:08 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Science is about evidence. But whose evidence?</title>
+		<link>https://indianexpress.com/article/opinion/columns/science-is-about-evidence-but-whose-evidence-10606910/</link>
+		
+		<dc:creator><![CDATA[Anu Raghunathan]]></dc:creator>
+		<pubDate>Sun, 29 Mar 2026 01:44:25 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10606910</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10606910</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/SCIEN13id-R.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/SCIEN13id-R.jpg" medium="image">
+			<media:title type="html">SCIEN13id-R</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Tehran&#8217;s Golestan Palace damaged, a Persianate mirror shattered</title>
+		<link>https://indianexpress.com/article/opinion/columns/tehrans-golestan-palace-damaged-a-persianate-mirror-shattered-10606909/</link>
+		
+		<dc:creator><![CDATA[Syed Ali Nadeem Rezavi]]></dc:creator>
+		<pubDate>Sun, 29 Mar 2026 01:30:24 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10606909</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10606909</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/tehran-palace.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/tehran-palace.jpg" medium="image">
+			<media:title type="html">tehran palace</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Tavleen Singh writes: The war comes to India</title>
 		<link>https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-israel-iran-war-india-10606891/</link>
 		
@@ -3796,44 +3834,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/ai28_1d865b.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/ai28_1d865b.jpg" medium="image">
 			<media:title type="html">ai28_1d865b</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>In Nepal and Bangladesh, the people have spoken</title>
-		<link>https://indianexpress.com/article/opinion/columns/nepal-bangladesh-people-have-spoken-10580813/</link>
-		
-		<dc:creator><![CDATA[Ram Madhav]]></dc:creator>
-		<pubDate>Sat, 14 Mar 2026 01:05:04 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10580813</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10580813</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/bang-ne.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/bang-ne.jpg" medium="image">
-			<media:title type="html">bang ne</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>40 years ago, March 14, 1986: Chavan finalises ministers</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-march-14-1986-chavan-finalises-ministers-10580815/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 14 Mar 2026 01:00:31 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10580815</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10580815</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/14-Mar-1986_IE_001.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/14-Mar-1986_IE_001.jpg" medium="image">
-			<media:title type="html">Indian Express</media:title>
 		</media:content>
 	</item>
 	</channel>
