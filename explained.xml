@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 30 Mar 2026 10:01:31 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Mar 2026 12:49:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>China This Week &#124; Putin may visit China after Trump, new Indian Ambassador appointed, and China’s ocean mapping</title>
+		<link>https://indianexpress.com/article/explained/explained-global/china-this-week-putin-trump-visit-ambassador-maritime-capabilities-10609799/</link>
+		
+		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
+		<pubDate>Mon, 30 Mar 2026 12:16:55 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10609799</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10609799</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Chinese_Kilo_in_service.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Chinese_Kilo_in_service.jpg" medium="image">
+			<media:title type="html">Chinese_Kilo_in_service</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Bill seeking divisional status for Jammu’s Pir Panjal and Chenab Valley: Politics behind it, and financial implications</title>
 		<link>https://indianexpress.com/article/explained/explained-politics/jammu-kashmir-new-divisions-bill-pir-panjal-chenab-valley-10609446/</link>
 		
@@ -4215,25 +4234,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/supreme-court.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/supreme-court.jpg" medium="image">
 			<media:title type="html">supreme court</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>From Karnataka to Andhra Pradesh, why calls for banning social media for kids are growing</title>
-		<link>https://indianexpress.com/article/explained/explained-law/karnataka-andhra-social-media-kids-explained-10569399/</link>
-		
-		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
-		<pubDate>Sat, 07 Mar 2026 06:36:09 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10569399</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10569399</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/AUSTRALIA-TEENS-SOCIAL-MEDIA-1-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/AUSTRALIA-TEENS-SOCIAL-MEDIA-1-1.jpg" medium="image">
-			<media:title type="html">School children use their smartphones near the Barangaroo Ferry Terminal in Sydney, Feb. 24, 2021. (Matthew Abbot/The New York Times)</media:title>
 		</media:content>
 	</item>
 	</channel>
