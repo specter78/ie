@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 31 Mar 2026 10:36:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Mar 2026 11:30:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Explained: The US&#8217;s 2,000 pound &#8216;bunker buster&#8217; bomb, used to attack Iran’s Isfahan</title>
+		<link>https://indianexpress.com/article/explained/bunker-buster-bomb-explained-isfahan-strike-10611537/</link>
+		
+		<dc:creator><![CDATA[Amrita Nayak Dutta]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2026 11:13:44 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10611537</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10611537</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/03/Bunker-busterrrr-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/03/Bunker-busterrrr-2.jpg" medium="image">
+			<media:title type="html">Bunker busterrrr</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: What FCRA Amendment Bill 2026 proposes, why it has sparked a row in Kerala</title>
 		<link>https://indianexpress.com/article/explained/fcra-amendment-bill-2026-explained-key-changes-row-10611435/</link>
 		
@@ -4211,33 +4230,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/ex-tfr-apvsindia.jpg?resize=600,469" medium="image">
 			<media:title type="html">TFR - Andhra Pradesh vs India</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: The jobs that AI could most certainly replace, as per an Anthropic study</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/jobs-that-ai-could-certainly-replace-anthropic-study-10571054/</link>
-		
-		<dc:creator><![CDATA[Soumyarendra Barik, Anil Sasi]]></dc:creator>
-		<pubDate>Sun, 08 Mar 2026 06:39:47 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10571054</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10571054</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/AI-jobs-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/AI-jobs-1600.jpg" medium="image">
-			<media:title type="html">People and robots getting job flat vector illustration</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/AI-graphic.jpg?resize=600,519" medium="image">
-			<media:title type="html">AI jobs effect</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Labor-market-1600.jpg?resize=600,329" medium="image">
-			<media:title type="html">AI graphic</media:title>
 		</media:content>
 	</item>
 	</channel>
