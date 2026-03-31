@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 31 Mar 2026 13:40:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 31 Mar 2026 15:49:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -47,12 +47,12 @@
 			<media:title type="html">rupee-illustration_20260304193721_20260331133301.jpg</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/rupee.png?resize=600,302" medium="image">
-			<media:title type="html">rupee</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Graph1.jpg?resize=600,338" medium="image">
+			<media:title type="html">Rupee</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Screenshot-2026-03-31-at-19.08.40.png?resize=600,285" medium="image">
-			<media:title type="html">rupee</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Graph2.jpg?resize=600,338" medium="image">
+			<media:title type="html">Rupee</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -284,7 +284,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Don’t reduce Menaka Guruswamy to her queerness alone</title>
+		<title>Why the candidature of Menaka Guruswamy must be celebrated</title>
 		<link>https://indianexpress.com/article/opinion/columns/dont-reduce-menaka-guruswamy-to-her-queerness-alone-10610283/</link>
 		
 		<dc:creator><![CDATA[Sohini Chattopadhyay]]></dc:creator>
