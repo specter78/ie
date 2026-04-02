@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 02 Apr 2026 10:33:20 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Apr 2026 11:27:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,52 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Trump in US Supreme Court: What is birthright citizenship, does India have it?</title>
+		<link>https://indianexpress.com/article/explained/explained-global/birthright-citizenship-us-supreme-court-trump-order-10615530/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2026 11:27:49 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10615530</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10615530</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/trump-birthright.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/trump-birthright.jpg" medium="image">
+			<media:title type="html">trump birthright</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Raja Ravi Varma painting sells for record Rs 167 crore: How India&#8217;s most expensive artist made art for the masses</title>
+		<link>https://indianexpress.com/article/explained/explained-culture/raja-ravi-varma-painting-record-auction-masses-gods-10615372/</link>
+		
+		<dc:creator><![CDATA[Vandana Kalra]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2026 10:43:47 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10615372</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10615372</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Untitled-design-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Untitled-design-1.jpg" medium="image">
+			<media:title type="html">raja ravi varma</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/Woman-Holding-a-Fruit.jpg?resize=466,600" medium="image">
+			<media:title type="html">Woman Holding a Fruit, one of Raja Ravi Varma&#039;s most famous paintings. (Wikimedia Commons)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/Draupadi_Vastraharan_Raja_Ravi_Varma.jpg?resize=442,600" medium="image">
+			<media:title type="html">Draupadi vastraharan from the Mahabharata. </media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>US calls India&#8217;s online censorship mechanism &#8216;politically motivated&#8217;, cites &#8216;increasing&#8217; takedown requests: Here&#8217;s what to know</title>
 		<link>https://indianexpress.com/article/explained/explained-sci-tech/india-content-takedown-ustr-report-it-rules-10615151/</link>
 		
@@ -4168,48 +4214,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/Iran_US_Asia_Watches_63148-3e876.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/Iran_US_Asia_Watches_63148-3e876.jpg" medium="image">
 			<media:title type="html">Iran US Asia Watches</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Thane’s egg donation racket points to multiple violations of fertility procedure laws</title>
-		<link>https://indianexpress.com/article/explained/explained-law/thane-egg-donation-racket-violations-fertility-law-10574625/</link>
-		
-		<dc:creator><![CDATA[Sadaf Modak]]></dc:creator>
-		<pubDate>Tue, 10 Mar 2026 11:14:32 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10574625</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10574625</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/Thane.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/Thane.jpg" medium="image">
-			<media:title type="html">Thane</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Expert Explains the Iran War: If Tehran survives US-Israeli aggression, it could influence long-term Iran-Arab ties</title>
-		<link>https://indianexpress.com/article/explained/explained-global/iran-war-us-israel-arab-ties-expert-explains-10574651/</link>
-		
-		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
-		<pubDate>Tue, 10 Mar 2026 10:35:47 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10574651</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10574651</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/ex-MasoudPezeshkian_expl-geop.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/ex-MasoudPezeshkian_expl-geop.jpg" medium="image">
-			<media:title type="html">ex-MasoudPezeshkian_expl geop</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/ex-Lebanon_Israel_Iran.jpg?resize=600,421" medium="image">
-			<media:title type="html">Iran war in Lebanon</media:title>
 		</media:content>
 	</item>
 	</channel>
