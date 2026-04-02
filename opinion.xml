@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 02 Apr 2026 12:02:54 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Apr 2026 13:37:45 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Reading between Trump&#8217;s lines: He will dial up pressure – and wants a way out</title>
+		<link>https://indianexpress.com/article/opinion/columns/us-iran-war-diplomacy-strait-of-hormuz-india-stakes-trump-dial-up-pressure-wants-way-out-10615828/</link>
+		
+		<dc:creator><![CDATA[C. Raja Mohan]]></dc:creator>
+		<pubDate>Thu, 02 Apr 2026 13:37:44 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10615828</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10615828</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Trump_Iran_US_979_7-e43ec_20260402133034.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Trump_Iran_US_979_7-e43ec_20260402133034.jpg" medium="image">
+			<media:title type="html">Trump_Iran_US_979_7-e43ec_20260402133034.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Trump’s speech suggests US victory. But every pathway out of Iran War leads to failure</title>
 		<link>https://indianexpress.com/article/opinion/columns/trump-iran-conflict-strategic-failure-vs-tactical-success-10615657/</link>
 		
@@ -3823,25 +3842,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/aravalli.jpg" medium="image">
 			<media:title type="html">How to define an ancient hill range? By protecting a delicate balance</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Hermann Kulke was a pioneer of India’s regional history writing</title>
-		<link>https://indianexpress.com/article/opinion/columns/hermann-kulke-was-a-pioneer-of-indias-regional-history-writing-10589485/</link>
-		
-		<dc:creator><![CDATA[Ranabir Chakravarti]]></dc:creator>
-		<pubDate>Thu, 19 Mar 2026 00:42:11 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10589485</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10589485</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/Prof-Hermann-Kulke_20260318191214.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/Prof-Hermann-Kulke_20260318191214.jpg" medium="image">
-			<media:title type="html">Prof-Hermann-Kulke_20260318191214.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
