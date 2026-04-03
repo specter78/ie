@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 03 Apr 2026 08:12:21 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Apr 2026 13:22:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,52 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Graphs, Data and Perspectives: Between oil shock and El Niño, how high can inflation go in India?</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/graphs-data-perspectives-war-el-nino-inflation-outlook-india-10617632/</link>
+		
+		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
+		<pubDate>Fri, 03 Apr 2026 13:18:49 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10617632</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10617632</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/US_Energy_Crisis__398-b3c39.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/US_Energy_Crisis__398-b3c39.jpg" medium="image">
+			<media:title type="html">US Energy Crisis</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/CHART-1-Indias-Annual-Inflation-Rate.jpg" medium="image">
+			<media:title type="html">CHART 1: India&#039;s Annual Inflation Rate.</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/Table-1-Inflation-Forecast-for-FY27.jpg?resize=600,318" medium="image">
+			<media:title type="html">Table 1: Inflation Forecast for FY27.</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>INS Aridhaman: Here’s what to know about India’s new nuclear-powered ballistic submarine</title>
+		<link>https://indianexpress.com/article/explained/ins-aridhaman-induction-india-nuclear-triad-arihant-submarine-10617581/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 03 Apr 2026 13:02:51 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10617581</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10617581</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/ex-ins-aridaman_expl.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/ex-ins-aridaman_expl.jpg" medium="image">
+			<media:title type="html">INS Aridhaman</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: Supreme Court&#8217;s high bar for overturning enforcement of foreign arbitration awards</title>
 		<link>https://indianexpress.com/article/explained/explained-law/explained-supreme-courts-high-bar-for-overturning-enforcement-of-foreign-arbitration-awards-10616966/</link>
 		
@@ -4176,44 +4222,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/essential-comms.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/essential-comms.jpg" medium="image">
 			<media:title type="html">essential comms</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How protests over Panjab University lecture on Sikh gurus highlight the complex ties between Sikhs and the RSS</title>
-		<link>https://indianexpress.com/article/explained/panjab-university-protests-sikh-history-rss-10576606/</link>
-		
-		<dc:creator><![CDATA[Kamaldeep Singh Brar]]></dc:creator>
-		<pubDate>Wed, 11 Mar 2026 11:54:59 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10576606</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10576606</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/ex-panjabuniprotest_expl.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/ex-panjabuniprotest_expl.jpg" medium="image">
-			<media:title type="html">ex-panjabuniprotest_expl</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Iran war: Why Flipkart and Amazon are seeing a spike in induction cooktop sales</title>
-		<link>https://indianexpress.com/article/explained/iran-war-flipkart-amazon-spike-induction-cooktops-sales-fuel-crisis-10576451/</link>
-		
-		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
-		<pubDate>Wed, 11 Mar 2026 10:29:37 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10576451</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10576451</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/Induction-stoves.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/Induction-stoves.jpg" medium="image">
-			<media:title type="html">Induction stoves</media:title>
 		</media:content>
 	</item>
 	</channel>
