@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 03 Apr 2026 13:53:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Apr 2026 16:19:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Trump administration dismisses Attorney General Pam Bondi, Army chief Gen. Randy George: Why were they removed?</title>
+		<link>https://indianexpress.com/article/explained/explained-global/trump-fires-pam-bondi-army-chief-randy-george-reasons-10617875/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 03 Apr 2026 16:19:37 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10617875</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10617875</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/ex-bondi-trump_expl-glob.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/ex-bondi-trump_expl-glob.jpg" medium="image">
+			<media:title type="html">Trump Bondi</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/Pentagon_Army_8_367-55291-1.jpg?resize=600,400" medium="image">
+			<media:title type="html">General Randy George</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Graphs, Data and Perspectives: Between oil shock and El Niño, how high can inflation go in India?</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/graphs-data-perspectives-war-el-nino-inflation-outlook-india-10617632/</link>
 		
@@ -4203,25 +4226,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Kuwait-oil-well-disaster-NASA.jpg" medium="image">
 			<media:title type="html">The Kuwait oil fields of Al Sabiriyah and Al Rawdatayn in the north (above centre) and the Al Burqan in the south (right of centre) burning and producing heavy black smoke (NASA)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What is the Essential Commodities Act, now invoked in India amidst the West Asian crisis?</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/essential-commodities-act-10576689/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 11 Mar 2026 11:58:04 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10576689</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10576689</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/essential-comms.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/essential-comms.jpg" medium="image">
-			<media:title type="html">essential comms</media:title>
 		</media:content>
 	</item>
 	</channel>
