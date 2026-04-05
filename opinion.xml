@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 04 Apr 2026 12:07:58 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 05 Apr 2026 01:17:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,63 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Panama Papers, piercing the veil of secrecy</title>
+		<link>https://indianexpress.com/article/opinion/columns/panama-papers-piercing-the-veil-of-secrecy-10619369/</link>
+		
+		<dc:creator><![CDATA[Jay Mazoomdaar]]></dc:creator>
+		<pubDate>Sun, 05 Apr 2026 01:37:31 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10619369</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10619369</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/panama-papers_20260404181751.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/panama-papers_20260404181751.jpg" medium="image">
+			<media:title type="html">panama-papers_20260404181751.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Tavleen Singh writes: Hard times call for hard decisions</title>
+		<link>https://indianexpress.com/article/opinion/columns/tavleen-singh-writes-hard-times-call-for-hard-decisions-10619372/</link>
+		
+		<dc:creator><![CDATA[Tavleen Singh]]></dc:creator>
+		<pubDate>Sun, 05 Apr 2026 01:17:36 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10619372</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10619372</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/TRUMP20id.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/TRUMP20id.jpg" medium="image">
+			<media:title type="html">TRUMP20id</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>P Chidambaram writes: The interesting times of April</title>
+		<link>https://indianexpress.com/article/opinion/columns/p-chidambaram-writes-the-interesting-times-of-april-10619370/</link>
+		
+		<dc:creator><![CDATA[P Chidambaram]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2026 23:25:33 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10619370</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10619370</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/vote.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/vote.jpg" medium="image">
+			<media:title type="html">vote</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>With Iran war and LPG crisis, it’s time to ask: How does India’s foreign policy impact its people?</title>
 		<link>https://indianexpress.com/article/opinion/columns/iran-war-lpg-crisis-india-foreign-policy-modi-trump-10619040/</link>
 		
@@ -3781,63 +3838,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/edit_dfbf6d.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/03/edit_dfbf6d.jpeg" medium="image">
 			<media:title type="html">edit_dfbf6d</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Our water challenge is stark. Here are four ways to reimagine the solution</title>
-		<link>https://indianexpress.com/article/opinion/columns/our-water-challenge-is-stark-here-are-four-ways-to-reimagine-the-solution-10593116/</link>
-		
-		<dc:creator><![CDATA[Parameswaran Iyer, Arunabha Ghosh]]></dc:creator>
-		<pubDate>Sat, 21 Mar 2026 01:21:29 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10593116</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10593116</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/WATER21id.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/WATER21id.jpg" medium="image">
-			<media:title type="html">WATER21id</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>BJP could see a surge in all pound-bound states</title>
-		<link>https://indianexpress.com/article/opinion/columns/bjp-could-see-a-surge-in-all-pound-bound-states-10593193/</link>
-		
-		<dc:creator><![CDATA[Ram Madhav]]></dc:creator>
-		<pubDate>Sat, 21 Mar 2026 01:21:21 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10593193</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10593193</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/bjp-OPED-SECOND.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/bjp-OPED-SECOND.jpg" medium="image">
-			<media:title type="html">bjp OPED SECOND</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>40 years ago, March 21, 1986: US and Pak bases</title>
-		<link>https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-march-21-1986-us-and-pak-bases-10593117/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 21 Mar 2026 01:15:30 +0000</pubDate>
-		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10593117</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10593117</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/21-Mar-1986_IE_001.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/21-Mar-1986_IE_001.jpg" medium="image">
-			<media:title type="html">Indian Express</media:title>
 		</media:content>
 	</item>
 	</channel>
