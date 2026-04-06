@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 06 Apr 2026 05:27:15 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Apr 2026 08:04:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What I want my son to know about masculinity, moustaches, and sex</title>
+		<link>https://indianexpress.com/article/opinion/columns/teenage-boys-puberty-masculinity-moustaches-sex-education-10621665/</link>
+		
+		<dc:creator><![CDATA[Amrita Talwar]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2026 08:04:13 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10621665</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10621665</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2023/12/sex-education.jpg" />
+		<media:content url="https://images.indianexpress.com/2023/12/sex-education.jpg" medium="image">
+			<media:title type="html">sex education</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Trump’s abusive post on Iran War reveals a frustrated — and dangerous — president</title>
+		<link>https://indianexpress.com/article/opinion/columns/trump-iran-war-president-strait-hormuz-10621438/</link>
+		
+		<dc:creator><![CDATA[C. Uday Bhaskar]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2026 06:31:29 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10621438</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10621438</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Donald-Trump-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Donald-Trump-1.jpg" medium="image">
+			<media:title type="html">Donald Trump</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>40 years ago April 6, 1986: Terrorists free prisoners</title>
 		<link>https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-april-6-1986-terrorists-free-prisoners-10620890/</link>
 		
@@ -3800,44 +3838,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/menstrual-leave.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/menstrual-leave.jpg" medium="image">
 			<media:title type="html">menstrual leave</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Don&#8217;t mourn Dubai yet. It can&#8217;t be destroyed by Iranian missiles</title>
-		<link>https://indianexpress.com/article/opinion/columns/dubai-survive-iranian-missiles-iran-uae-tehran-gulf-10595062/</link>
-		
-		<dc:creator><![CDATA[Mohammed Soliman]]></dc:creator>
-		<pubDate>Sun, 22 Mar 2026 07:41:31 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10595062</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10595062</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/flight-.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/flight-.jpg" medium="image">
-			<media:title type="html">flight-</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Weighty matters just got easier</title>
-		<link>https://indianexpress.com/article/opinion/columns/weighty-matters-just-got-easier-10594562/</link>
-		
-		<dc:creator><![CDATA[Leher Kala]]></dc:creator>
-		<pubDate>Sun, 22 Mar 2026 01:35:22 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10594562</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10594562</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/weight-loss_20260321202103.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/weight-loss_20260321202103.jpg" medium="image">
-			<media:title type="html">weight-loss_20260321202103.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
