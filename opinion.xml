@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 06 Apr 2026 13:20:07 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Apr 2026 14:12:56 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Fact, opinion or evidence: The difference matters more than ever</title>
+		<link>https://indianexpress.com/article/opinion/columns/fact-opinion-or-evidence-the-difference-matters-more-than-ever-10622359/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 06 Apr 2026 14:12:54 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10622359</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10622359</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/02/Punjab-and-Haryana-High-Court-fake-surety-rising-fake-Aadhaar.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/02/Punjab-and-Haryana-High-Court-fake-surety-rising-fake-Aadhaar.jpg" medium="image">
+			<media:title type="html">Fake news</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Women coming together in self-help groups are powering Jharkhand’s climate response</title>
 		<link>https://indianexpress.com/article/opinion/columns/women-self-help-groups-are-powering-jharkhands-climate-response-10622276/</link>
 		
@@ -3819,25 +3838,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/Express-view-Copy-3-13.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/03/Express-view-Copy-3-13.jpeg" medium="image">
 			<media:title type="html">Express-view - Copy (3)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>When weight loss becomes easy, thinness becomes the expectation</title>
-		<link>https://indianexpress.com/article/opinion/columns/when-weight-loss-becomes-easy-thinness-becomes-the-expectation-10595682/</link>
-		
-		<dc:creator><![CDATA[Nirbhay Rana]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2026 00:35:25 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10595682</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10595682</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/Ozempic-weight-loss_20260112062130_20260322183930.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/Ozempic-weight-loss_20260112062130_20260322183930.jpg" medium="image">
-			<media:title type="html">Ozempic-weight-loss_20260112062130_20260322183930.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
