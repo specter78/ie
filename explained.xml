@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 08 Apr 2026 03:10:45 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Apr 2026 08:02:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,82 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why US-Iran ceasefire will bring limited relief for US-linked colleges in the Gulf</title>
+		<link>https://indianexpress.com/article/explained/explained-global/us-linked-colleges-in-the-gulf-10625309/</link>
+		
+		<dc:creator><![CDATA[Arav Shah]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 08:00:45 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10625309</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10625309</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Iran-war_delete.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Iran-war_delete.jpg" medium="image">
+			<media:title type="html">mosque at Sharif University of Technology</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Even with US-Iran ceasefire, RBI signals a tough year ahead for economy</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/rbi-repo-rate-decision-growth-inflation-forecast-10625239/</link>
+		
+		<dc:creator><![CDATA[Siddharth Upasani]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 07:15:46 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10625239</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10625239</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/rbi-mpc-meeting-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/rbi-mpc-meeting-1.jpg" medium="image">
+			<media:title type="html">rbi mpc meeting</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>US-Iran ceasefire: Why oil and gas markets are not returning to normal anytime soon</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/brent-crude-oil-price-fall-iran-us-ceasefire-hormuz-risks-10625200/</link>
+		
+		<dc:creator><![CDATA[Sukalp Sharma]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 07:04:33 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10625200</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10625200</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/US_Energy_Crisis_822_5-0603b.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/US_Energy_Crisis_822_5-0603b.jpg" medium="image">
+			<media:title type="html">US Energy Crisis</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>What is Claude Mythos, and why is Anthropic limiting its rollout?</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/anthropic-claude-mythos-ai-cybersecurity-risk-10625159/</link>
+		
+		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
+		<pubDate>Wed, 08 Apr 2026 06:48:48 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10625159</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10625159</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Mythos.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Mythos.jpg" medium="image">
+			<media:title type="html">Mythos</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>US-Iran two-week ceasefire: How Trump stepped back from brink, Pakistan&#8217;s role, and what comes next</title>
 		<link>https://indianexpress.com/article/explained/explained-global/us-iran-ceasefire-explained-10624667/</link>
 		
@@ -4110,110 +4186,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/ex-shariat_expl-law.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/03/ex-shariat_expl-law.jpeg" medium="image">
 			<media:title type="html">ex-shariat_expl law</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Avimukteshwaranand vs UP govt: How tussle escalated from Sangam standoff to statewide ‘Dharma Yuddh’ call</title>
-		<link>https://indianexpress.com/article/explained/explained-politics/avimukteshwaranand-yogi-adityanath-row-uttar-pradesh-explained-10583056/</link>
-		
-		<dc:creator><![CDATA[Maulshree Seth]]></dc:creator>
-		<pubDate>Sun, 15 Mar 2026 09:21:15 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10583056</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10583056</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/ex-Avimukteshwaranand_expl-pol.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/ex-Avimukteshwaranand_expl-pol.jpg" medium="image">
-			<media:title type="html">ex-Avimukteshwaranand_expl pol</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/ex-maghmela2026.jpg?resize=600,420" medium="image">
-			<media:title type="html">Magh Mela controversy Avimukteshwaranand</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Bihar has made transit passes mandatory for minor minerals from other states</title>
-		<link>https://indianexpress.com/article/explained/why-bihar-transit-passes-mandatory-minerals-10583019/</link>
-		
-		<dc:creator><![CDATA[Himanshu Harsh]]></dc:creator>
-		<pubDate>Sun, 15 Mar 2026 08:41:59 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10583019</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10583019</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/Patna-metro-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/Patna-metro-1600.jpg" medium="image">
-			<media:title type="html">Patna metro 1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Iran War has hit all segments of India’s oil, gas imports. Why is stress most visible in LPG sector?</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/west-asia-war-lpg-stress-explained-10581909/</link>
-		
-		<dc:creator><![CDATA[Sukalp Sharma]]></dc:creator>
-		<pubDate>Sun, 15 Mar 2026 01:00:10 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10581909</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10581909</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/LPG_20f849.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/LPG_20f849.jpg" medium="image">
-			<media:title type="html">LPG</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/hormuz-map-2.jpg?resize=600,501" medium="image">
-			<media:title type="html">Strait of Hormuz</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/PTI03_12_2026_000324B.jpg?resize=600,321" medium="image">
-			<media:title type="html">Crude oil</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/CNG_e859cc.jpg?resize=600,338" medium="image">
-			<media:title type="html">CNG</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained, in 3 charts: How India became so dependent on LPG imports</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/india-lpg-imports-dependence-explained-10582355/</link>
-		
-		<dc:creator><![CDATA[Anjishnu Das]]></dc:creator>
-		<pubDate>Sun, 15 Mar 2026 00:45:50 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10582355</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10582355</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/LPG-A.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/LPG-A.jpg" medium="image">
-			<media:title type="html">LPG</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Imports-of-major-petroleum-products-since-1999_e70b4a.jpg?resize=570,600" medium="image">
-			<media:title type="html">Imports of major petroleum products since 1999</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/lpg-production-and-consumption-.jpg?resize=600,515" medium="image">
-			<media:title type="html">LPG production and consumption</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Share-of-lpg-in-total-domestic-refineries-output.jpg?resize=600,563" medium="image">
-			<media:title type="html">LPG share</media:title>
 		</media:content>
 	</item>
 	</channel>
