@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>40 years ago April 9, 1986: PM on Pakistan and nukes</title>
+		<link>https://indianexpress.com/article/opinion/40-years-ago/40-years-ago-april-9-1986-pm-on-pakistan-and-nukes-10626475/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 09 Apr 2026 01:10:16 +0000</pubDate>
+		<category><![CDATA[40 Years Ago]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10626475</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10626475</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/express-archives-April-9-1986.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/express-archives-April-9-1986.jpg" medium="image">
+			<media:title type="html">express archives April 9, 1986</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Islamabad channel: India must stand for peace, whoever the broker may be</title>
 		<link>https://indianexpress.com/article/opinion/columns/islamabad-channel-india-must-stand-for-peace-whoever-the-broker-may-be-10626458/</link>
 		
@@ -3819,25 +3838,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/macron-in-india_20260325190031.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/macron-in-india_20260325190031.jpg" medium="image">
 			<media:title type="html">macron-in-india_20260325190031.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Mapping the lag in India’s informal economy</title>
-		<link>https://indianexpress.com/article/opinion/editorials/mapping-the-lag-in-indias-informal-economy-10601421/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 00:30:12 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10601421</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10601421</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/Express-view-Copy-2-12.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/03/Express-view-Copy-2-12.jpeg" medium="image">
-			<media:title type="html">Express-view - Copy (2)</media:title>
 		</media:content>
 	</item>
 	</channel>
