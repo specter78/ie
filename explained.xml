@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 10 Apr 2026 03:56:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Apr 2026 06:25:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>‘Would throw banking operations into disarray’: Why SC rejected oral hearings for accounts declared fraudulent</title>
+		<link>https://indianexpress.com/article/explained/explained-law/bank-fraud-account-classification-sc-ruling-reason-10628979/</link>
+		
+		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
+		<pubDate>Fri, 10 Apr 2026 05:12:43 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10628979</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10628979</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Bank-fraud-account.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Bank-fraud-account.jpg" medium="image">
+			<media:title type="html">Bank fraud account</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Iran leveraging the Strait of Hormuz has roots in history. Here’s what its planning for the future</title>
 		<link>https://indianexpress.com/article/explained/explained-global/iran-strait-hormuz-blockade-history-plans-10628870/</link>
 		
@@ -4191,37 +4210,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/Supreme-Court-Explained.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/Supreme-Court-Explained.jpg" medium="image">
 			<media:title type="html">Supreme Court Explained</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Ukraine is helping the US counter Iranian Shahed drones in West Asia</title>
-		<link>https://indianexpress.com/article/explained/explained-global/ukraine-anti-drone-support-us-middle-east-explained-10587835/</link>
-		
-		<dc:creator><![CDATA[Abhinav Chakraborty]]></dc:creator>
-		<pubDate>Wed, 18 Mar 2026 03:43:50 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10587835</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10587835</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/Ukraine-war.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/Ukraine-war.jpg" medium="image">
-			<media:title type="html">Ukraine war</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Iran-Shahed-136.jpg?resize=600,338" medium="image">
-			<media:title type="html">House Speaker Mike Johnson (R-La.) speaks during an event hosted by United Against Nuclear Iran where an Iranian Shahed-136 drone was displayed on Capitol Hill in Washington, on Thursday, May 8, 2025. (Rod Lamkey Jr./The New York Times)</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/UKRAINE-MIDEAST-4.jpg?resize=600,400" medium="image">
-			<media:title type="html">Russian Shahed</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/LUCAS.jpg?resize=600,338" medium="image">
-			<media:title type="html">LUCAS drones</media:title>
 		</media:content>
 	</item>
 	</channel>
