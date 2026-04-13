@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 13 Apr 2026 04:22:29 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Apr 2026 06:21:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,63 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>As Centre seeks tighter control over online content, why it may lead to pre-censorship</title>
+		<link>https://indianexpress.com/article/explained/it-rules-amendments-censorship-india-creators-regulation-10633619/</link>
+		
+		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 06:21:49 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10633619</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10633619</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/IT-rules-censorship.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/IT-rules-censorship.jpg" medium="image">
+			<media:title type="html">IT rules censorship</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>What the US-Iran talks collapse says about their approach to negotiations</title>
+		<link>https://indianexpress.com/article/explained/explained-global/us-iran-talks-collapse-what-next-10633027/</link>
+		
+		<dc:creator><![CDATA[Maj Gen (retd) Prof G G Dwivedi]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 06:18:14 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10633027</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10633027</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/JD-Vance-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/JD-Vance-1600.jpg" medium="image">
+			<media:title type="html">Pakistan US Iran Vance</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>US to blockade Iran&#8217;s ports from Monday, Iran threatens &#8216;severe&#8217; response: Why the strategy reversal</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/strait-hormuz-blockade-us-iran-oil-prices-10633515/</link>
+		
+		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 05:14:21 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10633515</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10633515</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/trump-hormuz-lockdown.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/trump-hormuz-lockdown.jpg" medium="image">
+			<media:title type="html">trump hormuz lockdown</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What’s Keytruda, why is it a big deal in India’s cancer fight</title>
 		<link>https://indianexpress.com/article/explained/explained-health/whats-keytruda-why-is-it-a-big-deal-in-indias-cancer-fight-10633124/</link>
 		
@@ -42,9 +99,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10633124</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/cancer-cases.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/cancer-cases.jpg" medium="image">
-			<media:title type="html">cancer cases</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/keytruda-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/keytruda-1600.jpg" medium="image">
+			<media:title type="html">keytruda 1600</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/cancer-cases-1.jpg" medium="image">
@@ -4189,79 +4246,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/pearl-harbour.jpg?resize=600,480" medium="image">
 			<media:title type="html">Pearl Harbour</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Experts Explain &#124; Are we measuring global warming wrong: What a new study says</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/measuring-global-warming-wrong-what-a-new-study-says-methane-10592284/</link>
-		
-		<dc:creator><![CDATA[Durwood Zaelke, Zerin Osho]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 10:35:53 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10592284</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10592284</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/global-warming-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/global-warming-1600.jpg" medium="image">
-			<media:title type="html">global warming 1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Graphs, Data and Perspectives: Amid West Asia war, why central banks are between a rock and hard place</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/graphs-data-perspectives-gdp-central-bank-stance-war-10592130/</link>
-		
-		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 09:45:38 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10592130</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10592130</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/Germany_European_Central_Bank_26130-4f770.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/Germany_European_Central_Bank_26130-4f770.jpg" medium="image">
-			<media:title type="html">APTOPIX Germany Bundesliga Soccer</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Fed-CHART-1.jpg?resize=600,469" medium="image">
-			<media:title type="html">CHART 1.</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Fed-CHART-2.jpg?resize=600,457" medium="image">
-			<media:title type="html">CHART 2</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/CHART-3-1.jpg?resize=600,436" medium="image">
-			<media:title type="html">CHART 3</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/CHART-4.jpg?resize=600,468" medium="image">
-			<media:title type="html">CHART 4</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>As semaglutide drug patent expires, what to know about weight loss drug availability</title>
-		<link>https://indianexpress.com/article/explained/explained-health/semaglutide-generics-india-price-brands-availability-10591789/</link>
-		
-		<dc:creator><![CDATA[Anonna Dutt]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 06:44:04 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Health]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10591789</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10591789</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/semaglutide.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/semaglutide.jpg" medium="image">
-			<media:title type="html">semaglutide</media:title>
 		</media:content>
 	</item>
 	</channel>
