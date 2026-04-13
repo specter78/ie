@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 13 Apr 2026 06:21:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Apr 2026 07:56:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why farmers in Haryana are protesting against biometric verification in mandis</title>
+		<link>https://indianexpress.com/article/explained/haryana-biometric-crop-sale-rule-protests-10633794/</link>
+		
+		<dc:creator><![CDATA[Sukhbir Siwach]]></dc:creator>
+		<pubDate>Mon, 13 Apr 2026 07:56:32 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10633794</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10633794</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/ex-farmersprotest-haryana_expl.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/ex-farmersprotest-haryana_expl.jpg" medium="image">
+			<media:title type="html">ex-farmersprotest-haryana_expl</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/20260411MDHR-Protest-in-Sonepat-03.jpg?resize=600,343" medium="image">
+			<media:title type="html">Haryana farmers protest</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>As Centre seeks tighter control over online content, why it may lead to pre-censorship</title>
 		<link>https://indianexpress.com/article/explained/it-rules-amendments-censorship-india-creators-regulation-10633619/</link>
 		
@@ -4223,29 +4246,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/netanz.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/netanz.jpg" medium="image">
 			<media:title type="html">netanz</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>As Trump makes Pearl Harbour joke, a look at why Japan attacked the US in 1941</title>
-		<link>https://indianexpress.com/article/explained/explained-global/as-trump-makes-pearl-harbour-joke-a-look-at-why-japan-attacked-it-in-1941-10592115/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 20 Mar 2026 10:59:45 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10592115</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10592115</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/trumpsanae.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/trumpsanae.jpg" medium="image">
-			<media:title type="html">US Trump Japan</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/pearl-harbour.jpg?resize=600,480" medium="image">
-			<media:title type="html">Pearl Harbour</media:title>
 		</media:content>
 	</item>
 	</channel>
