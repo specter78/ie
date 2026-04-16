@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 16 Apr 2026 12:54:49 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Apr 2026 14:36:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>High debt and inequality, but also high levels of English education: Telangana caste survey takeaways</title>
+		<link>https://indianexpress.com/article/explained/explained-politics/highkey-takeaways-from-telangana-caste-survey-10640273/</link>
+		
+		<dc:creator><![CDATA[Sreenivas Janyala]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 14:26:11 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10640273</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10640273</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Telangana-ncaste-survey-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Telangana-ncaste-survey-1600.jpg" medium="image">
+			<media:title type="html">Telangana ncaste survey 1600</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/telangana-graphic-1600.jpg?resize=600,400" medium="image">
+			<media:title type="html">Telangana caste survey</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why Karnataka HC ordered implementation of state’s menstrual leave policy</title>
 		<link>https://indianexpress.com/article/explained/explained-law/karnataka-hc-menstrual-leave-policy-order-10640164/</link>
 		
@@ -4183,25 +4206,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/Ebrahim-Zolfaghari-Donald-Trump_fa4c35.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/Ebrahim-Zolfaghari-Donald-Trump_fa4c35.jpg" medium="image">
 			<media:title type="html">Ebrahim-Zolfaghari-Donald-Trump_fa4c35</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Behind Spain PM Pedro Sanchez’s global defiance of Trump</title>
-		<link>https://indianexpress.com/article/explained/explained-global/pedro-sanchez-vs-trump-spain-foreign-policy-10598129/</link>
-		
-		<dc:creator><![CDATA[Arav Shah]]></dc:creator>
-		<pubDate>Tue, 24 Mar 2026 08:01:15 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10598129</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10598129</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/ex-PedroSanchez_expl-geop.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/ex-PedroSanchez_expl-geop.jpg" medium="image">
-			<media:title type="html">ex-PedroSánchez_expl geop</media:title>
 		</media:content>
 	</item>
 	</channel>
