@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 16 Apr 2026 03:35:15 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Apr 2026 05:55:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Why Sikkim High Court allowed naming of accused in FIR reporting, dismissed privacy breach</title>
+		<link>https://indianexpress.com/article/explained/explained-law/sikkim-hc-fir-reporting-public-document-media-trial-10639322/</link>
+		
+		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 05:55:12 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10639322</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10639322</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Sikkim-HC.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Sikkim-HC.jpg" medium="image">
+			<media:title type="html">Sikkim HC</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: How government&#8217;s delimitation push will reshape states&#8217; representation in Lok Sabha</title>
 		<link>https://indianexpress.com/article/explained/explained-politics/explained-how-governments-delimitation-push-will-reshape-states-representation-in-lok-sabha-10638835/</link>
 		
@@ -47,7 +66,7 @@
 			<media:title type="html">parliament-2col</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/chartseats.jpg?resize=402,600" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/chartseats.jpg" medium="image">
 			<media:title type="html">Delimitation Commission, Delimitation 2026, Women’s Reservation Bill, Lok Sabha seat increase, Article 82 amendment, 2011 Census delimitation, new Parliament building capacity, Indian federalism, North-South political divide, seat allocation formula, Constitutional 131st Amendment Bill.</media:title>
 		</media:content>
 	</item>
@@ -4183,25 +4202,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/Minar-e-Pakistan-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/Minar-e-Pakistan-1600.jpg" medium="image">
 			<media:title type="html">Minar-e-Pakistan 1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Supporters in Nehru and Jinnah, staunch atheist: On Shaheed Diwas, recalling the life of Bhagat Singh</title>
-		<link>https://indianexpress.com/article/explained/explained-history/shaheed-diwas-bhagat-singh-nehru-jinnah-atheism-10596825/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2026 12:02:35 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10596825</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10596825</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/bhagat-singh-shaheed-diwas.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/bhagat-singh-shaheed-diwas.jpg" medium="image">
-			<media:title type="html">bhagat singh shaheed diwas</media:title>
 		</media:content>
 	</item>
 	</channel>
