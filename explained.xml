@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 15 Apr 2026 19:33:06 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Apr 2026 03:35:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Explained: How government&#8217;s delimitation push will reshape states&#8217; representation in Lok Sabha</title>
+		<link>https://indianexpress.com/article/explained/explained-politics/explained-how-governments-delimitation-push-will-reshape-states-representation-in-lok-sabha-10638835/</link>
+		
+		<dc:creator><![CDATA[Amitabh Sinha, Vikas Pathak]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2026 01:30:16 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10638835</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10638835</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/parliament-2col.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/parliament-2col.jpg" medium="image">
+			<media:title type="html">parliament-2col</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/chartseats.jpg?resize=402,600" medium="image">
+			<media:title type="html">Delimitation Commission, Delimitation 2026, Women’s Reservation Bill, Lok Sabha seat increase, Article 82 amendment, 2011 Census delimitation, new Parliament building capacity, Indian federalism, North-South political divide, seat allocation formula, Constitutional 131st Amendment Bill.</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: Impact of proposed women’s reservation Bills on delimitation process</title>
 		<link>https://indianexpress.com/article/explained/explained-politics/women-reservation-bills-delimitation-lok-sabha-seats-10638680/</link>
 		
@@ -4179,29 +4202,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/bhagat-singh-shaheed-diwas.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/bhagat-singh-shaheed-diwas.jpg" medium="image">
 			<media:title type="html">bhagat singh shaheed diwas</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>BTS military service return: What Elvis Presley’s army comeback shows</title>
-		<link>https://indianexpress.com/article/explained/explained-history/bts-military-service-return-elvis-presley-comeback-10596749/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 23 Mar 2026 11:07:11 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10596749</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10596749</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/Elvis-army.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/Elvis-army.jpg" medium="image">
-			<media:title type="html">Elvis army</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/Elvis_sworn_into_army_1958.jpg?resize=600,451" medium="image">
-			<media:title type="html">Elvis Presley and a roomful of other young men being sworn into the U.S. Army as part of their induction at Fort Chaffee, Arkansas, March 25, 1958. (Wikimedia Commons)</media:title>
 		</media:content>
 	</item>
 	</channel>
