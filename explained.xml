@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 17 Apr 2026 01:04:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Apr 2026 06:44:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,53 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Explained: Below normal monsoon, but no cause for alarm</title>
+		<title>What does the Supreme Court’s latest order mean for Bengal’s deleted voters</title>
+		<link>https://indianexpress.com/article/explained/explained-law/what-does-sc-latest-order-mean-bengal-deleted-voters-10641096/</link>
+		
+		<dc:creator><![CDATA[Damini Nath]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2026 06:37:37 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10641096</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10641096</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Bengal-SIR-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Bengal-SIR-1600.jpg" medium="image">
+			<media:title type="html">Bengal SIR 1600&#039;</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How Indian economy slid to 6th-largest in the world, with Japan, UK overtaking</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/how-indian-economy-slid-to-6th-largest-in-the-world-10641012/</link>
+		
+		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2026 06:03:34 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10641012</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10641012</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/workers-proest-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/workers-proest-1600.jpg" medium="image">
+			<media:title type="html">workers proest 1600</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/GDP-CHART-1.jpg?resize=600,392" medium="image">
+			<media:title type="html">GDP</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/GDP-TABLE-1600.jpg?resize=600,388" medium="image">
+			<media:title type="html">GDP</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Below normal monsoon forecast for India, but no cause for alarm yet: Here&#8217;s why</title>
 		<link>https://indianexpress.com/article/explained/explained-climate/explained-below-normal-monsoon-but-no-cause-for-alarm-10640550/</link>
 		
 		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
@@ -46,9 +92,13 @@
 		<media:content url="https://images.indianexpress.com/2026/04/ex-monsoon-lead_expl-clim.jpg" medium="image">
 			<media:title type="html">ex-monsoon-lead_expl clim</media:title>
 		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/ex-forecast-graphic.jpg" medium="image">
+			<media:title type="html">Below normal monsoon, monsoon forecast, monsoon, monsoon season, Climate change, global warming, GHG emissions, India Meteorological Department (IMD), Indian express news, current affairs </media:title>
+		</media:content>
 	</item>
 		<item>
-		<title>Israel-Lebanon ceasefire: What it means for Netanyahu, Hezbollah, and Beirut</title>
+		<title>Why Netanyahu is facing flak for Israel-Lebanon ceasefire</title>
 		<link>https://indianexpress.com/article/explained/explained-global/israel-lebanon-ceasefire-what-it-means-for-netanyahu-hezbollah-10640652/</link>
 		
 		<dc:creator><![CDATA[Yashee]]></dc:creator>
@@ -71,7 +121,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Have ratified ILO treaties on forced labour: India on USTR probe charges</title>
+		<title>How India is contesting US Section 301 probe alleging &#8216;forced labour, excess capacity&#8217;</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/have-ratified-ilo-treaties-on-forced-labour-india-on-ustr-probe-charges-10640620/</link>
 		
 		<dc:creator><![CDATA[Ravi Dutta Mishra]]></dc:creator>
@@ -254,7 +304,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Explained: Impact of proposed women’s reservation Bills on delimitation process</title>
+		<title>How proposed women’s reservation Bill could affect delimitation process</title>
 		<link>https://indianexpress.com/article/explained/explained-politics/women-reservation-bills-delimitation-lok-sabha-seats-10638680/</link>
 		
 		<dc:creator><![CDATA[Vikas Pathak]]></dc:creator>
@@ -270,6 +320,10 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/04/ex-parliament_expl-pol-1.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/04/ex-parliament_expl-pol-1.jpg" medium="image">
 			<media:title type="html">ex-parliament_expl pol</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/Road-to-reservation.jpg" medium="image">
+			<media:title type="html">Road to reservation</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4168,44 +4222,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/railwaystation.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/railwaystation.jpg" medium="image">
 			<media:title type="html">railwaystation</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Tucker Carlson: How a long-time Trump ally became the face of MAGA rupture</title>
-		<link>https://indianexpress.com/article/explained/explained-global/tucker-carlson-vs-trump-iran-war-maga-split-10599102/</link>
-		
-		<dc:creator><![CDATA[Arav Shah]]></dc:creator>
-		<pubDate>Tue, 24 Mar 2026 14:49:05 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10599102</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10599102</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/ex-TuckerCarlson_expl-glob.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/ex-TuckerCarlson_expl-glob.jpg" medium="image">
-			<media:title type="html">ex-TuckerCarlson_expl glob</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Menstrual leave debate: What studies say about women’s work productivity, and the way forward</title>
-		<link>https://indianexpress.com/article/explained/explained-health/menstrual-leave-debate-productivity-hiring-solutions-10599106/</link>
-		
-		<dc:creator><![CDATA[Anuradha Mascarenhas]]></dc:creator>
-		<pubDate>Tue, 24 Mar 2026 14:25:00 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Health]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10599106</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10599106</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/menstrual-leave-debate.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/menstrual-leave-debate.jpg" medium="image">
-			<media:title type="html">menstrual leave debate</media:title>
 		</media:content>
 	</item>
 	</channel>
