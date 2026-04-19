@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sun, 19 Apr 2026 13:40:41 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Apr 2026 14:24:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Expert Explains &#124; US says Iran talks to continue tomorrow: In one week since last round, what has changed?</title>
+		<link>https://indianexpress.com/article/explained/explained-global/us-iran-pakistan-talks-trump-10645307/</link>
+		
+		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
+		<pubDate>Sun, 19 Apr 2026 14:10:43 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10645307</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10645307</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Iran_War-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Iran_War-1600.jpg" medium="image">
+			<media:title type="html">Iran War</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>From Gaza to southern Lebanon, how Israel’s ‘Yellow Line’ is redrawing the Levant’s security map</title>
 		<link>https://indianexpress.com/article/explained/explained-global/israel-yellow-line-gaza-lebanon-buffer-zone-10645167/</link>
 		
@@ -4235,25 +4254,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/AUSTRALIA-SOCIAL-MEDIA.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/03/AUSTRALIA-SOCIAL-MEDIA.jpg" medium="image">
 			<media:title type="html">Social media</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Explained: Amid Iran war, the rise of Israeli settler violence in West Bank</title>
-		<link>https://indianexpress.com/article/explained/explained-global/israeli-settler-violence-rise-west-bank-iran-10602517/</link>
-		
-		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
-		<pubDate>Thu, 26 Mar 2026 09:29:05 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10602517</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10602517</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/Mideast_Wars_West_Bank.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/Mideast_Wars_West_Bank.jpg" medium="image">
-			<media:title type="html">Mideast Wars West Bank</media:title>
 		</media:content>
 	</item>
 	</channel>
