@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 21 Apr 2026 23:24:17 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Apr 2026 01:23:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Trump extends Iran ceasefire: What mediator Pakistan stands to gain, what it means for India</title>
+		<link>https://indianexpress.com/article/explained/explained-global/trump-extends-iran-ceasefire-what-pakistan-can-gain-india-10649187/</link>
+		
+		<dc:creator><![CDATA[Yashee]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2026 00:26:26 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10649187</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10649187</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Pakistan_US_Iran-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Pakistan_US_Iran-1600.jpg" medium="image">
+			<media:title type="html">Pakistan US Iran</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>US-Iran diplomatic road long, arduous but why &#8216;grand bargain&#8217; remains the goal</title>
 		<link>https://indianexpress.com/article/explained/explained-global/us-iran-diplomatic-talks-trump-bargain-10648721/</link>
 		
@@ -4215,33 +4234,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/CUBA-TIMELINE-IMAGES-8.jpg?resize=600,417" medium="image">
 			<media:title type="html">Fidel Castro</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>As Yemen’s Houthis enter Iran war, all eyes now on Bab el-Mandeb Strait</title>
-		<link>https://indianexpress.com/article/explained/explained-global/houthis-iran-war-bab-el-mandeb-10606480/</link>
-		
-		<dc:creator><![CDATA[Bhaskar Sarma, Ravi Dutta Mishra]]></dc:creator>
-		<pubDate>Sat, 28 Mar 2026 11:22:26 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10606480</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10606480</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/yemen.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/03/yemen.jpg" medium="image">
-			<media:title type="html">Yemen Iran War</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/bab-al-mandab.jpg?resize=600,365" medium="image">
-			<media:title type="html">Red Sea</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2023/12/Panama__Suez_GFX-02.jpg?resize=480,600" medium="image">
-			<media:title type="html">Suez Canal map.</media:title>
 		</media:content>
 	</item>
 	</channel>
