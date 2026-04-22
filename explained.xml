@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 22 Apr 2026 05:37:46 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Apr 2026 08:23:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>One year after Pahalgam, what has changed in Army strategy</title>
+		<link>https://indianexpress.com/article/explained/after-pahalgam-what-has-changed-in-army-strategy-10649825/</link>
+		
+		<dc:creator><![CDATA[Amrita Nayak Dutta]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2026 07:41:22 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10649825</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10649825</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Pahalgam-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Pahalgam-1600.jpg" medium="image">
+			<media:title type="html">Pahalgam 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>2 accidents, 34 deaths, a suo motu case: Why SC used its &#8216;complete justice&#8217; powers to fix the highways</title>
 		<link>https://indianexpress.com/article/explained/explained-law/supreme-court-road-safety-13-directions-nhai-states-10649340/</link>
 		
@@ -246,7 +265,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Expert Explains &#124; &#8216;India&#8217;s fiscal federalism must be reimagined to ensure every vote carries equal weight&#8217;</title>
+		<title>Expert Explains &#124; Delimitation: At heart of row, value of a vote, fiscal imbalance</title>
 		<link>https://indianexpress.com/article/explained/delimitation-india-1971-freeze-lok-sabha-seats-10646538/</link>
 		
 		<dc:creator><![CDATA[Shruti Rajagopalan]]></dc:creator>
@@ -4207,25 +4226,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/03/cattle-ivf.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/03/cattle-ivf.jpeg" medium="image">
 			<media:title type="html">cattle ivf</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>From farm to software, how fresh WTO talks expose deep faultlines between rich and developing nations</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/fresh-wto-talks-expose-faultlines-rich-developing-nations-subsidies-10607516/</link>
-		
-		<dc:creator><![CDATA[Ravi Dutta Mishra]]></dc:creator>
-		<pubDate>Sun, 29 Mar 2026 07:17:27 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10607516</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10607516</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/03/WTO-.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/03/WTO-.jpeg" medium="image">
-			<media:title type="html">WTO</media:title>
 		</media:content>
 	</item>
 	</channel>
