@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 24 Apr 2026 17:23:48 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Apr 2026 19:01:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -89,8 +89,8 @@
 			<media:title type="html">ex-goldilocks_gdp udit</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-24-at-19.03.43.jpeg?resize=562,600" medium="image">
-			<media:title type="html">Chart 1</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/chart-1_gdp-udit-2.png?resize=600,279" medium="image">
+			<media:title type="html">Table 1</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/chart-2.png?resize=600,519" medium="image">
