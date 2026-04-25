@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 25 Apr 2026 05:59:23 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 25 Apr 2026 07:58:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>A Kerala bhajan group’s refusal to apologise for singing a Christian hymn is the moral clarity we need</title>
+		<link>https://indianexpress.com/article/opinion/columns/nandagovindam-bhajans-kerala-bhajan-temple-christian-row-good-place-10655253/</link>
+		
+		<dc:creator><![CDATA[Pooja Pillai]]></dc:creator>
+		<pubDate>Sat, 25 Apr 2026 07:58:12 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10655253</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10655253</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/mahavishnu-kerala-1_20260425074457.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/mahavishnu-kerala-1_20260425074457.jpg" medium="image">
+			<media:title type="html">mahavishnu-kerala-1_20260425074457.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Before free buses and cash transfers, Tamil Nadu knew the power of women&#8217;s vote</title>
 		<link>https://indianexpress.com/article/opinion/columns/free-buses-cash-transfers-tamil-nadu-women-vote-dmk-aiadmk-10655043/</link>
 		
@@ -3815,25 +3834,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/04/women-representation-parliament-oped-illustartion.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/04/women-representation-parliament-oped-illustartion.jpg" medium="image">
 			<media:title type="html">women representation parliament oped illustartion</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>CBSE’s AI curriculum — lofty goals, little clarity</title>
-		<link>https://indianexpress.com/article/opinion/columns/cbses-ai-curriculum-lofty-goals-little-clarity-10628478/</link>
-		
-		<dc:creator><![CDATA[R Ramanujam]]></dc:creator>
-		<pubDate>Fri, 10 Apr 2026 00:43:31 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10628478</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10628478</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/cbse-ai-courses_20260409184415.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/cbse-ai-courses_20260409184415.jpg" medium="image">
-			<media:title type="html">cbse-ai-courses_20260409184415.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
