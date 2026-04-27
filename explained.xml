@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 27 Apr 2026 06:06:59 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Apr 2026 10:46:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -310,9 +310,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10655274</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/bnei.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/bnei.jpg" medium="image">
-			<media:title type="html">A local cafe and a grocery store features a Star of David in Kangpokpi, India, March 20, 2026. (Atul Loke/The New York Times)</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Bnei-Menashe-feature.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Bnei-Menashe-feature.jpg" medium="image">
+			<media:title type="html">B’nei-Menashe-feature</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/bnei2.jpg?resize=600,336" medium="image">
