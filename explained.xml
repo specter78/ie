@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 28 Apr 2026 01:36:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Apr 2026 05:15:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,52 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>DRDO&#8217;s Vikram VT 21 advanced armoured platform, features and pitch as futuristic infantry combat vehicle</title>
+		<link>https://indianexpress.com/article/explained/drdos-vikram-vt-21-advanced-armoured-platform-features-and-pitch-as-futuristic-infantry-combat-vehicle-10659516/</link>
+		
+		<dc:creator><![CDATA[Sushant Kulkarni]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2026 05:15:27 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10659516</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10659516</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/DRDO-Vikram-VT21.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/DRDO-Vikram-VT21.jpg" medium="image">
+			<media:title type="html">DRDO Vikram VT21</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/MoD-VT21-2.jpeg?resize=600,451" medium="image">
+			<media:title type="html">Source - X/SpokespersonMoD</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Amid record demand surge, why India&#8217;s power grid faces night peak stress due to outages as spot electricity prices spike</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/india-power-grid-demand-night-shortage-heatwave-10659385/</link>
+		
+		<dc:creator><![CDATA[Pratyush Deep]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2026 04:05:49 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10659385</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10659385</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/night-power-shortage.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/night-power-shortage.jpg" medium="image">
+			<media:title type="html">night power shortage</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/wholesale-power-prices.jpg?resize=600,338" medium="image">
+			<media:title type="html">night power shortage</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Expert Explains &#124; How Ambedkar laid the foundations of India’s modern labour legislation</title>
 		<link>https://indianexpress.com/article/explained/explained-history/ambedkar-labour-reforms-india-worker-rights-10658867/</link>
 		
@@ -4196,48 +4242,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/arihant-graphic.jpg?resize=600,390" medium="image">
 			<media:title type="html">INS Aridaman, INS Aridaman nuclear submarine, Indian nuclear submarine, nuclear submarine, nuclear powered ballistic missile submarine, Indian express explained, explained news, current affairs </media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Fresh IBC amendments: How govt looks to plug gaps in insolvency code</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/fresh-ibc-amendments-how-govt-looks-to-plug-gaps-in-insolvency-code-10618084/</link>
-		
-		<dc:creator><![CDATA[Dheeraj Mishra]]></dc:creator>
-		<pubDate>Fri, 03 Apr 2026 23:07:58 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10618084</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10618084</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/IBC-Insolvency-and-Bankruptcy-Code-1200-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/IBC-Insolvency-and-Bankruptcy-Code-1200-1.jpg" medium="image">
-			<media:title type="html">IBC-Insolvency-and-Bankruptcy-Code-1200 (1)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Trump administration dismisses Attorney General Pam Bondi, Army chief Gen. Randy George: Why were they removed?</title>
-		<link>https://indianexpress.com/article/explained/explained-global/trump-fires-pam-bondi-army-chief-randy-george-reasons-10617875/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 03 Apr 2026 16:19:37 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10617875</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10617875</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/ex-bondi-trump_expl-glob.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/ex-bondi-trump_expl-glob.jpg" medium="image">
-			<media:title type="html">Trump Bondi</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/Pentagon_Army_8_367-55291-1.jpg?resize=600,400" medium="image">
-			<media:title type="html">General Randy George</media:title>
 		</media:content>
 	</item>
 	</channel>
