@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Fri, 01 May 2026 11:21:06 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 May 2026 12:48:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The fear factor: Why West Bengal’s voter turnout shattered records</title>
+		<link>https://indianexpress.com/article/opinion/columns/west-bengals-voter-turnout-records-tmc-bjp-modi-mamata-banerjee-10666317/</link>
+		
+		<dc:creator><![CDATA[Nilanjan Mukhopadhyay]]></dc:creator>
+		<pubDate>Fri, 01 May 2026 12:48:47 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10666317</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10666317</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/IE-Image-98-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/IE-Image-98-1.jpg" medium="image">
+			<media:title type="html">Voters West Bengal phase 2</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>In a system where even dignity requires documentation, who’s the real villain of Jitu Munda’s story?</title>
 		<link>https://indianexpress.com/article/opinion/columns/jitu-munda-odisha-bank-sister-kalara-munda-skeleton-bureaucracy-10666007/</link>
 		
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/04/express-archive-April-15-1986.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/04/express-archive-April-15-1986.jpg" medium="image">
 			<media:title type="html">express archive April 15, 1986</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Women’s Representation Bill is about redefining power</title>
-		<link>https://indianexpress.com/article/opinion/columns/womens-representation-bill-is-about-redefining-power-10636870/</link>
-		
-		<dc:creator><![CDATA[Lakshmi Puri]]></dc:creator>
-		<pubDate>Wed, 15 Apr 2026 01:02:58 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10636870</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10636870</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/oped-illustraion-women-reservation.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/oped-illustraion-women-reservation.jpg" medium="image">
-			<media:title type="html">oped illustraion women reservation</media:title>
 		</media:content>
 	</item>
 	</channel>
