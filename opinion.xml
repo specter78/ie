@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Sat, 02 May 2026 08:21:26 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 May 2026 11:30:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>In West Bengal  poll, not just the fate of a state, but that of the Indian republic is at stake</title>
+		<link>https://indianexpress.com/article/opinion/columns/west-bengal-poll-mamata-banerjee-tmc-modi-bjp-federalism-10667673/</link>
+		
+		<dc:creator><![CDATA[Sattwick Barman]]></dc:creator>
+		<pubDate>Sat, 02 May 2026 11:30:54 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10667673</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10667673</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/Mamata-Banerjee-Facebook-IE-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/Mamata-Banerjee-Facebook-IE-1.jpg" medium="image">
+			<media:title type="html">Mamata Banerjee Facebook IE</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>DMK, AIADMK or TVK? Tamil Nadu’s three futures — and one warning</title>
+		<link>https://indianexpress.com/article/opinion/columns/dmk-aiadmk-or-tvk-tamil-nadu-stalin-vijay-jayalalithaa-10667652/</link>
+		
+		<dc:creator><![CDATA[P John J Kennedy]]></dc:creator>
+		<pubDate>Sat, 02 May 2026 11:18:08 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10667652</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10667652</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/04/TN-4col.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/04/TN-4col.jpg" medium="image">
+			<media:title type="html">TN polls: Voting</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Curry(ing) favour with Americans: Who did it better – Diljit Dosanjh or Priyanka Chopra-Jonas?</title>
 		<link>https://indianexpress.com/article/opinion/columns/americans-diljit-dosanjh-priyanka-chopra-jonas-jimmy-fallon-10667389/</link>
 		
@@ -3792,44 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/04/edit_65e5f3.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/04/edit_65e5f3.jpeg" medium="image">
 			<media:title type="html">edit_65e5f3</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>In Good Faith: Humanity is its own greatest threat. Unless it changes tack</title>
-		<link>https://indianexpress.com/article/opinion/columns/in-good-faith-humanity-is-its-own-greatest-threat-unless-it-changes-tack-10638866/</link>
-		
-		<dc:creator><![CDATA[Rajesh Gopal]]></dc:creator>
-		<pubDate>Thu, 16 Apr 2026 01:39:14 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10638866</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10638866</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/HUMAN04id.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/HUMAN04id.jpg" medium="image">
-			<media:title type="html">HUMAN04id</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Set of Bills for women&#8217;s quota benefits the south, strengthens democracy</title>
-		<link>https://indianexpress.com/article/opinion/columns/set-of-bills-for-womens-quota-benefits-the-south-strengthens-democracy-10638833/</link>
-		
-		<dc:creator><![CDATA[Tejasvi Surya]]></dc:creator>
-		<pubDate>Thu, 16 Apr 2026 01:36:40 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10638833</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10638833</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/parlu.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/parlu.jpg" medium="image">
-			<media:title type="html">parlu</media:title>
 		</media:content>
 	</item>
 	</channel>
