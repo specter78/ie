@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 05 May 2026 13:04:24 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 05 May 2026 14:43:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,86 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Explained: How a new Central government SOP aims to accelerate FDI for priority sectors</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/india-fdi-sop-12-week-approval-rules-10674499/</link>
+		
+		<dc:creator><![CDATA[Ravi Dutta Mishra]]></dc:creator>
+		<pubDate>Tue, 05 May 2026 14:43:25 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10674499</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10674499</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/ex-india-fdi_expl-econ.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/ex-india-fdi_expl-econ.jpg" medium="image">
+			<media:title type="html">ex-india-fdi_expl econ</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Indian Art walks the red carpet: How celebrities showcased their heritage at the Met Gala 2026</title>
+		<link>https://indianexpress.com/article/explained/explained-culture/indian-art-at-met-gala-10674471/</link>
+		
+		<dc:creator><![CDATA[Anusree K C]]></dc:creator>
+		<pubDate>Tue, 05 May 2026 14:24:16 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10674471</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10674471</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/met-gala-delete.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/met-gala-delete.jpg" medium="image">
+			<media:title type="html">Karan Johar arrives at The Metropolitan Museum of Art&#039;s Costume Institute benefit gala on May 4 in New York. (AP/PTI)</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Anger against mandatory prepaid smart meters in UP: What made the govt rollback policy?</title>
+		<link>https://indianexpress.com/article/explained/anger-prepaid-smart-meters-up-rollback-10674229/</link>
+		
+		<dc:creator><![CDATA[Maulshree Seth]]></dc:creator>
+		<pubDate>Tue, 05 May 2026 14:19:12 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10674229</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10674229</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/up-smart-meter-protest.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/up-smart-meter-protest.jpg" medium="image">
+			<media:title type="html">up smart meter protest</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why Rahul Gandhi has asked &#8216;some in the Congress&#8217; to not &#8216;gloat about TMC’s loss&#8217;</title>
+		<link>https://indianexpress.com/article/explained/explained-politics/rahul-gandhi-tmc-loss-reaction-congress-india-bloc-tensions-10674307/</link>
+		
+		<dc:creator><![CDATA[Abhinav Chakraborty]]></dc:creator>
+		<pubDate>Tue, 05 May 2026 13:16:34 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10674307</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10674307</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/ex-rahul-mamata_expl-pol.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/ex-rahul-mamata_expl-pol.jpg" medium="image">
+			<media:title type="html">ex-rahul-mamata_expl pol</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/PTI05_05_2026_000196B.jpg?resize=600,448" medium="image">
+			<media:title type="html">Mamata Banerjee</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>PM Modi condemns Fujairah attack that injured 3 Indians: Why the UAE is a target again</title>
 		<link>https://indianexpress.com/article/explained/explained-global/fujairah-drone-attack-uae-iran-why-targeted-modi-reaction-10674263/</link>
 		
@@ -4146,114 +4226,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/04/vance-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/04/vance-1600.jpg" medium="image">
 			<media:title type="html">Pakistan US Iran Vance</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Hungary election 2026: What Viktor Orbán’s defeat means for Trump</title>
-		<link>https://indianexpress.com/article/explained/explained-global/hungary-election-2026-trump-orban-magyar-10631520/</link>
-		
-		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
-		<pubDate>Sun, 12 Apr 2026 01:14:17 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10631520</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10631520</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/Trump-Orban.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/Trump-Orban.jpg" medium="image">
-			<media:title type="html">Trump Orban</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/HUNGARY-RUSSIA-2.jpg?resize=600,400" medium="image">
-			<media:title type="html">Peter Magyar</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Iran&#8217;s untraced mines in Strait of Hormuz: Why naval mines are difficult to detect</title>
-		<link>https://indianexpress.com/article/explained/explained-global/strait-of-hormuz-naval-mines-explained-10631446/</link>
-		
-		<dc:creator><![CDATA[Bhaskar Sarma, Anagha Jayakumar]]></dc:creator>
-		<pubDate>Sat, 11 Apr 2026 13:50:21 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10631446</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10631446</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/strait-of-hormuz-2.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/strait-of-hormuz-2.jpg" medium="image">
-			<media:title type="html">strait of hormuz</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/types-of-mines.jpeg?resize=600,388" medium="image">
-			<media:title type="html">Mines</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/Iran-Naval-mines.jpg?resize=600,337" medium="image">
-			<media:title type="html">Iran mines</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/1280px-Naval_mine_in_Torun_86e892.jpg?resize=600,338" medium="image">
-			<media:title type="html">Naval mine</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/Iranian_navy_2013_minesweeping_exercise_20.jpg" medium="image">
-			<media:title type="html">naval mines</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/03/CRS-graphic.png?resize=600,495" medium="image">
-			<media:title type="html">Mines in Strait of Hormuz</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Vance lands at Nur Khan airbase, chief among Op Sindoor targets</title>
-		<link>https://indianexpress.com/article/explained/explained-global/jd-vance-pakistan-visit-nur-khan-airbase-10631396/</link>
-		
-		<dc:creator><![CDATA[Divya A]]></dc:creator>
-		<pubDate>Sat, 11 Apr 2026 12:37:38 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10631396</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10631396</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/Vance_f2c92f.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/Vance_f2c92f.jpg" medium="image">
-			<media:title type="html">Vance_VP</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why UK’s plan to cede the Chagos islands appears to be coming apart</title>
-		<link>https://indianexpress.com/article/explained/explained-global/uk-chagos-deal-under-threat-10631086/</link>
-		
-		<dc:creator><![CDATA[Bhaskar Sarma]]></dc:creator>
-		<pubDate>Sat, 11 Apr 2026 09:10:30 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10631086</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10631086</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/Diegogarcia.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/Diegogarcia.jpg" medium="image">
-			<media:title type="html">Diegogarcia</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2025/03/Diego-Garcia-and-Chagos.jpg" medium="image">
-			<media:title type="html">Diego Garcia and Chagos. </media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/chagos.jpg?resize=536,600" medium="image">
-			<media:title type="html">Chagos</media:title>
 		</media:content>
 	</item>
 	</channel>
