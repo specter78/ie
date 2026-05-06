@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 06 May 2026 07:56:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 06 May 2026 10:39:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,67 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>What to know about the Hantavirus outbreak aboard Canary Islands-bound ship</title>
+		<link>https://indianexpress.com/article/explained/explained-health/hantavirus-outbreak-symptoms-fatality-10675876/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 10:18:31 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Health]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10675876</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10675876</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/MV-Hondius.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/MV-Hondius.jpg" medium="image">
+			<media:title type="html">MV Hondius</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Congress leaves DMK for TVK: Why this post-poll break-up is a first in their decades-old alliance</title>
+		<link>https://indianexpress.com/article/explained/explained-politics/congress-dmk-alliance-ends-history-tvk-tamil-nadu-10675837/</link>
+		
+		<dc:creator><![CDATA[Abhinav Chakraborty]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 10:02:32 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10675837</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10675837</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/ex-stalin-rahul_expl-pol.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/ex-stalin-rahul_expl-pol.jpg" medium="image">
+			<media:title type="html">ex-stalin-rahul_expl pol</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/ch1601501.jpg?resize=600,383" medium="image">
+			<media:title type="html">DMK BJP</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why Punjab government is encouraging farmers to open farm stays</title>
+		<link>https://indianexpress.com/article/explained/punjab-farm-stay-policy-2026-explained-10675716/</link>
+		
+		<dc:creator><![CDATA[Kanchan Vasdev]]></dc:creator>
+		<pubDate>Wed, 06 May 2026 09:08:21 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10675716</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10675716</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/punjab-farms.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/punjab-farms.jpg" medium="image">
+			<media:title type="html">punjab farms</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>12 semiconductor plants approved: Where India’s chip manufacturing mission stands, what&#8217;s next</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/india-semiconductor-mission-12-chip-plants-display-fab-10675320/</link>
 		
@@ -211,7 +272,7 @@
 		<title>Mamata Banerjee says won&#8217;t resign: What happens if an outgoing CM refuses to step down</title>
 		<link>https://indianexpress.com/article/explained/mamata-banerjee-wont-resign-what-happens-constitution-10674255/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[Yashee]]></dc:creator>
 		<pubDate>Tue, 05 May 2026 12:19:41 +0000</pubDate>
 		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10674255</guid>
 
@@ -4157,71 +4218,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/cancer-drug-racket.jpg" medium="image">
 			<media:title type="html">How does Keytruda work — how to tell real from fake</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why energy shock from Iran war has not spread to food</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/why-energy-shock-from-iran-war-has-not-spread-to-food-10633079/</link>
-		
-		<dc:creator><![CDATA[Harish Damodaran]]></dc:creator>
-		<pubDate>Mon, 13 Apr 2026 01:50:23 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10633079</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10633079</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/food-infation.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/food-infation.jpg" medium="image">
-			<media:title type="html">food infation</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/price-inflation-horz.jpg" medium="image">
-			<media:title type="html">Why Iran energy shock hasn’t spread to food, yet</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why a ‘protective’ circular on Indian athletes’ sponsorship agreements has attracted scrutiny</title>
-		<link>https://indianexpress.com/article/explained/explained-law/afi-sponsorship-rule-athlete-contract-legal-issues-10632841/</link>
-		
-		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
-		<pubDate>Sun, 12 Apr 2026 13:39:52 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10632841</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10632841</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/ex-afi-rule_expl-legal.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/ex-afi-rule_expl-legal.jpg" medium="image">
-			<media:title type="html">Indian Athletics Series -3</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Asha Bhosle: How she was made by and remade &#8216;playback singing&#8217;</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/asha-bhosle-playback-singing-history-india-10632788/</link>
-		
-		<dc:creator><![CDATA[Yashee]]></dc:creator>
-		<pubDate>Sun, 12 Apr 2026 12:32:03 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10632788</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10632788</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/Ashaji-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/Ashaji-1600.jpg" medium="image">
-			<media:title type="html">Ashaji 1600</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/asha-and-rd-burman.jpg?resize=600,365" medium="image">
-			<media:title type="html">Asha Bhosle</media:title>
 		</media:content>
 	</item>
 	</channel>
