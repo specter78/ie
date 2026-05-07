@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Thu, 07 May 2026 07:07:10 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 07 May 2026 10:09:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -108,8 +108,8 @@
 			<media:title type="html">TN polls: Result day</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/debt-in-states.jpg?resize=600,289" medium="image">
-			<media:title type="html">Tamil Nadu Assembly Election Results, Vijay Sethupathi, Vijay, Tamilaga Vettri Kazhagam (TVK), tvk, Tamil Nadu Assembly Election Result 2026, Tamil Nadu Assembly elections, Tamil Nadu Assembly polls, Tamil/Dravidian culture, Indian express news, current affairs</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/debt_status_table_5982d9.jpeg?resize=600,344" medium="image">
+			<media:title type="html">states debt</media:title>
 		</media:content>
 	</item>
 		<item>
