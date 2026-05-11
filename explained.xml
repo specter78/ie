@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Mon, 11 May 2026 13:34:50 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 May 2026 17:48:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -158,8 +158,16 @@
 			<media:title type="html">shrimp farm</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/agri-exports.jpg?resize=600,258" medium="image">
-			<media:title type="html">farm exports</media:title>
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/Table-on-agri-exports.jpg" medium="image">
+			<media:title type="html">Table on agri exports.</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/Table-on-agri-imports.jpg" medium="image">
+			<media:title type="html">Table on agri imports.</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/Chart.jpg" medium="image">
+			<media:title type="html">Chart on agricultural trade.</media:title>
 		</media:content>
 	</item>
 		<item>
