@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Tue, 12 May 2026 15:33:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 12 May 2026 18:21:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -67,7 +67,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Day before Trump’s China visit, why hopes of breakthrough deals are low</title>
+		<title>In Trump’s China visit, why breakthrough trade deals are unlikely</title>
 		<link>https://indianexpress.com/article/explained/explained-global/trump-us-china-visit-agenda-expectations-10685981/</link>
 		
 		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
@@ -264,15 +264,15 @@
 			<media:title type="html">PM Modi in GJ</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/ES-CHART-1.png?resize=600,273" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/ES-CHART-1.png" medium="image">
 			<media:title type="html">Chart 1</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/ES-CHART-2.png?resize=600,273" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/ES-CHART-2.png" medium="image">
 			<media:title type="html">Chart 2</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/ES-CHART-3.png?resize=600,273" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/ES-CHART-3.png" medium="image">
 			<media:title type="html">Chart 3</media:title>
 		</media:content>
 	</item>
