@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports</description>
-	<lastBuildDate>Wed, 13 May 2026 01:55:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 13 May 2026 05:04:52 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,63 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Expert Explains &#124; Why the Delhi government’s plans to restore the Ridge raise concerns</title>
+		<link>https://indianexpress.com/article/explained/delhi-central-ridge-reserved-forest-restoration-concerns-10686789/</link>
+		
+		<dc:creator><![CDATA[Pradip Krishen]]></dc:creator>
+		<pubDate>Wed, 13 May 2026 04:58:37 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10686789</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10686789</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/Central-Ridge-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/Central-Ridge-2.jpg" medium="image">
+			<media:title type="html">Central Ridge-2</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why India hiked import duty on gold, silver amid rupee fall and rising oil prices</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/gold-import-duty-hiked-15-percent-india-cad-forex-pressure-10686722/</link>
+		
+		<dc:creator><![CDATA[Aanchal Magazine]]></dc:creator>
+		<pubDate>Wed, 13 May 2026 04:31:51 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10686722</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10686722</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/Gold-import-duty.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/Gold-import-duty.jpg" medium="image">
+			<media:title type="html">Gold import duty</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Trump-Xi summit: Iran war, trade, Taiwan and AI on the agenda, why China has the upper hand</title>
+		<link>https://indianexpress.com/article/explained/explained-global/trump-xi-china-summit-iran-trade-taiwan-ai-10686659/</link>
+		
+		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
+		<pubDate>Wed, 13 May 2026 03:27:07 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10686659</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10686659</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/Trump-Xi-summit.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/Trump-Xi-summit.jpg" medium="image">
+			<media:title type="html">Trump Xi summit</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How India&#8217;s UAE gold trade deal may have made its import bill concerns worse</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/india-gold-imports-modi-warning-oil-crisis-economy-10685942/</link>
 		
@@ -90,7 +147,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>After last leak, ex-ISRO chief panel had called for reforms; all gather dust</title>
+		<title>After last leak, ex-ISRO chief&#8217;s panel had called for reforms; all gather dust</title>
 		<link>https://indianexpress.com/article/explained/after-last-leak-ex-isro-chief-panel-had-called-for-reforms-all-gather-dust-10686509/</link>
 		
 		<dc:creator><![CDATA[Abhinaya Harigovind, Anonna Dutt]]></dc:creator>
@@ -124,7 +181,7 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">10686078</post-id>
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/DEL.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/05/DEL.jpg" medium="image">
-			<media:title type="html">British Army medics parachute onto the south Atlantic territory of Tristan da Cunha, where one of the 221 residents has a suspected case of hanatavirus, Saturday, May 9, 2026. (British Ministry of Defence via AP)</media:title>
+			<media:title type="html">British Army medics parachute onto the south Atlantic territory of Tristan da Cunha, where one of the 221 residents has a suspected case of hantavirus, Saturday, May 9, 2026. (British Ministry of Defence via AP)</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4149,67 +4206,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/Glimpses_of_the_Unit_III_dome_and_the_project_site_of_Tarapur_Atomic_Power_Project_TAPP_near_Mumbai.jpg?resize=600,402" medium="image">
 			<media:title type="html">nuclear power</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Created around the same time, how Israel, Pakistan have since helped the US</title>
-		<link>https://indianexpress.com/article/explained/explained-history/israel-and-pakistan-history-help-us-10645007/</link>
-		
-		<dc:creator><![CDATA[Manjeev Singh Puri]]></dc:creator>
-		<pubDate>Sun, 19 Apr 2026 10:12:44 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10645007</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10645007</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/iran-pakistan.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/iran-pakistan.jpg" medium="image">
-			<media:title type="html">Mohammad Bagher Qalibaf, Asim Munir</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How DMK’s resistance to Centre’s proposed delimitation evokes the language debates of 1950s and 60s</title>
-		<link>https://indianexpress.com/article/explained/explained-history/dmk-stalin-delimitation-row-tamil-hindi-language-politics-10644863/</link>
-		
-		<dc:creator><![CDATA[Nikita Mohta]]></dc:creator>
-		<pubDate>Sun, 19 Apr 2026 09:02:20 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10644863</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10644863</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/ex-mk-anna_expl-hist.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/ex-mk-anna_expl-hist.jpg" medium="image">
-			<media:title type="html">ex-mk-anna_expl hist</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How the Iran war pitted the most American Pope against the most &#8216;Christian&#8217; President</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/trump-vs-pope-leo-vatican-authority-iran-war-10643890/</link>
-		
-		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
-		<pubDate>Sun, 19 Apr 2026 01:27:31 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10643890</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10643890</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/Leo-vs-Trump.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/Leo-vs-Trump.jpg" medium="image">
-			<media:title type="html">Leo vs Trump</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/TRUMP-CHRISTIANS.jpg?resize=600,400" medium="image">
-			<media:title type="html">President Donald Trump and Paula White-Cain, who leads the White House Faith Office, at an Easter service and dinner at the White House on Wednesday, April 15, 2025. Evangelical leaders are relishing the new atmosphere at 1600 Pennsylvania Avenue — and greater access to the president. (Haiyun Jiang/The New York Times)</media:title>
 		</media:content>
 	</item>
 	</channel>
