@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Tue, 19 May 2026 06:34:56 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 19 May 2026 10:22:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,56 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Expert Explains &#124; What makes this summer particularly intense for India, and how better data collection can help</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/expert-summer-intensity-factors-mitigation-data-heat-10697560/</link>
+		
+		<dc:creator><![CDATA[Y Nithiyanandam]]></dc:creator>
+		<pubDate>Tue, 19 May 2026 10:11:11 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10697560</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10697560</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/heat-wave-india.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/heat-wave-india.jpg" medium="image">
+			<media:title type="html">heat wave india</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/Heat-in-India-this-week.jpg?resize=728,323" medium="image">
+			<media:title type="html">Heat in India this week. (IMD)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/heat-delhi.jpg?resize=600,378" medium="image">
+			<media:title type="html">Heat: Kartavya path in New Delhi.</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/heat.jpg?resize=600,428" medium="image">
+			<media:title type="html">Raj Laxmi the elephant enjoys a shower to beat the heat, at the Delhi Zoo in April 2026. </media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>India’s power demand peaks in May: How extreme heat continues to drive this surge</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/india-electricity-demand-record-258gw-heatwave-10697461/</link>
+		
+		<dc:creator><![CDATA[Pratyush Deep]]></dc:creator>
+		<pubDate>Tue, 19 May 2026 09:26:58 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10697461</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10697461</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/Summer-power-surge.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/Summer-power-surge.jpg" medium="image">
+			<media:title type="html">Summer power surge</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>US extends sanctions waiver for Russian crude again: The move, its impact on India explained</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/us-russian-crude-oil-waiver-extension-india-hormuz-crisis-10696843/</link>
 		
@@ -67,7 +117,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Why India’s courts are slow: the need for court managers</title>
+		<title>Experts Explain &#124; Why India’s courts are slow: the need for court managers</title>
 		<link>https://indianexpress.com/article/explained/explained-law/why-indias-courts-are-slow-the-need-for-court-managers-10696149/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -4176,48 +4226,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/bnei2.jpg?resize=600,336" medium="image">
 			<media:title type="html">B&#039;nei Menashe</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How a 50 mile dam between Russia and Alaska could help regulate Earth&#8217;s climate</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/amoc-collapse-bering-strait-dam-10655092/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 25 Apr 2026 08:40:27 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10655092</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10655092</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/Bering-Strait.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/Bering-Strait.jpg" medium="image">
-			<media:title type="html">Bering Strait</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/04/DAM-CLIMATE-IMPACT.jpg?resize=600,400" medium="image">
-			<media:title type="html">bering strait</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>After RBI action, when will Paytm Payments Bank customers get their money back?</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/paytm-payments-bank-licence-cancelled-deposits-refund-10655150/</link>
-		
-		<dc:creator><![CDATA[George Mathew]]></dc:creator>
-		<pubDate>Sat, 25 Apr 2026 07:00:07 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10655150</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10655150</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/04/paytm-payments-bank.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/04/paytm-payments-bank.jpg" medium="image">
-			<media:title type="html">paytm payments bank</media:title>
 		</media:content>
 	</item>
 	</channel>
