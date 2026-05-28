@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Thu, 28 May 2026 01:54:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 28 May 2026 06:01:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,10 +29,33 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Why Bundelkhand’s Banda is so hot</title>
+		<title>Can&#8217;t afford a home? UN report points to factors behind housing crisis</title>
+		<link>https://indianexpress.com/article/explained/global-housing-crisis-india-unaffordable-homes-10711756/</link>
+		
+		<dc:creator><![CDATA[Devansh Mittal]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 05:43:27 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10711756</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10711756</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/Habitat-Report.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/Habitat-Report.jpg" medium="image">
+			<media:title type="html">Habitat-Report</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/housing_crisis_stats-2.jpg?resize=600,371" medium="image">
+			<media:title type="html">Housing Crisis stats</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why Bundelkhand&#8217;s Banda became India’s hottest city as temperatures cross 48°C</title>
 		<link>https://indianexpress.com/article/explained/why-bundelkhands-banda-is-so-hot-10711535/</link>
 		
-		<dc:creator><![CDATA[Shruti Gupta]]></dc:creator>
+		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Thu, 28 May 2026 01:45:12 +0000</pubDate>
 		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10711535</guid>
 
@@ -4155,29 +4178,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/AP04_30_2026_000008A.jpg?resize=400,600" medium="image">
 			<media:title type="html">Anna Wintour</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Rs 50 crore and counting: How Jharkhand’s alleged ‘treasury scam’ exposes system’s vulnerabilities</title>
-		<link>https://indianexpress.com/article/explained/jharkhand-treasury-scam-ifms-fraud-10669004/</link>
-		
-		<dc:creator><![CDATA[Shubham Tigga]]></dc:creator>
-		<pubDate>Sun, 03 May 2026 08:36:53 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10669004</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10669004</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/ex-hemantsoren_expl.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/ex-hemantsoren_expl.jpg" medium="image">
-			<media:title type="html">ex-hemantsoren_expl</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/ex-kuberportal-jh_expl.jpg?resize=600,292" medium="image">
-			<media:title type="html">Kuber portal</media:title>
 		</media:content>
 	</item>
 	</channel>
