@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Sat, 30 May 2026 11:41:23 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 May 2026 13:30:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Leaving room for friendship: The indelible legacy of Bashir Badr</title>
+		<link>https://indianexpress.com/article/opinion/columns/bashir-badr-indira-gandhi-bhutto-jagjit-singh-obit-10715954/</link>
+		
+		<dc:creator><![CDATA[Suanshu Khurana]]></dc:creator>
+		<pubDate>Sat, 30 May 2026 13:30:37 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10715954</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10715954</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/Bashir-Badr-composed-his-first-couplet-at-the-age-of-seven.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/Bashir-Badr-composed-his-first-couplet-at-the-age-of-seven.jpg" medium="image">
+			<media:title type="html">Poet Bashir Badr passes away aged 91</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How Michael Jackson moonwalked back into the streaming age</title>
 		<link>https://indianexpress.com/article/opinion/columns/michael-jackson-moonwalk-pop-culture-djokovic-scorcese-10715787/</link>
 		
@@ -3807,25 +3826,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/Express-view-Copy-11.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/05/Express-view-Copy-11.jpeg" medium="image">
 			<media:title type="html">Express-view - Copy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Close cervical cancer gap in India, focus on prevention, equity</title>
-		<link>https://indianexpress.com/article/opinion/editorials/close-cervical-cancer-gap-in-india-focus-on-prevention-equity-10688167/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 14 May 2026 00:40:17 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10688167</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10688167</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/Express-view-Copy-3-7.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/05/Express-view-Copy-3-7.jpeg" medium="image">
-			<media:title type="html">Express-view - Copy (3)</media:title>
 		</media:content>
 	</item>
 	</channel>
