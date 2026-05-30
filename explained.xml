@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Fri, 29 May 2026 16:26:10 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 30 May 2026 05:57:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,63 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>In prohibition state Bihar, how cough syrup is filling the alcohol void</title>
+		<link>https://indianexpress.com/article/explained/codeine-cough-syrup-abuse-bihar-alcohol-ban-10715257/</link>
+		
+		<dc:creator><![CDATA[Himanshu Harsh]]></dc:creator>
+		<pubDate>Sat, 30 May 2026 05:57:15 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10715257</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10715257</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/Codeine-cough-syrup.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/Codeine-cough-syrup.jpg" medium="image">
+			<media:title type="html">Codeine cough syrup</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>India&#8217;s oil shock could have been much worse — but for China</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/china-oil-imports-india-strait-of-hormuz-crisis-explained-10715192/</link>
+		
+		<dc:creator><![CDATA[Sukalp Sharma]]></dc:creator>
+		<pubDate>Sat, 30 May 2026 05:17:44 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10715192</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10715192</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/Oil-refinery-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/Oil-refinery-1.jpg" medium="image">
+			<media:title type="html">Crude oil</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Airtel’s 5G priority tier: What is network slicing and how does it work?</title>
+		<link>https://indianexpress.com/article/explained/explained-sci-tech/what-is-network-slicing-and-does-airtels-new-preferential-5g-plan-violate-net-neutrality-10714256/</link>
+		
+		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
+		<pubDate>Sat, 30 May 2026 02:00:10 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10714256</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10714256</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/airtel.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/airtel.jpg" medium="image">
+			<media:title type="html">airtel</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Graphs, Data, Perspectives &#124; Inflation vs affordability: Why the two are not the same</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/gdp-inflation-vs-affordability-meaning-indians-incomes-comparison-10714624/</link>
 		
@@ -136,11 +193,11 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">10713809</post-id>
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/waGAH-del.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/05/waGAH-del.jpg" medium="image">
-			<media:title type="html">Attari-Wagah border: A significant crossing point between India and Pakistan (Wikimedia Commons)</media:title>
+			<media:title type="html">BSF, Amit Shah</media:title>
 		</media:content>
 	</item>
 		<item>
-		<title>With another AC blast in Delhi amid soaring temperatures, here&#8217;s what to know about preventing fires</title>
+		<title>Why do ACs explode in the summer and how can you prevent this?</title>
 		<link>https://indianexpress.com/article/explained/ac-blast-fire-delhi-summer-reasons-prevention-10713386/</link>
 		
 		<dc:creator><![CDATA[Pratyush Deep]]></dc:creator>
@@ -163,7 +220,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Expert Explains &#124; Why Quad has never picked up momentum, and takeaways from New Delhi meet</title>
+		<title>Expert Explains &#124; Why the Quad has never picked up momentum</title>
 		<link>https://indianexpress.com/article/explained/explained-global/why-quad-lacks-momentum-takeaways-delhi-meet-10713094/</link>
 		
 		<dc:creator><![CDATA[Maj Gen (retd) Prof G G Dwivedi]]></dc:creator>
@@ -355,6 +412,10 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/BandaMap-5col.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/05/BandaMap-5col.jpg" medium="image">
 			<media:title type="html">BandaMap-5col</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/Banda-May-Temp.jpg.jpeg" medium="image">
+			<media:title type="html">Banda</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -4129,67 +4190,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/Mamata-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/05/Mamata-1600.jpg" medium="image">
 			<media:title type="html">TMC press conference</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Vedanta vs Adani: How NCLAT ruled on Jaypee flagship company’s insolvency proceedings</title>
-		<link>https://indianexpress.com/article/explained/explained-law/nclat-jaypee-insolvency-adani-vedanta-ruling-10673808/</link>
-		
-		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
-		<pubDate>Tue, 05 May 2026 09:08:40 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10673808</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10673808</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/ex-jaypee_expl-law.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/ex-jaypee_expl-law.jpg" medium="image">
-			<media:title type="html">ex-jaypee_expl law</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>After Bengal win, PM Modi invokes Syama Prasad Mookerjee: The life and politics of the Jana Sangh founder</title>
-		<link>https://indianexpress.com/article/explained/explained-history/syama-prasad-mookerjee-bengali-founder-bjp-jana-sangh-10673327/</link>
-		
-		<dc:creator><![CDATA[Vikas Pathak]]></dc:creator>
-		<pubDate>Tue, 05 May 2026 04:46:50 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10673327</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10673327</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/Syama-Prasad-Mookerjee.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/Syama-Prasad-Mookerjee.jpg" medium="image">
-			<media:title type="html">Syama Prasad Mookerjee</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/Jawaharlal_Nehru_with_Syama_Prasad_Mookerjee_and_Jairamdas_Doulatram_in_the_rear_are_Govind_Ballabh_Pant_and_Jagjivan_Ram.jpg?resize=600,354" medium="image">
-			<media:title type="html">Nehru with Mookerjee</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Peak summer yet to come, but power supply is already falling short at night. Here&#8217;s why</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/india-grid-night-time-power-shortage-solar-demand-gap-10673205/</link>
-		
-		<dc:creator><![CDATA[Pratyush Deep, Anil Sasi]]></dc:creator>
-		<pubDate>Tue, 05 May 2026 03:16:25 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10673205</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10673205</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/power-grid.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/power-grid.jpg" medium="image">
-			<media:title type="html">power grid</media:title>
 		</media:content>
 	</item>
 	</channel>
