@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Sun, 31 May 2026 10:15:27 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 31 May 2026 12:59:41 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>In the Trump era, ‘The Boys’ went from satire to prophecy</title>
+		<link>https://indianexpress.com/article/opinion/columns/the-boys-finale-satire-political-reality-homelander-trump-10717178/</link>
+		
+		<dc:creator><![CDATA[Saptarshi Basak]]></dc:creator>
+		<pubDate>Sun, 31 May 2026 12:59:40 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10717178</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10717178</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/THBY_S5_UT_508_250619_SAVJAS_00159_R1_Crop_f_3000.jpg.jpeg" />
+		<media:content url="https://images.indianexpress.com/2026/05/THBY_S5_UT_508_250619_SAVJAS_00159_R1_Crop_f_3000.jpg.jpeg" medium="image">
+			<media:title type="html">The Boys Season 5</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Inside Track: Rulers Rule Club Class</title>
 		<link>https://indianexpress.com/article/opinion/columns/inside-track-rulers-rule-club-class-10716242/</link>
 		
@@ -3807,25 +3826,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/vd-s.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/05/vd-s.jpg" medium="image">
 			<media:title type="html">vd s</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Best of Both Sides: Abortion rules should not override fundamental rights of women</title>
-		<link>https://indianexpress.com/article/opinion/columns/abortion-caps-should-not-override-womens-fundamental-rights-10689265/</link>
-		
-		<dc:creator><![CDATA[Sneha Banerjee]]></dc:creator>
-		<pubDate>Thu, 14 May 2026 10:59:54 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10689265</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10689265</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/Untitled-design-2-20_20260514095207.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/Untitled-design-2-20_20260514095207.jpg" medium="image">
-			<media:title type="html">Untitled-design-2-20_20260514095207.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
