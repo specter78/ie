@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Thu, 04 Jun 2026 07:14:05 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Jun 2026 08:44:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,26 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Flouting rules, congestion: Why residential areas in India&#8217;s cities are so vulnerable to fire</title>
+		<title>US House vote against Trump won&#8217;t stop Iran war but still matters. Here&#8217;s why</title>
+		<link>https://indianexpress.com/article/explained/explained-global/us-house-voted-trump-iran-war-war-powers-resolution-10723571/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2026 08:44:36 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10723571</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10723571</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/Trump-House-rebuke.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/Trump-House-rebuke.jpg" medium="image">
+			<media:title type="html">Trump House rebuke</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>South Delhi blaze: Why residential areas in India&#8217;s cities are so vulnerable to fire</title>
 		<link>https://indianexpress.com/article/explained/urban-fire-risks-india-explained-10723377/</link>
 		
 		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
@@ -4155,29 +4174,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/china-pak.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/05/china-pak.jpeg" medium="image">
 			<media:title type="html">china pak</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Expert Explains: On May 10, 1857, how Mangal Pandey inspired a rebellion that rattled the British</title>
-		<link>https://indianexpress.com/article/explained/explained-history/revolt-of-1857-mangal-pandey-british-rule-india-expert-explains-10682228/</link>
-		
-		<dc:creator><![CDATA[Indu Tewari]]></dc:creator>
-		<pubDate>Sun, 10 May 2026 07:59:27 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10682228</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10682228</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/ex-SepoyRevoltMeerut_expl-hist.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/ex-SepoyRevoltMeerut_expl-hist.jpg" medium="image">
-			<media:title type="html">ex-SepoyRevoltMeerut_expl hist</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/ex-Mangalpandey-barrackpore.jpg?resize=395,600" medium="image">
-			<media:title type="html">Mangal Pandey</media:title>
 		</media:content>
 	</item>
 	</channel>
