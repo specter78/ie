@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Fri, 05 Jun 2026 01:40:44 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 05 Jun 2026 06:28:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -68,11 +68,11 @@
 	</item>
 		<item>
 		<title>Magnifica Humanitas and MANAV: Creating a shared vision for AI</title>
-		<link>https://indianexpress.com/article/opinion/editorials/magnifica-humanitas-and-manav-creating-a-shared-vision-for-ai-10724620/</link>
+		<link>https://indianexpress.com/article/opinion/columns/magnifica-humanitas-and-manav-creating-a-shared-vision-for-ai-10724620/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[Rajeev Chandrasekhar]]></dc:creator>
 		<pubDate>Fri, 05 Jun 2026 01:21:33 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10724620</guid>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10724620</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
@@ -80,9 +80,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10724620</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/Express-view-Copy_20260604195631.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/06/Express-view-Copy_20260604195631.jpeg" medium="image">
-			<media:title type="html">Express-view-Copy_20260604195631.jpeg</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/ChatGPT-Image-Jun-5-2026-09_54_38-AM.png" />
+		<media:content url="https://images.indianexpress.com/2026/06/ChatGPT-Image-Jun-5-2026-09_54_38-AM.png" medium="image">
+			<media:title type="html">ChatGPT Image Jun 5, 2026, 09_54_38 AM</media:title>
 		</media:content>
 	</item>
 		<item>
@@ -422,9 +422,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10722314</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/cbse-osm-neet-ug-2026-parliamentary-panel.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/cbse-osm-neet-ug-2026-parliamentary-panel.jpg" medium="image">
-			<media:title type="html">cbse-osm-neet-ug-2026-parliamentary-panel</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/72_20260605062747.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/72_20260605062747.jpg" medium="image">
+			<media:title type="html">72_20260605062747.jpg</media:title>
 		</media:content>
 	</item>
 		<item>
