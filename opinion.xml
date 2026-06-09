@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Tue, 09 Jun 2026 12:50:41 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 14:51:01 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The question India&#8217;s young are asking: Why work hard?</title>
+		<link>https://indianexpress.com/article/opinion/columns/india-asked-its-youth-to-work-hard-to-move-up-now-that-promise-seems-to-be-failing-10731789/</link>
+		
+		<dc:creator><![CDATA[Avani Bansal]]></dc:creator>
+		<pubDate>Tue, 09 Jun 2026 13:53:20 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10731789</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10731789</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/dipke-protest-5_20260609134736.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/dipke-protest-5_20260609134736.jpg" medium="image">
+			<media:title type="html">dipke-protest-5_20260609134736.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How Ukraine and Iran are exposing the limits of superpowers</title>
 		<link>https://indianexpress.com/article/opinion/columns/limits-of-superpower-might-ukraine-iran-resilience-10731717/</link>
 		
@@ -48,7 +67,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Modi at 4,399 Days: The making of India’s longest-serving elected prime minister</title>
+		<title>Modi at 4,399 Days: The making of India’s longest continuously serving elected prime minister</title>
 		<link>https://indianexpress.com/article/opinion/columns/venkaiah-naidu-decoding-pm-modi-man-of-destiny-record-tenure-10731602/</link>
 		
 		<dc:creator><![CDATA[M Venkaiah Naidu]]></dc:creator>
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/Suvendu-Adhikari-Partha-Paul_20260523080753.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/05/Suvendu-Adhikari-Partha-Paul_20260523080753.jpg" medium="image">
 			<media:title type="html">Suvendu-Adhikari-Partha-Paul_20260523080753.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The Cockroach Janta Party is a performance — driven by the elite and algorithms</title>
-		<link>https://indianexpress.com/article/opinion/columns/cockroach-janta-party-surya-kant-abhijeet-dipke-elite-algorithms-10704036/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 23 May 2026 07:08:36 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10704036</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10704036</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/cockroach-party_20260521211135_20260523062403_20260523070331.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/cockroach-party_20260521211135_20260523062403_20260523070331.jpg" medium="image">
-			<media:title type="html">cockroach-party_20260521211135_20260523062403_20260523070331.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
