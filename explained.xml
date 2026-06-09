@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Tue, 09 Jun 2026 14:27:43 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 18:22:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -1226,10 +1226,10 @@
 		</media:content>
 	</item>
 		<item>
-		<title>In Pride Month, recalling what happened at India’s first-ever LGBTQ parade</title>
+		<title>In Pride Month, recalling India’s first-ever LGBTQ+ walk and its lasting impact</title>
 		<link>https://indianexpress.com/article/explained/pride-month-history-first-parade-india-lgbtq-10718885/</link>
 		
-		<dc:creator><![CDATA[]]></dc:creator>
+		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
 		<pubDate>Mon, 01 Jun 2026 14:40:06 +0000</pubDate>
 		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10718885</guid>
 
@@ -1239,12 +1239,12 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10718885</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/pride-parade.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/pride-parade.jpg" medium="image">
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/pride-parade-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/pride-parade-1.jpg" medium="image">
 			<media:title type="html">pride parade</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/pride-parade-2.jpg?resize=600,363" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/pride-parade-2.jpg" medium="image">
 			<media:title type="html">LGBTQIA+ community representing the 10th edition of Queer Gulabi Pride, Jaipur&#039;s annual Pride Parade, in 2026.</media:title>
 		</media:content>
 	</item>
