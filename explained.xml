@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Thu, 11 Jun 2026 09:57:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Jun 2026 13:17:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Punjab farmers protest: What is driving reported shortages of fertilisers?</title>
+		<link>https://indianexpress.com/article/explained/punjab-farmers-protest-fertiliser-shortage-war-10735069/</link>
+		
+		<dc:creator><![CDATA[Raakhi Jagga]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2026 13:02:26 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10735069</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10735069</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/punjab-fertiliser-protest.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/punjab-fertiliser-protest.jpg" medium="image">
+			<media:title type="html">KMSC protest in Amritsar</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Over 20% returns: How NRIs could make a killing after banks hike FCNR(B) deposit rates</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/fcnrb-deposit-rates-nri-returns-rbi-swap-scheme-explained-10734587/</link>
 		
@@ -4139,29 +4158,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/ex-paddy-cultivation_expl.jpg?resize=600,338" medium="image">
 			<media:title type="html">Punjab paddy</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why did a storm kill 100 people in Uttar Pradesh? Here&#8217;s what went wrong</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/uttar-pradesh-storm-deaths-reasons-temprature-air-10691535/</link>
-		
-		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
-		<pubDate>Sat, 16 May 2026 00:30:49 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10691535</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10691535</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/up-storms-explained.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/up-storms-explained.jpg" medium="image">
-			<media:title type="html">UP: Aftermath of storn</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/up-rains.jpg?resize=600,402" medium="image">
-			<media:title type="html">Commuters make their way through a dust storm, in Prayagraj, Uttar Pradesh, Wednesday, May 13, 2026. </media:title>
 		</media:content>
 	</item>
 	</channel>
