@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Sun, 14 Jun 2026 08:14:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 14 Jun 2026 11:15:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,48 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>How war in West Asia is taking a toll on India’s road construction push</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/war-west-asia-impact-india-roads-bitumen-construction-10739042/</link>
+		
+		<dc:creator><![CDATA[Dheeraj Mishra]]></dc:creator>
+		<pubDate>Sun, 14 Jun 2026 10:37:21 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10739042</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10739042</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/west-asia-war-roads-bitumen.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/west-asia-war-roads-bitumen.jpg" medium="image">
+			<media:title type="html">west asia war roads bitumen</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How a tiny electronic component is slowly driving up inflation in India</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/memory-chip-shortage-electronics-price-rise-inflation-10738987/</link>
+		
+		<dc:creator><![CDATA[Siddharth Upasani]]></dc:creator>
+		<pubDate>Sun, 14 Jun 2026 09:41:26 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10738987</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10738987</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/ex-memory-chips_expl-econ.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/ex-memory-chips_expl-econ.jpg" medium="image">
+			<media:title type="html">ex-memory-chips_expl econ</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/Memory-inflation-chart.png?resize=600,392" medium="image">
+			<media:title type="html">inflation</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Why hybrid paddy continues to divide Punjab’s agricultural community</title>
 		<link>https://indianexpress.com/article/explained/hybrid-paddy-punjab-agriculture-farmers-seeds-rice-10738883/</link>
 		
@@ -4152,44 +4194,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/ex-Supreme-Court_expl-law-2.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/05/ex-Supreme-Court_expl-law-2.jpg" medium="image">
 			<media:title type="html">ex-Supreme Court_expl law</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Did the Maratha empire have control over Rajputana’s rulers? How a new petition highlights this contested history</title>
-		<link>https://indianexpress.com/article/explained/explained-history/ncert-maratha-empire-map-controversy-bombay-hc-pil-10696306/</link>
-		
-		<dc:creator><![CDATA[Ankita Deshkar]]></dc:creator>
-		<pubDate>Mon, 18 May 2026 15:35:13 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10696306</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10696306</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/ex-maratha-empire_expl-hist.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/ex-maratha-empire_expl-hist.jpg" medium="image">
-			<media:title type="html">ex-maratha-empire_expl hist</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>‘Mutual hostage-taking’: Why Rajasthan HC criticised state’s ‘atta satta’ marriage custom</title>
-		<link>https://indianexpress.com/article/explained/explained-law/rajasthan-hc-criticism-marriage-custom-atta-satta-10696297/</link>
-		
-		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
-		<pubDate>Mon, 18 May 2026 15:35:11 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10696297</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10696297</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/rajasthan-hc.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/rajasthan-hc.jpg" medium="image">
-			<media:title type="html">rajasthan hc</media:title>
 		</media:content>
 	</item>
 	</channel>
