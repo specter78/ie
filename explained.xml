@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Fri, 19 Jun 2026 01:29:03 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 19 Jun 2026 08:55:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,63 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Referee as the cameraman: How the World Cup is putting you right next to the action</title>
+		<link>https://indianexpress.com/article/explained/explained-sports/fifa-world-cup-referee-camera-explained-10747603/</link>
+		
+		<dc:creator><![CDATA[Diya George]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 08:53:17 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sports]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10747603</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10747603</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/referee.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/referee.jpg" medium="image">
+			<media:title type="html">Bosnia Switzerland WCup Soccer</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Accenture warning sparks IT rout: Are tougher days ahead for Indian tech?</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/accenture-warning-sparks-it-rout-impact-indian-tech-10747539/</link>
+		
+		<dc:creator><![CDATA[Akash Mandal]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 08:23:54 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10747539</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10747539</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/Untitled-design-1-2.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/Untitled-design-1-2.jpg" medium="image">
+			<media:title type="html">Accenture</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>US Fed signals rate hikes this year: What this means for Indian markets</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/us-fed-rate-decision-india-market-impact-10747427/</link>
+		
+		<dc:creator><![CDATA[Akash Mandal]]></dc:creator>
+		<pubDate>Fri, 19 Jun 2026 07:25:39 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10747427</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10747427</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/KevinWarsh.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/KevinWarsh.jpg" medium="image">
+			<media:title type="html">Federal Reserve Warsh</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Modi-Trump G7 meet: Conciliatory signs from Trump, but his unpredictability is a challenge</title>
 		<link>https://indianexpress.com/article/explained/explained-global/modi-trump-g7-meet-conciliatory-signs-from-trump-but-his-unpredictability-is-a-challenge-10746774/</link>
 		
@@ -48,7 +105,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>US-Iran MoU: An expert gives a point-by-point breakdown, from nuclear issue to Strait of Hormuz</title>
+		<title>Expert Explains &#124; A point-by-point breakdown of US-Iran MoU, from nuclear issue to Strait of Hormuz</title>
 		<link>https://indianexpress.com/article/explained/explained-global/us-iran-mou-expert-points-details-hormuz-nuclear-10746602/</link>
 		
 		<dc:creator><![CDATA[Bashir Ali Abbas]]></dc:creator>
@@ -85,7 +142,7 @@
 			<media:title type="html">trump netanyahu 1600</media:title>
 		</media:content>
 
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/LEBANON-MAP.jpg?resize=600,338" medium="image">
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/IDF-Map.jpg?resize=600,343" medium="image">
 			<media:title type="html">Lebanon map</media:title>
 		</media:content>
 
@@ -4129,67 +4186,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/punjab-summer.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/05/punjab-summer.jpg" medium="image">
 			<media:title type="html">Punjab&#039;s Amritsar witnesses an intense heat</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How Iran&#8217;s new transit regime tightens its grip over Strait of Hormuz — and leaves world in a dilemma</title>
-		<link>https://indianexpress.com/article/explained/explained-global/iran-tightens-grip-on-hormuz-strait-10704225/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 23 May 2026 09:20:31 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10704225</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10704225</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/hmz-DEL.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/hmz-DEL.jpg" medium="image">
-			<media:title type="html">People walk on the beach, with vessels in the Strait of Hormuz visible near the beach of Bandar Abbas, Iran, May 22, 2026. Reuters</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/05/IMG-20260523-WA0011.jpg?resize=423,600" medium="image">
-			<media:title type="html">PGSA maritime Zone access area</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>International Booker Prize at 10: How it became the face of literature in translation</title>
-		<link>https://indianexpress.com/article/explained/explained-culture/international-booker-prize-10-years-translated-fiction-10704151/</link>
-		
-		<dc:creator><![CDATA[Paromita Chakrabarti]]></dc:creator>
-		<pubDate>Sat, 23 May 2026 08:32:21 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Culture]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10704151</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10704151</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/Taiwan-Travelogues-Booker.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/Taiwan-Travelogues-Booker.jpg" medium="image">
-			<media:title type="html">Taiwan Travelogues Booker</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why SHANTI Act&#8217;s nuclear liability limits are under Supreme Court scrutiny</title>
-		<link>https://indianexpress.com/article/explained/explained-law/shanti-act-nuclear-liability-supreme-court-challenge-10704088/</link>
-		
-		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
-		<pubDate>Sat, 23 May 2026 08:09:54 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10704088</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10704088</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/Supreme-Court-explained-3.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/Supreme-Court-explained-3.jpg" medium="image">
-			<media:title type="html">Supreme Court explained</media:title>
 		</media:content>
 	</item>
 	</channel>
