@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Thu, 25 Jun 2026 16:02:14 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 26 Jun 2026 01:52:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,71 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>The man standing still: Why Patrice Lumumba became DR Congo’s symbol at the FIFA World Cup</title>
+		<link>https://indianexpress.com/article/explained/explained-history/fifa-patrice-lumumba-at-world-cup-10757521/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2026 02:30:39 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10757521</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10757521</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/lumuba-featred-imahe.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/lumuba-featred-imahe.jpg" medium="image">
+			<media:title type="html">Congo supporter Michel Nkuka Mboladinga, poses as a statue of the country&#039;s assassinated independence hero Patrice Lumumba ahead of the World Cup Group K soccer match between Colombia and Congo (AP Photo)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/kinhasa-statue.jpg?resize=600,338" medium="image">
+			<media:title type="html">The famous Patrice Lumumba statue in Kinhasa which Mboladinga&#039;s pose is modelled after (Wikimedia Commons)</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/De_Congolese_leider_Patrice_Loemoemba_in_Brussel_Bestanddeelnr_910-9737.jpg?resize=598,600" medium="image">
+			<media:title type="html">Patrice Lumamba in Brussels, Belgium in 1960 (WikiMedia Commons)</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why states are dragging their feet in establishing a trauma system</title>
+		<link>https://indianexpress.com/article/explained/why-states-are-dragging-their-feet-in-establishing-a-trauma-system-10757906/</link>
+		
+		<dc:creator><![CDATA[Dheeraj Mishra]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2026 01:02:22 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10757906</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10757906</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/road-accident-data_20260625214323.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/road-accident-data_20260625214323.jpg" medium="image">
+			<media:title type="html">road-accident-data_20260625214323.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Who gets child&#8217;s custody? Pune court order puts focus on parental conduct</title>
+		<link>https://indianexpress.com/article/explained/explained-law/pune-court-order-parent-vs-custody-10757444/</link>
+		
+		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2026 01:00:35 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10757444</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10757444</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/del_eeaeb6.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/del_eeaeb6.jpg" medium="image">
+			<media:title type="html">Pune Family Court (Wikimedia Commons)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Expert Explains &#124; Historical arc of Iran-India ties, their significance in a changing West Asia</title>
 		<link>https://indianexpress.com/article/explained/explained-history/expert-explains-india-iran-relations-history-culture-mughals-10757126/</link>
 		
@@ -4149,63 +4214,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/sarna.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/05/sarna.jpg" medium="image">
 			<media:title type="html">sarna</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why India is losing weight in the MSCI Emerging Markets Index amid the global AI boom</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/india-msci-em-index-weightage-fall-10715860/</link>
-		
-		<dc:creator><![CDATA[Akash Mandal]]></dc:creator>
-		<pubDate>Sat, 30 May 2026 12:12:30 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10715860</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10715860</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/MSCI-explainer.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/MSCI-explainer.jpg" medium="image">
-			<media:title type="html">MSCI explainer</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>As US-Iran deal hangs in balance, a look at the core issue: Iran’s nuclear programme</title>
-		<link>https://indianexpress.com/article/explained/explained-global/iran-nuclear-programme-uranium-enrichment-explained-10715718/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sat, 30 May 2026 10:39:15 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10715718</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10715718</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/trump-uranium.jpg.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/05/trump-uranium.jpg.jpeg" medium="image">
-			<media:title type="html">trump uranium.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>In prohibition state Bihar, how cough syrup is filling the alcohol void</title>
-		<link>https://indianexpress.com/article/explained/codeine-cough-syrup-abuse-bihar-alcohol-ban-10715257/</link>
-		
-		<dc:creator><![CDATA[Himanshu Harsh]]></dc:creator>
-		<pubDate>Sat, 30 May 2026 05:57:15 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10715257</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10715257</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/cough-syrup-seizur-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/cough-syrup-seizur-1.jpg" medium="image">
-			<media:title type="html">cough syrup seizur</media:title>
 		</media:content>
 	</item>
 	</channel>
