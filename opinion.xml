@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Sat, 27 Jun 2026 08:00:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 27 Jun 2026 10:23:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>In ‘Main Vaapas Aaunga’, the songs that Partition couldn’t silence</title>
+		<link>https://indianexpress.com/article/opinion/columns/main-vaapas-aaunga-songs-partition-diljit-dosanjh-amrita-pritam-10760233/</link>
+		
+		<dc:creator><![CDATA[Suanshu Khurana]]></dc:creator>
+		<pubDate>Sat, 27 Jun 2026 10:23:15 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10760233</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10760233</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/main-vaapas-aaunga_20260616105216.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/06/main-vaapas-aaunga_20260616105216.jpg" medium="image">
+			<media:title type="html">main-vaapas-aaunga_20260616105216.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>The FCRA has become a tool to control civil society</title>
 		<link>https://indianexpress.com/article/opinion/columns/fcra-2026-amendments-analysis-civil-society-constitutional-autonomy-10760044/</link>
 		
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/06/express-archive-June-11-1986.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/06/express-archive-June-11-1986.jpg" medium="image">
 			<media:title type="html">express archive June 11, 1986</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Not just what India manufactures, but what it discovers</title>
-		<link>https://indianexpress.com/article/opinion/columns/not-just-what-india-manufactures-but-what-it-discovers-10733790/</link>
-		
-		<dc:creator><![CDATA[Shivkumar Kalyanaraman, Kishore Paknikar]]></dc:creator>
-		<pubDate>Thu, 11 Jun 2026 00:54:48 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10733790</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10733790</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/research-RD.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/research-RD.jpg" medium="image">
-			<media:title type="html">research R&#38;D</media:title>
 		</media:content>
 	</item>
 	</channel>
