@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Thu, 02 Jul 2026 06:27:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jul 2026 08:53:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -42,9 +42,9 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10767652</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/07/indira-and-bhutto-1600.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/07/indira-and-bhutto-1600.jpg" medium="image">
-			<media:title type="html">indira and bhutto 1600</media:title>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/Indira-Bhutto.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/Indira-Bhutto.jpg" medium="image">
+			<media:title type="html">Indira Bhutto</media:title>
 		</media:content>
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/07/simla-bhutto-house-1600.jpg?resize=600,396" medium="image">
@@ -90,7 +90,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Ahead of 8th CPC, experts explain why India’s public sector compensation is higher than reported</title>
+		<title>Ahead of 8th Pay Commission, experts explain why India’s public sector compensation is higher than reported</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/8th-pay-commission-government-workforce-compensation-10766757/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -230,7 +230,7 @@
 		<title>Why the US Supreme Court struck down Trump&#8217;s birthright citizenship order</title>
 		<link>https://indianexpress.com/article/explained/explained-global/us-supreme-court-birthright-citizenship-ruling-trump-10765824/</link>
 		
-		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<dc:creator><![CDATA[Anagha Jayakumar, Vineet Bhalla]]></dc:creator>
 		<pubDate>Wed, 01 Jul 2026 05:59:30 +0000</pubDate>
 		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10765824</guid>
 
