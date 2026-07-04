@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Sat, 04 Jul 2026 08:21:20 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Jul 2026 11:25:26 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,49 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>How Odisha plans to harness the economic potential of its 575-km-coastline</title>
+		<title>Gaza, Lebanon, Iran: How Israel’s wars have damaged heritage sites across the Middle East</title>
+		<link>https://indianexpress.com/article/explained/explained-global/israel-heritage-site-damage-lebanon-iran-gaza-unesco-10771355/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 04 Jul 2026 11:22:47 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10771355</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10771355</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/Israel-attacks-Tyre.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/Israel-attacks-Tyre.jpg" medium="image">
+			<media:title type="html">Israel attacks Tyre</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/07/Chama-Citadel-Tyre.jpg?resize=600,450" medium="image">
+			<media:title type="html">Chama citadel</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Why Kerala government is opposing Adani&#8217;s Vizhinjam port deal</title>
+		<link>https://indianexpress.com/article/explained/vizhinjam-port-stake-sale-adani-msc-kerala-explained-10771312/</link>
+		
+		<dc:creator><![CDATA[Shaju Philip]]></dc:creator>
+		<pubDate>Sat, 04 Jul 2026 10:25:26 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10771312</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10771312</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/Vizhinjam.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/Vizhinjam.jpg" medium="image">
+			<media:title type="html">Vizhinjam</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>How Odisha plans to harness the economic potential of its 575-km coastline</title>
 		<link>https://indianexpress.com/article/explained/odisha-plans-to-harness-575-km-coastline-10771145/</link>
 		
 		<dc:creator><![CDATA[Sujit Bisoyi]]></dc:creator>
@@ -4184,44 +4226,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/06/claude-fable-5-1600.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/06/claude-fable-5-1600.jpeg" medium="image">
 			<media:title type="html">claude fable 5 1600</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Trump&#8217;s $100,000 H-1B visa fee struck down: For Indian professionals, why some damage may already have been done</title>
-		<link>https://indianexpress.com/article/explained/explained-global/h1b-visa-fee-ruling-trump-indian-workers-explained-10732861/</link>
-		
-		<dc:creator><![CDATA[Vidheesha Kuntamalla]]></dc:creator>
-		<pubDate>Wed, 10 Jun 2026 09:19:40 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10732861</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10732861</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/H-1B_Visas_Explainer_44381-227a1.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/H-1B_Visas_Explainer_44381-227a1.jpg" medium="image">
-			<media:title type="html">H-1B Visas Explainer</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Congress leader Meenakshi Natarajan’s Rajya Sabha nomination from Madhya Pradesh was rejected</title>
-		<link>https://indianexpress.com/article/explained/explained-politics/meenakshi-natarajan-rajya-sabha-nomination-rejected-reasons-10732687/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Wed, 10 Jun 2026 07:05:31 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Politics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10732687</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10732687</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/ex-meenakshi-natarajan_expl-pol.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/ex-meenakshi-natarajan_expl-pol.jpg" medium="image">
-			<media:title type="html">Congress candidate Meenakshi Natarajan&#039;s nomination gets rejected</media:title>
 		</media:content>
 	</item>
 	</channel>
