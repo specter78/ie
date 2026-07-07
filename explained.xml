@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Tue, 07 Jul 2026 07:09:37 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 07 Jul 2026 10:02:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,48 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>In India’s bumbling ethanol transition, Brazil’s masterclass in biofuel adoption offers takeaways</title>
+		<link>https://indianexpress.com/article/explained/india-ethanol-transition-brazil-lessons-fuel-10775385/</link>
+		
+		<dc:creator><![CDATA[Anil Sasi]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2026 09:47:34 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10775385</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10775385</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/brazil-india-ethanol.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/brazil-india-ethanol.jpg" medium="image">
+			<media:title type="html">Carro Prius flex no Palácio do Planalto.</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Hyderabad’s Char Kaman all set to be restored: What are they, why they matter</title>
+		<link>https://indianexpress.com/article/explained/explained-history/char-kaman-hyderabad-significance-restoration-plan-10775442/</link>
+		
+		<dc:creator><![CDATA[Nikhila Henry]]></dc:creator>
+		<pubDate>Tue, 07 Jul 2026 09:26:11 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10775442</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10775442</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/ex-Charminar-Kaman_expl-hist.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/ex-Charminar-Kaman_expl-hist.jpg" medium="image">
+			<media:title type="html">ex-Charminar-Kaman_expl hist</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/07/Char_Kaman_01.jpg?resize=600,415" medium="image">
+			<media:title type="html">Char Kaman</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Explained: Kerala HC urges Parliament to let Christian women file for divorce where they live</title>
 		<link>https://indianexpress.com/article/explained/explained-law/christian-divorce-act-amendment-kerala-hc-wife-residence-divorce-10774914/</link>
 		
@@ -170,7 +212,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>Ethanol is killing cars. But here&#8217;s why we need it, an expert explains</title>
+		<title>Expert explains: &#8216;Ethanol crucial for India; fastest, cheapest way to decarbonise road mobility&#8217;</title>
 		<link>https://indianexpress.com/article/explained/vikram-gulati-of-toyota-kirloskar-motors-ethanol-crucial-for-india-fastest-cheapest-way-to-decarbonize-road-mobility-10773077/</link>
 		
 		<dc:creator><![CDATA[Sandeep Singh]]></dc:creator>
@@ -4152,72 +4194,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/06/ex-modimacron-5col.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/06/ex-modimacron-5col.jpg" medium="image">
 			<media:title type="html">ex-modimacron-5col</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Graphs, Data and Perspectives: Amid youth protests, an anatomy of India’s employment over 10 years</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/anatomy-of-employment-india-last-decade-10736892/</link>
-		
-		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
-		<pubDate>Fri, 12 Jun 2026 14:44:49 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10736892</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10736892</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/gdp-del.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/gdp-del.jpg" medium="image">
-			<media:title type="html">GDP protests</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/UNGDP_CHART_1_LFPR.png" medium="image">
-			<media:title type="html">Chart 1</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/UNGDP_CHART_2_ER_overall_.png" medium="image">
-			<media:title type="html">Chart 2</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/TABLE_3.png?resize=600,263" medium="image">
-			<media:title type="html">Table 3</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/TABLE_4.png?resize=600,318" medium="image">
-			<media:title type="html">Table 4</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/TABLE_5.png?resize=600,452" medium="image">
-			<media:title type="html">Table 5</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/TABLE_6.png?resize=600,376" medium="image">
-			<media:title type="html">Table 6</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why SC-appointed taskforce framed student suicides as not just a mental health issue</title>
-		<link>https://indianexpress.com/article/explained/explained-law/supreme-court-ntf-report-student-suicides-mental-health-10736658/</link>
-		
-		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
-		<pubDate>Fri, 12 Jun 2026 12:33:27 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10736658</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10736658</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/ex-IITDelhi_expl-law.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/ex-IITDelhi_expl-law.jpg" medium="image">
-			<media:title type="html">ex-IITDelhi_expl law</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/Students_inside_of_a_classroom_of_a_local_college_in_Howrah_district_of_West_Bengal_India-1.jpg?resize=600,282" medium="image">
-			<media:title type="html">college</media:title>
 		</media:content>
 	</item>
 	</channel>
