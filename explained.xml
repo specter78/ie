@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Wed, 08 Jul 2026 11:38:04 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Jul 2026 14:41:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,67 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Maharashtra rain: Why the Western Ghats received historically high rainfall this July</title>
+		<link>https://indianexpress.com/article/explained/explained-climate/maharashtra-heavy-rain-western-ghats-lonavala-tamhini-july-10777725/</link>
+		
+		<dc:creator><![CDATA[Anjali Marar]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2026 13:51:48 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10777725</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10777725</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/ex-lonavala-western-ghats_expl-clim.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/ex-lonavala-western-ghats_expl-clim.jpg" medium="image">
+			<media:title type="html">Multiple landslides in Karjat-Lonavala Ghat</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/07/rainfall-in-mm-during-july-6-8-2026-.png?resize=600,433" medium="image">
+			<media:title type="html">Maharashtra rain</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Dire straits: Hormuz flare-up underscores precariousness of US-Iran MoU; oil market on edge</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/strait-hormuz-tensions-us-iran-oil-prices-india-10777668/</link>
+		
+		<dc:creator><![CDATA[Sukalp Sharma]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2026 13:05:01 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10777668</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10777668</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/dire-strait.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/dire-strait.jpg" medium="image">
+			<media:title type="html">dire strait</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Prince Harry&#8217;s court case against the Daily Mail: What was it about and why did he lose?</title>
+		<link>https://indianexpress.com/article/explained/explained-global/prince-harry-case-against-daily-mail-10777580/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Wed, 08 Jul 2026 12:32:08 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10777580</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10777580</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/Britain_Prince_Harry_66368-0effd.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/Britain_Prince_Harry_66368-0effd.jpg" medium="image">
+			<media:title type="html">Britain Prince Harry</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Indira Point: Why Centre wants to protect landmark lighthouse and develop tourism hub</title>
 		<link>https://indianexpress.com/article/explained/indira-point-protection-works-lighthouse-great-nicobar-10777453/</link>
 		
@@ -71,7 +132,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>The significance of India’s ASTRA missiles, which Indonesia is buying</title>
+		<title>The significance of India’s Astra missiles, which Indonesia is buying</title>
 		<link>https://indianexpress.com/article/explained/the-significance-of-indias-astra-missiles-which-indonesia-is-buying-10777015/</link>
 		
 		<dc:creator><![CDATA[Amrita Nayak Dutta]]></dc:creator>
@@ -4113,67 +4174,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/06/beer-bottle-1600.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/06/beer-bottle-1600.jpg" medium="image">
 			<media:title type="html">Glass bottles of beer with glass and ice on dark background</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Can India cool down without heating up? Experts Explain why sustainability is key</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/india-challenge-sustainable-cooling-extreme-heat-10739144/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Sun, 14 Jun 2026 12:32:53 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10739144</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10739144</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/ex-india-cooling_expl-clim.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/ex-india-cooling_expl-clim.jpg" medium="image">
-			<media:title type="html">ex-india-cooling_expl clim</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How war in West Asia is taking a toll on India’s road construction push</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/war-west-asia-impact-india-roads-bitumen-construction-10739042/</link>
-		
-		<dc:creator><![CDATA[Dheeraj Mishra]]></dc:creator>
-		<pubDate>Sun, 14 Jun 2026 10:37:21 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10739042</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10739042</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/west-asia-war-roads-bitumen.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/west-asia-war-roads-bitumen.jpg" medium="image">
-			<media:title type="html">west asia war roads bitumen</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>How a tiny electronic component is slowly driving up inflation in India</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/memory-chip-shortage-electronics-price-rise-inflation-10738987/</link>
-		
-		<dc:creator><![CDATA[Siddharth Upasani]]></dc:creator>
-		<pubDate>Sun, 14 Jun 2026 09:41:26 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10738987</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10738987</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/ex-memory-chips_expl-econ.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/ex-memory-chips_expl-econ.jpg" medium="image">
-			<media:title type="html">ex-memory-chips_expl econ</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/Memory-inflation-chart.png?resize=600,392" medium="image">
-			<media:title type="html">inflation</media:title>
 		</media:content>
 	</item>
 	</channel>
