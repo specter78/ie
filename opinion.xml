@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Thu, 09 Jul 2026 04:39:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Jul 2026 11:11:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>From Hormuz to Malacca, Delhi must draw the right lessons</title>
+		<link>https://indianexpress.com/article/opinion/columns/iran-war-hormuz-to-malacca-delhi-must-draw-the-right-lessons-10778946/</link>
+		
+		<dc:creator><![CDATA[Arun Prakash]]></dc:creator>
+		<pubDate>Thu, 09 Jul 2026 11:11:03 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10778946</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10778946</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/hormuz_3d7f6e_20260709110547.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/hormuz_3d7f6e_20260709110547.jpg" medium="image">
+			<media:title type="html">hormuz_3d7f6e_20260709110547.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>My aunt’s funeral showed me that even in death, a woman does not belong to herself</title>
+		<link>https://indianexpress.com/article/opinion/columns/aunt-funeral-death-woman-patriarchy-10778392/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Thu, 09 Jul 2026 06:23:53 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10778392</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10778392</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/06/sadness.png" />
+		<media:content url="https://images.indianexpress.com/2026/06/sadness.png" medium="image">
+			<media:title type="html">sadness</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Four defeats in, a cricket question</title>
 		<link>https://indianexpress.com/article/opinion/editorials/four-defeats-in-a-cricket-question-10778007/</link>
 		
@@ -3792,44 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/05/Iran-War-Strait-of-Hormuz-2_20260505083007.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/05/Iran-War-Strait-of-Hormuz-2_20260505083007.jpg" medium="image">
 			<media:title type="html">Iran-War-Strait-of-Hormuz-2_20260505083007.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>J D Vance’s ‘very important Pakistani’ comment reveals an old American habit</title>
-		<link>https://indianexpress.com/article/opinion/columns/j-d-vance-pakistan-american-asim-munir-pervez-musharraf-10751579/</link>
-		
-		<dc:creator><![CDATA[Bhopinder Singh]]></dc:creator>
-		<pubDate>Mon, 22 Jun 2026 08:33:40 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10751579</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10751579</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/vance-munir_20260622092518.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/vance-munir_20260622092518.jpg" medium="image">
-			<media:title type="html">vance-munir_20260622092518.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The hidden cost of a Gulf slowdown: India&#8217;s remittance lifeline is at risk</title>
-		<link>https://indianexpress.com/article/opinion/columns/iran-gulf-slowdown-india-remittance-economy-is-at-risk-10751591/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Mon, 22 Jun 2026 08:05:35 +0000</pubDate>
-		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10751591</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10751591</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/dubai_20260622080110-e1782115592564.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/dubai_20260622080110-e1782115592564.jpg" medium="image">
-			<media:title type="html">dubai_20260622080110.jpg</media:title>
 		</media:content>
 	</item>
 	</channel>
