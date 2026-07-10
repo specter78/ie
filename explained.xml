@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Fri, 10 Jul 2026 06:09:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jul 2026 10:10:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,44 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Expert Explains &#124; How Turkey emerged as a winner from a fractious NATO summit</title>
+		<link>https://indianexpress.com/article/explained/explained-global/nato-ankara-summit-turkey-trump-erdogan-10780495/</link>
+		
+		<dc:creator><![CDATA[Omair Anas]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2026 10:10:16 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10780495</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10780495</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/erdogan-trump.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/erdogan-trump.jpg" medium="image">
+			<media:title type="html">Turkey NATO summit</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Explained: Funds freeze for Mamata-led TMC faction, over allegations of misappropriation</title>
+		<link>https://indianexpress.com/article/explained/funds-freeze-mamata-tmc-ed-reason-faction-abhishek-10780414/</link>
+		
+		<dc:creator><![CDATA[Tanusree Bose]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2026 09:32:49 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10780414</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10780414</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/mamata-banerjee-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/mamata-banerjee-1.jpg" medium="image">
+			<media:title type="html">mamata banerjee</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Behind &#8216;Satluj&#8217; takedown, India&#8217;s parallel regimes to regulate theatrical and OTT releases</title>
 		<link>https://indianexpress.com/article/explained/explained-law/satluj-film-controversy-zee5-removal-cbfc-ott-rules-10780005/</link>
 		
@@ -4124,44 +4162,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/06/telegram.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/06/telegram.jpg" medium="image">
 			<media:title type="html">telegram</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Could US-Iran deal end the elusive quest for ‘New Middle East’?</title>
-		<link>https://indianexpress.com/article/explained/explained-global/us-iran-mou-middle-east-geopolitics-10741229/</link>
-		
-		<dc:creator><![CDATA[C. Raja Mohan]]></dc:creator>
-		<pubDate>Tue, 16 Jun 2026 00:30:49 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10741229</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10741229</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/ex-us-iran-deal_expl.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/ex-us-iran-deal_expl.jpg" medium="image">
-			<media:title type="html">A teacher of the Gurukul School of Art makes an artwork to greet on the USA Iran Peace deal</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>US-Iran deal: Why India&#8217;s energy worries are far from over</title>
-		<link>https://indianexpress.com/article/explained/us-iran-peace-agreement-energy-worries-far-from-over-india-keeps-fingers-crossed-10741424/</link>
-		
-		<dc:creator><![CDATA[Sukalp Sharma]]></dc:creator>
-		<pubDate>Tue, 16 Jun 2026 00:04:30 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10741424</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10741424</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/A-man-flashes-a-victory-sign-after-the-deal-in-Beirut-Monday.-Reuters.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/06/A-man-flashes-a-victory-sign-after-the-deal-in-Beirut-Monday.-Reuters.jpeg" medium="image">
-			<media:title type="html">A man flashes a victory sign as he rides a motorcycle past a banner that reads &#34;Thank you Iran&#34; following a deal between the U.S. and Iran, in Beirut</media:title>
 		</media:content>
 	</item>
 	</channel>
