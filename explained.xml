@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Fri, 10 Jul 2026 10:10:18 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 Jul 2026 12:58:11 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,52 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Trump removes Election Assistance Commission members: Why this matters ahead of US midterms</title>
+		<link>https://indianexpress.com/article/explained/explained-global/trump-removes-election-assistance-commission-members-midterms-importance-10780792/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2026 12:51:03 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10780792</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10780792</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/donald-trump-midterms.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/donald-trump-midterms.jpg" medium="image">
+			<media:title type="html">Trump</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Graphs, Data and Perspectives &#124; June inflation may breach RBI’s 4% target. What’s driving this?</title>
+		<link>https://indianexpress.com/article/explained/explained-economics/june-retail-inflation-rbi-target-fuel-transport-costs-10780754/</link>
+		
+		<dc:creator><![CDATA[Udit Misra]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2026 12:32:59 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10780754</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10780754</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/petrol-pump.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/petrol-pump.jpg" medium="image">
+			<media:title type="html">petrol pump</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/07/inflation-CHART-1.png?resize=600,273" medium="image">
+			<media:title type="html">India retail inflation</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/07/inflation-CHART-2.png?resize=600,420" medium="image">
+			<media:title type="html">India inflation transport</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>Expert Explains &#124; How Turkey emerged as a winner from a fractious NATO summit</title>
 		<link>https://indianexpress.com/article/explained/explained-global/nato-ankara-summit-turkey-trump-erdogan-10780495/</link>
 		
@@ -4124,44 +4170,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/06/dancing-girl-two-versions.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/06/dancing-girl-two-versions.jpg" medium="image">
 			<media:title type="html">dancing girl two versions</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why India and Australia are deepening Indo-Pacific security ties: China&#8217;s expanding footprint</title>
-		<link>https://indianexpress.com/article/explained/explained-global/why-india-and-australia-are-deepening-indo-pacific-security-ties-chinas-expanding-footprint-10742171/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Tue, 16 Jun 2026 08:58:56 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10742171</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10742171</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/SCS.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/SCS.jpg" medium="image">
-			<media:title type="html">SCS</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>After paper leak row, why Centre has blocked Telegram in India until NEET re-exam</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/telegram-blocked-neet-re-exam-paper-leak-row-centre-10741905/</link>
-		
-		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
-		<pubDate>Tue, 16 Jun 2026 06:15:01 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10741905</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10741905</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/telegram.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/telegram.jpg" medium="image">
-			<media:title type="html">telegram</media:title>
 		</media:content>
 	</item>
 	</channel>
