@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Sun, 12 Jul 2026 11:58:42 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 12 Jul 2026 15:46:58 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Satluj row: What legal records reveal about Jaswant Singh Khalra&#8217;s lifework, and murder</title>
+		<link>https://indianexpress.com/article/explained/satluj-cbi-court-reveal-about-jaswant-singh-khalra-10783356/</link>
+		
+		<dc:creator><![CDATA[Divya Goyal Gopal]]></dc:creator>
+		<pubDate>Sun, 12 Jul 2026 15:23:37 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10783356</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10783356</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/Khalra-1600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/Khalra-1600.jpg" medium="image">
+			<media:title type="html">Khalra 1600</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>What INS Mahendragiri&#8217;s commissioning shows about India&#8217;s naval shipbuilding prowess</title>
 		<link>https://indianexpress.com/article/explained/ins-mahendragiri-commission-india-naval-shipbuilding-prowess-10783163/</link>
 		
@@ -4175,25 +4194,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/06/ex-trump-uspacom_expl-geop.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/06/ex-trump-uspacom_expl-geop.jpg" medium="image">
 			<media:title type="html">France G7 Summit Trump</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>What is BGP hijacking, which Telegram CEO Pavel Durov talked about?</title>
-		<link>https://indianexpress.com/article/explained/explained-sci-tech/what-is-bgp-hijacking-telegram-ceo-10744721/</link>
-		
-		<dc:creator><![CDATA[Soumyarendra Barik]]></dc:creator>
-		<pubDate>Wed, 17 Jun 2026 14:02:06 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Sci-Tech]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10744721</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10744721</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/telegram-1600.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/06/telegram-1600.jpeg" medium="image">
-			<media:title type="html">telegram 1600</media:title>
 		</media:content>
 	</item>
 	</channel>
