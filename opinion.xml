@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Mon, 13 Jul 2026 13:30:49 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Jul 2026 14:34:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,25 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>India&#8217;s biggest parking problem is that it&#8217;s free</title>
+		<link>https://indianexpress.com/article/opinion/columns/indias-biggest-parking-problem-is-that-its-free-10784798/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 13 Jul 2026 14:34:20 +0000</pubDate>
+		<category><![CDATA[Columns]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10784798</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10784798</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/delhi-parking-representational_20260713142600.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/delhi-parking-representational_20260713142600.jpg" medium="image">
+			<media:title type="html">delhi-parking-representational_20260713142600.jpg</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>It&#8217;s not just about a passport. Citizens are being turned into strangers in their own land</title>
 		<link>https://indianexpress.com/article/opinion/columns/its-not-just-about-a-passport-citizens-are-being-turned-into-strangers-in-their-own-land-10784694/</link>
 		
@@ -3811,25 +3830,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/06/Express-view-Copy-3-18.jpeg" />
 		<media:content url="https://images.indianexpress.com/2026/06/Express-view-Copy-3-18.jpeg" medium="image">
 			<media:title type="html">Express-view - Copy (3)</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Silicon Valley to Seoul, watch AI exuberance</title>
-		<link>https://indianexpress.com/article/opinion/editorials/silicon-valley-to-seoul-watch-ai-exuberance-10757789/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 00:30:57 +0000</pubDate>
-		<category><![CDATA[Editorials]]></category><category><![CDATA[Opinion]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10757789</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10757789</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/Express-view-Copy-2-14.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/06/Express-view-Copy-2-14.jpeg" medium="image">
-			<media:title type="html">Express-view - Copy (2)</media:title>
 		</media:content>
 	</item>
 	</channel>

@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Mon, 13 Jul 2026 13:37:50 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Jul 2026 16:29:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,29 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
+		<title>Can journalists be subpoenaed? Why the US summoned NYT reporters over Air Force One report</title>
+		<link>https://indianexpress.com/article/explained/explained-global/trump-air-force-one-leak-probe-doj-subpoena-nyt-journalists-10784770/</link>
+		
+		<dc:creator><![CDATA[Anagha Jayakumar]]></dc:creator>
+		<pubDate>Mon, 13 Jul 2026 14:21:22 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10784770</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10784770</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/NYT-subpoena.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/NYT-subpoena.jpg" medium="image">
+			<media:title type="html">NYT subpoena</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/07/Boeing-VC25.jpg?resize=600,450" medium="image">
+			<media:title type="html">SAM 29000, one of two VC-25As used as Air Force One, approaching Dayton International Airport in October 2012. (Wikimedia Commons)</media:title>
+		</media:content>
+	</item>
+		<item>
 		<title>How overleveraged retail debt crippled South Korea&#8217;s soaring stock market as AI fears deepen</title>
 		<link>https://indianexpress.com/article/explained/explained-economics/debt-south-korea-stock-taiwan-ai-fears-10784718/</link>
 		
@@ -4163,29 +4186,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/Lebanon_Israel_Iran.jpg?resize=600,400" medium="image">
 			<media:title type="html">Lebanon</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Ukraine war to Hormuz: 5 key takeaways from the G7 Summit in France</title>
-		<link>https://indianexpress.com/article/explained/explained-global/g7-summit-2026-key-takeaways-india-ukraine-iran-10746181/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Thu, 18 Jun 2026 12:22:43 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10746181</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10746181</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/g7-takeaways.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/g7-takeaways.jpg" medium="image">
-			<media:title type="html">G7 Summit</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/moditrump.jpg?resize=600,338" medium="image">
-			<media:title type="html">G7 Modi</media:title>
 		</media:content>
 	</item>
 	</channel>
