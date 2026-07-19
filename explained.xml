@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Sun, 19 Jul 2026 07:44:10 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Jul 2026 10:12:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,49 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>Religion, birth, refugees: Recalling the citizenship debate inside the Constituent Assembly</title>
+		<title>Cap on private school fees hike, refund for ‘extra’ fees: What’s in Punjab’s new ordinance?</title>
+		<link>https://indianexpress.com/article/explained/cap-refund-private-school-fee-hike-punjab-10793705/</link>
+		
+		<dc:creator><![CDATA[Rishika Singh]]></dc:creator>
+		<pubDate>Sun, 19 Jul 2026 10:12:29 +0000</pubDate>
+		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10793705</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10793705</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/punjab-school-fees.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/punjab-school-fees.jpg" medium="image">
+			<media:title type="html">punjab school fees</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>What Israel’s new law exempting Haredim from IDF means for its society, politics</title>
+		<link>https://indianexpress.com/article/explained/explained-global/israel-haredi-military-exemption-idf-draft-law-10793625/</link>
+		
+		<dc:creator><![CDATA[Moinuddin Ahmad]]></dc:creator>
+		<pubDate>Sun, 19 Jul 2026 09:14:48 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Global]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10793625</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10793625</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/ex-haredi-israel_expl-glob.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/ex-haredi-israel_expl-glob.jpg" medium="image">
+			<media:title type="html">ex-haredi-israel_expl glob</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/07/Lebanon_Israel_Occupation_85481-da965.jpg?resize=600,400" medium="image">
+			<media:title type="html">IDF Lebanon</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>&#8216;Babies born in planes&#8217;, Partition: How  Constituent Assembly debated citizenship</title>
 		<link>https://indianexpress.com/article/explained/explained-history/constituent-assembly-citizenship-debate-10792878/</link>
 		
 		<dc:creator><![CDATA[Jatin Anand]]></dc:creator>
@@ -4148,48 +4190,6 @@
 
 		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/what-is-a-fault.jpg?resize=600,338" medium="image">
 			<media:title type="html">Earthquake faults</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why Grid India is turning to more gas-based power this monsoon</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/why-grid-india-is-turning-to-more-gas-based-power-10755956/</link>
-		
-		<dc:creator><![CDATA[Pratyush Deep]]></dc:creator>
-		<pubDate>Thu, 25 Jun 2026 01:35:16 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10755956</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10755956</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/power-grid_20260405225002_20260624183857.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/power-grid_20260405225002_20260624183857.jpg" medium="image">
-			<media:title type="html">power-grid_20260405225002_20260624183857.jpg</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Why India may be better prepared this time to withstand a poor monsoon</title>
-		<link>https://indianexpress.com/article/explained/explained-climate/why-india-may-be-better-prepared-this-time-to-withstand-a-poor-monsoon-10755920/</link>
-		
-		<dc:creator><![CDATA[Amitabh Sinha]]></dc:creator>
-		<pubDate>Thu, 25 Jun 2026 01:30:14 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Climate]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10755920</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10755920</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/23mum-monsoon-4col.jpeg" />
-		<media:content url="https://images.indianexpress.com/2026/06/23mum-monsoon-4col.jpeg" medium="image">
-			<media:title type="html">23mum-monsoon-4col</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/rain-deficiency.jpg?resize=365,600" medium="image">
-			<media:title type="html">poor monsoon, delayed monsoon, Maharashtra monsoon, monsoon forecast, Monsoon in India, Hot weather, El Nino conditions, El Nino, Indian express explained, explained news, current affairs</media:title>
 		</media:content>
 	</item>
 	</channel>
