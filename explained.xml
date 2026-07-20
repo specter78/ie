@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/explained/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Mon, 20 Jul 2026 09:24:38 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Jul 2026 11:07:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,7 +29,72 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">150893645</site>	<item>
-		<title>CJP march to Parliament: What is the law invoked to impose curfew across New Delhi, its history</title>
+		<title>How a new law aims to place ‘Vande Mataram’ on a par with ‘Jana Gana Mana’</title>
+		<link>https://indianexpress.com/article/explained/explained-law/vande-mataram-bill-national-song-legal-protection-anthem-10795086/</link>
+		
+		<dc:creator><![CDATA[Vineet Bhalla]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 11:07:30 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10795086</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10795086</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/ex-vande-mataram-bill_expl-law.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/ex-vande-mataram-bill_expl-law.jpg" medium="image">
+			<media:title type="html">Glimpses of the new Parliament Building, in New Delhi</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/07/Ch2001896.jpg?resize=600,395" medium="image">
+			<media:title type="html">Vande Mataram</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Can a husband&#8217;s employer be involved in matrimonial litigation? What SC said about the practice</title>
+		<link>https://indianexpress.com/article/explained/explained-law/husband-employer-role-litigation-10795102/</link>
+		
+		<dc:creator><![CDATA[Sadaf Modak]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 10:56:21 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10795102</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10795102</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/sc.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/sc.jpg" medium="image">
+			<media:title type="html">sc</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>Is staging a protest legal in India: What rights, restrictions the law gives</title>
+		<link>https://indianexpress.com/article/explained/explained-law/cjp-protest-legal-in-india-constitution-10795059/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Mon, 20 Jul 2026 09:54:03 +0000</pubDate>
+		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Law]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10795059</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">10795059</post-id>
+		<media:thumbnail url="https://images.indianexpress.com/2026/07/CJP-protest-1.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/07/CJP-protest-1.jpg" medium="image">
+			<media:title type="html">CJP protest</media:title>
+		</media:content>
+
+		<media:content url="https://indianexpress.com/wp-content/uploads/2026/07/cockroach-janta-party.jpeg?resize=600,338" medium="image">
+			<media:title type="html">CJP protest</media:title>
+		</media:content>
+	</item>
+		<item>
+		<title>CJP march to Parliament: What is the law invoked to impose curfew across New Delhi, how it is used</title>
 		<link>https://indianexpress.com/article/explained/explained-law/section-163-bnss-cjp-protest-delhi-parliament-10794960/</link>
 		
 		<dc:creator><![CDATA[Amaal Sheikh]]></dc:creator>
@@ -4117,75 +4182,6 @@
 		<media:thumbnail url="https://images.indianexpress.com/2026/06/pills_3c7ae3.jpg" />
 		<media:content url="https://images.indianexpress.com/2026/06/pills_3c7ae3.jpg" medium="image">
 			<media:title type="html">pills_3c7ae3</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Passport fees to increase from July 1: Why the government has raised charges now</title>
-		<link>https://indianexpress.com/article/explained/passport-fee-hike-july-1-new-charges-explained-10758604/</link>
-		
-		<dc:creator><![CDATA[Divya A]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 08:14:20 +0000</pubDate>
-		<category><![CDATA[Explained]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10758604</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10758604</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/ex-passport-5col.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/ex-passport-5col.jpg" medium="image">
-			<media:title type="html">Close-up of a passport</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>Will Tata Sons still have to go public? RBI’s revised Upper Layer NBFC rules explained</title>
-		<link>https://indianexpress.com/article/explained/explained-economics/tata-sons-ipo-rbi-new-nbfc-rules-10758281/</link>
-		
-		<dc:creator><![CDATA[George Mathew]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 05:28:22 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained Economics]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10758281</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10758281</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/Tata-Sons-RBI-.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/Tata-Sons-RBI-.jpg" medium="image">
-			<media:title type="html">Tata Sons RBI</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/DIOz0-rbi-s-upper-layer-nbfcs-.png?resize=363,600" medium="image">
-			<media:title type="html">NBFC</media:title>
-		</media:content>
-	</item>
-		<item>
-		<title>The man standing still: Why Patrice Lumumba became DR Congo’s symbol at the FIFA World Cup</title>
-		<link>https://indianexpress.com/article/explained/explained-history/fifa-patrice-lumumba-at-world-cup-10757521/</link>
-		
-		<dc:creator><![CDATA[]]></dc:creator>
-		<pubDate>Fri, 26 Jun 2026 02:30:39 +0000</pubDate>
-		<category><![CDATA[Explained]]></category><category><![CDATA[Explained History]]></category>		<guid isPermaLink="false">https://indianexpress.com/?post_type=article&#038;p=10757521</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">10757521</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/06/lumuba-featred-imahe.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/06/lumuba-featred-imahe.jpg" medium="image">
-			<media:title type="html">Congo supporter Michel Nkuka Mboladinga, poses as a statue of the country&#039;s assassinated independence hero Patrice Lumumba ahead of the World Cup Group K soccer match between Colombia and Congo (AP Photo)</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/kinhasa-statue.jpg?resize=600,338" medium="image">
-			<media:title type="html">The famous Patrice Lumumba statue in Kinhasa which Mboladinga&#039;s pose is modelled after (Wikimedia Commons)</media:title>
-		</media:content>
-
-		<media:content url="https://indianexpress.com/wp-content/uploads/2026/06/De_Congolese_leider_Patrice_Loemoemba_in_Brussel_Bestanddeelnr_910-9737.jpg?resize=598,600" medium="image">
-			<media:title type="html">Patrice Lumamba in Brussels, Belgium in 1960 (WikiMedia Commons)</media:title>
 		</media:content>
 	</item>
 	</channel>
