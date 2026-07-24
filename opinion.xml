@@ -13,7 +13,7 @@
 	<atom:link href="https://indianexpress.com/section/opinion/feed/" rel="self" type="application/rss+xml" />
 	<link>https://indianexpress.com</link>
 	<description>Latest News Today, Breaking News, India News, Top Headlines</description>
-	<lastBuildDate>Fri, 24 Jul 2026 07:50:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jul 2026 10:34:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -124,7 +124,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>With due respect, you honour, due process is not a waste of anyone&#8217;s time</title>
+		<title>With due respect, your honour, due process is not a waste of anyone&#8217;s time</title>
 		<link>https://indianexpress.com/article/opinion/editorials/due-process-is-not-a-waste-of-anyones-time-10800767/</link>
 		
 		<dc:creator><![CDATA[]]></dc:creator>
@@ -194,8 +194,8 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">10800285</post-id>
-		<media:thumbnail url="https://images.indianexpress.com/2026/05/IRAN-TRUMP-SAUDI-1.jpg" />
-		<media:content url="https://images.indianexpress.com/2026/05/IRAN-TRUMP-SAUDI-1.jpg" medium="image">
+		<media:thumbnail url="https://images.indianexpress.com/2026/05/IRAN-TRUMP-SAUDI-1-e1784889001461.jpg" />
+		<media:content url="https://images.indianexpress.com/2026/05/IRAN-TRUMP-SAUDI-1-e1784889001461.jpg" medium="image">
 			<media:title type="html">President Donald Trump and Crown Prince Mohammed bin Salman of Saudi Arabia walk along the presidential portraits on the White House Colonnade in Washington, on Nov. 18, 2025. (Haiyun Jiang/The New York Times)</media:title>
 		</media:content>
 	</item>
@@ -561,7 +561,7 @@
 		</media:content>
 	</item>
 		<item>
-		<title>From my daughter&#8217;s question, a lessson for the government: Student protest isn&#8217;t just about politics</title>
+		<title>From my daughter&#8217;s question, a lesson for the government: Student protest isn&#8217;t just about politics</title>
 		<link>https://indianexpress.com/article/opinion/columns/government-student-protest-politics-jantar-mantar-dipke-10797914/</link>
 		
 		<dc:creator><![CDATA[Savita Jha]]></dc:creator>
